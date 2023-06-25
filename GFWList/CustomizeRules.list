@@ -1,0 +1,68 @@
+!------------------------- illustrate -------------------------
+!-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
+!-- 2、正则表达式支持。以"\"開始和結束，如"\[\w]+:\/\/example.com\" --
+!-- 3、例外規則"@@"。如"@@*.example.com*"滿足"@@"後規則的地址不使用代理 --
+!-- 4、匹配地址開始和結尾"|"。如"|http://example.com"、"example.com|"分別表示以"http://example.com"開始和以"example.com"結束的地址 --
+!-- 5、"||"標記。如"||example.com"則"http://example.com"、"https://example.com"、"ftp://example.com"等地址均滿足條件 --
+!-- 6、注釋"!"。如"! Explanation content" --
+!-- 7、分隔符"^"，表示除了字母、数字或者_-.%外的任何字符。如"http://example.com^"，"http://example.com/"和"http://example.com:8000/"均滿足條件，而"http://example.com.ar/"不滿足條件 --
+!-- Pac規則語法 --
+!-- https://www.jianshu.com/p/2edfc10be62a --
+!-- http://blog.lixx.vip/%E4%BA%86%E8%A7%A3-pac-%E8%A7%84%E5%88%99/ --
+
+
+!------------------------- Keywords -------------------------
+linetv
+quanben
+soymilk
+btsow
+
+!------------------------- Domain Name -------------------------
+||v2ray.com
+.v2ray.com
+||v2fly.org
+.v2fly.org
+||github.com
+.github.com
+||githubusercontent.com
+.githubusercontent.com
+||pixnet.net
+.pixnet.net
+||pixfs.net
+.pixfs.net
+||pimg.tw
+.pimg.tw
+||y2mate.is
+.y2mate.is
+||downsub.com
+.downsub.com
+||telegra.ph
+.telegra.ph
+||notube.net
+.notube.net
+||gstatic.com
+.gstatic.com
+||emojipedia.org
+.emojipedia.org
+||dai.ly
+.dai.ly
+||bilibili.tv
+.bilibili.tv
+||linktr.ee
+.linktr.ee
+
+!---------- NSFW ----------
+||nhentai.net
+.nhentai.net
+||btjav.com
+.btjav.com
+||jmvbt.com
+.jmvbt.com
+||javdb.com
+.javdb.com
+||gvdb.org
+.gvdb.org
+||yespornpics.com
+.yespornpics.com
+||jdbstatic.com
+.jdbstatic.com
