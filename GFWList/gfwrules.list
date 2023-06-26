@@ -1,7 +1,6 @@
 !
-!Last Modified: 2023-06-26 00:11:08
+!Last Modified: 2023-06-26 17:18:52
 !
-!#~#~#~#~#~#~#~#~#~#~#~#~# customizerules.list Start #~#~#~#~#~#~#~#~#~#~#~#~#
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
 !-- 2、正则表达式支持。以"\"開始和結束，如"\[\w]+:\/\/example.com\" --
@@ -66,10 +65,6 @@ btsow
 .yespornpics.com
 ||jdbstatic.com
 .jdbstatic.com
-!#~#~#~#~#~#~#~#~#~#~#~#~# customizerules.list End #~#~#~#~#~#~#~#~#~#~#~#~#
-
-
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist.list Start #~#~#~#~#~#~#~#~#~#~#~#~#
 !---------403/451/503/520 & URL Redirects---------
 |http://85.17.73.31/
 ||afreecatv.com
@@ -7409,10 +7404,6 @@ ultrasurf
 @@||zhongsou.com
 @@|http://ime.baidu.jp
 !---------------------EOF-----------------------
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist.list End #~#~#~#~#~#~#~#~#~#~#~#~#
-
-
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist_loukky.list Start #~#~#~#~#~#~#~#~#~#~#~#~#
 !---------403/451/520 & URL Redirects---------
 ||tenor.com
 ||nordstrommedia.com
@@ -9928,10 +9919,6 @@ yeeyi.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist_loukky.list End #~#~#~#~#~#~#~#~#~#~#~#~#
-
-
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist_poctopus.list Start #~#~#~#~#~#~#~#~#~#~#~#~#
 ||030buy.com
 ||1drv.com
 ||4sqi.net
@@ -10885,5 +10872,3 @@ yeeyi.com
 ||zind.cloud
 ||zynaima.com
 ||zyzc9.com
-!#~#~#~#~#~#~#~#~#~#~#~#~# gfwlist_poctopus.list End #~#~#~#~#~#~#~#~#~#~#~#~#
-
