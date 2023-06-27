@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-06-27 00:11:40
+!Last Modified: 2023-06-28 00:11:23
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -50,6 +50,8 @@ btsow
 .bilibili.tv
 ||linktr.ee
 .linktr.ee
+||mydramalist.com
+.mydramalist.com
 !---------- NSFW ----------
 ||nhentai.net
 .nhentai.net
