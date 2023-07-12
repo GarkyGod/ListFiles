@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-07-12 00:11:08
+!Last Modified: 2023-07-13 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8561,7 +8561,6 @@ ultrasurf
 ||hkdailynews.com.hk
 ||hkdf.org
 ||hkej.com
-||hkepc.com
 ||hkfreezone.com
 ||hkfront.org
 ||hkheadline.com
@@ -10205,6 +10204,7 @@ yeeyi.com
 ||hidecloud.com
 ||hightail.com
 ||hiwifi.com
+||hkepc.com
 ||hkgreenradio.org
 ||hkhrc.org.hk
 ||hkhrm.org.hk
