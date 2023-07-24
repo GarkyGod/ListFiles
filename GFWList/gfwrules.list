@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-07-24 00:10:53
+!Last Modified: 2023-07-25 00:10:54
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -306,6 +306,7 @@ share.dmhy.org
 ||wowhead.com
 ||vod.wwe.com
 ||xfinity.com
+||xiaomi.eu
 ||youwin.com
 ||ytn.co.kr
 ||zattoo.com
@@ -3409,6 +3410,7 @@ greatzhonghua.org
 .greenvpn.net
 ||greenvpn.net
 .greenvpn.org
+||grindr.com
 ||grotty-monday.com
 gs-discuss.com
 ||gsearch.media
@@ -3841,8 +3843,7 @@ ifjc.org
 ||im.tv
 @@||myvlog.im.tv
 ||im88.tw
-.imgchili.net
-|http://imgchili.net
+||imgchili.net
 .imageab.com
 .imagefap.com
 ||imagefap.com
@@ -3858,6 +3859,7 @@ imageshack.us
 .imdb.com/title/tt4908644
 .img.ly
 ||img.ly
+||imgasd.com
 .imgur.com
 ||imgur.com
 .imkev.com
@@ -8765,7 +8767,6 @@ ultrasurf
 ||igotmail.com.tw
 ||ihao.org
 ||ikstar.com
-||imgchili.net
 ||imageab.com
 ||imageshack.us
 |imb.org
