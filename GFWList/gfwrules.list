@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-07-29 00:11:08
+!Last Modified: 2023-07-30 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7804,6 +7804,7 @@ ultrasurf
 ||eq.ccu.edu.tw
 ||gcc.ntu.edu.tw
 @@||scitechvista.nat.gov.tw
+||npm.edu.tw
 ||flurry.com
 ||yahoo.co.jp
 ||yahoo.com.tw
@@ -10046,6 +10047,7 @@ yeeyi.com
 ||telegram-store.com
 ||stheadline.com
 ||f-droid.org
+||soundon.fm
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
