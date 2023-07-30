@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-07-30 00:10:53
+!Last Modified: 2023-07-31 00:11:08
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7642,7 +7642,6 @@ ultrasurf
 ||meta.com
 ||google-analytics.com
 @@|*.google-analytics.com
-||families.google
 ||http://ampproject.org
 ||https://ampproject.org
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
@@ -7650,8 +7649,6 @@ ultrasurf
 @@|https://cdn.ampproject.org/
 ||blogspot.com
 @@||chromestatus.com
-||diversity.google
-||wellbeing.google
 ||google.ae
 ||google.as
 ||google.am
@@ -7767,7 +7764,6 @@ ultrasurf
 @@||*.googlesyndication.com
 @@||*.googleanalytics.com
 ||business.site
-||lens.google
 ||googlelocal.nl
 ||goagle.de
 ||gogle.de
@@ -7783,7 +7779,10 @@ ultrasurf
 ||huaibinmall.com
 ||swbusdev.com
 ||mypicasa.com
-||io.google
+||*.youtube
+||*.google
+||livemap*.waze.com
+||worldtiles*.waze.com
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
@@ -10186,6 +10185,7 @@ yeeyi.com
 ||digwebinterface.com
 ||discfan.net
 ||disneystreaming.com
+||diversity.google
 ||dlsite.jp
 ||dmm.com
 ||doc.new
@@ -10216,6 +10216,7 @@ yeeyi.com
 ||expofutures.com
 ||faceueditor.com
 ||faceueditorv.com
+||families.google
 ||fandom.com
 ||fanqiang.tk
 ||fastly.net
@@ -10401,6 +10402,7 @@ yeeyi.com
 ||law.com
 ||lbyczf.com
 ||leeao.com.cn
+||lens.google
 ||letsencrypt.org
 ||levyhsu.com
 ||lfpcontent.com
@@ -10862,6 +10864,7 @@ yeeyi.com
 ||website.new
 ||websnapr.com
 ||weekmag.info
+||wellbeing.google
 ||weverse.io
 ||wforum.com
 ||wikia.org
