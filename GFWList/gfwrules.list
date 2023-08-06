@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-08-06 00:11:24
+!Last Modified: 2023-08-07 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9393,6 +9393,7 @@ secretchina.com
 ||shopping.com
 ||showhaotu.com
 ||showtime.jp
+||singtao.ca
 |http://spring4u.info
 .suyangg.com
 |http://suyangg.com
@@ -10633,7 +10634,6 @@ yeeyi.com
 ||singfortibet.com
 ||singlelogin.me
 ||singpao.com.hk
-||singtao.ca
 ||sino-monthly.com
 ||sinocism.com
 ||sinomontreal.ca
