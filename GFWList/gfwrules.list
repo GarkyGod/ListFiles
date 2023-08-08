@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-08-08 00:11:23
+!Last Modified: 2023-08-09 00:10:54
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10052,6 +10052,9 @@ yeeyi.com
 ||aljazeera.com
 ||ganjing.world
 ||cloudokyo.cloud
+||godaddy.com
+||docker.com
+||docker.io
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10194,7 +10197,6 @@ yeeyi.com
 ||dlsite.jp
 ||dmm.com
 ||doc.new
-||docker.com
 ||docs.new
 ||document.new
 ||donga.com

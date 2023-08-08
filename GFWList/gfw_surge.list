@@ -1366,6 +1366,7 @@ DOMAIN-SUFFIX,dnssec.net
 DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doctorvoice.org
 DOMAIN-SUFFIX,document.new
@@ -2134,6 +2135,7 @@ DOMAIN-SUFFIX,goagent.biz
 DOMAIN-SUFFIX,goagentplus.com
 DOMAIN-SUFFIX,goagle.de
 DOMAIN-SUFFIX,gobet.cc
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godfootsteps.org
 DOMAIN-SUFFIX,godns.work
 DOMAIN-SUFFIX,godoc.org
