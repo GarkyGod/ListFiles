@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-08-16 00:11:08
+!Last Modified: 2023-08-17 00:10:54
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7409,6 +7409,7 @@ ultrasurf
 @@|http://ime.baidu.jp
 !---------------------EOF-----------------------
 !---------403/451/520 & URL Redirects---------
+||discord.media
 ||tenor.com
 ||nordstrommedia.com
 ||nudezz.com
