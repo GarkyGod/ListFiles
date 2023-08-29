@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-08-29 00:11:11
+!Last Modified: 2023-08-30 00:11:24
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7414,6 +7414,7 @@ ultrasurf
 !---------403/451/520 & URL Redirects---------
 ||discord.media
 ||tenor.com
+||nightlife141.com
 ||nordstrommedia.com
 ||nudezz.com
 ||aiv-cdn.net
@@ -7422,7 +7423,6 @@ ultrasurf
 ||amazonvideo.com
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
-||media-amazon.com
 ||primevideo.com
 ||cloudfront.net
 ||disney-plus.net
@@ -7434,10 +7434,13 @@ ultrasurf
 ||cdn.registerdisney.go.com
 ||cws.conviva.com
 ||braze.com
-||nr-data.net
+||pandora.tv
+||riseup.net
+||search.xxx
 ||shiksha.ws
-||cdn*.wwe.com
 ||zamimg.com
+||c.mi.com
+163.29.207.130
 ||s3*.amazonaws.com
 ||zh.bitterwinter.org
 ||dictionary.goo.ne.jp
@@ -10087,7 +10090,6 @@ secretchina.com
 ||catbox.moe
 ||arunachalforests.gov.in
 ||truenas.com
-||yandex.com
 ||disk.yandex.*
 ||cc.com
 ||rpglogs.com
@@ -10146,6 +10148,21 @@ secretchina.com
 ||docker.io
 ||forbes.com
 ||8world.com
+||69shu.com
+||agemys.net
+||elconfidencial.com
+||gfnormal05at.com
+||halktv.com.tr
+||icedrive.net
+||illawarramercury.com.au
+||imago-images.com
+||mywife.cc
+||singlelogin.me
+||torrentgalaxy.to
+||claude.ai
+||18comic.org
+||civitai.com
+||domain.glass
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10175,7 +10192,6 @@ secretchina.com
 ||aent.com
 ||afantibbs.com
 ||affyun.com
-||agemys.net
 ||aircrack-ng.org
 ||ais86.com
 ||ais96.com
@@ -10250,7 +10266,6 @@ secretchina.com
 ||chinesetalks.net
 ||chosun.com
 ||cixiaoya.club
-||claude.ai
 ||cloudcone.com
 ||cloudflare.com
 ||cloudflareinsights.com
@@ -10555,7 +10570,6 @@ secretchina.com
 ||nexitally.com
 ||nexitcore.com
 ||ngensis.com
-||nightlife141.com
 ||ninecommentaries.com
 ||ning.com
 ||nintendium.com
@@ -10565,6 +10579,7 @@ secretchina.com
 ||note.com
 ||notion.so
 ||npmjs.org
+||nr-data.net
 ||nsaimg.com
 ||ntu.edu.tw
 ||nuzcom.com
@@ -10582,7 +10597,6 @@ secretchina.com
 ||over-blog.com
 ||ovi.com
 ||page.tl
-||pandora.tv
 ||paofuyun.me
 ||pathtosharepoint.com
 ||pcloud.com
@@ -10625,7 +10639,6 @@ secretchina.com
 ||reimu.net
 ||reut.rs
 ||revocationcheck.com
-||riseup.net
 ||roucdn*.xyz
 ||rssing.com
 ||ruanyifeng.com
@@ -10658,7 +10671,6 @@ secretchina.com
 ||scmpchinese.com
 ||scroll.com
 ||seapuff.com
-||search.xxx
 ||searchtruth.com
 ||seatguru.com
 ||sehuatang.net
@@ -10710,7 +10722,6 @@ secretchina.com
 ||sina.com.hk
 ||sina.com.tw
 ||singfortibet.com
-||singlelogin.me
 ||singpao.com.hk
 ||sino-monthly.com
 ||sinocism.com
@@ -10960,6 +10971,7 @@ secretchina.com
 ||xda-developers.com
 ||xdubo.com
 ||xuehuaimg.com
+||yandex.com
 ||yandex.ru
 ||yboku.com
 ||ycombinator.com
