@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-08-30 00:11:24
+!Last Modified: 2023-08-31 00:11:23
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7434,6 +7434,8 @@ ultrasurf
 ||cdn.registerdisney.go.com
 ||cws.conviva.com
 ||braze.com
+||stacksocial.com
+||stackcommerce.net
 ||pandora.tv
 ||riseup.net
 ||search.xxx
@@ -8573,7 +8575,6 @@ ultrasurf
 ||giganews.com
 ||gigporno.ru
 ||gitbooks.io
-||gist.github.com
 ||globaljihad.net
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
@@ -10163,6 +10164,10 @@ secretchina.com
 ||18comic.org
 ||civitai.com
 ||domain.glass
+||thechinaproject.com
+||6do.world
+||asiatimes.com
+||adguard-vpn.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
