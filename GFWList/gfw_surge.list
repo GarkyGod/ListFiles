@@ -1941,6 +1941,7 @@ DOMAIN-SUFFIX,freewww.info
 DOMAIN-SUFFIX,freexinwen.com
 DOMAIN-SUFFIX,freeyellow.com
 DOMAIN-SUFFIX,freeyoutubeproxy.net
+DOMAIN-SUFFIX,friday.tw
 DOMAIN-SUFFIX,frienddy.com
 DOMAIN-SUFFIX,friendfeed-media.com
 DOMAIN-SUFFIX,friendfeed.com
@@ -2674,7 +2675,6 @@ DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,icams.com
 DOMAIN-SUFFIX,icedrive.net
 DOMAIN-SUFFIX,icerocket.com
-DOMAIN-SUFFIX,icfcdn.com
 DOMAIN-SUFFIX,icij.org
 DOMAIN-SUFFIX,icl-fi.org
 DOMAIN-SUFFIX,icoco.com
@@ -3940,7 +3940,6 @@ DOMAIN-SUFFIX,officeoftibet.com
 DOMAIN-SUFFIX,ofile.org
 DOMAIN-SUFFIX,ogaoga.org
 DOMAIN-SUFFIX,ogate.org
-DOMAIN-SUFFIX,ohchr.org
 DOMAIN-SUFFIX,ohmyrss.com
 DOMAIN-SUFFIX,oikos.com.tw
 DOMAIN-SUFFIX,oiktv.com
@@ -4524,7 +4523,6 @@ DOMAIN-SUFFIX,roadshow.hk
 DOMAIN-SUFFIX,roboforex.com
 DOMAIN-SUFFIX,robustnessiskey.com
 DOMAIN-SUFFIX,rocket-inc.net
-DOMAIN-SUFFIX,rocketbbs.com
 DOMAIN-SUFFIX,rocketcdn.me
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,rojo.com
@@ -6037,6 +6035,7 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,witnessleeteaching.com
 DOMAIN-SUFFIX,witopia.net
+DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wizcrafts.net
 DOMAIN-SUFFIX,wjbk.org
 DOMAIN-SUFFIX,wn.com
@@ -6096,6 +6095,8 @@ DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwitv.com
 DOMAIN-SUFFIX,www1.american.edu
 DOMAIN-SUFFIX,www1.biz
+DOMAIN-SUFFIX,www2.ohchr.org
+DOMAIN-SUFFIX,www2.rocketbbs.com
 DOMAIN-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,wzj9.com
 DOMAIN-SUFFIX,wzyboy.im
