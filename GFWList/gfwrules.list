@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-09-07 00:10:53
+!Last Modified: 2023-09-08 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7477,7 +7477,6 @@ ultrasurf
 ||cleansite.biz
 ||compress.to
 ||ddns.info
-||ddns.me.uk
 ||ddns.mobi
 ||ddns.ms
 ||dhcp.biz
@@ -10040,6 +10039,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wixsite.com
 ||friday.tw
 ||141-hk.com
+||jsfiddle.net
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
