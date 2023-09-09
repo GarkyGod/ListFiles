@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-09-09 00:11:25
+!Last Modified: 2023-09-10 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3346,6 +3346,7 @@ go-pki.com
 ||goagent.biz
 ||goagentplus.com
 gobet.cc
+||godaddy.com
 godfootsteps.org
 ||godfootsteps.org
 godns.work
@@ -7727,8 +7728,8 @@ ultrasurf
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
-|http://store.steampowered.com/app/333600
 ||steamstatic.com
+||steambroadcast.akamaized.net
 ||telegramdownload.com
 ||gov.tw
 @@||www.gov.tw
@@ -10009,7 +10010,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||aljazeera.com
 ||ganjing.world
 ||cloudokyo.cloud
-||godaddy.com
 ||docker.com
 ||docker.io
 ||forbes.com
