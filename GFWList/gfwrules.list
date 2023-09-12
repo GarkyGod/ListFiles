@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-09-12 00:11:08
+!Last Modified: 2023-09-13 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -53,6 +53,8 @@ tumblrviewer
 .linktr.ee
 ||mydramalist.com
 .mydramalist.com
+||histar.tv
+.histar.tv
 !---------- NSFW ----------
 ||nhentai.net
 .nhentai.net
