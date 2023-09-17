@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-09-17 00:11:56
+!Last Modified: 2023-09-18 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -786,7 +786,6 @@ bloomberg.de
 .zyns.com
 .zzux.com
 !!--Cloudflare--
-||pages.dev
 !!---CloudFront---
 d1b183sg0nvnuh.cloudfront.net
 |https://d1b183sg0nvnuh.cloudfront.net
@@ -1156,6 +1155,7 @@ cn.nytstyle.com
 ||hpa.gov.tw
 ||immigration.gov.tw
 ||itaiwan.gov.tw
+||li.taipei
 ||mjib.gov.tw
 ||moeaic.gov.tw
 ||mofa.gov.tw
@@ -1434,7 +1434,6 @@ taiwannation.50webs.com
 ||6parknews.com
 ||7capture.com
 .7cow.com
-||7-zip.org
 .8-d.com
 |http://8-d.com
 85cc.net
@@ -2348,7 +2347,7 @@ civilhrfront.org
 .civilmedia.tw
 ||civilmedia.tw
 psiphon.civisec.org
-||vpn.cjb.net
+||civitai.com
 .ck101.com
 ||ck101.com
 .clarionproject.org/news/islamic-state-isis-isil-propaganda
@@ -8094,6 +8093,7 @@ ultrasurf
 ||city9x.com
 ||civildisobediencemovement.org
 ||civiliangunner.com
+||vpn.cjb.net
 ||clarionproject.org
 ||clb.org.hk
 ||clearharmony.net
@@ -9967,6 +9967,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cc.com
 ||rpglogs.com
 ||fast.com
+||pages.dev
 ||missav.com
 ||patreonusercontent.com
 ||mirror.xyz
@@ -10029,7 +10030,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||torrentgalaxy.to
 ||claude.ai
 ||18comic.org
-||civitai.com
 ||domain.glass
 ||thechinaproject.com
 ||6do.world
@@ -10059,6 +10059,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||4sqi.net
 ||5isotoi5.org
 ||5maodang.com
+||7-zip.org
 ||88659.men
 ||888poker.com
 ||9001700.com
