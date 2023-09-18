@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-09-18 00:10:53
+!Last Modified: 2023-09-19 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1066,7 +1066,6 @@ blogspot.com
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||translate.goog
-||translate.google
 ||tv.google
 ||urchin.com
 ||waveprotocol.org
@@ -4594,6 +4593,7 @@ molihua.org
 .moonbbs.com
 ||moonbbs.com
 ||moptt.tw
+||monica.im
 ||monitorchina.org
 ||monocloud.me
 bbs.morbell.com
@@ -10842,6 +10842,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||topnews.in
 ||topshareware.com
 ||torrentproject.se
+||translate.google
 ||trickip.net
 ||trimondi.de
 ||trtc.com.tw
