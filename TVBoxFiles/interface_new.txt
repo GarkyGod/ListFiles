@@ -357,21 +357,21 @@
 	
 
 //////////////////////////////// 直播 /////////////////////////////////////
-"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
-//            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
-          ]
-        }
-      ]
-    }
-  ],
-
+// "lives": [
+//     {
+//       "group": "redirect",
+//       "channels": [
+//         {
+//           "name": "redirect",
+//           "urls": [
+//             "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+//             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+//           ]
+//         }
+//       ]
+//     }
+//   ],
+"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/ "}],
 
 	  
 // 解析地址配置，不懂请参考官方Github。	  
