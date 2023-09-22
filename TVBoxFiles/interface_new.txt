@@ -3,7 +3,7 @@
 
 { 
 "wallpaper":"https://takkie.000webhostapp.com/img.php",
-"spider": "https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+"spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
@@ -15,7 +15,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 0,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/czspp.json"},
+      "ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/czspp.json"},
     {
       "key": "csp_xpath_olevod",
       "name":"欧乐影院-Exo",
@@ -24,7 +24,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/lite/xp/olevod.json"},
+      "ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/lite/xp/olevod.json"},
    {
       "key":"csp_xpath_dbk",
       "name":"独播库",
@@ -363,8 +363,8 @@
         {
           "name": "redirect",
           "urls": [
-//            "https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+            "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+//            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
           ]
         }
       ]
