@@ -3,7 +3,8 @@
 
 { 
 "wallpaper":"https://takkie.000webhostapp.com/img.php",
-"spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+// "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+"spider": "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/jar/20220424.jar",
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
@@ -24,7 +25,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/lite/xp/olevod.json"},
+      "ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/olevod.json"},
    {
       "key":"csp_xpath_dbk",
       "name":"独播库",
@@ -33,7 +34,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json"	},
+      "ext": "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json"	},
    {
       "key":"csp_xpath_hcyy",
       "name":"汉城影院",
@@ -42,7 +43,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/hancheng.json"},
+      "ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/hancheng.json"},
    {
       "key":"if101资源",
       "name":"if101资源",
