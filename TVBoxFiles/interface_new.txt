@@ -23,7 +23,7 @@
 		// ]
 	// }
 // ],
-"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/"}],
+"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/epginfo"}],
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
