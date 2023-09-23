@@ -5,25 +5,25 @@
 // "wallpaper":"https://takkie.000webhostapp.com/img.php",
 "wallpaper":"https://epg.112114.xyz/bingimg",
 
-"spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-// "spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
+// "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+"spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
 //////////////////////////////// 直播 /////////////////////////////////////
-"lives": [
-	{
-		"group": "redirect",
-		"channels": [
-			{
-				"name": "redirect",
-				"urls": [
-					"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
-					"proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
-				]
-			}
-		]
-	}
-],
-// "lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/"}],
+// "lives": [
+	// {
+		// "group": "redirect",
+		// "channels": [
+			// {
+				// "name": "redirect",
+				// "urls": [
+					// "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+					// "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+				// ]
+			// }
+		// ]
+	// }
+// ],
+"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/"}],
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
