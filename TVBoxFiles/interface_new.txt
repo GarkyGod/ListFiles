@@ -8,6 +8,23 @@
 // "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
 "spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
+//////////////////////////////// 直播 /////////////////////////////////////
+// "lives": [
+//     {
+//       "group": "redirect",
+//       "channels": [
+//         {
+//           "name": "redirect",
+//           "urls": [
+//             "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+//             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+//           ]
+//         }
+//       ]
+//     }
+//   ],
+"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/ "}],
+
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
 	{
@@ -46,25 +63,7 @@
 //////////////////////////////// 最后 /////////////////////////////////////
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 	{"key":"END","name":"END of LIST","type":0,"api":""}],
-	
 
-//////////////////////////////// 直播 /////////////////////////////////////
-// "lives": [
-//     {
-//       "group": "redirect",
-//       "channels": [
-//         {
-//           "name": "redirect",
-//           "urls": [
-//             "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
-//             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
-//           ]
-//         }
-//       ]
-//     }
-//   ],
-"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/ "}],
-	  
 // 解析地址配置，不懂请参考官方Github。	  
 "parses": [
 	{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
