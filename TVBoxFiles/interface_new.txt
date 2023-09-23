@@ -4,7 +4,8 @@
 { 
 "wallpaper":"https://takkie.000webhostapp.com/img.php",
 // "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-"spider": "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/jar/20220424.jar",
+// "spider": "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/jar/20220424.jar",
+"spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
