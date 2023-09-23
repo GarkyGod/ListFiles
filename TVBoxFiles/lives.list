@@ -10,6 +10,7 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/epginfo"},
     {
       "name": "IJK",
       "url": "https://github.com/live.txt",
