@@ -13,7 +13,9 @@
         "drives": [
           {
             "name": "SOD",
-            "server": "https://a.sodaz.xyz"
+            "server": "https://a.sodaz.xyz",
+            "user": "alist",
+            "pass": "alist"
           }
         ]
       }
