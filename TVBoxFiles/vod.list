@@ -1,0 +1,33 @@
+{
+  "spider": "https://ghproxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "one",
+      "name": "One",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/adult.json"
+    },
+    {
+      "key": "two",
+      "name": "Two",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://github.com/two.json"
+    },
+    {
+      "key": "extend",
+      "name": "Extend",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://github.com/extend.json",
+      "jar": "https://github.com/extend.jar"
+    }
+  ]
+}
