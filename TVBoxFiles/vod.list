@@ -1,6 +1,31 @@
 {
-  "spider": "https://github.com/custom_spider.jar",
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;798e7a90aeed6a5cecb1f5b923f3dd9e",
   "sites": [
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "SOD",
+            "server": "https://a.sodaz.xyz"
+          }
+        ]
+      }
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "proxy": true,
+      "ext": "1"
+    },
     {
       "key": "one",
       "name": "One",
