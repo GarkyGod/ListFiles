@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-10-01 00:10:56
+!Last Modified: 2023-10-02 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7585,6 +7585,7 @@ ultrasurf
 ||sl-reverse.com
 ||threads.net
 ||meta.com
+||gogole.com
 ||google-analytics.com
 @@|*.google-analytics.com
 ||http://ampproject.org
@@ -10040,6 +10041,11 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||friday.tw
 ||141-hk.com
 ||jsfiddle.net
+||one.one.one.one
+||myip.com
+||henduohao.com
+||vercel.com
+||open-assistant.io
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10544,7 +10550,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||myav.com.tw
 ||mychat.to
 ||myftp.name
-||myip.com
 ||mylftv.com
 ||mymaji.com
 ||mynetav.net
