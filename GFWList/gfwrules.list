@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-10-06 00:11:09
+!Last Modified: 2023-10-07 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -70,6 +70,8 @@ tumblrviewer
 .jdbstatic.com
 ||tumbex.com
 .tumbex.com
+||playvids.com
+.playvids.com
 !---------403/451/503/520 & URL Redirects---------
 |http://85.17.73.31/
 ||afreecatv.com
