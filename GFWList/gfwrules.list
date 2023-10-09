@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-10-09 00:10:53
+!Last Modified: 2023-10-10 00:11:08
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10228,6 +10228,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||darktech.org
 ||dayabook.com
 ||dayoneapp.com
+||dazn.com
 ||dbc.hk
 ||ddns.name
 ||ddns.net
@@ -10361,6 +10362,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||gun-world.net
 ||gunsandammo.com
 ||gvlib.com
+||gvt2.com
 ||gzm.tv
 ||hao123.com
 ||hao123img.com
@@ -10393,6 +10395,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hotpot.hk
 ||https443.net
 ||https443.org
+||huanggua11.com
 ||huasing.org
 ||hustler.com
 ||hustlercash.com
@@ -10423,6 +10426,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||imgbox.com
 ||imgflare.com
 ||imgmega.com
+||indazn.com
+||indaznlab.com
 ||informer.com
 ||inoreader.jp
 ||instanthq.com
