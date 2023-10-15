@@ -1,5 +1,5 @@
 {
-  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;798e7a90aeed6a5cecb1f5b923f3dd9e",
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;badfd75846df45e8cf06b53654312ccf",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -8,8 +8,7 @@
       "type": 3,
       "api": "csp_NiNi",
       "searchable": 1,
-      "changeable": 1,
-      "proxy": true
+      "changeable": 1
     },
     {
       "key": "星星",
@@ -17,8 +16,7 @@
       "type": 3,
       "api": "csp_Star",
       "searchable": 1,
-      "changeable": 1,
-      "proxy": true
+      "changeable": 1
     },
     {
       "key": "玩偶",
@@ -50,18 +48,26 @@
       "changeable": 1
     },
     {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "快看",
       "name": "快看",
       "type": 3,
       "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "五五",
+      "name": "五五",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/555dy_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1
     },
@@ -288,6 +294,25 @@
   ],
   "rules": [
     {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+    {
       "name": "海外看",
       "hosts": [
         "haiwaikan"
@@ -356,6 +381,15 @@
       ],
       "regex": [
         "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
       ]
     }
   ]
