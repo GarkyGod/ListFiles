@@ -24,7 +24,7 @@
   "homeVodMark": "/div/span/text()",
 
   // Category Summary =================================================
-  "cateUrl": "https://cz01.cc/{cateId}/page/{catePg}",
+  "cateUrl": "https://www.czzy88.com/{cateId}/page/{catePg}",
   "cateVodNode": "//div[@class='bt_img mi_ne_kd mrb']/ul/li/a",
   "cateVodName": "/following-sibling::h3/a/text()",
   "cateVodId": "/@href",
@@ -34,7 +34,7 @@
   "cateVodMark": "/div/span/text()",
 
   // Category Details =================================================
-  "dtUrl": "https://cz01.cc/movie/{vid}.html",
+  "dtUrl": "https://www.czzy88.com/movie/{vid}.html",
   "dtNode": "//body[contains(@class,'movie_bt')]",
   "dtName": "//div[@class='dytext fl']/div/h1/text()",
   "dtNameR": "/movie/(\\w+).html",
@@ -69,7 +69,7 @@
   "playUa": ""
 
   // Search Results ===================================================
-  //  "searchUrl": "https://cz01.cc/xssearch?q={wd}",
+  //  "searchUrl": "https://www.czzy88.com/xssearch?q={wd}",
   //  "scVodNode": "//div[@class='bt_img mi_ne_kd search_list']/ul/li/a",
   //  "scVodName": "/img/@alt",
   //  "scVodId": "/@href",
