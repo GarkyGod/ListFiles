@@ -38,6 +38,15 @@
 		"filterable": 1,
 		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 	{
+		"key": "csp_xpath_aidi",
+		"name":"爱迪影视",
+		"type":3,
+		"api":"csp_XPath",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable": 1,
+		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/aidi.json"},
+	{
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
 		"type":3,
