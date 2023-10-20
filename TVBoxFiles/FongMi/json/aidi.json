@@ -1,6 +1,6 @@
 {
   "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-  "homeUrl": "https://aidi.tv/",
+  "homeUrl": "https://adys.tv/", // "https://aidi.tv/",
   "cateManual": {
     "电影": "dianying",
     "国产剧": "guochanju",
@@ -21,7 +21,7 @@
   "homeVodMark": "/span[2]/text()",
 
 // Category Summary ================================================
-  "cateUrl": "https://aidi.tv/show/{cateId}--------{catePg}---.html",
+  "cateUrl": "https://adys.tv/show/{cateId}--------{catePg}---.html",
   "cateVodNode": "//ul[contains(@class,'vodlist vodlist_wi')]/li/a",
   "cateVodName": "/@title",
   "cateVodId": "/@href",
@@ -30,7 +30,7 @@
   "cateVodMark": "/span[2]/text()",
 
 // Category Details ================================================
-  "dtUrl": "https://aidi.tv/movie/{vid}.html",
+  "dtUrl": "https://adys.tv/movie/{vid}.html",
   "dtNode": "//div[@class='content_box clearfix']",				// must be unique
   "dtName": "/div/a/@title",
   "dtImg": "/div/a/img/@data-original",
@@ -52,7 +52,7 @@
   "playUa": "",
 
 // Search Results ==================================================
-  "searchUrl": "https://aidi.tv/vsearch/-------------.html?wd={wd}&submit=",
+  "searchUrl": "https://adys.tv/vsearch/-------------.html?wd={wd}&submit=",
   "scVodNode": "//a[contains(@class,'myui-vodlist__thumb')]",
   "scVodName": "/@title",
   "scVodId": "/@href",
