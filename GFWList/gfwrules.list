@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-10-20 00:11:24
+!Last Modified: 2023-10-21 00:11:08
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10085,6 +10085,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||accim.org
 ||acg18.me
 ||acloudvideos.com
+||adobe.com
+||adobe.io
 ||aent-m.com
 ||aent.com
 ||afantibbs.com
@@ -10106,6 +10108,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||amazon.com
 ||amazonaws.com
 ||americanunfinished.com
+||amlg.io
 ||amoiist.com
 ||amplitude.com
 ||amung.us
@@ -10158,6 +10161,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||box.com
 ||box.net
 ||brainyquote.com
+||branch.io
 ||braze.com
 ||briefdream.com
 ||browserleaks.com
@@ -10187,6 +10191,21 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||capcut.com
 ||careerengine.us
 ||catchgod.com
+||cbs.com
+||cbsaavideo.com
+||cbscorporation.com
+||cbsi.com
+||cbsi.video
+||cbsiam.com
+||cbsig.net
+||cbsimg.net
+||cbsinteractive.com
+||cbsistatic.com
+||cbsivideo.com
+||cbspressexpress.com
+||cbssports.com
+||cbsstatic.com
+||cbssvideo.com
 ||ccache.org
 ||ccp.ovh
 ||cdbook.info
@@ -10215,6 +10234,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||compython.net
 ||conair.me
 ||convio.net
+||conviva.com
 ||crwdcntrl.net
 ||cryptographyengineering.com
 ||cuhk.edu.hk
@@ -10228,7 +10248,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||darktech.org
 ||dayabook.com
 ||dayoneapp.com
+||dazn-api.com
 ||dazn.com
+||dazndn.com
 ||dbc.hk
 ||ddns.name
 ||ddns.net
@@ -10237,6 +10259,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||deck.new
 ||definebabe.com
 ||delicious.com
+||demdex.net
 ||didiao.cloud
 ||digiland.tw
 ||digwebinterface.com
@@ -10377,6 +10400,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hgseav.com
 ||hidecloud.com
 ||hightail.com
+||histar.tv
 ||hiwifi.com
 ||hkchurch.org
 ||hkdailynews.com.hk
@@ -10438,6 +10462,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ipdata.co
 ||ipinfo.io
 ||iportal.me
+||irdeto.com
 ||irib.ir
 ||isasecret.com
 ||islamawareness.net
@@ -10549,6 +10574,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||moztw.org
 ||mponline.hk
 ||msn.com.tw
+||mtvnservices.com
 ||musescore.com
 ||mxc.com
 ||mxpnl.com
@@ -10557,6 +10583,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||myav.com.tw
 ||mychat.to
 ||myftp.name
+||myip.ms
 ||mylftv.com
 ||mymaji.com
 ||mynetav.net
@@ -10571,8 +10598,11 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nanzao.com
 ||nasa.gov
 ||natado.com
+||nathk1.bytevirt.net
 ||nationalgeographic.com
 ||nationsonline.org
+||natsg2.bytevirt.net
+||nattr4.bytevirt.net
 ||naver.jp
 ||navy.mil
 ||nbc.com
@@ -10614,12 +10644,14 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||o0-3.com
 ||o0-4.com
 ||o0-5.com
+||oaistatic.com
 ||oauth.net
 ||octave-online.net
 ||oikos.com.tw
 ||olabloga.pl
 ||omgili.com
 ||omy.sg
+||onetrust.io
 ||onmypc.info
 ||onmypc.us
 ||oopsforum.com
@@ -10639,6 +10671,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||palmislife.com
 ||paofuyun.me
 ||paper.li
+||paramount.com
+||paramountplus.com
 ||pathtosharepoint.com
 ||pbs.org
 ||pcloud.com
@@ -10657,6 +10691,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||portablevpn.nl
 ||postadult.com
 ||powerpointninja.com
+||pplusstatic.com
 ||presentation.new
 ||prestigein.com
 ||printfriendly.com
@@ -10720,6 +10755,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sbvideocdn.com
 ||sciencemag.org
 ||sciencenets.com
+||scorecardresearch.com
 ||scroll.com
 ||seatguru.com
 ||sehuatang.net
@@ -10742,6 +10778,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||shemalez.com
 ||shinychan.com
 ||shkspr.mobi
+||showtime.com
+||showtimeanytime.com
 ||shuzijumin.com
 ||shvoong.com
 ||sidelinessportseatery.com
@@ -10784,6 +10822,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||stackoverflow.com
 ||stanford.edu
 ||statically.io
+||statsig.com
 ||steampowered.com
 ||stgloballink.com
 ||streamroot.io
@@ -10794,6 +10833,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||surfeasy.com.au
 ||suroot.com
 ||swag.live
+||syncbak.com
 ||sysresccd.org
 ||syx86.cn
 ||syx86.com
@@ -10825,6 +10865,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||thefrontier.hk
 ||thegioitinhoc.vn
 ||thehindu.com
+||theplatform.com
 ||thereallove.kr
 ||therock.net.nz
 ||thetrotskymovie.com
@@ -10897,6 +10938,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||updatestar.com
 ||uploadhouse.com
 ||uploadstation.com
+||urbanairship.com
 ||url.com.tw
 ||url.tw
 ||usc.edu
@@ -10910,6 +10952,10 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||vdubo.com
 ||venbbs.com
 ||verizon.net
+||viacbs.com
+||viacom.com
+||viacomcbs.com
+||viacomcbspressexpress.com
 ||videomo.com
 ||vidinfo.org
 ||virginia.edu
