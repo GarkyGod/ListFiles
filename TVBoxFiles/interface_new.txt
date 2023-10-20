@@ -30,13 +30,13 @@
 "sites": [
 	{
 		"key": "csp_xpath_czspp",
-		"name":"厂长资源",
+		"name":"廠長資源",
 		"type":3,
 		"api":"csp_XPath",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable": 1,
-		"ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/czspp.json"},
+		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 	{
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
