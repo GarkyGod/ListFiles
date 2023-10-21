@@ -5,8 +5,8 @@
 // "wallpaper":"https://takkie.000webhostapp.com/img.php",
 "wallpaper":"https://epg.112114.xyz/bingimg",
 
-// "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-"spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
+"spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+// "spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
 //////////////////////////////// 直播 /////////////////////////////////////
 // "lives": [
@@ -41,7 +41,7 @@
 		"key": "csp_xpath_libv",
 		"name":"LIBVIO",
 		"type":3,
-		"api":"csp_XPath",
+		"api":"csp_XPathMacFilter", // "api":"csp_XPath",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable": 1,
