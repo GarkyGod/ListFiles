@@ -57,6 +57,15 @@
 		"filterable":1,
 		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/hoho.json"},
 	{
+		"key": "nbys",
+		"name":"泥巴",
+		"type":3,
+		"api":"csp_Nbys",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"jar": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/nbys.jar?raw=true"},
+	{
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
 		"type":3,
