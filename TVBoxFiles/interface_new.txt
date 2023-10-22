@@ -6,7 +6,7 @@
 "wallpaper":"https://epg.112114.xyz/bingimg",
 
 // "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-"spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
+"spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
 // "spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
 //////////////////////////////// 直播 /////////////////////////////////////
@@ -24,8 +24,8 @@
 		// ]
 	// }
 // ],
-// "lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
-"lives":[{"name":"直播","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+// "lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
@@ -37,7 +37,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":0,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 	{
 		"key": "csp_xpath_libv",
 		"name":"LIBVIO",
@@ -46,7 +46,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/libv.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/libv.json"},
 	{
 		"key": "csp_xpath_ohoh",
 		"name":"HoHoTV",
@@ -55,7 +55,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/hoho.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/hoho.json"},
 	{
 		"key": "csp_xpath_cokemv",
 		"name":"COKEMV",
@@ -64,7 +64,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/cokem.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/cokem.json"},
 	{
 		"key": "csp_xpath_gimy",
 		"name":"Gimy剧迷",
@@ -73,7 +73,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
 	{
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
@@ -82,8 +82,8 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json",
-		"jar": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
+		"ext":"https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json",
+		"jar": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
     {
       "key":"zjdr",
       "name":"追剧达人",
@@ -110,7 +110,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/agefans.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/agefans.json"},
 
 //////////////////////////////// 测试 /////////////////////////////////////
 	{
