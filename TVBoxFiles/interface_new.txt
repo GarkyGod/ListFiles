@@ -93,12 +93,12 @@
       "quickSearch":1,
       "filterable":0},
    {
-      "key":"百度资源",
-      "name":"百度资源",
+      "key":"baiduzy",
+      "name":"百度資源站",
       "type":1,
       "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
       "playUrl":"",
-      "categories":[] 	},
+      "categories":["电影","电视剧","综艺","动漫"]},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
