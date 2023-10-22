@@ -64,7 +64,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
+		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/cokem.json"},
 	{
 		"key": "csp_xpath_gimy",
 		"name":"Gimy剧迷",
@@ -73,7 +73,7 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/cokem.json"},
+		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
 	{
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
