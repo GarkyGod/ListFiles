@@ -21,6 +21,14 @@
 //      "proxy": true
 //    },
     {
+      "key": "test",
+      "name": "Test01",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/yrzj_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "玩偶",
       "name": "玩偶",
       "type": 3,
