@@ -11,22 +11,25 @@
 //      "changeable": 1,
 //      "proxy": true
 //    },
-//    {
-//      "key": "星星",
-//      "name": "星星",
-//      "type": 3,
-//      "api": "csp_Star",
-//      "searchable": 1,
-//      "changeable": 1,
-//      "proxy": true
-//    },
+    {
+      "key": "星星",
+      "name": "星星",
+      "type": 3,
+      "api": "csp_Star",
+      "searchable": 1,
+      "changeable": 1,
+      "proxy": true
+    },
     {
       "key": "test",
       "name": "Test01",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
       "searchable": 1,
-      "changeable": 1
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
     },
     {
       "key": "玩偶",
