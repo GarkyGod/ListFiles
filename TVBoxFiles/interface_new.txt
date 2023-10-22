@@ -51,11 +51,12 @@
 		"key": "csp_xpath_dbk",
 		"name":"独播库",
 		"type":3,
-		"api":"csp_XPath",
+		"api":"csp_XPathDbk",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1,
-		"ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json"},
+		"ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json",
+		"jar": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
