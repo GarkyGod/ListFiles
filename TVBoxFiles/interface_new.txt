@@ -84,6 +84,21 @@
 		"filterable":1,
 		"ext":"https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json",
 		"jar": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
+    {
+      "key":"zjdr",
+      "name":"追剧达人",
+      "type":0,
+      "api":"http://vipmv.cc/api.php/provide/vod/at/xml",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0},
+   {
+      "key":"百度资源",
+      "name":"百度资源",
+      "type":1,
+      "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
+      "playUrl":"",
+      "categories":[] 	},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
