@@ -133,6 +133,14 @@
       "changeable": 1
     },
     {
+      "key": "非凡",
+      "name": "非凡",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "櫻花",
       "name": "櫻花",
       "type": 3,
