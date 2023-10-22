@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.agedm.tv/update",
+  "homeUrl": "https://www.agedm.org/update" // "https://www.agedm.tv/update",
   "cateManual": {
     "全部": "",
     "日本": "-日本-all-all",
@@ -17,7 +17,7 @@
   "homeVodMark": "//img/@title",
 
   // Category Summary ================================================
-  "cateUrl": "https://www.agedm.tv/catalog/{area}-{year}-all-all-all-time-{catePg}{cateId}",
+  "cateUrl": "https://www.agedm.org/catalog/{area}-{year}-all-all-all-time-{catePg}{cateId}",
   "cateVodNode": "//div[@class='blockcontent1']/div/a",
   "cateVodName": "/img/@alt",
   "cateVodId": "/@href",
@@ -26,7 +26,7 @@
   "cateVodMark": "/span[@class='newname']/text()",
 
   // Category Details ================================================
-  "dtUrl": "https://www.agedm.tv/detail/{vid}",
+  "dtUrl": "https://www.agedm.org/detail/{vid}",
   "dtNode": "//div[@id='container']",
   "dtName": "//div[@class='div_left']/div[@class='baseblock'][1]/div[@class='blockcontent']/img/@alt",
   "dtImg": "//div[@class='div_left']/div[@class='baseblock'][1]/div[@class='blockcontent']/img/@src",
@@ -45,11 +45,11 @@
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+)",
   "dtUrlName": "/text()",
-  "playUrl": "https://www.agedm.tv/play/{playUrl}",
+  "playUrl": "https://www.agedm.org/play/{playUrl}",
   "playUa": "",
 
   // Search Results ==================================================
-  "searchUrl": "https://www.agedm.tv/search?query={wd}&page=1",
+  "searchUrl": "https://www.agedm.org/search?query={wd}&page=1",
   "scVodNode": "//div[@class='blockcontent1']/div/a",
   "scVodName": "/img/@alt",
   "scVodId": "/@href",
