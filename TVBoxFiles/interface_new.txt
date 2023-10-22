@@ -57,8 +57,17 @@
 		"filterable":1,
 		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/hoho.json"},
 	{
-		"key": "csp_xpath_Cokemv",
+		"key": "csp_xpath_cokemv",
 		"name":"COKEMV",
+		"type":3,
+		"api":"csp_XPathMacFilter", 
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"ext":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
+	{
+		"key": "csp_xpath_gimy",
+		"name":"Gimy剧迷",
 		"type":3,
 		"api":"csp_XPathMacFilter", 
 		"searchable":1,
