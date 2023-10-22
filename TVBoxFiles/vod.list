@@ -33,28 +33,6 @@
       }
     },
     {
-      "key": "玩偶18+",
-      "name": "玩偶18+",
-      "type": 3,
-      "api": "csp_Doll",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.309
-      }
-    },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
       "key": "賤賤",
       "name": "賤賤",
       "type": 3,
