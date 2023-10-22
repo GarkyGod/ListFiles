@@ -1,4 +1,4 @@
-import { Crypto, load, _ } from 'https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/lib/cat.js';
+import { Crypto, load, _ } from './lib/cat.js';
 
 let key = 'czzy';
 // let url = 'https://cz01.org';
