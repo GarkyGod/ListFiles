@@ -99,6 +99,33 @@
       "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
       "playUrl":"",
       "categories":[]},
+    {
+      "key": "csp_xpath_saohuotv",
+      "name": "骚火电影",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,      // no filter from website
+      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/saohuotv.json"},
+   {
+      "key":"csp_xpath_zxzj",
+      "name":"在线之家",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1,
+      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/zxzj.json"},
+   {
+      "key":"csp_xpath_qnkk8",
+      "name":"全能影视",
+      "type":3,
+      "api":"csp_XPathMacFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable": 1,
+      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json"},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
