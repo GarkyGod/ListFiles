@@ -117,7 +117,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/zxzj.json"},
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/zxzj.json"},
    {
       "key":"csp_xpath_qnkk8",
       "name":"全能影视",
@@ -126,8 +126,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json",
-      "jar": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/wip-qnkk8.json"},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
