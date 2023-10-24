@@ -137,8 +137,7 @@
       "ext": {
         "token": "a3aa6ab415c14504a0de320756f35645", // "影視天下第一",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true"
+      }
     },
 
 //////////////////////////////// 动漫 /////////////////////////////////////
