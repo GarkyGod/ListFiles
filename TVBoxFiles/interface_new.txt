@@ -109,24 +109,24 @@
       "quickSearch": 1,
       "filterable": 0,      // no filter from website
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/saohuotv.json"},
-   {
-      "key":"csp_xpath_zxzj",
-      "name":"在线之家",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/zxzj.json"},
-   {
-      "key":"csp_xpath_qnkk8",
-      "name":"全能影视",
-      "type":3,
-      "api":"csp_XPathMacFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/wip-qnkk8.json"},
+//   {
+//      "key":"csp_xpath_zxzj",
+//      "name":"在线之家",
+//      "type":3,
+//      "api":"csp_XPathMacFilter",
+//      "searchable":1,
+//      "quickSearch":1,
+//      "filterable": 1,
+//      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/zxzj.json"},
+//   {
+//      "key":"csp_xpath_qnkk8",
+//      "name":"全能影视",
+//      "type":3,
+//      "api":"csp_XPathMacFilter",
+//      "searchable":1,
+//      "quickSearch":1,
+//      "filterable": 1,
+//      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/wip-qnkk8.json"},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
