@@ -107,7 +107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      // no filter from website
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/saohuotv.json"},
+      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/saohuotv.json"},
    {
       "key":"csp_xpath_zxzj",
       "name":"在线之家",
@@ -116,7 +116,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/zxzj.json"},
+      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/zxzj.json"},
    {
       "key":"csp_xpath_qnkk8",
       "name":"全能影视",
@@ -125,7 +125,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext": "https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json"},
+      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json"},
     {
       "key": "玩偶",
       "name": "玩偶",
