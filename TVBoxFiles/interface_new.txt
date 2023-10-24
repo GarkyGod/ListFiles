@@ -6,8 +6,8 @@
 "wallpaper":"https://epg.112114.xyz/bingimg",
 
 // "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-// "spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
-"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+"spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
+// "spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 // "spider":"https://ghproxy.com/https://github.com/c120487/00/blob/main/Yoursmile1126.jar?raw=true",
 
 //////////////////////////////// 直播 /////////////////////////////////////
@@ -126,19 +126,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json"},
-    {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "a3aa6ab415c14504a0de320756f35645", // "影視天下第一",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-      }
-    },
+      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/wip-qnkk8.json",
+      "jar": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
