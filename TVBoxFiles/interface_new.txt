@@ -108,7 +108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,      // no filter from website
-      "ext": "https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/saohuotv.json"},
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/saohuotv.json"},
    {
       "key":"csp_xpath_zxzj",
       "name":"在线之家",
