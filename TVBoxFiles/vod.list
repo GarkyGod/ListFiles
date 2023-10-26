@@ -223,21 +223,6 @@
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
     },
-    {
-      "key": "AList-X",
-      "name": "AList-X",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-      "drives": [
-        {
-          "name": "SOD",
-          "server": "https://a.sodaz.xyz"}
-        ]
-      }
-    },
 //    {
 //      "key": "18AV",
 //      "name": "18AV",
