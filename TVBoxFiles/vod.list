@@ -218,8 +218,8 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
     },
     {
-      "key": "AList",
-      "name": "AList",
+      "key": "AList-X",
+      "name": "AList-X",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
