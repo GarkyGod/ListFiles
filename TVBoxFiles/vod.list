@@ -225,12 +225,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "drives": [
-          {
-            "name": "SOD",
-            "server": "https://a.sodaz.xyz"
-          }
-        ]
+        "drives": [{"name": "SOD","server": "https://a.sodaz.xyz"}]
       }
     },
     {
