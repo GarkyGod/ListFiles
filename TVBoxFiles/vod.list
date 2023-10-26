@@ -139,8 +139,8 @@
       "changeable": 1
     },
     {
-      "key": "櫻花",
-      "name": "櫻花",
+      "key": "櫻花動漫",
+      "name": "櫻花動漫",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
@@ -216,6 +216,22 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "SOD",
+            "server": "https://a.sodaz.xyz"
+          }
+        ]
+      }
     },
     {
       "key": "七夜",
