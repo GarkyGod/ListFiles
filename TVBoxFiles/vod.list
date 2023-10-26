@@ -2,22 +2,22 @@
   "spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "星星",
-      "name": "星星",
-      "type": 3,
-      "api": "csp_Star",
-      "searchable": 1,
-      "changeable": 1
-    },
+//    {
+//      "key": "泥巴",
+//      "name": "泥巴",
+//      "type": 3,
+//      "api": "csp_NiNi",
+//      "searchable": 1,
+//      "changeable": 1
+//    },
+//    {
+//      "key": "星星",
+//      "name": "星星",
+//      "type": 3,
+//      "api": "csp_Star",
+//      "searchable": 1,
+//      "changeable": 1
+//    },
     {
       "key": "玩偶",
       "name": "玩偶",
@@ -30,15 +30,15 @@
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
       }
     },
-//    {
-//      "key": "賤賤",
-//      "name": "賤賤",
-//      "type": 3,
-//      "api": "csp_Jianpian",
-//      "searchable": 1,
-//      "changeable": 1,
-//      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-//    },
+    {
+      "key": "賤賤",
+      "name": "賤賤",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+    },
 //    {
 //      "key": "獨播",
 //      "name": "獨播",
