@@ -43,7 +43,7 @@
 		"key": "csp_xpath_czspp",
 		"name":"廠長資源",
 		"type":3,
-		"api":"api": "https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
+		"api": "https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
       
 	{
 		"key": "csp_xpath_libv",
