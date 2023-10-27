@@ -261,6 +261,18 @@
 //      }
 //    },
     {
+      "key": "玩偶X",
+      "name": "玩偶X",
+      "type": 3,
+      "api": "csp_Doll",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.309
+      }
+    },
+    {
       "key": "七夜",
       "name": "七夜",
       "type": 3,
