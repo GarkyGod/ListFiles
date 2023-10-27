@@ -1,5 +1,6 @@
 {
-  "spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//  "spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //  "spider": "https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/blob/main/TVBoxFiles/FongMi/jar/custom_spider.jar?raw=true",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
@@ -29,6 +30,7 @@
       "ext": {
         "token": "5622cd606f9a49309c776d1b1ba7cd4f",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
+//        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
       }
     },
     {
@@ -53,8 +55,8 @@
       "key": "五五",
       "name": "五五",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js",
-//      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
+//      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -81,6 +83,23 @@
       "name": "廠長",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+    },
+    {
+      "key": "新版6V电影网",
+      "name": "新版6V电影网",
+      "type": 3,
+      "api": "csp_Xb6v",
       "searchable": 1,
       "changeable": 1
     },
