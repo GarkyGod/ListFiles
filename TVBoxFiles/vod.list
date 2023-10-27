@@ -26,7 +26,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "token": "5622cd606f9a49309c776d1b1ba7cd4f", // "token": "影視天下第一",
+        "token": "5622cd606f9a49309c776d1b1ba7cd4f",
         "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
       }
     },
