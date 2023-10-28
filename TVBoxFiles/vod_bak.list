@@ -300,6 +300,18 @@
 //				"ratio":0.68
 //			}
 //		},
+		{
+			"key":"apilj.com",
+			"name":"辣椒資源",
+			"type":1,
+			"api":"http://apilj.com/api.php/provide/vod/at/json/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
 //////////////////////////////// 本地&網盤 /////////////////////////////////////
 		{
 			"key":"本地",
