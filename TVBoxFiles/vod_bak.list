@@ -326,7 +326,7 @@
 		},
 		{
 			"key":"bttcj.com",
-			"name":"Adult05",
+			"name":"Adult_05",
 			"type":0,
 			"api":"http://bttcj.com/inc/sapi.php",
 			"searchable":1,
@@ -338,7 +338,7 @@
 		},
 		{
 			"key":"cjmygzy.com",
-			"name":"Adult06",
+			"name":"Adult_06",
 			"type":0,
 			"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
 			"searchable":1,
@@ -353,6 +353,90 @@
 			"name":"PhimSex",
 			"type":1,
 			"api":"http://api.sexnguon.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"feifei67.com",
+			"name":"CK資源",
+			"type":1,
+			"api":"http://www.feifei67.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"llzxcj.com",
+			"name":"Adult_09",
+			"type":0,
+			"api":"http://llzxcj.com/inc/sck.php?ac=videolist",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"f2dcj6.com",
+			"name":"Adult_10",
+			"type":0,
+			"api":"http://f2dcj6.com/sapi?ac=videolist",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"ggmmzy.com",
+			"name":"Adult_11",
+			"type":0,
+			"api":"http://www.ggmmzy.com:9999/inc/xml",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"fhapi9.com",
+			"name":"Adult_12",
+			"type":1,
+			"api":"http://fhapi9.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"lbapiby.com",
+			"name":"Adult_14",
+			"type":0,
+			"api":"http://lbapiby.com/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"api.maozyapi.com",
+			"name":"色貓資源",
+			"type":1,
+			"api":"https://api.maozyapi.com/inc/apijson_vod.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
