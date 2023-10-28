@@ -532,8 +532,8 @@
 		{
 			"key":"apittzy.com",
 			"name":"探探資源",
-			"type":0,
-			"api":"https://apittzy.com/api.php/provide/vod/at/xml/",
+			"type":1,
+			"api":"https://apittzy.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
