@@ -114,6 +114,7 @@
 			},
 			"ext":{
 				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"type":"",
 				"cookie":""
 			}
 		},
