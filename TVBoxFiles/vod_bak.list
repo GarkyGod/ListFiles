@@ -136,6 +136,14 @@
 			"searchable":1,
 			"changeable":1
 		},
+//		{
+//			"key":"快帆",
+//			"name":"快帆",
+//			"type":1,
+//			"api":"https://api.kuaifan.tv/api.php/provide/vod",
+//			"searchable":1,
+//			"changeable":1
+//		},
 		{
 			"key":"量子",
 			"name":"量子",
@@ -209,6 +217,31 @@
 			"ext":{
 				"categories":"演唱會#棟篤笑#沙雕",
 				"cookie":""
+			}
+		},
+//////////////////////////////// 18+ /////////////////////////////////////
+		{
+			"key":"18AV",
+			"name":"18AV",
+			"type":3,
+			"api":"csp_Eighteen",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.485
+			}
+		},
+		{
+			"key":"18A",
+			"name":"18A",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.485
 			}
 		},
 //////////////////////////////// 本地&網盤 /////////////////////////////////////
