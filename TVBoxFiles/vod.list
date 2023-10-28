@@ -242,30 +242,30 @@
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
     },
-    {
-      "key": "18AV",
-      "name": "18AV",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "18A貓",
-      "name": "18A貓",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+\\    {
+\\      "key": "18AV",
+\\      "name": "18AV",
+\\      "type": 3,
+\\      "api": "csp_Eighteen",
+\\      "searchable": 1,
+\\      "recordable": 0,
+\\      "style": {
+\\        "type": "rect",
+\\        "ratio": 1.485
+\\      }
+\\    },
+\\    {
+\\      "key": "18A貓",
+\\      "name": "18A貓",
+\\      "type": 3,
+\\      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
+\\      "searchable": 1,
+\\      "recordable": 0,
+\\      "style": {
+\\        "type": "rect",
+\\        "ratio": 1.485
+\\      }
+\\    },
     {
       "key": "七夜",
       "name": "七夜",
