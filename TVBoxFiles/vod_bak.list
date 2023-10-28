@@ -5,14 +5,14 @@
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 //////////////////////////////// 影视 /////////////////////////////////////
-		{
-			"key":"影視",
-			"name":"影視",
-			"type":3,
-			"api":"csp_YingShi",
-			"searchable":1,
-			"changeable":1
-		},
+//		{
+//			"key":"影視",
+//			"name":"影視",
+//			"type":3,
+//			"api":"csp_YingShi",
+//			"searchable":1,
+//			"changeable":1
+//		},
 //		{
 //			"key":"泥巴",
 //			"name":"泥巴",
@@ -566,6 +566,18 @@
 			"name":"Adult_27",
 			"type":1,
 			"api":"https://api.apilyzy.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"apittzy.com",
+			"name":"探探資源",
+			"type":1,
+			"api":"https://apittzy.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
