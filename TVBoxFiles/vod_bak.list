@@ -324,6 +324,42 @@
 				"ratio":1.33
 			}
 		},
+		{
+			"key":"bttcj.com",
+			"name":"Adult05",
+			"type":0,
+			"api":"http://bttcj.com/inc/sapi.php",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"cjmygzy.com",
+			"name":"Adult06",
+			"type":0,
+			"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"api.sexnguon.com",
+			"name":"PhimSex",
+			"type":1,
+			"api":"http://api.sexnguon.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
 //////////////////////////////// 本地&網盤 /////////////////////////////////////
 		{
 			"key":"本地",
