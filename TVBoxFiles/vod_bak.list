@@ -1,8 +1,26 @@
 {
 	"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//	"spider": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/blob/main/TVBoxFiles/FongMi/jar/custom_spider.jar?raw=true",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
 //////////////////////////////// 影视 /////////////////////////////////////
+//		{
+//			"key":"泥巴",
+//			"name":"泥巴",
+//			"type":3,
+//			"api":"csp_NiNi",
+//			"searchable":1,
+//			"changeable":1
+//		},
+//		{
+//			"key":"星星",
+//			"name":"星星",
+//			"type":3,
+//			"api":"csp_Star",
+//			"searchable":1,
+//			"changeable":1
+//		},
 		{
 			"key":"玩偶",
 			"name":"玩偶",
@@ -13,6 +31,7 @@
 			"ext":{
 				"token":"5622cd606f9a49309c776d1b1ba7cd4f",
 				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
+//				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
 			}
 		},
 		{
@@ -24,6 +43,34 @@
 			"changeable":1,
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
+//		{
+//			"key":"獨播",
+//			"name":"獨播",
+//			"type":3,
+//			"api":"csp_XPathMacFilter",
+//			"searchable":1,
+//			"changeable":1,
+//			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+//		},
+		{
+			"key":"三五",
+			"name":"三五",
+			"type":3,
+//			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js"
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
+			"searchable":1,
+			"changeable":1
+		},
+//		{
+//			"key":"haiwaikan",
+//			"name":"海外看",
+//			"type":1,
+//			"api":"https://haiwaikan.com/api.php/provide/vod",
+//			"searchable":1,
+//			"changeable":1,
+//			"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片",
+//					"同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]
+//		},
 		{
 			"key":"廠長",
 			"name":"廠長",
@@ -31,14 +78,6 @@
 			"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"changeable":0
-		},
-		{
-			"key":"三五",
-			"name":"三五",
-			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
-			"searchable":1,
-			"changeable":1
 		},
 		{
 			"key":"jojo",
@@ -63,6 +102,15 @@
 			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
 			"searchable":1,
 			"changeable":1
+		},
+		{
+			"key":"豆瓣",
+			"name":"豆瓣",
+			"type":3,
+			"api":"csp_Douban",
+			"searchable":0,
+			"changeable":1,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
 		},
 		{
 			"key":"新6V",
