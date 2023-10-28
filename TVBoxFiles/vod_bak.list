@@ -542,10 +542,10 @@
 			}
 		},
 		{
-			"key":"lbapi9.com",
+			"key":"msnii.com",
 			"name":"Adult_26",
-			"type":1,
-			"api":"https://lbapi9.com/api.php/provide/vod/",
+			"type":0,
+			"api":"https://www.msnii.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -554,10 +554,10 @@
 			}
 		},
 		{
-			"key":"dmmapi.com",
+			"key":"caiji.huakuiapi.com",
 			"name":"大MM資源站",
-			"type":0,
-			"api":"http://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
+			"type":1,
+			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
