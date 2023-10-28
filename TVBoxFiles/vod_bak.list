@@ -554,10 +554,10 @@
 			}
 		},
 		{
-			"key":"91md.me",
-			"name":"麻豆視頻",
-			"type":1,
-			"api":"http://91md.me/api.php/provide/vod/",
+			"key":"dmmapi.com",
+			"name":"大MM資源站",
+			"type":0,
+			"api":"http://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{
