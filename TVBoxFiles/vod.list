@@ -111,6 +111,10 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.433
+			},
+			"ext":{
+				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"cookie":""
 			}
 		},
 		{
