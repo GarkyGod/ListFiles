@@ -473,7 +473,7 @@
 			"key":"caiji.huakuiapi.com_xml",
 			"name":"花魁資源XML",
 			"type":0,
-			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
+			"api":"https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
