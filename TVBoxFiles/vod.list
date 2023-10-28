@@ -75,6 +75,49 @@
 			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧",
 				"动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
 		},
+//////////////////////////////// 动漫 /////////////////////////////////////
+		{
+			"key":"櫻花動漫",
+			"name":"櫻花動漫",
+			"type":3,
+			"api":"csp_Ying",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"動漫巴士",
+			"name":"動漫巴士",
+			"type":3,
+			"api":"csp_Dm84",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"異世界動漫",
+			"name":"異世界動漫",
+			"type":3,
+			"api":"csp_Ysj",
+			"searchable":1,
+			"changeable":1
+		},
+//////////////////////////////// XXX /////////////////////////////////////
+		{
+			"key":"哔哩",
+			"name":"哔哩",
+			"type":3,
+			"api":"csp_Bili",
+			"searchable":1,
+			"changeable":0,
+			"style":{
+			"type":"rect",
+			"ratio":1.433
+			},
+			"ext":{
+			"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+			"type":"帕梅拉#太极拳#广场舞#演唱会",
+			"cookie":""
+			}
+		},
 		{
 			"key":"push_agent",
 			"name":"推送",
