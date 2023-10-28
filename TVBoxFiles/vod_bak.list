@@ -542,10 +542,10 @@
 			}
 		},
 		{
-			"key":"msnii.com",
+			"key":"sewozyapi.com",
 			"name":"Adult_26",
-			"type":0,
-			"api":"https://www.msnii.com/api/xml.php",
+			"type":1,
+			"api":"https://sewozyapi.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -554,10 +554,10 @@
 			}
 		},
 		{
-			"key":"caiji.huakuiapi.com",
-			"name":"大MM資源站",
+			"key":"api.apilyzy.com",
+			"name":"Adult_27",
 			"type":1,
-			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
+			"api":"https://api.apilyzy.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
