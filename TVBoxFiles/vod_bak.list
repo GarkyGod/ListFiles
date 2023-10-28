@@ -470,20 +470,8 @@
 			}
 		},
 		{
-			"key":"caiji.huakuiapi.com_xml",
-			"name":"花魁資源XML",
-			"type":0,
-			"api":"https://caiji.huakuiapi.com/inc/api.php",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			}
-		},
-		{
-			"key":"caiji.huakuiapi.com_json",
-			"name":"花魁資源JSON",
+			"key":"caiji.huakuiapi.com",
+			"name":"花魁資源",
 			"type":1,
 			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
 			"searchable":1,
@@ -530,10 +518,10 @@
 			}
 		},
 		{
-			"key":"afasu.com",
-			"name":"Adult_22",
-			"type":0,
-			"api":"https://www.afasu.com/api/xml.php",
+			"key":"kkzy.me",
+			"name":"KK資源",
+			"type":1,
+			"api":"https://kkzy.me/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -542,10 +530,34 @@
 			}
 		},
 		{
-			"key":"kkzy.me",
-			"name":"KK資源",
+			"key":"888dav.com",
+			"name":"抖陰視頻",
 			"type":1,
-			"api":"https://kkzy.me/api.php/provide/vod/",
+			"api":"https://www.38dav.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"apittzy.com",
+			"name":"探探資源",
+			"type":1,
+			"api":"https://apittzy.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"lbapi9.com",
+			"name":"Adult_26",
+			"type":1,
+			"api":"https://lbapi9.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
