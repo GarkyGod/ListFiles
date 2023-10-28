@@ -2,6 +2,7 @@
 	"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"sites": [
+//////////////////////////////// 影视 /////////////////////////////////////
 		{
 			"key":"玩偶",
 			"name":"玩偶",
@@ -30,6 +31,38 @@
 			"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"changeable":0
+		},
+		{
+			"key":"三五",
+			"name":"三五",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"jojo",
+			"name":"JOJO",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/jiohub.js",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"愛看",
+			"name":"愛看",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"快看",
+			"name":"快看",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+			"searchable":1,
+			"changeable":1
 		},
 		{
 			"key":"新6V",
@@ -130,7 +163,7 @@
 				"cookie":""
 			}
 		},
-//////////////////////////////// 本地 /////////////////////////////////////
+//////////////////////////////// 本地&網盤 /////////////////////////////////////
 		{
 			"key":"本地",
 			"name":"本地",
@@ -157,6 +190,65 @@
 			"changeable":0,
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
+//////////////////////////////// 搜索服務 /////////////////////////////////////
+		{
+			"key":"七夜",
+			"name":"七夜",
+			"type":3,
+			"api":"csp_Dovx",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"易搜",
+			"name":"易搜",
+			"type":3,
+			"api":"csp_YiSo",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"雲搜",
+			"name":"雲搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"盤搜",
+			"name":"盤搜",
+			"type":3,
+			"api":"csp_PanSou",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"紙條搜",
+			"name":"紙條搜",
+			"type":3,
+			"api":"csp_XiaoZhiTiao",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"盤搜索",
+			"name":"盤搜索",
+			"type":3,
+			"api":"csp_PanSearch",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"找資源",
+			"name":"找資源",
+			"type":3,
+			"api":"csp_Zhaozy",
+			"searchable":1,
+			"changeable":0,
+			"ext":"影視天下第一$$$test2$$$test2"
+		},
+//////////////////////////////// LAST /////////////////////////////////////
 		{
 			"key":"push_agent",
 			"name":"推送",
