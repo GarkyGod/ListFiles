@@ -100,10 +100,10 @@
 			"searchable":1,
 			"changeable":1
 		},
-//////////////////////////////// XXX /////////////////////////////////////
+//////////////////////////////// 嗶哩嗶哩 /////////////////////////////////////
 		{
-			"key":"哔哩",
-			"name":"哔哩",
+			"key":"bilibili_json",
+			"name":"嗶哩嗶哩JSON",
 			"type":3,
 			"api":"csp_Bili",
 			"searchable":1,
@@ -119,8 +119,8 @@
 			}
 		},
 		{
-			"key":"bili_open",
-			"name":"哔哩貓",
+			"key":"bilibili_open",
+			"name":"嗶哩嗶哩LIST",
 			"type":3,
 			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
 			"searchable":1,
@@ -129,6 +129,33 @@
 				"categories":"演唱會#棟篤笑#沙雕",
 				"cookie":""
 			}
+		},
+//////////////////////////////// 本地 /////////////////////////////////////
+		{
+			"key":"本地",
+			"name":"本地",
+			"type":3,
+			"api":"csp_Local",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"AList",
+			"name":"AList",
+			"type":3,
+			"api":"csp_AList",
+			"searchable":1,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+		},
+		{
+			"key":"WebDAV",
+			"name":"WebDAV",
+			"type":3,
+			"api":"csp_WebDAV",
+			"searchable":1,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
 		{
 			"key":"push_agent",
