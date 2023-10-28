@@ -33,14 +33,6 @@
 			"changeable":0
 		},
 		{
-			"key":"三五",
-			"name":"三五",
-			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
-			"searchable":1,
-			"changeable":1
-		},
-		{
 			"key":"jojo",
 			"name":"JOJO",
 			"type":3,
