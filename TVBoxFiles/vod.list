@@ -24,12 +24,21 @@
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
-			"key": "三五",
-			"name": "三五",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js",
-			"searchable": 1,
-			"changeable": 1
+			"key":"豆瓣",
+			"name":"豆瓣",
+			"type":3,
+			"api":"csp_Douban",
+			"searchable":0,
+			"changeable":1,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+		},
+		{
+			"key":"新6V",
+			"name":"新6V",
+			"type":3,
+			"api":"csp_Xb6v",
+			"searchable":1,
+			"changeable":0
 		},
 		{
 			"key":"push_agent",
@@ -95,8 +104,8 @@
 	],
 	"rules": [
 		{
-			"name": "proxy",
-			"hosts": [
+			"name":"proxy",
+			"hosts":[
 				"raw.githubusercontent.com",
 				"googlevideo.com",
 				"cdn.v82u1l.com",
