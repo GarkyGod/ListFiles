@@ -301,10 +301,10 @@
 //			}
 //		},
 		{
-			"key":"apilj.com",
+			"key":"dadiapi.com",
 			"name":"辣椒資源",
 			"type":1,
-			"api":"http://apilj.com/api.php/provide/vod/at/json/",
+			"api":"http://dadiapi.com/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
