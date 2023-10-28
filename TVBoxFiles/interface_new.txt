@@ -46,7 +46,7 @@
 		"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 		"searchable":1,
 		"quickSearch":1,
-		"filterable":0,},
+		"filterable":0},
       
 	{
 		"key": "csp_xpath_libv",
