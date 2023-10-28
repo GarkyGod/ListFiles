@@ -303,8 +303,20 @@
 		{
 			"key":"dadiapi.com",
 			"name":"辣椒資源",
-			"type":1,
+			"type":0,
 			"api":"http://dadiapi.com/api.php",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"jcspcj8.com",
+			"name":"富二代",
+			"type":0,
+			"api":"http://jcspcj8.com/api?ac=videolist",
 			"searchable":1,
 			"recordable":0,
 			"style":{
