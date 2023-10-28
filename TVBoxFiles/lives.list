@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://github.com/live.m3u"
+      "url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
     },
     {
       "name": "TXT",
