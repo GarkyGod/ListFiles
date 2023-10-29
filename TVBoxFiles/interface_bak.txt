@@ -59,7 +59,7 @@
 		},
 		{
 			"key":"liangzi",
-			"name":"量子",
+			"name":"量子1",
 			"type":0,
 			"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
