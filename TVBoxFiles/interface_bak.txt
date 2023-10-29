@@ -19,6 +19,24 @@
 //	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 
+//	{
+//		"key":"key_(资源名称)", 
+//		"name":"资源名称", 
+//		"type":0, 
+//		"api":"csp_(jar内文件名称)", 
+//		"searchable":1, 
+//		"quickSearch":1, 
+//		"filterable":0, 
+//		"jar":"(jar文件地址)", 
+//		"ext":"(txt json文件地址)", 
+//		"playUrl": "〔播放解析地址〕", 
+//		"categories":["(自定义资源列表)", "(自定义资源列表)"], 
+//		"jar":"jar文件地址.jar"
+//	}
+//	Type 0-xml 1-json 2-爬虫源 3-自定义爬虫 from jar 4-服务器爬虫, 
+//		type 3, api from jar
+//		type 1, Json, api file end with /provide/vod/
+//		type 0, MacCMS, api file end with /at/xml/
 //////////////////////////////// 影视 /////////////////////////////////////
 	"sites":[
 //		{
@@ -51,13 +69,16 @@
 				"短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育","足球","篮球","网球","斯诺克"]
 		},
 		{
-			"key":"sdszyapi.com",
-			"name":"屌絲",
-			"type":0,
-			"api":"https://sdszyapi.com/cjapi/mc/vod/xml.html",
+			"key":"tvfan.xxooo.cf",
+			"name":"玩偶哥哥",
+			"type":3,
+			"api":"csp_Wogg",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":0
+			"filterable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json",
+			"jar":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true"
+
 		},
 //		{
 //			"key":"櫻花",
@@ -81,30 +102,14 @@
 		{"name":"Json并发","type":2,"url":"Parallel"},
 		{"name":"Json轮询","type":2,"url":"Sequence"},
 		{"name":"Web聚合","type":3,"url":"Web"},
-		{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-		{"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-		{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
-		{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
+//		{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
 		{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-		{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
-		{"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-		{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=","header":{"User-Agent":"Mozilla/5.0"}},
-		{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
-		{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
-		{"name":"布雷","type":1,"url":"https://bf.bulei.cc/player/?url="},
 		{"name":"云星解析","type":1,"url":"https://chaloli.cn/api/?key=454af70ae4c2f8369527a16413ed27ba&url=","header":{"User-Agent":"Mozilla/5.0"}},
 		{"name":"风起兖州","type":0,"url":"http://jx.gbxy.net.cn/?url="},
-		{"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1},
-		{"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
-		{"name":"神","type":0,"url":"https://freejx.rx88.top:1234/?url="},
-		{"name":"懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-		{"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 		{"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
-		{"name":"freejson","type":0,"url":"https://h5.freejson.xyz/player/?url="},
 		{"name":"parwix","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 		{"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url="},
-		{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-		{"name":"rx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
+		{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}
 	],
 	
 	"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯",
