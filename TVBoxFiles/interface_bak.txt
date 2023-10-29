@@ -1,6 +1,7 @@
 {
 	"wallpaper":"https://epg.112114.xyz/bingimg",
-	"spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+//	"spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //////////////////////////////// 直播 /////////////////////////////////////
 //	"lives":[
 //		{
