@@ -55,25 +55,26 @@
 			"key":"czzy",
 			"name":"廠長資源",
 			"type":3,
-			"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
-			"searchable":1,
-			"changeable":1
+			"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"
+//			"searchable":1,
+//			"changeable":1
 		},
 {
 "key":"五五",
 "name":"五五",
 "type":3,
-"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
-"searchable":1,
-"changeable":1
+"api":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js"
+//"searchable":1,
+//"changeable":1
 },
 		{
 			"key":"liangzi",
 			"name":"非凡2",
 			"type":0,
 			"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-			"searchable":1,
-			"changeable":1,
+			"playUrl":"https://ffzyplayer.com/?url=",
+//			"searchable":1,
+//			"changeable":1,
 			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧"]
 		},
 		{
