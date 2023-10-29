@@ -24,7 +24,7 @@
 	"homeVodMark":"/div/span/text()",
 
 //	CategorySummary=================================================
-	"cateUrl":"https://www.czz9.com/{cateId}/page/{catePg}",
+	"cateUrl":"https://czz9.com/{cateId}/page/{catePg}",
 	"cateVodNode":"//div[@class='bt_imgmi_ne_kdmrb']/ul/li/a",
 	"cateVodName":"/following-sibling::h3/a/text()",
 	"cateVodId":"/@href",
@@ -34,7 +34,7 @@
 	"cateVodMark":"/div/span/text()",
 
 //	CategoryDetails=================================================
-	"dtUrl":"https://www.czz9.com/movie/{vid}.html",
+	"dtUrl":"https://czz9.com/movie/{vid}.html",
 	"dtNode":"//body[contains(@class,'movie_bt')]",
 	"dtName":"//div[@class='dytext fl']/div/h1/text()",
 	"dtNameR":"/movie/(\\w+).html",
@@ -65,11 +65,11 @@
 	"dtUrlIdR":"/v_play/(\\S+).html",
 	"dtUrlName":"/text()",
 	"dtUrlNameR":"",
-	"playUrl":"https://www.czz9.com/v_play/{playUrl}.html",
+	"playUrl":"https://czz9.com/v_play/{playUrl}.html",
 	"playUa":""
 
 //	SearchResults===================================================
-//	"searchUrl":"https://www.czz9.com/xssearch?q={wd}",
+//	"searchUrl":"https://czz9.com/xssearch?q={wd}",
 //	"scVodNode":"//div[@class='bt_imgmi_ne_kdsearch_list']/ul/li/a",
 //	"scVodName":"/img/@alt",
 //	"scVodId":"/@href",
