@@ -96,18 +96,7 @@
 		},
 {"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod"},
 {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod"},
-		{
-			"key":"tvfan_xxooo_cf",
-			"name":"玩偶哥哥",
-			"type":3,
-			"api":"csp_Wogg",
-			"searchable":1,
-			"quickSearch":1,
-//			"filterable":1,
-"changeable":0,
-			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
-		},
+
 //////////////////////////////// 最后 /////////////////////////////////////
 		{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 		{"key":"END","name":"END of LIST","type":0,"api":""}
