@@ -69,7 +69,7 @@
 },
 		{
 			"key":"liangzi",
-			"name":"非凡2",
+			"name":"非凡1",
 			"type":0,
 			"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
 			"playUrl":"https://ffzyplayer.com/?url=",
