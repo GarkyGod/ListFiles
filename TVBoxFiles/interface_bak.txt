@@ -63,17 +63,6 @@
 		},
 //////////
 		{
-			"key": "csp_WoGG",
-			"name": "玩偶┃4K(弹幕)",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0,
-"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹幕"
-		},
-		{
 			"key": "世界",
 			"name": "世界┃聚合",
 			"type": 3,
@@ -83,6 +72,20 @@
 			"filterable": 1,
 			"jar": "http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
 			"ext": "http://103.197.25.136:3836/api.php/app/"
+		},
+		{
+			"key":"tvfan.xxooo.cf",
+			"name":"玩偶哥哥",
+			"type":3,
+			"api":"csp_Wogg",
+			"searchable":1,
+			"changeable":0,
+			"jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
+			"ext":{
+				"token":"5622cd606f9a49309c776d1b1ba7cd4f",
+				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
+//				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+			}
 		},
 //////////
 		{
