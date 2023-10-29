@@ -34,7 +34,7 @@
 		"key": "csp_xpath_czspp",
 		"name":"廠長資源",
 		"type":3,
-		"api":"csp_XPath",
+		"api":"csp_XPathMac",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":0,
