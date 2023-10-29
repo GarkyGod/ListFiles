@@ -64,11 +64,12 @@
 			"name":"非凡1",
 			"type":0,
 			"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-//			"playUrl":"https://ffzyplayer.com/?url=",
-//			"searchable":1,
-//			"changeable":1,
+			"searchable":1,
+			"changeable":1,
 			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧"]
 		},
+{"key":"索尼","name":"索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod"},
+{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod"},
 		{
 			"key":"tvfan_xxooo_cf",
 			"name":"玩偶哥哥",
