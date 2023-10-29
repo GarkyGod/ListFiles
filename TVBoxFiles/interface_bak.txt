@@ -102,7 +102,8 @@
 			"api":"csp_Wogg",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
+//			"filterable":1,
+"changeable":0,
 			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;d0ae5fa6fb705a6c020f930a73f44714",
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
 		},
