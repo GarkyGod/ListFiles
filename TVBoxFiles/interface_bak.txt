@@ -21,8 +21,8 @@
 //			]
 //		}
 //	],
-//	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
-	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+	"lives":[{"name":"live1","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"},
+		{"name":"live2","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 
 //	{
 //		"key":"key_(资源名称)", 
