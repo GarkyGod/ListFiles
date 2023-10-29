@@ -61,13 +61,13 @@
 		},
 		{
 			"key":"liangzi",
-			"name":"非凡",
+			"name":"非凡2",
 			"type":0,
 			"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":0,
-//			"playUrl":"https://ffzyplayer.com/?url=",
+			"playUrl":"https://ffzyplayer.com/?url=",
 			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧"]
 		},
 //		{
@@ -88,8 +88,8 @@
 			"api":"csp_Ying",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"jar":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true"
+			"filterable":0,
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 		},
 //////////////////////////////// 最后 /////////////////////////////////////
 		{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
