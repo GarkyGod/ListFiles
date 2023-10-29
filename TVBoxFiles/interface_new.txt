@@ -30,20 +30,20 @@
 
 //////////////////////////////// 影视 /////////////////////////////////////	
 "sites": [
-	{
-		"key": "csp_xpath_czspp",
-		"name":"廠長資源",
-		"type":3,
-		"api":"csp_XPathMac",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":0,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 //	{
-//		"key": "czzy",
+//		"key": "csp_xpath_czspp",
 //		"name":"廠長資源",
 //		"type":3,
-//		"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
+//		"api":"csp_XPathMac",
+//		"searchable":1,
+//		"quickSearch":1,
+//		"filterable":0,
+//		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
+	{
+		"key": "czzy",
+		"name":"廠長資源",
+		"type":3,
+		"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
 	{
 		"key": "csp_xpath_libv",
 		"name":"LIBVIO",
