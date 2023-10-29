@@ -2,9 +2,9 @@
 	"wallpaper":"https://epg.112114.xyz/bingimg",
 //	"spider":"https://gh-proxy.com/https://github.com/c120487/00/raw/main/jar/pc1028.jar",
 //	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
 //	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
+//"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
 
 //////////////////////////////// 直播 /////////////////////////////////////
 //	"lives":[
@@ -70,6 +70,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
+"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
 			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$弹幕"
 		},
 		{
