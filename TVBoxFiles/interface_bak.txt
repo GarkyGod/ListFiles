@@ -101,11 +101,10 @@
 			"type":3,
 			"api":"csp_Wogg",
 			"searchable":1,
-			"changeable":1,
-//			"quickSearch":1,
-//			"filterable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
-//			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+			"quickSearch":1,
+			"filterable":1,
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json&token=5622cd606f9a49309c776d1b1ba7cd4f"
 		},
 //////////////////////////////// 最后 /////////////////////////////////////
 		{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
