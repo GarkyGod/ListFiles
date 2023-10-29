@@ -65,7 +65,6 @@
 			"searchable":1,
 			"changeable":1
 		},
-//////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 		{
 			"key":"世界",
 			"name":"世界┃聚合",
@@ -77,15 +76,38 @@
 			"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
 			"ext":"http://103.197.25.136:3836/api.php/app/"
 		},
+		{
+			"key":"csp_woggcli",
+			"name":"玩偶┃T4T4",
+			"type":4,
+			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1
+		},
+//////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 {
-"key":"csp_woggcli",
-"name":"玩偶┃T4T4",
-"type":4,
-"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+"key":"csp_77",
+"name":"七七┃APP",
+"type":3,
+"api":"csp_Kunyu77",
 "searchable":1,
 "quickSearch":1,
-"filterable":1
+"changeable":1,
+"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f"
 },
+{
+"key":"Xinsj",
+"name":"视觉┃直连",
+"type":3,
+"api":"csp_Xinsj",
+"searchable":1,
+"quickSearch":1,
+"changeable":1,
+"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9b94bf80abbc161c088fed69f3afd56f",
+"ext":"https://www.6080yy3.com"
+},
+{"key":"玉米","name":"玉米┃采集","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
 		{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
