@@ -80,7 +80,7 @@
 			"key":"csp_woggcli",
 			"name":"玩偶┃T4T4",
 			"type":4,
-			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c",
+			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=5622cd606f9a49309c776d1b1ba7cd4f",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
