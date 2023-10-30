@@ -214,8 +214,8 @@
 			"key": "csp_XYQBiu_斗鱼",
 			"name": "🦈斗鱼┃直播",
 			"type": 3,
-			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/blob/main/js/LIBVIO.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
