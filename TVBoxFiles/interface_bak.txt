@@ -221,7 +221,7 @@
 "播放列表":"<a&&/a>",
 "跳转播放链接":"https://web-pro2.cjjd18.com.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
 "二次跳转播放链接":"Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
-"搜索url":"https://影搜.com/s/?wd={wd}",
+"搜索url":"https://www.sstv.pw/so.html?wd={wd}",
 "搜索模式":"1",
 "搜索二次截取":"<divclass=\"row\">&&<iclass=\"posts-nav",
 "搜索数组":"<divclass=\"card-body\">&&/i>[包含:速搜影院]",
@@ -229,7 +229,7 @@
 "搜索标题":"<strong>&&</strong>",
 "搜索副标题":"速搜",
 "搜索链接":"https://www.sstv.pw/v_+<ahref=\"https://www.sstv.pw/project-&&.html+_1_1.html",
-"分类url":"https://www.akj.ee/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
+"分类url":"https://www.sstv.pw/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
 "分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
 }
 },
