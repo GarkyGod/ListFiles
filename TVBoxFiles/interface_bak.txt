@@ -228,7 +228,7 @@
 			"key": "csp_qiumi",
 			"name": "⚽️球迷┃球迷",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy.min.js",
+			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
 			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555影视[飞].js",
 			"style": {
 				"type": "rect",
@@ -242,7 +242,7 @@
 			"key": "csp_555",
 			"name": "555电影",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy.min.js",
+			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
 			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
 			"style": {
 				"type": "rect",
