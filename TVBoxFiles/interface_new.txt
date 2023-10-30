@@ -46,6 +46,31 @@
 		"type":3,
 		"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
 	{
+		"key":"csp_555",
+		"name":"555电影",
+		"type":3,
+		"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+		"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+		"style":{
+			"type":"rect",
+			"ratio":1
+		},
+		"searchable":1,
+		"quickSearch":1,
+		"changeable":0
+	},
+	{
+		"key":"世界",
+		"name":"世界┃聚合",
+		"type":3,
+		"api":"csp_AppYsV2",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1,
+		"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
+		"ext":"http://103.197.25.136:3836/api.php/app/"
+	},
+	{
 		"key": "csp_xpath_libv",
 		"name":"LIBVIO",
 		"type":3,
