@@ -218,10 +218,10 @@
 			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/blob/main/js/LIBVIO.js",
 			"style": {
 				"type": "rect",
-				"ratio": 1.755
+				"ratio": 1
 			},
 			"searchable": 1,
-			"quickSearch": 0,
+			"quickSearch": 1,
 			"changeable": 0
 		},
 		{
@@ -235,7 +235,7 @@
 				"ratio": 1
 			},
 			"searchable": 1,
-			"quickSearch": 0,
+			"quickSearch": 1,
 			"changeable": 0
 		},
 		{
