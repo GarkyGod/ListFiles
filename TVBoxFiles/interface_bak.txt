@@ -95,6 +95,17 @@
 			"filterable":1,
 			"ext":"http://xhww.fun:63/小米/nangua.js"
 		},
+		{
+			"key":"皮皮虾",
+			"name":"🦐皮虾┃App",
+			"type":3,
+			"jar":"http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+			"api":"csp_AppSK",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
+		},
 
 //////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 
@@ -103,7 +114,7 @@
 			"name":"量子",
 			"type":0,
 			"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-			"playUrl":"json:https://lziplayer.com/?url=",
+			"playUrl":"https://lziplayer.com/?url=",
 			"searchable":1,
 			"changeable":1,
 			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","预告片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧",
@@ -120,17 +131,6 @@
 "filterable":1
 },
 {
-"key":"皮皮虾",
-"name":"🦐皮虾┃App",
-"type":3,
-"jar":"http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
-"api":"csp_AppSK",
-"searchable":1,
-"quickSearch":1,
-"changeable":1,
-"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
-},
-{
 "key":"觅视频",
 "name":"🍯觅视┃App",
 "type":3,
@@ -140,6 +140,54 @@
 "quickSearch":1,
 "changeable":1,
 "ext":"FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4"
+},
+{
+"key":"嘿嘿",
+"name":"🐼嘿嘿┃App",
+"jar":"http://xhww.fun:63/小米/qj.jar;md5;8028934b4eaa9daaa68c0c7f1c7ed006",
+"type":3,
+"api":"csp_DDMJ",
+"searchable":1,
+"quickSearch":1,
+"playerType":2,
+"filterable":0,
+"ext":"ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30="
+},
+{
+"key":"csp_XBP南坊",
+"name":"🏡南坊┃影视",
+"type":3,
+"api":"csp_XBPQ",
+"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{
+"站名":"南坊影视",
+"主页url":"https://www.nfapp.fun/appto/v1/home/cateData?id=1",
+"请求头":"User-Agent$Dart/2.10(dart:io)",
+"二次截取":"\"data\"*[&&]",
+"数组":"{&&}",
+"图片":"\"vod_pic\"*\"&&\"[替换:mac>>http]",
+"标题":"\"vod_name\"*\"&&\"",
+"副标题":"\"vod_remarks\"*\"&&\"",
+"链接":"https://www.nfapp.fun/appto/v1/vod/getVod?id=+\"vod_id\":&&,+&__platform=android&__ic=mssY6U737YHaGX4OjrBG8dnK8QrSnWRVo24nsmBF3LCxbm6oI23agJvbenxkbUneTU7oe4X%2F0N2hN%2BPw%2FxQiIVH%2BG7P4Yx0pESg0pQuc6PET1TqEiszTGAj%2Bay0GAXU1FlfHtuzo8zyrK1KkerSdLQ%3D%3D",
+"线路数组":"\"player_info\":{&&}",
+"线路标题":"\"show\"*\"&&\"",
+"导演":"vod_director\"*\"&&\"",
+"主演":"vod_actor\"*\"&&\"",
+"简介":"vod_blurb\"*\"&&\"",
+"播放二次截取":"&&[替换]",
+"播放数组":"urls*\\[&&\\]",
+"播放列表":"{&&}",
+"跳转播放链接":"\"url\"*\"&&\"",
+"播放标题":"\"name\"*\"&&\"",
+"跳转解析":"默认$空#主线[A]$http://110.42.2.247:880/analysis/json/?uid=2497&my=bgkmoqsuwBDILMPQU2&format=json&url=#主线[B]$http://110.42.3.71:5000/api/jiexi/xg?Key=IljsrKnj7T0M38IEWh&url=#主线[C]$https://wpjx.chanchuan.top/znjsonapi.php?url=",
+"播放链接":"解析+\"url\"*\"&&\"",
+"搜索url":"https://www.nfapp.fun/appto/v1/vod/getVodSearch?wd={wd}&page=1&type",
+"分类url":"https://www.nfapp.fun/appto/v1/vod/getLists?area={area}&lang={lang}&year={year}&type_id={cateId}&area=&order=time&type_name=&page={catePg}&pageSize=21;;u0t",
+"分类":"电影$2#电视剧$1#综艺$4#动漫$3"
+}
 },
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
