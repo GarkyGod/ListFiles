@@ -193,36 +193,78 @@
 "播放标题":">&&<",
 "播放列表":"<a&&/a>",
 "分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
-}
-},
-{
-"key":"蜗牛",
-"name":"🐌蜗牛┃BPQ",
-"type":3,
-"jar":"http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
-"api":"csp_XBPQ",
-"ext":{
-"分类url":"https://www.yizhiwo.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;a",
-"嗅探词":"xunlei.com#m3u8#.mp4",
-"分类":"电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4",
-"搜索模式":"1",
-"搜索url":"https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"
+"分类":"電影$1#電視劇$2#綜藝$3#動漫$4"
 }
 },
 		{
-			"key": "dr_兔小贝",
-			"name": "🧒儿童┃启蒙",
+			"key": "虎牙直播js",
+			"name": "🐯虎牙┃直播",
 			"type": 3,
 			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.755
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "csp_XYQBiu_斗鱼",
+			"name": "🦈斗鱼┃直播",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.755
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "csp_qiumi",
+			"name": "⚽️球迷┃球迷",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "csp_310直播",
+			"name": "🏀看球┃看球",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
+		{
+			"key": "csp_XPath_企鹅体育",
+			"name": "🐧企鹅┃体育",
+			"type": 3,
+			"api": "csp_XPathMacFilter",
 			"style": {
 				"type": "rect",
 				"ratio": 1.597
 			},
 			"searchable": 0,
 			"quickSearch": 0,
-			"changeable": 0
+			"changeable": 0,
+			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
 		},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
