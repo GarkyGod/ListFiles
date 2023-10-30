@@ -311,7 +311,8 @@
 "quickSearch":1,
 "filterable":0,
 "changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+"token":"5622cd606f9a49309c776d1b1ba7cd4f"
+// "ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
 },
 {
 "key":"Zhaozy",
