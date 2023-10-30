@@ -106,6 +106,34 @@
 			"changeable":1,
 			"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZTGJxVRTBDqPTqg1hIUJXNp3iJg1HE6Ku0DDW8bH6VwnMqkHV3FGMiXNUxKFVOX9ue0RveKTtG0CYRkK0lRw=="
 		},
+		{
+			"key": "csp_555dy",
+			"name": "555dy",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "csp_555",
+			"name": "555电影",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
 
 //////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 
@@ -228,22 +256,22 @@
 			"key": "csp_qiumi",
 			"name": "⚽️球迷┃球迷",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
-			"ext": "https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1
 			},
-			"searchable": 1,
-			"quickSearch": 1,
+			"searchable": 0,
+			"quickSearch": 0,
 			"changeable": 0
 		},
 		{
-			"key": "csp_555",
-			"name": "555电影",
+			"key": "csp_310直播",
+			"name": "🏀看球┃看球",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
-			"ext": "https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -266,6 +294,93 @@
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json"
 		},
+{
+"key":"索尼资源",
+"name":"😻索尼┃资源",
+"type":1,
+"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+"categories":[
+"动作片",
+"喜剧片",
+"爱情片",
+"科幻片",
+"恐怖片",
+"剧情片",
+"战争片",
+"国产剧",
+"欧美剧",
+"韩剧",
+"日剧",
+"港剧",
+"台剧",
+"泰剧",
+"海外剧",
+"纪录片",
+"大陆综艺",
+"日韩综艺",
+"港台综艺",
+"欧美综艺",
+"国产动漫",
+"日韩动漫",
+"欧美动漫",
+"动画片",
+"港台动漫",
+"海外动漫",
+"演唱会",
+"体育赛事",
+"篮球",
+"足球",
+"预告片",
+"斯诺克",
+"影视解说"
+],
+"searchable":1,
+"quickSearch":1
+},
+{
+"key":"YiSo",
+"name":"☁️易搜┃4K搜",
+"type":3,
+"api":"csp_YiSo",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+},
+{
+"key":"Zhaozy",
+"name":"🎉资源┃4K搜",
+"type":3,
+"api":"csp_Zhaozy",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
+},
+{
+"key":"PanSou",
+"name":"☁️盘搜┃4┃搜",
+"type":3,
+"api":"csp_PanSou",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+},
+{
+"key":"UpYun",
+"name":"☁️Up搜┃4K搜",
+"type":3,
+"api":"csp_UpYun",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
