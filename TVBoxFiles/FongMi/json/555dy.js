@@ -18,8 +18,8 @@ var rule = {
     headers:{'User-Agent':'okhttp/4.1.0'},
     timeout:5000,
     // 分类筛选 /api.php/app/nav || /xgapp.php/v1/nav || /api.php/v1.vod/types
-    class_name:'电影&连续剧&动漫&综艺纪录',
-    class_url:'1&2&4&3',
+    class_name:'电影&连续剧&动漫&综艺纪录&福利',
+    class_url:'1&2&4&3&124',
     play_parse:true,
 	lazy:`js:
 		let play_Url = '';
