@@ -220,7 +220,7 @@
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"searchable": 0,
+			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0
 		},
@@ -234,7 +234,7 @@
 				"type": "rect",
 				"ratio": 1
 			},
-			"searchable": 0,
+			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0
 		},
