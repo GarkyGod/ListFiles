@@ -210,7 +210,7 @@
 				"ratio":1.433
 			},
 			"ext":{
-				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"json":"https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json",
 				"type":"",
 				"cookie":""
 			}
