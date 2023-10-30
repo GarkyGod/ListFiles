@@ -203,50 +203,14 @@
 "jar":"http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
 "api":"csp_XBPQ",
 "ext":{
-"分类url":"https://www.yizhiwo.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;au0",
+"分类url":"https://www.yizhiwo.cc/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;a",
 "嗅探词":"xunlei.com#m3u8#.mp4",
 "分类":"电影$1#剧集$2#国产剧集$20#欧美剧集$21#动漫$3#综艺$4",
 "搜索模式":"1",
 "搜索url":"https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"
 }
 },
-{
-"key":"速搜",
-"name":"🇸🇩速搜┃BPQ",
-"type":3,
-"api":"csp_XBPQ",
-"playerType":"1",
-"jar":"http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
-"ext":{
-"数组":"class=\"top&&</li",
-"请求头":"AppleCoreMedia/1.0.0.17D50(iPhone;U;CPUOS13_3_2likeMacOSX;zh_cn)",
-"嗅探词":".m3u8#.mp4#download-cdn.123pan.cn",
-"图片":"data-original=\"&&\"",
-"链接":"/v_+/project-&&.html+_1_1.html",
-"线路数组":"class='swiper-slide&&</a>[不包含:lzm3u8#ffm3u8]",
-"线路标题":"data-from=\"&&\"",
-"影片类型":"备注：&&</li>",
-"影片年代":"年份：</b>&&</li>",
-"影片地区":"地区：&&</li>",
-"导演":"<h2>&&</h2>",
-"主演":"演员：&&</li>",
-"简介":"简介：&&</li>",
-"播放数组":"<ulclass='content-playlist&&</ul",
-"播放列表":"<a&&/a>",
-"跳转播放链接":"https://web-pro2.cjjd18.com.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
-"二次跳转播放链接":"Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
-"搜索url":"https://www.sstv.pw/so.html?wd={wd}",
-"搜索模式":"1",
-"搜索二次截取":"<divclass=\"row\">&&<iclass=\"posts-nav",
-"搜索数组":"<divclass=\"card-body\">&&/i>[包含:速搜影院]",
-"搜索图片":"data-src=\"&&\"",
-"搜索标题":"<strong>&&</strong>",
-"搜索副标题":"速搜",
-"搜索链接":"https://www.sstv.pw/v_+<ahref=\"https://www.sstv.pw/project-&&.html+_1_1.html",
-"分类url":"https://www.sstv.pw/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
-"分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
-}
-},
+
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
