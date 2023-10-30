@@ -85,7 +85,7 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-//"jar":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+// "jar":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 
 {
@@ -112,7 +112,7 @@
 "key":"皮皮虾",
 "name":"🦐皮虾┃App",
 "type":3,
-"jar":"spider":"http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+"jar":"http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
 "api":"csp_AppSK",
 "searchable":1,
 "quickSearch":1,
