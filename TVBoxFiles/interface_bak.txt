@@ -210,7 +210,20 @@
 "搜索url":"https://www.yizhiwo.cc/vodsearch/-------------.html?wd={wd}"
 }
 },
-
+		{
+			"key": "dr_兔小贝",
+			"name": "🧒儿童┃启蒙",
+			"type": 3,
+			"api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0
+		},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
