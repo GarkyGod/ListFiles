@@ -331,7 +331,7 @@
 			"name":"採集|紅牛",
 			"type":1,
 			"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
-			"playUrl": "json:https://player.bdxzym3u8.com/dplayer/?url=",
+			// "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable": 0
