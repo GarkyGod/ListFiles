@@ -323,6 +323,7 @@
 			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",  // https://tiankongzy.com/,
 			// "api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
 			// "playUrl": "https://jx.huishij.com/yun/?url=",
+			"playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable": 0
@@ -333,6 +334,7 @@
 			"type":1,
 			"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
 			// "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
+			"playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable": 0
