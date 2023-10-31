@@ -352,7 +352,7 @@
 			"key": "嘉靓",
 			"name": "嘉良┃影视",
 			"type": 3,
-			https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
 			"api": "csp_AppYsV2",
 			"playerType": 2,
 			"searchable": 1,
