@@ -337,7 +337,7 @@
 			"quickSearch":1,
 			"filterable": 0
 		},
-{"key":"WoGG","name":"玩偶","type":"3","jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/cs.jar","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"195e30c1255970effc5480021f25fcd9#5622cd606f9a49309c776d1b1ba7cd4f"},
+{"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/blob/master/lib/lf_search3_min.js","ext":"18+"},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
