@@ -104,7 +104,7 @@
 			"quickSearch":1,
 			"changeable":0,
 			"style":{"type":"rect","ratio":1},
-			// "ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js"
+
 			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js"
 		},
 		{
