@@ -321,6 +321,7 @@
 			"name":"採集|天空",
 			"type":0,
 			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",  // https://tiankongzy.com/,
+			// "api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
 			// "playUrl": "https://jx.huishij.com/yun/?url=",
 			"searchable":1,
 			"quickSearch":1,
