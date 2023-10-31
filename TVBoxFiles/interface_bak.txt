@@ -242,7 +242,7 @@
 			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
 			"searchable":0,
 			"quickSearch":0,
-			"changeable":0，
+			"changeable":0,
 			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
 			"style":{"type":"rect","ratio":1}
 		},
