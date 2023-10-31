@@ -103,8 +103,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
-			"style":{"type":"rect","ratio":1},
-			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js"
+			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"style":{"type":"rect","ratio":1}
 		},
 		{
 			"key":"key_pipixia",
