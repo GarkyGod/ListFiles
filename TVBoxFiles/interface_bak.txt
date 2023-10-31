@@ -270,6 +270,50 @@
 			"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json",
 			"style":{"type":"rect","ratio":1.597}
 		},
+		{
+			"key":"key_yiso",
+			"name":"搜索|易搜",
+			"type":3,
+			"api":"csp_YiSo",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
+		{
+			"key":"key_zhaozy",
+			"name":"搜索|找資源",
+			"type":3,
+			"api":"csp_Zhaozy",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
+		},
+		{
+			"key":"key_pansou",
+			"name":"搜索|盤搜",
+			"type":3,
+			"api":"csp_PanSou",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
+		{
+			"key":"key_upyun",
+			"name":"搜索|Up搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
 
 //////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 
