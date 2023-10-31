@@ -66,17 +66,26 @@
 			"changeable":1
 		},
 		{
-			"key":"key_world",
-			"name":"影視|世界",
+			"key":"key_world_1",
+			"name":"影視|世界1",
 			"type":3,
-			// "jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
-			"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			// "ext":"http://106.52.241.21:83/api.php/app/"
 			"ext":"http://103.197.25.136:3836/api.php/app/"
+		},
+		{
+			"key":"key_world_2",
+			"name":"影視|世界_2",
+			"type":3,
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://106.52.241.21:83/api.php/app/"
 		},
 		{
 			"key":"key_woggcli",
@@ -168,7 +177,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|雲播",
 			"type":3,
-			"jar":"http://xhww.fun:63/小米/暴脾气.jar;md5;9d8dd0772f214960fa8bfb0184e98644",
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab12.jar",
 			"api":"csp_XBPQ",
 			"ext":{
 				"影片类型":"分类：&&主演",
@@ -339,7 +348,18 @@
 			"quickSearch":1,
 			"filterable": 0
 		},
-
+		{
+			"key": "嘉靓",
+			"name": "嘉良┃影视",
+			"type": 3,
+			https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar
+			"api": "csp_AppYsV2",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://api.jialiangos.com:81/api.php/app/"
+		},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
