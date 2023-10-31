@@ -320,8 +320,8 @@
 			"key":"key_tiankong",
 			"name":"採集|天空",
 			"type":1,
-			"api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
-			"playUrl": "json:https://jx.huishij.com/yun/?url=",
+			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+			// "playUrl": "json:https://jx.huishij.com/yun/?url=",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable": 0
