@@ -319,7 +319,7 @@
 		{
 			"key":"key_tiankong",
 			"name":"採集|天空",
-			"type":1,
+			"type":0,
 			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
 			// "playUrl": "json:https://jx.huishij.com/yun/?url=",
 			"searchable":1,
