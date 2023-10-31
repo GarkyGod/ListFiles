@@ -74,8 +74,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			// "ext":"http://106.52.241.21:83/api.php/app/"
-			"ext":"http://103.197.25.136:3836/api.php/app/"
+			"ext":"http://106.52.241.21:83/api.php/app/"
+			// "ext":"http://103.197.25.136:3836/api.php/app/"
 		},
 		{
 			"key":"key_woggcli",
@@ -338,7 +338,7 @@
 			"quickSearch":1,
 			"filterable": 0
 		},
-{"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/blob/master/lib/lf_search3_min.js","ext":"18+"},
+
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
