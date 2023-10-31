@@ -104,10 +104,7 @@
 			"quickSearch":1,
 			"changeable":0,
 			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
-			"style":{
-				"type":"rect",
-				"ratio":1
-			}
+			"style":{"type":"rect","ratio":1}
 		},
 		{
 			"key":"key_pipixia",
