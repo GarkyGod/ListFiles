@@ -69,13 +69,14 @@
 			"key":"key_world",
 			"name":"影視|世界",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			// "jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://106.52.241.21:83/api.php/app/"
-			// "ext":"http://103.197.25.136:3836/api.php/app/"
+			// "ext":"http://106.52.241.21:83/api.php/app/"
+			"ext":"http://103.197.25.136:3836/api.php/app/"
 		},
 		{
 			"key":"key_woggcli",
