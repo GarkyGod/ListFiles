@@ -95,7 +95,21 @@
 			"filterable":1,
 			"ext":"http://xhww.fun:63/小米/nangua.js"
 		},
-
+		{
+			"key":"key_555dy",
+			"name":"影視|三五",
+			"type":3,
+			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
+			// "ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"style":{
+				"type":"rect",
+				"ratio":1
+			}
+		},
 		{
 			"key":"key_pipixia",
 			"name":"影視|皮皮蝦",
@@ -212,7 +226,10 @@
 			"quickSearch":0,
 			"changeable":0,
 			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-			"style":{"type":"rect","ratio":1.755}
+			"style":{
+				"type":"rect",
+				"ratio":1.755
+			}
 		},
 		{
 			"key":"key_douyu",
@@ -223,7 +240,10 @@
 			"quickSearch":0,
 			"changeable":0,
 			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-			"style":{"type":"rect","ratio":1.755}
+			"style":{
+				"type":"rect",
+				"ratio":1.755
+			}
 		},
 		{
 			"key":"key_qiumi",
@@ -234,7 +254,10 @@
 			"quickSearch":0,
 			"changeable":0，
 			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
-			"style":{"type":"rect","ratio":1}
+			"style":{
+				"type":"rect",
+				"ratio":1
+			}
 		},
 		{
 			"key":"csp_310zhibo",
@@ -245,7 +268,10 @@
 			"quickSearch":0,
 			"changeable":0,
 			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
-			"style":{"type":"rect","ratio":1}
+			"style":{
+				"type":"rect",
+				"ratio":1
+			}
 		},
 		{
 			"key":"key_qietiyu",
@@ -256,7 +282,10 @@
 			"quickSearch":0,
 			"changeable":0,
 			"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json",
-			"style":{"type":"rect","ratio":1.597}
+			"style":{
+				"type":"rect",
+				"ratio":1.597
+			}
 		},
 		{
 			"key":"key_yiso",
