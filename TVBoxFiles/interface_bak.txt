@@ -104,7 +104,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://xhww.fun:63/小米/nangua.js"
+			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
 		},
 		{
 			"key":"key_555dy",
