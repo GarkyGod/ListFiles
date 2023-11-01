@@ -370,6 +370,7 @@
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
+{"key":"nivod","name":"影视 | 泥巴","type":3,"api":"https://github.com/gaotianliuyun/gao/blob/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/nivod_op.js"},
 
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
