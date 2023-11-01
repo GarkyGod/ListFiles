@@ -360,6 +360,16 @@
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
+		{
+			"key":"key_mv_vod",
+			"name":"明星MV",
+			"type":1,
+			"api":"https://mv.wogg.link/mv/vod",
+			"style":{"type":"oval"},
+			"searchable":1,
+			"quickSearch":0,
+			"changeable":0
+		},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
