@@ -370,7 +370,8 @@
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
-{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"1080dyw","name":"影视 | 视界","type":3,"api":"AppYsV2","ext":"https://www.1080dyw.cc/api.php/v1.vod"},
 {"key":"miniku","name":"影视 | 迷你","type":3,"api":"AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"aidi","name":"影视 | 爱迪","type":3,"api":"AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
