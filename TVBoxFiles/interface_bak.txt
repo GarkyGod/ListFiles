@@ -6,8 +6,8 @@
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
 //	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
 //	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
-	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
-//	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 //	"lives":[
@@ -325,6 +325,16 @@
 			"changeable":0,
 			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
 		},
+		{
+			"key":"key_mv_vod",
+			"name":"音樂|明星MV",
+			"type":1,
+			"api":"https://mv.wogg.link/mv/vod",
+			"style":{"type":"oval"},
+			"searchable":1,
+			"quickSearch":0,
+			"changeable":0
+		},
 
 //////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
 		{
@@ -349,8 +359,8 @@
 			"filterable": 0
 		},
 		{
-			"key": "嘉靓",
-			"name": "嘉良┃影视",
+			"key": "key_jialiang",
+			"name": "影视|嘉良",
 			"type": 3,
 			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
 			"api": "csp_AppYsV2",
@@ -360,16 +370,7 @@
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
-		{
-			"key":"key_mv_vod",
-			"name":"明星MV",
-			"type":1,
-			"api":"https://mv.wogg.link/mv/vod",
-			"style":{"type":"oval"},
-			"searchable":1,
-			"quickSearch":0,
-			"changeable":0
-		},
+
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
