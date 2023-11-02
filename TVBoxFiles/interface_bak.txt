@@ -387,7 +387,14 @@
 {"key":"jinying","name":"影视|金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/"},
 {"key":"jisu","name":"影视|极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/"},
 {"key":"kuaiche","name":"影视|快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/"},
-{"key":"liangzi","name":"影视|量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/"},
+{
+"key":"liangzi",
+"name":"影视|量子",
+"type":1,
+"api":"https://cj.lziapi.com/api.php/provide/vod/",
+// "categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","预告片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","短剧","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克","电影解说","演员","新闻资讯","电影资讯","娱乐新闻"]
+"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","预告片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","短剧","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克","电影解说","演员","新闻资讯","电影资讯","娱乐新闻"]
+},
 {"key":"qihu","name":"影视|奇虎","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/"},
 {"key":"guangsuapi","name":"影视|光速","type":0,"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/"},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
