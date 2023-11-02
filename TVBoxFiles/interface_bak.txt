@@ -388,7 +388,7 @@
 {"key":"jisu","name":"影视|极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/"},
 {"key":"kuaiche","name":"影视|快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/"},
 {
-"key":"key_liangzi_xml",  //  https://caiji.kczyapi.com/
+"key":"key_kuaiche_xml",  //  https://caiji.kczyapi.com/
 "name":"採集|快車Xml",
 "type":0,
 "api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
@@ -398,7 +398,7 @@
 // "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育","斯诺克","足球","篮球","足球"]
 },
 {
-"key":"key_liangzi_json",
+"key":"key_kuaiche_json",
 "name":"採集|快車Json",
 "type":1,
 "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
