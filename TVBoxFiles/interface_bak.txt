@@ -216,164 +216,26 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-		{
-			"key":"key_soni",
-			"name":"採集|索尼",
-			"type":1,
-			"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"searchable":1,
-			"quickSearch":1,
-			"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","爽文短剧","电影","电视剧","综艺","动漫","4K电影"]
-			// "categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"]
-		},
-		{
-			"key":"key_huya",
-			"name":"直播|虎牙",
-			"type":3,
-			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"searchable":0,
-			"quickSearch":0,
-			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
-			"style":{"type":"rect","ratio":1.755}
-		},
-		{
-			"key":"key_douyu",
-			"name":"直播|鬥魚",
-			"type":3,
-			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
-			"searchable":0,
-			"quickSearch":0,
-			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
-			"style":{"type":"rect","ratio":1.755}
-		},
-		{
-			"key":"key_qiumi",
-			"name":"直播|球迷",
-			"type":3,
-			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"searchable":0,
-			"quickSearch":0,
-			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
-			"style":{"type":"rect","ratio":1}
-		},
-		{
-			"key":"csp_310zhibo",
-			"name":"直播|看球",
-			"type":3,
-			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-			"searchable":0,
-			"quickSearch":0,
-			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
-			"style":{"type":"rect","ratio":1}
-		},
-		{
-			"key":"key_qietiyu",
-			"name":"直播|企鵝體育",
-			"type":3,
-			"api":"csp_XPathMacFilter",
-			"searchable":0,
-			"quickSearch":0,
-			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json",
-			"style":{"type":"rect","ratio":1.597}
-		},
-		{
-			"key":"key_yiso",
-			"name":"搜索|易搜",
-			"type":3,
-			"api":"csp_YiSo",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"changeable":0,
-			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-		},
-		{
-			"key":"key_zhaozy",
-			"name":"搜索|找資源",
-			"type":3,
-			"api":"csp_Zhaozy",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"changeable":0,
-			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
-		},
-		{
-			"key":"key_pansou",
-			"name":"搜索|盤搜",
-			"type":3,
-			"api":"csp_PanSou",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"changeable":0,
-			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-		},
-		{
-			"key":"key_upyun",
-			"name":"搜索|Up搜",
-			"type":3,
-			"api":"csp_UpYun",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":0,
-			"changeable":0,
-			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-		},
-		{
-			"key":"key_mv_vod",
-			"name":"音樂|明星MV",
-			"type":1,
-			"api":"https://mv.wogg.link/mv/vod",
-			"style":{"type":"oval"},
-			"searchable":1,
-			"quickSearch":0,
-			"changeable":0
-		},
-
-//////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
-		{
-			"key":"key_tiankong",  // https://tiankongzy.com/
-			"name":"採集|天空",
-			"type":0,
-			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
-			// "api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
-			// "playUrl": "https://jx.huishij.com/yun/?url=",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable": 0,
-			"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"]
-		},
-		{
-			"key":"key_beidouxing",
-			"name":"採集|紅牛",
-			"type":1,
-			"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
-			// "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable": 0,
-			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","伦理片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
-			// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
-		},
-		{
-			"key": "key_jialiang",
-			"name": "影视|嘉良",
-			"type": 3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
-			"api": "csp_AppYsV2",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://api.jialiangos.com:81/api.php/app/"
-		},
-{"key":"xinlang","name":"影视|新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
+{
+"key":"key_suoni_xml",  //  https://suonizy.com/
+"name":"採集|索尼Xml",
+"type":0,
+"api":"https://suoniapi.com/api.php/provide/vod/at/xml",
+"searchable":1,
+"changeable":1,
+"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","4K电影","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","爽文短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事","篮球","足球","斯诺克","影视解说","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]
+// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","4K电影","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","爽文短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事","篮球","足球","斯诺克","影视解说"]
+},
+{
+"key":"key_suoni_json",
+"name":"採集|索尼Json",
+"type":1,
+"api":"https://suoniapi.com/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1,
+"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","4K电影","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","爽文短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事","篮球","足球","斯诺克","影视解说","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"]
+// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","4K电影","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","爽文短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事","篮球","足球","斯诺克","影视解说"]
+},
 {
 "key":"key_bdzy_xml",  //  https://xinlangzy.com/
 "name":"採集|新浪Xml",
@@ -392,8 +254,6 @@
 "categories":["电影","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","动漫电影","伦理片","电视剧","大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","综艺","体育"]
 // "categories":["电影","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","动漫电影","电视剧","大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","综艺","体育"]
 },
-
-{"key":"bdzy","name":"影视|百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
 {
 "key":"key_bdzy_xml",  //  https://api.apibdzy.com/
 "name":"採集|百度Xml",
@@ -412,8 +272,6 @@
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","伦理片","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
 // "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
 },
-
-{"key":"bfzy","name":"影视|暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
 {
 "key":"key_bfzy_xml",  //  http://bfzy.tv/
 "name":"採集|暴風Xml",
@@ -432,8 +290,6 @@
 "categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
 // "categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
 },
-
-{"key":"394tv","name":"影视|39","type":1,"api":"https://www.394tv.com/api.php/provide/vod/"},
 {
 "key":"key_394tv_xml",  //  https://www.394tv.com/
 "name":"採集|策馳Xml",
@@ -450,8 +306,6 @@
 "api":"https://www.394tv.com/api.php/provide/vod/",
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"]
 },
-
-{"key":"piaoling","name":"影视|飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/"},
 {
 "key":"key_piaoling_xml",  //  https://www.p21000.com/
 "name":"採集|飄零Xml",
@@ -470,8 +324,6 @@
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","邵氏大片","动漫电影","微电影","理论片","连续剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","综艺","动漫","站内新闻","娱乐动态","八卦爆料","影片资讯"]
 // "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","邵氏大片","动漫电影","微电影","连续剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","综艺","动漫","站内新闻","娱乐动态","八卦爆料","影片资讯"]
 },
-
-{"key":"yingtu","name":"影视|影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/"},
 {
 "key":"key_yingtu_xml",  //  http://
 "name":"採集|影圖Xml",
@@ -630,6 +482,154 @@
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","记录片","伦理片","电视剧","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","体育赛事"]
 // "categories":["电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","记录片","电视剧","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","体育赛事"]
 },
+		{
+			"key":"key_huya",
+			"name":"直播|虎牙",
+			"type":3,
+			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+			"style":{"type":"rect","ratio":1.755}
+		},
+		{
+			"key":"key_douyu",
+			"name":"直播|鬥魚",
+			"type":3,
+			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+			"style":{"type":"rect","ratio":1.755}
+		},
+		{
+			"key":"key_qiumi",
+			"name":"直播|球迷",
+			"type":3,
+			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+			"style":{"type":"rect","ratio":1}
+		},
+		{
+			"key":"csp_310zhibo",
+			"name":"直播|看球",
+			"type":3,
+			"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+			"style":{"type":"rect","ratio":1}
+		},
+		{
+			"key":"key_qietiyu",
+			"name":"直播|企鵝體育",
+			"type":3,
+			"api":"csp_XPathMacFilter",
+			"searchable":0,
+			"quickSearch":0,
+			"changeable":0,
+			"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/企鹅直播.json",
+			"style":{"type":"rect","ratio":1.597}
+		},
+		{
+			"key":"key_yiso",
+			"name":"搜索|易搜",
+			"type":3,
+			"api":"csp_YiSo",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
+		{
+			"key":"key_zhaozy",
+			"name":"搜索|找資源",
+			"type":3,
+			"api":"csp_Zhaozy",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
+		},
+		{
+			"key":"key_pansou",
+			"name":"搜索|盤搜",
+			"type":3,
+			"api":"csp_PanSou",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
+		{
+			"key":"key_upyun",
+			"name":"搜索|Up搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":0,
+			"changeable":0,
+			"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+		},
+		{
+			"key":"key_mv_vod",
+			"name":"音樂|明星MV",
+			"type":1,
+			"api":"https://mv.wogg.link/mv/vod",
+			"style":{"type":"oval"},
+			"searchable":1,
+			"quickSearch":0,
+			"changeable":0
+		},
+
+//////////////////////////////////////////////////  Debug  //////////////////////////////////////////////////
+		{
+			"key":"key_tiankong",  // https://tiankongzy.com/
+			"name":"採集|天空",
+			"type":0,
+			"api":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/",
+			// "api":"https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
+			// "playUrl": "https://jx.huishij.com/yun/?url=",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable": 0,
+			"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"]
+		},
+		{
+			"key":"key_beidouxing",
+			"name":"採集|紅牛",
+			"type":1,
+			"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+			// "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable": 0,
+			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","伦理片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
+			// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
+		},
+		{
+			"key": "key_jialiang",
+			"name": "影视|嘉良",
+			"type": 3,
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
+			"api": "csp_AppYsV2",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://api.jialiangos.com:81/api.php/app/"
+		},
+
 
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/593d6d85a8e05ea60219d0ed312441d92d4f56a1/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
