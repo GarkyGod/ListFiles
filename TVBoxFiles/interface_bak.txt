@@ -217,12 +217,14 @@
 			"filterable":1
 		},
 {
-    "key": "淘片资源",
-    "name": "冬青I淘片采集",
+    "key": "高清资源网",
+    "name": "️冬青I1080采集",
     "type": 1,
-    "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+    "api": "https://api.1080zyku.com/inc/apijson.php",
+    "playUrl": "https://vip.zykbf.com/?url=",
     "searchable": 1,
-    "quickSearch": 1
+    "quickSearch": 1,
+    "filterable": 1
 },
 
 {
