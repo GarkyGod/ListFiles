@@ -346,7 +346,8 @@
 			// "playUrl": "https://jx.huishij.com/yun/?url=",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable": 0
+			"filterable": 0,
+			"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"]
 		},
 		{
 			"key":"key_beidouxing",
@@ -356,7 +357,9 @@
 			// "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable": 0
+			"filterable": 0,
+			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事","伦理片"]
+			// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
 		},
 		{
 			"key": "key_jialiang",
@@ -381,7 +384,6 @@
 {"key":"feifan","name":"影视|非凡","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/"},
 {"key":"feisu","name":"影视|飞速","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/"},
 {"key":"guangsu","name":"影视|光速","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/"},
-{"key":"hongniu","name":"影视|红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/"},
 {"key":"jinying","name":"影视|金鹰","type":1,"api":"https://jinyingzy.com/provide/vod/"},
 {"key":"jisu","name":"影视|极速","type":1,"api":"https://jszyapi.com/api.php/provide/vod/"},
 {"key":"kuaiche","name":"影视|快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/"},
