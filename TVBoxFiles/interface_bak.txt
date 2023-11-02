@@ -217,6 +217,15 @@
 			"filterable":1
 		},
 {
+    "key": "淘片资源",
+    "name": "冬青I淘片采集",
+    "type": 1,
+    "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+    "searchable": 1,
+    "quickSearch": 1
+},
+
+{
 "key":"key_suoni_xml",  //  https://suonizy.com/
 "name":"採集|索尼Xml",
 "type":0,
