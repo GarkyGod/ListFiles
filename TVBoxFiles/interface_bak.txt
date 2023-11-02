@@ -376,16 +376,49 @@
 {"key":"xinlang","name":"影视|新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
 {"key":"bdzy","name":"影视|百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/"},
 {"key":"bfzy","name":"影视|暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/"},
+{
+"key":"key_bfzy_xml",  //  http://bfzy.tv/
+"name":"採集|暴風Xml",
+"type":0,
+"api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
+"searchable":1,
+"changeable":1,
+"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+// "categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+},
+{
+"key":"key_bfzy_json",
+"name":"採集|暴風Json",
+"type":1,
+"api":"https://bfzyapi.com/api.php/provide/vod/",
+"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+// "categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+},
+
 {"key":"394tv","name":"影视|39","type":1,"api":"https://www.394tv.com/api.php/provide/vod/"},
-{"key":"languang","name":"影视|蓝光","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/"},
-{"key":"lehuo","name":"影视|乐活","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/"},
+{
+"key":"key_394tv_xml",  //  https://www.394tv.com/
+"name":"採集|策馳Xml",
+"type":0,
+"api":"https://www.394tv.com/api.php/provide/vod/at/xml",
+"searchable":1,
+"changeable":1,
+"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"]
+},
+{
+"key":"key_394tv_json",
+"name":"採集|策馳Json",
+"type":1,
+"api":"https://www.394tv.com/api.php/provide/vod/",
+"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"]
+},
 
 {"key":"piaoling","name":"影视|飘零","type":1,"api":"https://p2100.net/api.php/provide/vod/"},
 {
 "key":"key_piaoling_xml",  //  https://www.p21000.com/
 "name":"採集|飄零Xml",
 "type":0,
-"api":"https://p2100.net/api.php/provide/vod/at/xml",
+"api":"https://p2100.net/api.php/provide/vod/at/xml/",
 "searchable":1,
 "changeable":1,
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","邵氏大片","动漫电影","微电影","理论片","连续剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","综艺","动漫","站内新闻","娱乐动态","八卦爆料","影片资讯"]
@@ -405,7 +438,7 @@
 "key":"key_yingtu_xml",  //  http://
 "name":"採集|影圖Xml",
 "type":0,
-"api":"https://cj.vodimg.top/api.php/provide/vod/at/xml/",
+"api":"https://cj.vodimg.top/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","连续剧","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","演员"]
@@ -421,7 +454,7 @@
 "key":"key_feifan_xml",  //  http://
 "name":"採集|非凡Xml",
 "type":0,
-"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
@@ -455,7 +488,7 @@
 "key":"key_jinying_xml",  //  https://jinyingzy.com/
 "name":"採集|金鷹Xml",
 "type":0,
-"api":"https://jyzyapi.com/provide/vod/at/xml/",
+"api":"https://jyzyapi.com/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电视剧","韩剧","日剧","马泰剧","内地剧","欧美剧","香港剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"]
@@ -491,7 +524,7 @@
 "key":"key_kuaiche_xml",  //  https://caiji.kczyapi.com/
 "name":"採集|快車Xml",
 "type":0,
-"api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
+"api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","伦理片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育","斯诺克","足球","篮球","足球"]
@@ -509,7 +542,7 @@
 "key":"key_liangzi_xml",  //  http://lzzy.tv/
 "name":"採集|量子Xml",
 "type":0,
-"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","预告片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻"]
@@ -527,7 +560,7 @@
 "key":"key_qihu_xml",  //  https://caiji.qhzyapi.com/
 "name":"採集|奇虎Xml",
 "type":0,
-"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml/",
+"api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","纪录片","动画片","伦理片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动漫","欧美动漫","日本动漫","国产动漫","综艺","欧美综艺","日韩综艺","大陆综艺","港台综艺","体育"]
@@ -545,7 +578,7 @@
 "key":"key_guangsu_xml",  //  https://www.guangsuzy.com/
 "name":"採集|光速Xml",
 "type":0,
-"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+"api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","记录片","伦理片","电视剧","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","体育赛事"]
