@@ -66,6 +66,17 @@
 			"changeable":1
 		},
 		{
+			"key":"key_Czsapp",
+			"name":"影視|廠長2",
+			"type":3,
+			"jar":"https://ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"api":"csp_Czsapp",
+			"playerType":2,
+			"searchable":1,
+			"changeable":1,
+			"ext": "https://www.czzy88.com/"
+		},
+		{
 			"key":"key_world_1",
 			"name":"影視|世界1",
 			"type":3,
