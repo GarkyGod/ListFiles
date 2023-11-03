@@ -217,14 +217,14 @@
 			"filterable":1
 		},
 {
-    "key": "xml_猫放",
-    "name": "🔥冬青I猫放采集",
+    "key": "魔都资源",
+    "name": "🔥冬青I魔都动漫",
     "type": 1,
-    "api": "https://www.mervod.com/api.php/provide/vod/",
+    "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
+    "playUrl": "https://www.moduzy.com/jiexi/?url=",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
-
 },
 
 {
