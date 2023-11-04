@@ -61,7 +61,7 @@
 			"key":"key_czzy",
 			"name":"影視|廠長",
 			"type":3,
-			"api":"https://ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"changeable":0
 		},
@@ -69,7 +69,7 @@
 			"key":"key_Czsapp",
 			"name":"影視|廠長2",
 			"type":3,
-			"jar":"https://ghproxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
 			"api":"csp_Czsapp",
 			"playerType":2,
 			"searchable":1,
