@@ -87,6 +87,16 @@
 			"searchable":1,
 			"changeable":0
 		},
+    {
+      "key": "py_czspp",
+      "name": "🔥厂长影视",
+      "type": 3,
+      "api": "py_czspp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_czspp.py"
+    },
 		{
 			"key":"jojo",
 			"name":"JOJO",
