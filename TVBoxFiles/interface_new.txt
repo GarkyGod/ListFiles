@@ -70,6 +70,14 @@
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
+		"key":"櫻花",
+		"name":"櫻花",
+		"type":3,
+		"api":"csp_Ying",
+		"searchable":1,
+		"changeable":1
+	},
+	{
 		"key":"csp_xpath_age",
 		"name":"AGE动漫",
 		"type":3,
@@ -79,7 +87,8 @@
 		"quickSearch":1,
 		"filterable":1,
 		"changeable":0,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/agefans.json"},
+		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/agefans.json"
+	},
 
 //////////////////////////////// 测试 /////////////////////////////////////
 	{
