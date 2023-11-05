@@ -98,7 +98,11 @@
 		"quickSearch":1,
 		"filterable":1,
 		"ext":"https://pastebin.com/raw/LR84aD8a"},
-  
+{"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"小纸条_cli","name":"小纸条┃T4","type":4,"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt","api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","timeout":30},
+
+
+
 //////////////////////////////// 最后 /////////////////////////////////////
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 	{"key":"END","name":"END of LIST","type":0,"api":""}],
