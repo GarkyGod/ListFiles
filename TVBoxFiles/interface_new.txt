@@ -70,8 +70,8 @@
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
-		"key":"櫻花",
-		"name":"櫻花",
+		"key":"key_yinghua",
+		"name":"動漫|櫻花動漫",
 		"type":3,
 		"api":"csp_Ying",
 		"searchable":1,
@@ -79,7 +79,7 @@
 	},
 	{
 		"key":"csp_xpath_age",
-		"name":"AGE动漫",
+		"name":"動漫|AGE动漫",
 		"type":3,
 		"api":"csp_XPathFilter", 
 		// "api":"csp_XPath",     // "api":"csp_XPathAge",
