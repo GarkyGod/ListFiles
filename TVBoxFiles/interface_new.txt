@@ -34,136 +34,46 @@
 			"changeable":1,
 			"ext": "https://www.czzy88.com/"
 		},
-{
-	"key":"key_nangua",
-	"name":"影視|南瓜",
-	"type":3,
-	"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
-},
-	{
-		"key":"csp_555",
-		"name":"555电影",
-		"type":3,
-		"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
-		"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
-		"style":{
-			"type":"rect",
-			"ratio":1
+		{
+			"key":"key_nangua",
+			"name":"影視|南瓜",
+			"type":3,
+			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
 		},
+		{
+			"key":"key_555dy",
+			"name":"影視|三五",
+			"type":3,
+			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"style":{"type":"rect","ratio":1},
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":0
+		},
+//////////////////////////////// api資源網 /////////////////////////////////////
+	{
+		"key":"key_bdzy_xml",  //  https://api.apibdzy.com/
+		"name":"採集|百度Xml",
+		"type":0,
+		"api":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
-		"quickSearch":1,
-		"changeable":0
+		"changeable":1,
+		// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","伦理片","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
+		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
 	},
-	{
-		"key":"世界",
-		"name":"世界┃聚合",
-		"type":3,
-		"api":"csp_AppYsV2",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"jar":"http://xhww.fun:63/小米/ab13.jar;md5;52a96f8841a0b952cbab5af9420be0f5",
-		"ext":"http://103.197.25.136:3836/api.php/app/"
-	},
-	{
-		"key": "csp_xpath_libv",
-		"name":"LIBVIO",
-		"type":3,
-		"api":"csp_XPathMacFilter", // "api":"csp_XPath",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/libv.json"},
-	{
-		"key": "csp_xpath_ohoh",
-		"name":"HoHoTV",
-		"type":3,
-		"api":"csp_XPathMacFilter",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/hoho.json"},
-	{
-		"key": "csp_xpath_cokemv",
-		"name":"COKEMV",
-		"type":3,
-		"api":"csp_XPathMacFilter", 
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/cokem.json"},
-	{
-		"key": "csp_xpath_gimy",
-		"name":"Gimy剧迷",
-		"type":3,
-		"api":"csp_XPathMacFilter", 
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/gimy.json"},
-	{
-		"key": "csp_xpath_dbk",
-		"name":"独播库",
-		"type":3,
-		"api":"csp_XPathDbk",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"ext":"https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/main/xp/duboku.json",
-		"jar": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true"},
-    {
-      "key":"zjdr",
-      "name":"追剧达人",
-      "type":0,
-      "api":"http://vipmv.cc/api.php/provide/vod/at/xml",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0},
-   {
-      "key":"baiduzy",
-      "name":"百度資源站",
-      "type":1,
-      "api":"https://api.apibdzy.com/api.php/provide/vod?ac=list",
-      "playUrl":"",
-      "categories":[]},
-    {
-      "key": "csp_xpath_saohuotv",
-      "name": "骚火电影",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,      // no filter from website
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/saohuotv.json"},
-//   {
-//      "key":"csp_xpath_zxzj",
-//      "name":"在线之家",
-//      "type":3,
-//      "api":"csp_XPathMacFilter",
-//      "searchable":1,
-//      "quickSearch":1,
-//      "filterable": 1,
-//      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/zxzj.json"},
-//   {
-//      "key":"csp_xpath_qnkk8",
-//      "name":"全能影视",
-//      "type":3,
-//      "api":"csp_XPathMacFilter",
-//      "searchable":1,
-//      "quickSearch":1,
-//      "filterable": 1,
-//      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/main/xp/wip-qnkk8.json"},
+
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
 		"key":"csp_xpath_age",
 		"name":"AGE动漫",
 		"type":3,
-		"api":"csp_XPathFilter", 
+		"api":"csp_XPathMacFilter", 
 		// "api":"csp_XPath",     // "api":"csp_XPathAge",
 		"searchable":1,
 		"quickSearch":1,
