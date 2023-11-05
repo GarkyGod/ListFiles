@@ -77,19 +77,6 @@
 		"searchable":1,
 		"changeable":1
 	},
-	{
-		"key":"csp_xpath_age",
-		"name":"動漫|AGE动漫",
-		"type":3,
-		"jar":"https://gh-proxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/jar/20220424.jar",
-		"api":"csp_XPathFilter", 
-		// "api":"csp_XPath",     // "api":"csp_XPathAge",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":1,
-		"changeable":0,
-		"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/agefans.json"
-	},
 
 //////////////////////////////// 测试 /////////////////////////////////////
 	{
