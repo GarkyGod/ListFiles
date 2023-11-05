@@ -85,7 +85,7 @@
 		},
 		{
 			"key":"key_world_1",
-			"name":"影視|世界1",
+			"name":"影視|世界_1",
 			"type":3,
 			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
@@ -106,13 +106,25 @@
 			"ext":"http://106.52.241.21:83/api.php/app/"
 		},
 		{
-			"key":"key_woggcli",
-			"name":"影視|玩偶",
+			"key":"key_woggcli_1",
+			"name":"影視|玩偶_1",
 			"type":4,
 			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=5622cd606f9a49309c776d1b1ba7cd4f",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
+		},
+		{
+			"key":"key_woggcli_2",
+			"name":"影視|玩偶_2",
+			"type":3,
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"api":"csp_WoGG",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"changeable":0,
+			"ext":"5622cd606f9a49309c776d1b1ba7cd4f+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key":"key_nangua",
