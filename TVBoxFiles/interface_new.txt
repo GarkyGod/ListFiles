@@ -1,44 +1,20 @@
-// Old Proof of Concept : https://i.imgur.com/71RkM0u.jpg , https://i.imgur.com/bdTzXtd.jpg
-// Old Logo             : https://i.imgur.com/dXWi9gd.png , https://i.imgur.com/laArUXs.png - v2
-
 { 
-// "wallpaper":"https://takkie.000webhostapp.com/img.php",
-"wallpaper":"https://epg.112114.xyz/bingimg",
+//////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
+	"wallpaper":"https://epg.112114.xyz/bingimg",
+//	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
-// "spider": "https://ghproxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-// "spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
-// "spider": "https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
-"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
+//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
+//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
-//////////////////////////////// 直播 /////////////////////////////////////
-// "lives": [
-	// {
-		// "group": "redirect",
-		// "channels": [
-			// {
-				// "name": "redirect",
-				// "urls": [
-					// "https://ghproxy.com/https://github.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
-					// "proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
-				// ]
-			// }
-		// ]
-	// }
-// ],
+//////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 // "lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 "lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 
-//////////////////////////////// 影视 /////////////////////////////////////	
-"sites": [
-//	{
-//		"key": "csp_xpath_czspp",
-//		"name":"廠長資源",
-//		"type":3,
-//		"api":"csp_XPath",
-//		"searchable":1,
-//		"quickSearch":1,
-//		"filterable":0,
-//		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
+//////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
+	"sites":[
 		{
 			"key":"key_czzy",
 			"name":"影視|廠長",
