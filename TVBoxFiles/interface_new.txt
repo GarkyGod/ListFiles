@@ -39,11 +39,25 @@
 //		"quickSearch":1,
 //		"filterable":0,
 //		"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
-	{
-		"key": "czzy",
-		"name":"廠長資源",
-		"type":3,
-		"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js"},
+		{
+			"key":"key_czzy",
+			"name":"影視|廠長",
+			"type":3,
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_Czsapp",
+			"name":"影視|廠長2",
+			"type":3,
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"api":"csp_Czsapp",
+			"playerType":2,
+			"searchable":1,
+			"changeable":1,
+			"ext": "https://www.czzy88.com/"
+		},
 {
 	"key":"key_nangua",
 	"name":"影視|南瓜",
