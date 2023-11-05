@@ -66,17 +66,6 @@
 		// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","伦理片","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
 		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
 	},
-	{
-		"key":"key_xiaozhitiao_cli",  //  https://api.apibdzy.com/
-		"name":"採集|小紙條Cli",
-		"type":4,
-		"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
-		"api":"http://home.jundie.top:9520/spider/cli_gitCafe",
-		"searchable":1,
-		"changeable":1,
-		"ext":"5622cd606f9a49309c776d1b1ba7cd4f",
-		"timeout":30
-	},
 
 //////////////////////////////// 动漫 /////////////////////////////////////
 	{
@@ -98,10 +87,6 @@
 		"quickSearch":1,
 		"filterable":1,
 		"ext":"https://pastebin.com/raw/LR84aD8a"},
-{"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"5622cd606f9a49309c776d1b1ba7cd4f+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key":"小纸条_cli","name":"小纸条┃T4","type":4,"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt","api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"5622cd606f9a49309c776d1b1ba7cd4f","timeout":30},
-
-
 
 //////////////////////////////// 最后 /////////////////////////////////////
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
