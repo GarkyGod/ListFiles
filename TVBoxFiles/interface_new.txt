@@ -70,6 +70,7 @@
 		"key":"key_xiaozhitiao_cli",  //  https://api.apibdzy.com/
 		"name":"採集|小紙條Cli",
 		"type":4,
+		"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
 		"api":"http://home.jundie.top:9520/spider/cli_gitCafe",
 		"searchable":1,
 		"changeable":1,
