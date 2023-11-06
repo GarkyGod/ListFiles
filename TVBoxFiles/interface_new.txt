@@ -89,13 +89,16 @@
 		"ext":"https://pastebin.com/raw/LR84aD8a"
 	},
 	{
-		"key":"key_csp_JP",
-		"name":"csp_JP",
+		"key":"key_cli_Bili",
+		"name":"cli_Bili",
 		"type":4,
-		"api":"http://home.jundie.top:9520/spider/csp_JP?token=5622cd606f9a49309c776d1b1ba7cd4f",
+		"api":"http://home.jundie.top:9520/spider/cli_Bili?sort=dash,mp4",
 		"searchable":1,
 		"quickSearch":1,
-		"filterable":1
+		"filterable":1,
+		"ext": {
+			"type": "健身#栋笃笑#演唱会"
+		}
 	},
 	{
 		"key":"key_csp_Wogg",
@@ -105,15 +108,6 @@
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":1
-	},
-	{
-		"key":"t4test",
-		"name":"T4测试",
-		"type":4,
-		"api":"https://t4.run.goorm.io/vod?sites=dy555&ali_token=5622cd606f9a49309c776d1b1ba7cd4f&timeout=10",
-		"searchable":1,
-		"quickSearch":1,
-		"filterable":0
 	},
 
 //////////////////////////////// 最后 /////////////////////////////////////
