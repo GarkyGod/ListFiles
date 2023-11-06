@@ -106,6 +106,15 @@
 		"quickSearch":1,
 		"filterable":1
 	},
+	{
+		"key":"t4test",
+		"name":"T4测试",
+		"type":4,
+		"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=5622cd606f9a49309c776d1b1ba7cd4f&timeout=10",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":0
+	},
 
 //////////////////////////////// 最后 /////////////////////////////////////
 	{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
