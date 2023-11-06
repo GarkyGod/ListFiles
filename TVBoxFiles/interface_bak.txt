@@ -818,6 +818,7 @@
 			"name":"音樂|明星MV",
 			"type":1,
 			"api":"https://mv.wogg.link/mv/vod",
+			// "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
 			"style":{"type":"oval"},
 			"searchable":1,
 			"quickSearch":0,
