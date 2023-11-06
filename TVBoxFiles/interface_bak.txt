@@ -91,7 +91,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://103.197.25.136:3836/api.php/app/"
+			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+			// "ext":"http://103.197.25.136:3836/api.php/app/"
 		},
 		{
 			"key":"key_world_2",
