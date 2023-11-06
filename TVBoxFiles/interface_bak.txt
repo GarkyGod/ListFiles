@@ -98,7 +98,7 @@
 			"key":"key_world_2",
 			"name":"影視|世界_2",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			// "jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
