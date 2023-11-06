@@ -34,16 +34,15 @@
 //		"type":0,
 //		"api":"csp_(jar内文件名称)",
 //		"searchable":1,		// 是否搜索,0:關閉;1:啟用
-//		"quickSearch":1,	// 
-//		"filterable":0,		// 
+//		"quickSearch":1,	// 是否快速搜索,0:關閉;1:啟用
+//		"filterable":0,		// 是否篩選,0:關閉;1:啟用
 //		"changeable":0,		// 是否換源,0:關閉;1:啟用
 //		"recordable":0,		// 是否紀錄,0:關閉;1:啟用
 //		"playerType":none,	// 播放器,0:系統,1:IJK,2:EXO
 //		"jar":"(jar文件地址)",
-//		"ext":"(txtjson文件地址)",
+//		"ext":"(txtjson文件地址)",	// 擴展信息
 //		"playUrl":"〔播放解析地址〕",
-//		"categories":["(自定义资源列表)","(自定义资源列表)"],
-//		"jar":"jar文件地址.jar"
+//		"categories":["(自定义资源列表)","(自定义资源列表)"]
 //	}
 //	Type	0-xml1-json__2-爬虫源__3-自定义爬虫from_jar__4-服务器爬虫,
 //		type3,api_from_jar
