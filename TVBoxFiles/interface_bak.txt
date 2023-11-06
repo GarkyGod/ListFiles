@@ -91,7 +91,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "http://qlkjy.cn/api.php/v1.vod"
+			"ext": "https://siguyy.cc/api.php/app/"
 			// "ext":"http://103.197.25.136:3836/api.php/app/"
 		},
 		{
