@@ -110,7 +110,7 @@
 		"key":"t4test",
 		"name":"T4测试",
 		"type":4,
-		"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=5622cd606f9a49309c776d1b1ba7cd4f&timeout=10",
+		"api":"https://t4.run.goorm.io/vod?sites=dy555&ali_token=5622cd606f9a49309c776d1b1ba7cd4f&timeout=10",
 		"searchable":1,
 		"quickSearch":1,
 		"filterable":0
