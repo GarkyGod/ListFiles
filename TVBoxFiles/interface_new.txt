@@ -92,19 +92,21 @@
 		"key":"key_cli_gitCafe",
 		"name":"cli_gitCafe",
 		"type":4,
-		"api":"http://home.jundie.top:9520/spider/cli_gitCafe?token=5622cd606f9a49309c776d1b1ba7cd4f",
+		"api":"http://home.jundie.top:9520/spider/cli_gitCafe",
 		"searchable":1,
 		"quickSearch":1,
-		"filterable":1
+		"filterable":1,
+"ext":"5622cd606f9a49309c776d1b1ba7cd4f"
 	},
 	{
 		"key":"key_csp_Wogg",
 		"name":"csp_Wogg",
 		"type":4,
-		"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=5622cd606f9a49309c776d1b1ba7cd4f",
+		"api":"http://home.jundie.top:9520/spider/csp_Wogg",
 		"searchable":1,
 		"quickSearch":1,
-		"filterable":1
+		"filterable":1,
+"ext":"5622cd606f9a49309c776d1b1ba7cd4f"
 	},
 
 //////////////////////////////// 最后 /////////////////////////////////////
