@@ -86,12 +86,12 @@
 			"key":"key_world_1",
 			"name":"影視|世界_1",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			// "jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+			"ext": "http://qlkjy.cn/api.php/v1.vod"
 			// "ext":"http://103.197.25.136:3836/api.php/app/"
 		},
 		{
