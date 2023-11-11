@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-11-11 00:10:53
+!Last Modified: 2023-11-12 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10072,6 +10072,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||7-zip.org
 ||88659.men
 ||888poker.com
+||88cdn.com
 ||9001700.com
 ||908taiwan.org
 ||92ccav.com
@@ -10081,6 +10082,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||9to5mac.com
 ||9to5toys.com
 ||Cjb.net
+||a.se
 ||aave.com
 ||ab.co
 ||abclite.net
@@ -10247,9 +10249,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cyberctm.com
 ||cz.cc
 ||d0z.net
-||dailynews.sina.com
 ||danbooru.donmai.us
 ||darktech.org
+||datalabour.com
 ||dayabook.com
 ||dayoneapp.com
 ||dazn-api.com
@@ -10264,6 +10266,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||definebabe.com
 ||delicious.com
 ||demdex.net
+||dianshimo.com
 ||didiao.cloud
 ||digiland.tw
 ||digwebinterface.com
@@ -10305,6 +10308,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||emaga.com
 ||emanna.com
 ||embedgram.com
+||embedrise.com
 ||emory.edu
 ||empornium.ph
 ||empornium.sx
@@ -10414,7 +10418,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hkhrm.org.hk
 ||hku.hk
 ||hlsmp4.com
-||home.sina.com
 ||homeip.net
 ||homeservershow.com
 ||honeynet.org
@@ -10475,6 +10478,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||istarshine.com
 ||ithome.com.tw
 ||itorrents.com
+||iz8qkg.com
 ||jads.co
 ||jarv.is
 ||jav.guru
@@ -10505,6 +10509,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||kaiyuan.de
 ||kangye.org
 ||kcoolonline.com
+||kczybf.com
 ||kdubo.com
 ||kdwcl.com
 ||keepandshare.com
@@ -10522,6 +10527,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||klip.me
 ||kp.m-team.cc
 ||ktkjmp.com
+||kuaikan-cdn3.com
+||kuaikan-play1.com
 ||kun.im
 ||lamenhu.com
 ||lanterncn.cn
@@ -10602,11 +10609,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nanzao.com
 ||nasa.gov
 ||natado.com
-||nathk1.bytevirt.net
 ||nationalgeographic.com
 ||nationsonline.org
-||natsg2.bytevirt.net
-||nattr4.bytevirt.net
 ||naver.jp
 ||navy.mil
 ||nbc.com
@@ -10685,6 +10689,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||pentalogic.net
 ||philly.com
 ||phonegap.com
+||picffzy.com
 ||picuki.com
 ||planetscale.com
 ||plixi.com
@@ -10736,6 +10741,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rerouted.org
 ||retweetist.com
 ||reut.rs
+||revenuecat.com
 ||revocationcheck.com
 ||rightster.com
 ||rileyguide.com
@@ -10834,6 +10840,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||streamtape.com
 ||streetvoice.com
 ||sueddeutsche.de
+||superchat.live
 ||surfeasy.com.au
 ||suroot.com
 ||swag.live
@@ -10932,6 +10939,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||udnbkk.com
 ||uk.to
 ||ulike.net
+||ulivetv.net
+||umeng.com
+||umengcloud.com
 ||umich.edu
 ||uncyclomedia.org
 ||uni.cc
@@ -10952,6 +10962,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||uujiasu.com
 ||v2ray.cool
 ||v2rayssr.com
+||v82u1l.com
 ||vanilla-jp.com
 ||vdubo.com
 ||venbbs.com
@@ -10967,6 +10978,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||viu.tv
 ||vivaldi.net
 ||vizvaz.com
+||volces.com
 ||voscreen.com
 ||vpn.net
 ||vpser.net
@@ -11008,6 +11020,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||x24hr.com
 ||xda-developers.com
 ||xdubo.com
+||xhamsterlive.com
 ||xianba.net
 ||xmovies.com
 ||xskywalker.net
