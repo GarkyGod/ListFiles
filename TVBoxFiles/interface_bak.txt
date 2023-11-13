@@ -63,8 +63,8 @@
 			"key":"key_czzy",
 			"name":"影視|廠長1",
 			"type":3,
-			"api":"https://gh-proxy.com/https://github.com/YuanHsing/CatVodOpen/raw/main/js/czzy_bytecode.js",
-			// "api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			// "api":"https://gh-proxy.com/https://github.com/YuanHsing/CatVodOpen/raw/main/js/czzy_bytecode.js",
+			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0
@@ -144,6 +144,16 @@
 			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
 			// "ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
+		},
+		{
+			"key":"key_Nini",
+			"name":"影視|泥巴",
+			"type":3,
+			"api":"csp_NiNi",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1,
+			"ext":"1"
 		},
 		{
 			"key":"key_pipixia",
