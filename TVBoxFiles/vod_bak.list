@@ -468,6 +468,7 @@
 			"key":"lbapiby.com",
 			"name":"Adult_14",
 			"type":0,
+			// "api":"http://lbapiby.com/api.php/provide/vod/at/xml",
 			"api":"https://lbapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
