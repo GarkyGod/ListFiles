@@ -515,16 +515,16 @@
 		},
 		{
 			"key":"caiji.huakuiapi.com",
-			"name":"花魁資源new",
+			"name":"花魁資源",
 			"type":0,
 			"api":"https://caiji.huakuiapi.com/inc/api.php",
 //			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
 			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			}
+			"recordable":0
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.33
+//			}
 		},
 		{
 			"key":"kxgav.com",
