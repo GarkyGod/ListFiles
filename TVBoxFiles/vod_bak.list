@@ -343,18 +343,18 @@
 				"ratio":1.33
 			}
 		},
-		{
-			"key":"91md.me",
-			"name":"麻豆視頻",
-			"type":0,  // 1,
-			"api":"https://91md.me/api.php/provide/vod/at/xml",  // "https://91md.me/api.php/provide/vod/",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			}
-		},
+//		{
+//			"key":"91md.me",
+//			"name":"麻豆視頻",
+//			"type":0,  // 1,
+//			"api":"https://91md.me/api.php/provide/vod/at/xml",  // "https://91md.me/api.php/provide/vod/",
+//			"searchable":1,
+//			"recordable":0,
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.33
+//			}
+//		},
 		{
 			"key":"jcspcj8.com",
 			"name":"富二代",
