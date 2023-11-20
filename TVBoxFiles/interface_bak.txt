@@ -918,7 +918,16 @@
 			"filterable": 1,
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
-
+		{
+			"key": "琪琪资源",
+			"name": "🫙官源┃切片",
+			"type": 1,
+			"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+			"playerType": 2,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1
+		},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"1080dyw","name":"影视 | 视界","type":3,"api":"AppYsV2","ext":"https://www.1080dyw.cc/api.php/v1.vod"},
