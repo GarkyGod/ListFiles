@@ -215,10 +215,10 @@
 			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
 			"api":"csp_XBPQ",
 			"ext":{
-				"影片类型":"分类：&&主演",
+				"影片类型":"分类：</span>&&</a>",
 				"导演":"导演：</span>&&</p>",
 				"主演":"主演：</span>&&</p>",
-				"简介":"class=\"sketchcontent\">&&</span>",
+				"简介":"简介：</span>&&</p>",
 				"数组":"myui-vodlist__thumb&&</a>",
 				"标题":"title=\"&&\"",
 				"副标题":"pic-tagpic-tag-top\">&&</span>",
