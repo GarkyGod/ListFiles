@@ -516,10 +516,9 @@
 		{
 			"key":"caiji.huakuiapi.com",
 			"name":"花魁資源",
-//			"type":1,
 			"type":0,
-//			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
 			"api":"https://caiji.huakuiapi.com/inc/api.php",
+//			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -579,7 +578,6 @@
 			"key":"apittzy.com",
 			"name":"探探資源",
 			"type":1,
-//			"type":0,
 			"api":"https://apittzy.com/api.php/provide/vod/",
 //			"api":"https://apittzy.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
