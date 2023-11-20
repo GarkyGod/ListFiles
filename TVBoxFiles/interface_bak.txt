@@ -212,7 +212,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|雲播",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
+			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
 			"api":"csp_XBPQ",
 			"ext":{
 				"影片类型":"分类：&&主演",
