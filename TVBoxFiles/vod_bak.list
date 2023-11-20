@@ -346,7 +346,7 @@
 		{
 			"key":"91md.me",
 			"name":"麻豆視頻",
-			"type":0,
+			"type":1,
 			"api":"http://91md.me/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
