@@ -346,8 +346,8 @@
 		{
 			"key":"91md.me",
 			"name":"麻豆視頻",
-			"type":1,
-			"api":"http://91md.me/api.php/provide/vod/",
+			"type":0,  // 1,
+			"api":"https://91md.me/api.php/provide/vod/at/xml",  // "https://91md.me/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -516,10 +516,8 @@
 		{
 			"key":"caiji.huakuiapi.com",
 			"name":"花魁資源",
-			"type":1,
-			// "type":0,
-			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
-			// "api":"https://caiji.huakuiapi.com/inc/api.php",
+			"type":1,  // 0,
+			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",  // "https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -568,6 +566,18 @@
 			"name":"KK資源",
 			"type":1,
 			"api":"https://kkzy.me/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
+			"key":"apittzy.com",
+			"name":"探探資源",
+			"type":1,  // 0,
+			"api":"https://apittzy.com/api.php/provide/vod/",  // "https://apittzy.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
