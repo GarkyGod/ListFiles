@@ -516,10 +516,10 @@
 		{
 			"key":"caiji.huakuiapi.com",
 			"name":"花魁資源",
-			"type":1,
-//			"type":0,
-			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
-//			"api":"https://caiji.huakuiapi.com/inc/api.php",
+//			"type":1,
+			"type":0,
+//			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",
+			"api":"https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
