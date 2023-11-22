@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-11-22 00:11:09
+!Last Modified: 2023-11-23 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10002,7 +10002,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ratx.com
 ||podcast.app
 ||oraclecloud.com
-/^https?:\/\/(platform|api|chat).openai.com/
 ||battle.net
 @@||nydus.battle.net
 ||theb.ai
@@ -10052,6 +10051,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||qwant.com
 ||ask.com
 ||huggingface.co
+||ingress.com
+||oaistatic.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10652,7 +10653,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||o0-3.com
 ||o0-4.com
 ||o0-5.com
-||oaistatic.com
 ||oauth.net
 ||octave-online.net
 ||oikos.com.tw
