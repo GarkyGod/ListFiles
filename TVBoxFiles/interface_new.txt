@@ -4,14 +4,14 @@
 //	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
-//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
-	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
+//	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
+//	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/lite.jar",
+	"spider":"https://raw.githubusercontents.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
-// "lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
-"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+// "lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontents.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
+"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontents.com/caca3559823437/2022/main/2020.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
 
 //////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
 	"sites":[
@@ -19,7 +19,7 @@
 			"key":"key_czzy",
 			"name":"影視|廠長",
 			"type":3,
-			"api":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"api":"https://raw.githubusercontents.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"changeable":0
 		},
@@ -27,7 +27,7 @@
 			"key":"key_Czsapp",
 			"name":"影視|廠長2",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"jar":"https://raw.githubusercontents.com/gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_Czsapp",
 			"playerType":2,
 			"searchable":1,
@@ -38,22 +38,22 @@
 			"key":"key_nangua",
 			"name":"影視|南瓜",
 			"type":3,
-			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"api":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
+			"ext":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/js/南瓜影视.js"
 		},
 		{
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
-			"api":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"api":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
-			// "ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
-			"ext":"https://gh-proxy.com/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			// "ext":"https://raw.githubusercontents.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
+			"ext":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
 		},
 //////////////////////////////// api資源網 /////////////////////////////////////
