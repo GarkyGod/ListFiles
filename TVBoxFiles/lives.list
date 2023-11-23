@@ -2,11 +2,11 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://gh-proxy.com/https://github.com/iptv-org/iptv/raw/gh-pages/index.nsfw.m3u"
+      "url": "https://ghproxy.net/https://github.com/iptv-org/iptv/raw/gh-pages/index.nsfw.m3u"
     },
     {
       "name": "TXT",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
