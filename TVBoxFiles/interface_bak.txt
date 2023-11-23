@@ -4,10 +4,10 @@
 //	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-//	"spider":"https://ghproxy.net/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
-//	"spider":"https://ghproxy.net/https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
-//	"spider":"https://ghproxy.net/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
-	"spider":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//	"spider":"https://github.com/takagen99/channel/blob/master/CATVOD/jar/20220424.jar?raw=true",
+//	"spider":"https://github.com/takagen99/channel/blob/master/CATVOD/jar/20221013.jar?raw=true",
+//	"spider":"https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider":"https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 //	"lives":[
@@ -24,8 +24,8 @@
 //			]
 //		}
 //	],
-//	"lives":[{"name":"直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-	"lives":[{"name":"直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
+//	"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	"lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
 
 //////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
 //	{
@@ -58,13 +58,13 @@
 //			"searchable":1,
 //			"quickSearch":1,
 //			"filterable":0,
-//			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
+//			"ext":"https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 		{
 			"key":"key_czzy",
 			"name":"影視|廠長1",
 			"type":3,
-			// "api":"https://ghproxy.net/https://github.com/YuanHsing/CatVodOpen/raw/main/js/czzy_bytecode.js",
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			// "api":"https://github.com/YuanHsing/CatVodOpen/raw/main/js/czzy_bytecode.js",
+			"api":"https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0
@@ -73,7 +73,7 @@
 			"key":"key_Czsapp",
 			"name":"影視|廠長2",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
 			"api":"csp_Czsapp",
 			"playerType":2,
 			"searchable":1,
@@ -85,7 +85,7 @@
 			"key":"key_world_1",
 			"name":"影視|世界_1",
 			"type":3,
-			// "jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			// "jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
@@ -96,7 +96,7 @@
 			"key":"key_world_2",
 			"name":"影視|世界_2",
 			"type":3,
-			// "jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
+			// "jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/ab.jar",
 			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
@@ -116,7 +116,7 @@
 			"key":"key_woggcli_2",
 			"name":"影視|玩偶_2",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/fan.txt",
 			"api":"csp_WoGG",
 			"searchable":1,
 			"quickSearch":1,
@@ -127,22 +127,22 @@
 			"key":"key_nangua",
 			"name":"影視|南瓜",
 			"type":3,
-			"api":"https://ghproxy.net/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"api":"https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
+			"ext":"https://github.com/hjdhnx/dr_py/raw/main/js/南瓜影视.js"
 		},
 		{
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
-			"api":"https://ghproxy.net/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"api":"https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
-			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
-			// "ext":"https://ghproxy.net/https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
+			"ext":"https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMi/json/555dy.js",
+			// "ext":"https://github.com/hjdhnx/dr_py/raw/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
 		},
 		{
@@ -158,7 +158,7 @@
 			"key":"key_pipixia",
 			"name":"影視|皮皮蝦",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
 //			"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar",
 			"api":"csp_AppSK",
 			"searchable":1,
@@ -213,7 +213,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|雲播",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
 			"api":"csp_XBPQ",
 			"ext":{
 				"影片类型":"分类：&&主演",
@@ -246,7 +246,7 @@
 			"key":"key_heihei_2",
 			"name":"影視|嘿嘿2",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ1.jar",
 			"api":"csp_XBPQ",
 			"searchable":1,
 			"quickSearch":1,
@@ -785,7 +785,7 @@
 			"key":"key_douyu",
 			"name":"直播|鬥魚",
 			"type":3,
-			"api":"https://ghproxy.net/https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
+			"api":"https://github.com/hjdhnx/dr_py/raw/main/libs/drpy2.min.js",
 			"searchable":0,
 			"quickSearch":0,
 			"changeable":0,
@@ -910,7 +910,7 @@
 			"key": "key_jialiang",
 			"name": "影视|嘉良",
 			"type": 3,
-			"jar":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
+			"jar":"https://github.com/gaotianliuyun/gao/raw/master/jar/XBPQ.jar",
 			"api": "csp_AppYsV2",
 			"playerType": 2,
 			"searchable": 1,
@@ -928,8 +928,8 @@
 			"changeable": 1,
 			"quickSearch": 1
 		},
-{"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
-{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
+{"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
+{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"1080dyw","name":"影视 | 视界","type":3,"api":"AppYsV2","ext":"https://www.1080dyw.cc/api.php/v1.vod"},
 {"key":"miniku","name":"影视 | 迷你","type":3,"api":"AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"aidi","name":"影视 | 爱迪","type":3,"api":"AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
