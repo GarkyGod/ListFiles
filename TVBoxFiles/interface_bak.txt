@@ -6,7 +6,7 @@
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
 //	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
 //	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
-//	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/lite.jar",
+//	"spider":"https://ghproxy.net/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
 	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
