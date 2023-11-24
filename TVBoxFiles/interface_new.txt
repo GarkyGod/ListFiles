@@ -7,7 +7,7 @@
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/lite.jar",
-	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 // "lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontents.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
