@@ -921,6 +921,17 @@
 			"ext": "http://api.jialiangos.com:81/api.php/app/"
 		},
 		{
+			"key": "key_zhaifutv",
+			"name": "影视|宅腐TV",
+			"type": 3,
+//			"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
+		},
+		{
 			"key": "琪琪资源",
 			"name": "🫙官源┃切片",
 			"type": 1,
