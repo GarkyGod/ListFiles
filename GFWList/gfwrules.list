@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-12-02 00:11:24
+!Last Modified: 2023-12-03 00:10:52
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1762,6 +1762,7 @@ backchina.com
 ||backchina.com
 .backpackers.com.tw/forum
 backtotiananmen.com
+||bad.news
 .badiucao.com
 ||badiucao.com
 .badjojo.com
@@ -3889,6 +3890,7 @@ in-disguise.com
 ||info-graf.fr
 website.informer.com
 ||initiativesforchina.org
+||inkbunny.net
 ||inkui.com
 ||inmediahk.net
 ||innermongolia.org
@@ -4431,7 +4433,8 @@ maruta.be/forget
 ||mathiew-badimon.com
 ||matrix.org
 ||matsushimakaede.com
-|http://maturejp.com
+||matters.town
+||maturejp.com
 mayimayi.com
 .maxing.jp
 .mcaf.ee
@@ -10567,7 +10570,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||manicur4ik.ru
 ||maruta.be
 ||marxists.org
-||maturejp.com
 ||maying.co
 ||mcreasite.com
 ||me.uk
