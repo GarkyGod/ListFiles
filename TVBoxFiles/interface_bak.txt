@@ -141,6 +141,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
+			"playUrl":"https://videos.centos.chat/lzffbf.php/?url=",
 			"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
 			// "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
