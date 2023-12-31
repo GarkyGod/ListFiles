@@ -1,5 +1,5 @@
 !
-!Last Modified: 2023-12-31 00:11:25
+!Last Modified: 2024-01-01 00:10:53
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1116,12 +1116,18 @@ cn.nytstyle.com
 ||store.steampowered.com
 !!---Telegram---
 !!!---Domain---
+||cdn-telegram.org
+||comments.app
+||graph.org
+||quiz.directory
 ||t.me
 ||updates.tdesktop.com
 ||telegram.dog
 ||telegram.me
 ||telegram.org
-.telegramdownload.com
+||telegram.space
+||telegram-cdn.org
+||telegramdownload.com
 ||telesco.pe
 !!!---IP---
 !!---Twitch---
@@ -2076,6 +2082,7 @@ bwsj.hk
 .caijinglengyan.com
 ||caijinglengyan.com
 .calameo.com/books
+||calendarz.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
@@ -3270,6 +3277,7 @@ geekerhome.com/2010/03/xixiang-project-cross-gfw
 |http://gekikame.com
 .gelbooru.com
 |http://gelbooru.com
+||generated.photos
 ||genius.com
 .geocities.co.jp
 .geocities.com/SiliconValley/Circuit/5683/download.html
@@ -3750,7 +3758,9 @@ huaxia-news.com
 huaxiabao.org
 huaxin.ph
 ||huayuworld.org
-.huffingtonpost.com/rebiya-kadeer
+||huffingtonpost.com
+||huffpost.com
+||huggingface.co
 ||hugoroy.eu
 ||huhaitai.com
 ||huhamhire.com
@@ -6897,6 +6907,7 @@ washeng.net
 .watch8x.com
 ||watchmygf.net
 ||wav.tv
+||wd.bible
 .wdf5.com
 ||wealth.com.tw
 .wearehairy.com
@@ -7738,7 +7749,6 @@ ultrasurf
 ||nyti.ms
 ||steamstatic.com
 ||steambroadcast.akamaized.net
-||telegramdownload.com
 ||gov.tw
 @@||www.gov.tw
 @@||tacc.cwb.gov.tw
@@ -8606,7 +8616,6 @@ ultrasurf
 ||huaxia-news.com
 ||huaxiabao.org
 ||huaxin.ph
-||huffingtonpost.com
 ||huiyi.in
 ||hulkshare.com
 ||humanrightsbriefing.org
@@ -9922,7 +9931,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||freedomhongkong.org
 ||go.sony.com
 ||pchome.com.tw
-||generated.photos
 ||2du5.com
 ||appspot-preview.com
 ||celestiallight.org
@@ -10055,7 +10063,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||everipedia.org
 ||qwant.com
 ||ask.com
-||huggingface.co
 ||ingress.com
 ||oaistatic.com
 ||hoyolab.com
