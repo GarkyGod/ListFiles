@@ -137,7 +137,7 @@
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
