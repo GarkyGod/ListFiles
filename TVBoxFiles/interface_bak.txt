@@ -134,6 +134,16 @@
 			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南瓜影视.js"
 		},
 		{
+			"key":"key_nangua_2",
+			"name":"影視|南瓜_2",
+			"type":3,
+			"jar":"https://cors.isteed.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
+			"api":"csp_NanGua",
+			"searchable":1,
+			"quickSearch":1,
+			"changeable":1
+		},
+		{
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
