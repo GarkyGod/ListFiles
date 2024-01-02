@@ -2,7 +2,7 @@
 	"spider": "https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //	"spider": "https://cors.isteed.cc/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 //	"spider": "https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/jar/custom_spider.jar",
-	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",
 	"sites": [
 //////////////////////////////// 影视 /////////////////////////////////////
 //		{
