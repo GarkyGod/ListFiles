@@ -271,24 +271,24 @@
 			"changeable":0
 		},
 //////////////////////////////// 18+ /////////////////////////////////////
-		{
-			"key":"AList_18+",
-			"name":"AList_18+",
-			"type":3,
-			"api":"csp_AList",
-			"searchable":1,
-			"changeable":0,
-			"ext":{
-				"drives":[
-						{
-							"name":"SOD",
+//		{
+//			"key":"AList_18+",
+//			"name":"AList_18+",
+//			"type":3,
+//			"api":"csp_AList",
+//			"searchable":1,
+//			"changeable":0,
+//			"ext":{
+//				"drives":[
+//						{
+//							"name":"Sodaz's OneDrive",
 //							"server":"https://a.sodaz.xyz"
-							"server":"https://pan.sodaz.xyz"
+//							"server":"https://pan.sodaz.xyz"
 //							"server":"https://om.sodaz.xyz"
-						}
-					]
-			}
-		},
+//						}
+//					]
+//			}
+//		},
 //		{
 //			"key":"泥巴18+",
 //			"name":"泥巴18+",
