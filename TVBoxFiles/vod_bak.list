@@ -281,10 +281,14 @@
 			"ext":{
 				"drives":[
 						{
-						"name":"SOD",
-//						"server":"https://a.sodaz.xyz"
-//						"server":"https://pan.sodaz.xyz"
-						"server":"https://om.sodaz.xyz"
+							"name": "七米藍",
+							"server": "https://al.chirmyram.com"
+						},
+						{
+							"name":"SOD",
+//							"server":"https://a.sodaz.xyz"
+//							"server":"https://pan.sodaz.xyz"
+							"server":"https://om.sodaz.xyz"
 						}
 					]
 			}
