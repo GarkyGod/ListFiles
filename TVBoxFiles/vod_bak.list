@@ -719,7 +719,7 @@
 //		},
 		{
 			"key":"api.maozyapi.com",
-			"name":"色貓資源",
+			"name":"色貓資源1",
 			"type":0,  / 1,
 			"api":"https://caiji.semaozy.net/inc/api.php",  // "https://api.maozyapi.com/inc/apijson_vod.php",
 			"searchable":1,
