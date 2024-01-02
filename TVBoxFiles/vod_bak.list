@@ -482,7 +482,7 @@
 		},
 		{
 			"key":"api.maozyapi.com",
-			"name":"色貓資源1",
+			"name":"色貓資源",
 			"type":1,  // 0,
 			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",
 			"searchable":1,
@@ -723,7 +723,7 @@
 		},
 		{
 			"key":"ggmmzy.com",
-			"name":"Adult_11",
+			"name":"Adult_11X",
 			"type":0,
 			"api":"http://www.ggmmzy.com:9999/inc/xml",
 			"searchable":1,
@@ -815,26 +815,10 @@
 			}
 		},
 		{
-			"key":"gdlsp.com",
-			"name":"Adult_17",
-			"type":0,
-			"api":"https://www.gdlsp.com/api/xml.php",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			},
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-			}
-		},
-		{
 			"key":"kxgav.com",
 			"name":"Adult_19",
-			"type":0,
-			"api":"https://www.kxgav.com/api/xml.php",
+			"type":1,  // 0,
+			"api":"https://www.kxgav.com/api/api.php",  // "https://www.kxgav.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -849,8 +833,8 @@
 		{
 			"key":"xrbsp.com",
 			"name":"Adult_20",
-			"type":0,
-			"api":"https://www.xrbsp.com/api/xml.php",
+			"type":1,  // 0,
+			"api":"https://www.xrbsp.com/api/api.php",  // "https://www.xrbsp.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -865,8 +849,8 @@
 		{
 			"key":"pgxdy.com",
 			"name":"Adult_21",
-			"type":0,
-			"api":"https://www.pgxdy.com/api/xml.php",
+			"type":1,  // 0,
+			"api":"https://www.pgxdy.com/api/api.php",  // "https://www.pgxdy.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
