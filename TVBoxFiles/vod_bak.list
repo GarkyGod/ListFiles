@@ -483,7 +483,7 @@
 		{
 			"key":"api.maozyapi.com",
 			"name":"色貓資源1",
-			"type":1,  / 0,
+			"type":1,  // 0,
 			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",
 			"searchable":1,
 			"recordable":0,
