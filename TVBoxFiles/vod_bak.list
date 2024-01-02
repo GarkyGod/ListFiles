@@ -283,8 +283,8 @@
 						{
 							"name":"SOD",
 //							"server":"https://a.sodaz.xyz"
-//							"server":"https://pan.sodaz.xyz"
-							"server":"https://om.sodaz.xyz"
+							"server":"https://pan.sodaz.xyz"
+//							"server":"https://om.sodaz.xyz"
 						}
 					]
 			}
