@@ -275,15 +275,11 @@
 			"key":"AList_18+",
 			"name":"AList_18+",
 			"type":3,
-			"api":"csp_AList",
-			"searchable":1,
+			"api":"csp_WebDAV",
+			"searchable":0,
 			"changeable":0,
 			"ext":{
 				"drives":[
-						{
-							"name": "七米藍",
-							"server": "https://al.chirmyram.com"
-						},
 						{
 							"name":"SOD",
 //							"server":"https://a.sodaz.xyz"
