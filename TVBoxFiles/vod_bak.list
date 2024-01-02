@@ -571,22 +571,22 @@
 			},
 			"categories":["伦理片"]
 		},
-		{
-			"key":"888dav.com",
-			"name":"Adult_07",
-			"type":1,
-			"api":"https://www.888dav.com/api.php/provide/vod/",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			},
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-			}
-		},
+//		{
+//			"key":"888dav.com",
+//			"name":"Adult_07",
+//			"type":1,
+//			"api":"https://www.888dav.com/api.php/provide/vod/",
+//			"searchable":1,
+//			"recordable":0,
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.33
+//			},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+//			}
+//		},
 		{
 			"key":"gdlsp.com",
 			"name":"Adult_08",
@@ -660,18 +660,54 @@
 			}
 		},
 		{
-			"key":"lbapiby.com",
-			"name":"Adult_14",
-			"type":0,
-			// "api":"http://lbapiby.com/api.php/provide/vod/at/xml",
-			"api":"https://lbapi9.com/api.php/provide/vod/at/xml",
+			"key":"shayuapi.com",
+			"name":"Adult_13",
+			"type":1,
+			"api":"https://shayuapi.com/api.php/provide/vod/",
 			"searchable":1,
 			"recordable":0,
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
+		{
+			"key":"lbapiby.com",
+			"name":"Adult_14",
+			"type":1,
+			// "api":"http://lbapiby.com/api.php/provide/vod/",
+			"api":"https://lbapi9.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+//		{
+//			"key":"afasu.com",
+//			"name":"Adult_15",
+//			"type":0,
+//			"api":"https://www.afasu.com/api/xml.php",
+//			"searchable":1,
+//			"recordable":0,
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.33
+//			},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+//			}
+//		},
 		{
 			"key":"api.maozyapi.com",
 			"name":"色貓資源",
@@ -735,6 +771,10 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
 		{
@@ -747,6 +787,10 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
 		{
@@ -771,6 +815,10 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
 		{
@@ -808,6 +856,10 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
 //////////////////////////////// 本地&網盤 /////////////////////////////////////
