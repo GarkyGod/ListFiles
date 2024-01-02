@@ -1057,6 +1057,7 @@
 		{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
 		{"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 		{"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]},
+		{"name":"辣椒資源_1","hosts":["ljbfbf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 		{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","社 區","xuu","x u u","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
 	],
 	"ads":[
