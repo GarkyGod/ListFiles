@@ -422,8 +422,8 @@
 //		{
 //			"key":"91md.me",
 //			"name":"麻豆視頻",
-//			"type":0,  // 1,
-//			"api":"https://91md.me/api.php/provide/vod/at/xml",  // "https://91md.me/api.php/provide/vod/",
+//			"type":1,  // 0,
+//			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
 //			"searchable":1,
 //			"recordable":0,
 //			"style":{
@@ -435,6 +435,35 @@
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 //			}
 //		},
+		{
+			"key":"api.sexnguon.com",
+			"name":"PhimSex",
+			"type":1,  // 0,
+			"api":"http://api.sexnguon.com/api.php/provide/vod/",  // "https://api.sexnguon.com/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
+			"key":"feifei67.com",
+			"name":"CK資源",
+			"type":1,
+			"api":"http://www.feifei67.com/api.php/provide/vod/",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"categories":["伦理片"]
+		},
 		{
 			"key":"jcspcj8.com",
 			"name":"富二代",
@@ -547,31 +576,6 @@
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
-		{
-			"key":"api.sexnguon.com",
-			"name":"PhimSex",
-			"type":1,
-			"api":"http://api.sexnguon.com/api.php/provide/vod/",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			}
-		},
-		{
-			"key":"feifei67.com",
-			"name":"CK資源",
-			"type":1,
-			"api":"http://www.feifei67.com/api.php/provide/vod/",
-			"searchable":1,
-			"recordable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.33
-			},
-			"categories":["伦理片"]
-		},
 //		{
 //			"key":"888dav.com",
 //			"name":"Adult_07",
@@ -651,20 +655,24 @@
 		{
 			"key":"fhapi9.com",
 			"name":"Adult_12",
-			"type":1,
-			"api":"http://fhapi9.com/api.php/provide/vod/",
+			"type":1,  // 0,
+			"api":"http://fhapi9.com/api.php/provide/vod/",  // "http://fhapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
 		{
 			"key":"shayuapi.com",
 			"name":"Adult_13",
-			"type":1,
-			"api":"https://shayuapi.com/api.php/provide/vod/",
+			"type":1, // 0,
+			"api":"https://shayuapi.com/api.php/provide/vod/",  // "https://shayuapi.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -679,9 +687,9 @@
 		{
 			"key":"lbapiby.com",
 			"name":"Adult_14",
-			"type":1,
-			// "api":"http://lbapiby.com/api.php/provide/vod/",
-			"api":"https://lbapi9.com/api.php/provide/vod/",
+			"type":1,  // 0,
+			// "api":"http://lbapiby.com/api.php/provide/vod/",  // "http://lbapiby.com/api.php/provide/vod/at/xml",
+			"api":"https://lbapi9.com/api.php/provide/vod/",  // "https://lbapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -712,8 +720,8 @@
 		{
 			"key":"api.maozyapi.com",
 			"name":"色貓資源",
-			"type":1,
-			"api":"https://api.maozyapi.com/inc/apijson_vod.php",
+			"type":0,  / 1,
+			"api":"https://caiji.semaozy.net/inc/api.php",  // "https://api.maozyapi.com/inc/apijson_vod.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
