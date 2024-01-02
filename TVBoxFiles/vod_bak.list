@@ -659,9 +659,17 @@
 			"name":"WebDAV",
 			"type":3,
 			"api":"csp_WebDAV",
-			"searchable":1,
+			"searchable":0,
 			"changeable":0,
 			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+		},
+		{
+			"key":"JustLive",
+			"name":"JustLive",
+			"type":3,
+			"api":"csp_JustLive",
+			"searchable":1,
+			"changeable":0
 		},
 //////////////////////////////// 搜索服務 /////////////////////////////////////
 		{
@@ -728,8 +736,9 @@
 			"name":"推送",
 			"type":3,
 			"api":"csp_Push",
-			"searchable":1,
-			"changeable":0
+			"searchable":0,
+			"changeable":0,
+			"timeout":60
 		},
 		{
 			"key":"應用商店",
