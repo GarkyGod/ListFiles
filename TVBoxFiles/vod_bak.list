@@ -370,8 +370,25 @@
 //			}
 //		},
 		{
+			"key":"lajiaozy.com",    // https://apilj.com/,
+			"name":"辣椒資源_1",
+			"type":1,
+//			"api":"http://apilj.com/api.php/provide/vod/at/json/",  // https://apilj.com/api.php/provide/vod/at/xml/,
+			"api":"http://api.11bat.com/api.php/provide/vod/",  // http://api.11bat.com/api.php/provide/vod/at/xml/,
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
 			"key":"dadiapi.com",
-			"name":"辣椒資源",
+			"name":"辣椒資源_2",
 			"type":0,
 			"api":"http://dadiapi.com/api.php",
 			"searchable":1,
@@ -379,8 +396,24 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
-			}
+			},
 		},
+//		{
+//			"key":"madouse.la",
+//			"name":"麻豆傳媒",
+//			"type":1,
+//			"api":"http://madouse.la/api.php/provide/vod/",
+//			"searchable":1,
+//			"recordable":0,
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.33
+//			},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+//			}
+//		},
 //		{
 //			"key":"91md.me",
 //			"name":"麻豆視頻",
@@ -391,6 +424,10 @@
 //			"style":{
 //				"type":"rect",
 //				"ratio":1.33
+//			},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 //			}
 //		},
 		{
@@ -403,8 +440,61 @@
 			"style":{
 				"type":"rect",
 				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
+		{
+			"key":"zmcj88.com",
+			"name":"Adult_01",
+			"type":0,
+			"api":"http://zmcj88.com/sapi?ac=videolist",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
+			"key":"99zywcj.com",
+			"name":"Adult_02",
+			"type":0,
+			"api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
+			"key":"wmcj8.com",
+			"name":"Adult_03",
+			"type":0,
+			"api":"http://wmcj8.com/inc/sapi.php",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+
 		{
 			"key":"bttcj.com",
 			"name":"Adult_05",
