@@ -138,22 +138,22 @@
 			"key":"key_nangua_2",
 			"name":"影視|南瓜_2",
 			"type":3,
-			"api":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/js/南瓜影视.js"
+			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/南瓜影视.js"
 		},
 		{
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
-			"api":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
 			// "ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
-			"ext":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/js/555电影[V2].js",
+			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
 		},
 		{
