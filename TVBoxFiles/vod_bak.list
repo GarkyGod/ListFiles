@@ -1,7 +1,7 @@
 {
-	"spider": "https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://cors.isteed.cc/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
-//	"spider": "https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/jar/custom_spider.jar",
+	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/jar/custom_spider.jar",
 	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",
 //	"wallpaper": "https://gao.chuqiuyu.workers.dev",
 	"sites": [
@@ -39,8 +39,8 @@
 			"changeable":0,
 			"ext":{
 				"token":"502ebf6ef2d8456e977da32bf947b05d",
-				"filter":"https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
-//				"filter":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
+//				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 			"api":"csp_Jianpian",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 //		{
 //			"key":"獨播",
@@ -59,14 +59,14 @@
 //			"api":"csp_XPathMacFilter",
 //			"searchable":1,
 //			"changeable":1,
-//			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
+//			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
 //		},
 		{
 			"key":"三五",
 			"name":"三五",
 			"type":3,
-//			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js"
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
+//			"api":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js"
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
 			"searchable":1,
 			"changeable":1
 		},
@@ -84,7 +84,7 @@
 			"key":"廠長",
 			"name":"廠長",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
 			"searchable":1,
 			"changeable":0
 		},
@@ -92,7 +92,7 @@
 			"key":"jojo",
 			"name":"JOJO",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/jiohub.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/jiohub.js",
 			"searchable":1,
 			"changeable":1
 		},
@@ -100,7 +100,7 @@
 			"key":"愛看",
 			"name":"愛看",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js",
 			"searchable":1,
 			"changeable":1
 		},
@@ -108,7 +108,7 @@
 			"key":"快看",
 			"name":"快看",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
 			"searchable":1,
 			"changeable":1
 		},
@@ -119,7 +119,7 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":1,
-			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
 		},
 		{
 			"key":"新6V",
@@ -246,7 +246,7 @@
 				"ratio":1.433
 			},
 			"ext":{
-				"json":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"json":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
 				"type":"",
 				"cookie":""
 			}
@@ -255,7 +255,7 @@
 			"key":"bilibili_open",
 			"name":"嗶哩嗶哩LIST",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
 			"searchable":1,
 			"changeable":0,
 			"ext":{
@@ -326,7 +326,7 @@
 			"key":"18A",
 			"name":"18A",
 			"type":3,
-			"api":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -878,7 +878,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 		},
 		{
 			"key":"WebDAV",
@@ -887,7 +887,7 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
 		{
 			"key":"JustLive",
@@ -973,7 +973,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://cors.isteed.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
 		}
 	],
 	"doh": [
