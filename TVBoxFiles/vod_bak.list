@@ -148,14 +148,6 @@
 			"ext": "影視天下第一"
 		},
 		{
-			"key":"996影院",
-			"name":"996影院",
-			"type":3,
-			"api":"csp_Cs1369",
-			"searchable":1,
-			"changeable":1
-		},
-		{
 			"key":"看球",
 			"name":"看球",
 			"type":3,
