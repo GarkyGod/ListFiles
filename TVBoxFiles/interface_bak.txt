@@ -108,7 +108,7 @@
 			"key":"key_woggcli_1",
 			"name":"影視|玩偶_1",
 			"type":4,
-			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=502ebf6ef2d8456e977da32bf947b05d",
+			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=19b3a6e9ea3b43f98ddc8ced82fd9478",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -123,7 +123,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
-			"ext":"502ebf6ef2d8456e977da32bf947b05d+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+			"ext":"19b3a6e9ea3b43f98ddc8ced82fd9478+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key":"key_nangua",
