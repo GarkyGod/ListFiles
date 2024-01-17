@@ -1,0 +1,149 @@
+//////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
+//	"lives":[
+//		{
+//			"group":"redirect",
+//			"channels":[
+//			{
+//				"name":"redirect",
+//				"urls":[
+//					"https://raw.githubusercontent.com/takagen99/channel/raw/master/CATVOD/mainTV.txt"
+//					"proxy://do=live&type=txt&ext=aHR0cHM6Ly9iaXQubHkvZGl5cF9saXZl"
+//				]
+//			}
+//			]
+//		}
+//	],
+//
+//	"lives":[
+//		{
+//			"name":"直播",
+//			"type":0,
+//			"url":"https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png"
+//		}
+//	],
+////////////////////////////////  FongMi Live直播  //////////////////////////////
+//	"lives":[
+//		{
+//			"name":"M3U",
+//			"url":"https://github.com/live.m3u"
+//		},
+//		{
+//			"name":"TXT",
+//			"url":"https://github.com/live.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png"
+//		},
+//		{
+//			"name":"IJK",
+//			"url":"https://github.com/live.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png",
+//			"playerType":1
+//		},
+//		{
+//			"name":"EXO",
+//			"url":"https://github.com/live.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png",
+//			"playerType":2
+//		},
+//		{
+//			"name":"PRO",
+//			"boot":false,
+//			"url":"https://github.com/live.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png",
+//			"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+//			"referer":"https://github.com/"
+//		},
+//		{
+//			"name":"Custom",
+//			"boot":false,
+//			"pass":true,
+//			"url":"https://github.com/live.txt",
+//			"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//			"logo":"https://epg.112114.xyz/logo/{name}.png",
+//			"header":{
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+//				"Referer":"https://github.com/"
+//			}
+//		},
+//		{
+//			"name":"JSON",
+//			"type":1,
+//			"url":"https://github.com/live.json"
+//		},
+//		{
+//			"name":"Proxy",
+//			"type":2,
+//			"url":"proxy://do=live&type=today"
+//		}
+//	],
+
+//////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
+//	"sites":[
+//		{
+//			"key":"key_(资源名称)",
+//			"name":"资源名称",
+//			"type":0,
+//			"api":"csp_(jar内文件名称)",
+//			"searchable":1,		// 是否搜索,0:關閉;1:啟用
+//			"quickSearch":1,	// 是否快速搜索,0:關閉;1:啟用
+//			"filterable":0,		// 是否篩選,0:關閉;1:啟用
+//			"changeable":0,		// 是否換源,0:關閉;1:啟用
+//			"recordable":0,		// 是否紀錄,0:關閉;1:啟用
+//			"playerType":none,	// 播放器,0:系統,1:IJK,2:EXO
+//			"jar":"(jar文件地址)",
+//			"ext":"(txtjson文件地址)",	// 擴展信息
+//			"playUrl":"〔播放解析地址〕",
+//			"categories":["(自定义资源列表)","(自定义资源列表)"]
+//		}
+//	],
+//	Type	0-xml__1-json__2-爬虫源__3-自定义爬虫from_jar__4-服务器爬虫,
+//		type3,api_from_jar
+//		type1,Json,api_file_end_with_/provide/vod/
+//		type0,MacCMS,api_file end with_/at/xml/
+////////////////////////////////  FongMi Vod點播  //////////////////////////////
+//	"spider":"https://github.com/custom_spider.jar",
+//	"sites":[
+//		{
+//			"key":"key_(资源名称)",
+//			"name":"资源名称",
+//			"type":3,
+//			"api":"csp_(jar内文件名称)",
+//			"searchable":1,		// 是否搜索,0:關閉;1:啟用
+//			"changeable":1,		// 是否換源,0:關閉;1:啟用
+//			"recordable":1,		// 是否紀錄,0:關閉;1:啟用
+//			"playerType":none,	// 播放器,0:系統,1:IJK,2:EXO
+//			"ext":"(txtjson文件地址)",		// 擴展信息
+//			"jar":"(jar文件地址)",
+//			"timeout":15,		// 播放超時,單位:秒
+//			"header":none,		// 請求標頭,格式:json
+//			"click":none,		// 點擊js,javascript
+//			"style":{		// 樣式,直式:type:rect; 模式:type:rect,ratio:1.33; 正方:type:rect,ratio:1; 正圓:type:oval; 橢圓:type:oval,ratio:1.1
+//				"type":"rect",		// rect:矩形; oval:橢圓; list:列表
+//				"ratio":1.33		// 0.75:3:4; 1.33:4:3
+//			}
+//		}
+//	API
+//	刷新詳情:http://127.0.0.1:9978/action?do=refresh&type=detail
+//	刷新播放:http://127.0.0.1:9978/action?do=refresh&type=player
+//	推送字幕:http://127.0.0.1:9978/action?do=refresh&type=subtitle&path=http://xxx
+//	推送彈幕:http://127.0.0.1:9978/action?do=refresh&type=danmaku&path=http://xxx
+//	新增緩存字串:http://127.0.0.1:9978/cache?do=set&key=xxx&value=xxx
+//	取得緩存字串:http://127.0.0.1:9978/cache?do=get&key=xxx
+//	刪除緩存字串:http://127.0.0.1:9978/cache?do=del&key=xxx
+//	],
+//
+//	Proxy
+//	scheme 支持 http, https, socks4, socks5
+//	scheme://username:password@host:port
+//	配置 rules 新增 proxy 判斷 host 是否走代理
+//	{
+//		"name":"proxy",
+//		"hosts":[
+//			"api.nivodz.com"
+//		]
+//	}
