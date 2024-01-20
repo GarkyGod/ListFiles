@@ -297,7 +297,7 @@
 		},
 {
 "key":"key_yumi_xml",
-"name":"採集|玉米Xml",
+"name":"採集|玉米Xml|X",
 "type":0,
 "api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
 "playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=",
@@ -307,7 +307,7 @@
 },
 {
 "key":"key_yumi_json",
-"name":"採集|玉米Json",
+"name":"採集|玉米Json|X",
 "type":1,
 "api":"http://124.222.116.5/macos/api.php/provide/vod/",
 "playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=",
@@ -378,7 +378,7 @@
 
 {
 "key":"key_damo_xml",  //  https://damozy.com/
-"name":"採集|大漠Xml",
+"name":"採集|大漠Xml|X",
 "type":0,
 "api":"https://damozy.com/api.php/provide/vod/at/xml",
 "searchable":1,
@@ -388,7 +388,7 @@
 },
 {
 "key":"key_damo_json",
-"name":"採集|大漠Json",
+"name":"採集|大漠Json|X",
 "type":1,
 "api":"https://damozy.com/api.php/provide/vod/",
 "searchable":1,
