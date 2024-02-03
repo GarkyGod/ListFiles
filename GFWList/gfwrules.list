@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-02-03 00:10:54
+!Last Modified: 2024-02-04 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10068,6 +10068,14 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hoyolab.com
 ||spring-plus.net
 ||x.com
+||wallhaven.cc
+||sakura-paris.org
+||av01.tv
+||v2board.com
+||madou.club
+||sehuatang.org
+||sehuatang.net
+||haiwaikan.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10782,7 +10790,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||scorecardresearch.com
 ||scroll.com
 ||seatguru.com
-||sehuatang.net
 ||sellclassics.com
 ||sentry.io
 ||seraph.me
