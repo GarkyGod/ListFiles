@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-02-07 00:11:08
+!Last Modified: 2024-02-08 00:10:54
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8124,7 +8124,6 @@ ultrasurf
 ||cnex.org.cn
 ||cnineu.com
 ||wiki.cnitter.com
-||cnn.com
 ||cn-proxy.com
 ||cnproxy.com
 ||blog.cnyes.com
@@ -9981,6 +9980,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cc.com
 ||rpglogs.com
 ||fast.com
+||cdn.jsdelivr.net
 ||pages.dev
 ||missav.com
 ||patreonusercontent.com
@@ -10258,6 +10258,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cnet.com
 ||cnews.com.tw
 ||cnitter.com
+||cnn.com
 ||codeplex.com
 ||comedycentral.com
 ||comico.tw
