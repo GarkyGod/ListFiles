@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-02-11 00:10:53
+!Last Modified: 2024-02-12 00:11:08
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10100,6 +10100,21 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||laowang.vip
 ||manhuabika.com
 ||supjav.com
+||ulifestyle.com.hk
+||pcmarket.com.hk
+||eprice.com.hk
+||nextapple.com
+||nextapple.tw
+||sina.com.hk
+||blocktempo.com
+||saeima.lv
+||xsden.org
+||theaustralian.com.au
+||akinator.com
+||spiegel.de
+||jw.org
+||digg.com
+||news.com.au
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10553,7 +10568,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||junglobal.net
 ||justdied.com
 ||justtristan.com
-||jw.org
 ||jwplayer.com
 ||kaiyuan.de
 ||kangye.org
@@ -10840,7 +10854,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||shvoong.com
 ||sidelinessportseatery.com
 ||simpleproductivityblog.com
-||sina.com.hk
 ||sina.com.tw
 ||sino-monthly.com
 ||site.new
@@ -10916,7 +10929,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tenacy.com
 ||tgfcer.com
 ||thaicn.com
-||theaustralian.com.au
 ||theblemish.com
 ||thefreeland.club
 ||thefrontier.hk
