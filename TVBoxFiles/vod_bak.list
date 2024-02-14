@@ -38,8 +38,7 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":{
-				"token":"502ebf6ef2d8456e977da32bf947b05d",
-				"filter":{"1":[{"key":"3","name":"劇情","value":[{"動作":"动作","科幻:"科幻"}]},{"key":"2","name":"地區","value":[{"大陸":"大陆","香港:"香港"}]}]}
+				"token":"502ebf6ef2d8456e977da32bf947b05d"
 //				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
 //				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
 			}
