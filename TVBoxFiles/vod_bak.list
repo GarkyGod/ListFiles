@@ -43,14 +43,14 @@
 				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
 			}
 		},
-		{
-			"key":"www.cs1369.com",
-			"name":"996影院",
-			"type":3,
-			"api":"csp_Cs1369",
-			"searchable":1,
-			"changeable":1
-		},
+//		{
+//			"key":"www.cs1369.com",
+//			"name":"996影院",
+//			"type":3,
+//			"api":"csp_Cs1369",
+//			"searchable":1,
+//			"changeable":1
+//		},
 		{
 			"key":"賤賤",
 			"name":"賤賤",
