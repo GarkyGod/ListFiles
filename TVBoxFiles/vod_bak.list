@@ -311,6 +311,18 @@
 //			}
 //		},
 		{
+			"key":"javdb523.com",
+			"name":"JavDb",
+			"type":3,
+			"api":"csp_JavDb",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			}
+		},
+		{
 			"key":"18AV",
 			"name":"18AV",
 			"type":3,
