@@ -104,10 +104,23 @@
 			"ext":"http://106.52.241.21:83/api.php/app/"
 		},
 		{
+			"key":"tvfan.xxooo.cf",
+			"name":"玩偶哥哥",
+			"type":3,
+			"api":"csp_Wogg",
+			"searchable":1,
+			"changeable":0,
+			"ext":{
+				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+//				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
+//				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+			}
+		},
+		{
 			"key":"key_woggcli_1",
 			"name":"影視|玩偶_1",
 			"type":4,
-			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=19b3a6e9ea3b43f98ddc8ced82fd9478",
+			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1
@@ -122,7 +135,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
-			"ext":"19b3a6e9ea3b43f98ddc8ced82fd9478+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
 		},
 		{
 			"key":"key_nangua",
