@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-02-16 00:10:59
+!Last Modified: 2024-02-17 00:11:24
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8749,6 +8749,7 @@ ultrasurf
 ||kinghost.com
 ||kir.jp
 ||kissbbao.cn
+||kiwi.kz
 ||kmuh.org.tw
 ||knowledgerush.com
 ||kone.com
@@ -9398,6 +9399,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tangren.us
 ||taoism.net
 ||tascn.com.au
+||taup.org.tw
 ||tbi.org.hk
 ||tbjyt.org
 ||tbrc.org
@@ -9899,9 +9901,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||myiphider.com
 |*app.cloudcone.com
 ||kissjav.com
-|*.thumbzilla.com
-|*.v2fly.org
-|http://pems.dot.ca.gov/
+||dot.ca.gov
 ||mydati.com
 ||justmysocks.net
 ||wiki.kfd.me
@@ -9914,7 +9914,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 |*apps.evozi.com
 ||9to5*.com
 ||play-asia.com
-||s*.wordpress.com
+||stats.wp.com
 ||tgstat.com
 ||evchk.wikia.org
 ||travelinkcard.com
@@ -10115,6 +10115,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||jw.org
 ||digg.com
 ||news.com.au
+||wsimg.com
+||jrf.org.tw
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10586,7 +10588,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||kindleren.com
 ||kingkong.com.tw
 ||kink.com
-||kiwi.kz
 ||klip.me
 ||ktkjmp.com
 ||kuaikan-cdn3.com
@@ -10916,7 +10917,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tapecontent.net
 ||taragana.com
 ||target.com
-||taup.org.tw
 ||tbicn.org
 ||tbsmalaysia.org
 ||tc39.es
