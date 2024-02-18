@@ -51,6 +51,25 @@
 //		type0,MacCMS,api_file end with_/at/xml/
 
 	"sites":[
+		{
+			"key":"key_Douban",
+			"name":"豆瓣",
+			"type":3,
+			"api":"csp_Douban",
+			"searchable":0,
+			"quickSearch":0,
+			"filterable":0
+		},
+		{
+			"key":"key_AliYunPan",
+			"name":"阿里設置",
+			"type":3,
+			"api":"csp_AliYunPan",
+			"searchable":0,
+			"quickSearch":0,
+			"filterable":0,
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+		},
 //		{
 //			"key":"csp_xpath_czspp",
 //			"name":"廠長資源",
