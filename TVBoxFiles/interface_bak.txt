@@ -262,7 +262,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/heihei"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/chaoshen"
 		},
 		{
 			"key":"key_nongmen",
