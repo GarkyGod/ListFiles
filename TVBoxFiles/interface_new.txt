@@ -16,22 +16,25 @@
 //////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
 	"sites":[
 		{
-			"key":"key_czzy",
-			"name":"影視|廠長",
+			"key":"csp_xpath_czspp",
+			"name":"影視|廠長1",
 			"type":3,
-			"api":"https://raw.githubusercontents.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_XYQHikerAL",
 			"searchable":1,
-			"changeable":0
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_厂长影视.json"
 		},
 		{
-			"key":"key_Czsapp",
+			"key":"key_Czsapp_2",
 			"name":"影視|廠長2",
 			"type":3,
-			"jar":"https://raw.githubusercontents.com/gaotianliuyun/gao/master/jar/fan.txt",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_Czsapp",
-			"playerType":2,
 			"searchable":1,
-			"changeable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext": "https://www.czzy88.com/"
 		},
 		{
@@ -55,6 +58,39 @@
 			// "ext":"https://raw.githubusercontents.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
 			"ext":"https://raw.githubusercontents.com/hjdhnx/dr_py/main/js/555电影[V2].js",
 			"style":{"type":"rect","ratio":1}
+		},
+		{
+			"key":"key_tvbyunbo",
+			"name":"影視|TVB雲播",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"api":"csp_XBPQ",
+			"ext":{
+				"影片类型":"分类：&&主演",
+				"导演":"导演：</span>&&</p>",
+				"主演":"主演：</span>&&</p>",
+				"简介":"class=\"sketch content\">&&</span>",
+				"数组":"myui-vodlist__thumb&&</a>",
+				"标题":"title=\"&&\"",
+				"副标题":"pic-tag pic-tag-top\">&&</span>",
+				"图片":"data-original=\"&&\"",
+				"链接":"href=\"&&\"",
+				"搜索模式":"1",
+				"搜索url":"http://www.tvyb03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
+				"搜索二次截取":"\"list\":[&&]",
+				"搜索数组":"{&&}",
+				"搜索标题":"\"name\":\"&&\"",
+				"搜索图片":"\"pic\":\"&&\"",
+				"搜索链接":"http://www.tvyb03.com/vod/detail/id/+\"id\":&&,+html",
+				"嗅探词":".m3u8#mp4",
+				"线路数组":"</a><h3&&/h3>",
+				"线路标题":"title\">&&<",
+				"播放数组":"<ul class=\"myui-content__list scrollbar&&</ul>",
+				"播放标题":">&&<",
+				"播放列表":"<a&&/a>",
+				"分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
+				"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+			}
 		},
 //////////////////////////////// api資源網 /////////////////////////////////////
 	{
