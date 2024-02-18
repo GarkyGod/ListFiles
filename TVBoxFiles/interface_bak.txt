@@ -205,7 +205,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$./json/filter_wogg.json",
+			"changeable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$2$$$./json/filter_wogg.json",
 			"timeout":30
 		},
 		{
@@ -213,12 +214,24 @@
 			"name":"影視|玩偶_2",
 			"type":3,
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
-//			"jar":"https://raw.githubusercontents.com/gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_WoGG",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
 			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+		},
+		{
+			"key":"key_Wobg",
+			"name":"影視|玩偶表哥",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+			"api":"csp_Wobg",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"changeable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wobge.run.goorm.io$$$./json/filter_wogg.json",
+			"timeout":30
 		},
 		{
 			"key":"key_nangua",
