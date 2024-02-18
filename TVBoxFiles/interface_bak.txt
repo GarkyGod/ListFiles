@@ -104,18 +104,15 @@
 			"ext":"http://106.52.241.21:83/api.php/app/"
 		},
 		{
-			"key":"tvfan.xxooo.cf",
+			"key":"key_wogg.xyz",
 			"name":"玩偶哥哥",
 			"type":3,
-			"api":"csp_Wogg",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":{
-				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
-//				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/wogg.json"
-//				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
-			}
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/玩偶哥哥.json"
 		},
 		{
 			"key":"key_woggcli_1",
