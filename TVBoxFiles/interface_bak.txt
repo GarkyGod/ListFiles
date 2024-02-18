@@ -252,12 +252,22 @@
 		},
 		{
 			"key":"key_new6V",
-			"name":"影視|新6V",
+			"name":"🧲影視|新6V_1",
+			"type":3,
+			"api":"csp_New6v",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://www.xb6v.com"
+		},
+		{
+			"key":"key_Xb6V",
+			"name":"🧲影視|新6V_2",
 			"type":3,
 			"api":"csp_Xb6v",
 			"searchable":1,
 			"quickSearch":1,
-			"changeable":0
+			"filterable":0
 		},
 		{
 			"key":"key_pipixia",
