@@ -496,7 +496,7 @@
 		},
 		{
 			"key":"feifei67.com",
-			"name":"CK資源(18+)",
+			"name":"CK資源(18+)X",
 			"type":1,
 			"api":"http://www.feifei67.com/api.php/provide/vod/",
 			"searchable":1,
@@ -526,8 +526,8 @@
 		{
 			"key":"api.maozyapi.com",
 			"name":"色貓資源(18+)",
-			"type":1,  // 0,
-			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",
+			"type":1,  // 0,  // 0,
+			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",  // "https://semaozy6.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{
@@ -541,7 +541,7 @@
 		},
 		{
 			"key":"caiji.huakuiapi.com",
-			"name":"花魁資源(18+)",
+			"name":"花魁資源(18+)X",
 			"type":1,  // 0,
 			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",  // "https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
@@ -623,7 +623,7 @@
 		},
 		{
 			"key":"zmcj88.com",
-			"name":"字幕网(18+)",
+			"name":"字幕网(18+)X",
 			"type":0,
 			"api":"http://zmcj88.com/sapi?ac=videolist",
 			"searchable":1,
@@ -639,7 +639,7 @@
 		},
 		{
 			"key":"99zywcj.com",
-			"name":"Adult_02",
+			"name":"Adult_02X",
 			"type":0,
 			"api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
 			"searchable":1,
@@ -655,7 +655,7 @@
 		},
 		{
 			"key":"wmcj8.com",
-			"name":"Adult_03",
+			"name":"环亚资源(18+)",
 			"type":0,
 			"api":"http://wmcj8.com/inc/sapi.php",
 			"searchable":1,
@@ -671,7 +671,7 @@
 		},
 		{
 			"key":"mygzycj.com",
-			"name":"JAV名优(18+)",
+			"name":"JAV名优(18+)X",
 			"type":0,
 			"api":"http://mygzycj.com/api.php?ac=list",
 			"searchable":1,
@@ -703,7 +703,7 @@
 		},
 		{
 			"key":"cjmygzy.com",
-			"name":"Adult_06",
+			"name":"狼少年(18+)X",
 			"type":0,
 			"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
 			"searchable":1,
@@ -735,7 +735,7 @@
 //		},
 		{
 			"key":"gdlsp.com",
-			"name":"Adult_08",
+			"name":"香奶儿资源(18+)",
 			"type":1,  // 0,
 			"api":"https://www.gdlsp.com/api/api.php",  // "https://www.gdlsp.com/api/xml.php",
 			"searchable":1,
@@ -795,7 +795,7 @@
 		},
 		{
 			"key":"fhapi9.com",
-			"name":"Adult_12",
+			"name":"番号资源(18+)",
 			"type":1,  // 0,
 			"api":"http://fhapi9.com/api.php/provide/vod/",  // "http://fhapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -827,7 +827,7 @@
 		},
 		{
 			"key":"lbapiby.com",
-			"name":"Adult_14",
+			"name":"乐播(18+)",
 			"type":1,  // 0,
 			// "api":"http://lbapiby.com/api.php/provide/vod/",  // "http://lbapiby.com/api.php/provide/vod/at/xml",
 			"api":"https://lbapi9.com/api.php/provide/vod/",  // "https://lbapi9.com/api.php/provide/vod/at/xml",
@@ -860,7 +860,7 @@
 //		},
 		{
 			"key":"msnii.com",
-			"name":"Adult_16",
+			"name":"美少女资源(18+)",
 			"type":0,
 			"api":"https://www.msnii.com/api/xml.php",
 			"searchable":1,
@@ -876,7 +876,7 @@
 		},
 		{
 			"key":"kxgav.com",
-			"name":"Adult_19",
+			"name":"白嫖资源(18+)",
 			"type":1,  // 0,
 			"api":"https://www.kxgav.com/api/api.php",  // "https://www.kxgav.com/api/xml.php",
 			"searchable":1,
@@ -892,7 +892,7 @@
 		},
 		{
 			"key":"xrbsp.com",
-			"name":"Adult_20",
+			"name":"淫水机资源(18+)",
 			"type":1,  // 0,
 			"api":"https://www.xrbsp.com/api/api.php",  // "https://www.xrbsp.com/api/xml.php",
 			"searchable":1,
