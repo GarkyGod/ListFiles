@@ -199,11 +199,14 @@
 		{
 			"key":"key_woggcli_1",
 			"name":"影視|玩偶_1",
-			"type":4,
-			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+			"api":"csp_Wogg",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$1$$$./json/filter_wogg.json",
+			"timeout":30
 		},
 		{
 			"key":"key_woggcli_2",
