@@ -108,6 +108,18 @@
 			"ext": "https://www.czzy88.com/"
 		},
 		{
+			"key":"key_tvbsk",
+			"name":"TVB云播",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Skapp",
+			"playerType":2,
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/tvbyb"
+		},
+		{
 			"key":"key_world_1",
 			"name":"影視|世界_1",
 			"type":3,
