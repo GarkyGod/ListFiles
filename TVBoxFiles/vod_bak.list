@@ -573,6 +573,23 @@
 			}
 		},
 		{
+			"key":"timizy.cc",
+			"name":"甜蜜資源",
+			"type":1,  // 0,
+//			"api":"https://timizy.cc/api.php/provide/vod/",
+			"api":"https://timizy10.cc/api.php/provide/vod/",  // "https://timizy10.cc/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"recordable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.33
+			},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
 			"key":"zmcj88.com",
 			"name":"Adult_01",
 			"type":0,
