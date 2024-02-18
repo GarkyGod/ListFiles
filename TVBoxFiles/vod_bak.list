@@ -291,7 +291,7 @@
 //		},
 //		{
 //			"key":"泥巴18+",
-//			"name":"泥巴18+",
+//			"name":"泥巴(18+)",
 //			"type":3,
 //			"api":"csp_NiNi",
 //			"searchable":1,
@@ -299,7 +299,7 @@
 //		},
 //		{
 //			"key":"hongkongdollvideo.com",
-//			"name":"玩偶姐姐",
+//			"name":"玩偶姐姐(18+)",
 //			"type":3,
 //			"api":"csp_Doll",
 //			"searchable":1,
@@ -335,7 +335,7 @@
 		},
 		{
 			"key":"18A",
-			"name":"18A",
+			"name":"18A(18+)",
 			"type":3,
 			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
 			"searchable":1,
@@ -347,7 +347,7 @@
 		},
 //		{
 //			"key":"Jable",
-//			"name":"Jable",
+//			"name":"Jable(18+)",
 //			"type":3,
 //			"api":"csp_Jable",
 //			"searchable":1,
@@ -359,7 +359,7 @@
 //		},
 //		{
 //			"key":"MissAV",
-//			"name":"MissAV",
+//			"name":"MissAV(18+)",
 //			"type":3,
 //			"api":"csp_Miss",
 //			"searchable":1,
@@ -371,7 +371,7 @@
 //		},
 //		{
 //			"key":"Hanime",
-//			"name":"Hanime",
+//			"name":"Hanime(18+)",
 //			"type":3,
 //			"api":"csp_Hanime",
 //			"searchable":1,
@@ -383,14 +383,14 @@
 //		},
 		{
 			"key":"aosikazy.com",
-			"name":"奥斯卡资源",
+			"name":"奥斯卡资源(18+)",
 			"type":1,  // 0,
 			"api":"https://aosikazy.com/api.php/provide/vod/",  // "https://aosikazy.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{
 				"type":"rect",
-				"ratio":1.33
+				"ratio":1.485
 			},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -399,7 +399,7 @@
 		},
 		{
 			"key":"lajiaozy.com",    // https://apilj.com/,
-			"name":"辣椒資源_1",
+			"name":"辣椒資源_1(18+)",
 			"type":1,  // 0,
 //			"api":"http://apilj.com/api.php/provide/vod/at/json/",  // "https://apilj.com/api.php/provide/vod/at/xml/",
 			"api":"http://api.11bat.com/api.php/provide/vod/",  // "http://api.11bat.com/api.php/provide/vod/at/xml/",
@@ -416,7 +416,7 @@
 		},
 		{
 			"key":"dadiapi.com",
-			"name":"辣椒資源_2",
+			"name":"辣椒資源_2(18+)",
 			"type":0,
 			"api":"http://dadiapi.com/api.php",
 			"searchable":1,
@@ -432,7 +432,7 @@
 		},
 //		{
 //			"key":"madouse.la",
-//			"name":"麻豆傳媒",
+//			"name":"麻豆傳媒(18+)",
 //			"type":1,
 //			"api":"http://madouse.la/api.php/provide/vod/",
 //			"searchable":1,
@@ -448,7 +448,7 @@
 //		},
 //		{
 //			"key":"91md.me",
-//			"name":"麻豆視頻",
+//			"name":"麻豆視頻(18+)",
 //			"type":1,  // 0,
 //			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
 //			"searchable":1,
@@ -464,7 +464,7 @@
 //		},
 		{
 			"key":"madoucun.cn",
-			"name":"麻豆村",
+			"name":"麻豆村(18+)",
 			"type":1,  // 0,
 			"api":"https://madoucun.cn/api.php/provide/vod/",  // "https://madoucun.cn/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -480,7 +480,7 @@
 		},
 		{
 			"key":"api.sexnguon.com",
-			"name":"PhimSex",
+			"name":"PhimSex(18+)",
 			"type":1,  // 0,
 			"api":"http://api.sexnguon.com/api.php/provide/vod/",  // "https://api.sexnguon.com/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -496,7 +496,7 @@
 		},
 		{
 			"key":"feifei67.com",
-			"name":"CK資源",
+			"name":"CK資源(18+)",
 			"type":1,
 			"api":"http://www.feifei67.com/api.php/provide/vod/",
 			"searchable":1,
@@ -509,7 +509,7 @@
 		},
 		{
 			"key":"jcspcj8.com",
-			"name":"富二代",
+			"name":"富二代(18+)",
 			"type":0,
 			"api":"http://jcspcj8.com/api?ac=videolist",
 			"searchable":1,
@@ -525,7 +525,7 @@
 		},
 		{
 			"key":"api.maozyapi.com",
-			"name":"色貓資源",
+			"name":"色貓資源(18+)",
 			"type":1,  // 0,
 			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",
 			"searchable":1,
@@ -541,7 +541,7 @@
 		},
 		{
 			"key":"caiji.huakuiapi.com",
-			"name":"花魁資源",
+			"name":"花魁資源(18+)",
 			"type":1,  // 0,
 			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",  // "https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
@@ -557,7 +557,7 @@
 		},
 		{
 			"key":"kkzy.me",
-			"name":"KK資源",
+			"name":"KK資源(18+)",
 			"type":1,  // 0,
 			"api":"https://kkzy.me/api.php/provide/vod/",  // "https://kkzy.me/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -573,7 +573,7 @@
 		},
 		{
 			"key":"apittzy.com",
-			"name":"探探資源",
+			"name":"探探資源(18+)",
 			"type":1,  // 0,
 			"api":"https://apittzy.com/api.php/provide/vod/",  // "https://apittzy.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
@@ -589,7 +589,7 @@
 		},
 		{
 			"key":"sewozyapi.com",
-			"name":"老鸭资源",
+			"name":"老鸭资源(18+)",
 			"type":1,  // 0,
 //			"api":"https://sewozyapi.com/api.php/provide/vod/",
 			"api":"https://api.apilyzy.com/api.php/provide/vod/",  // "https://api.apilyzy.com/api.php/provide/vod/at/xml",
@@ -606,7 +606,7 @@
 		},
 		{
 			"key":"timizy.cc",
-			"name":"甜蜜資源",
+			"name":"甜蜜資源(18+)",
 			"type":1,  // 0,
 //			"api":"https://timizy.cc/api.php/provide/vod/",
 			"api":"https://timizy10.cc/api.php/provide/vod/",  // "https://timizy10.cc/api.php/provide/vod/at/xml",
@@ -687,7 +687,7 @@
 		},
 		{
 			"key":"bttcj.com",
-			"name":"Adult_05",
+			"name":"天堂資源(18+)",
 			"type":0,
 			"api":"http://bttcj.com/inc/sapi.php",
 			"searchable":1,
@@ -751,14 +751,14 @@
 		},
 		{
 			"key":"llzxcj.com",
-			"name":"Adult_09",
+			"name":"利来资源(18+)",
 			"type":0,
 			"api":"http://llzxcj.com/inc/sck.php?ac=videolist",
 			"searchable":1,
 			"recordable":0,
 			"style":{
 				"type":"rect",
-				"ratio":1.33
+				"ratio":1.485
 			},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
