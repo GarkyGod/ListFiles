@@ -82,16 +82,19 @@
 //			"filterable":0,
 //			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"},
 		{
-			"key":"key_czzy",
+			"key":"key_Czsapp_1",
 			"name":"影視|廠長1",
 			"type":3,
-			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/czzy_open.js",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Czsapp",
+			"playerType":2,
 			"searchable":1,
 			"quickSearch":1,
-			"changeable":0
+			"filterable":1,
+			"ext": "https://www.czzy88.com/"
 		},
 		{
-			"key":"key_Czsapp",
+			"key":"key_Czsapp_2",
 			"name":"影視|廠長2",
 			"type":3,
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
@@ -99,7 +102,7 @@
 			"playerType":2,
 			"searchable":1,
 			"quickSearch":1,
-			"changeable":0,
+			"filterable":1,
 			"ext": "https://www.czzy88.com/"
 		},
 		{
