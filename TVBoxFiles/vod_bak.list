@@ -687,7 +687,7 @@
 		},
 		{
 			"key":"bttcj.com",
-			"name":"天堂資源(18+)",
+			"name":"博天堂資源(18+)",
 			"type":0,
 			"api":"http://bttcj.com/inc/sapi.php",
 			"searchable":1,
@@ -908,7 +908,7 @@
 		},
 		{
 			"key":"pgxdy.com",
-			"name":"黄艾薇资源(18+)",
+			"name":"AV资源(18+)",
 			"type":1,  // 0,
 			"api":"https://www.pgxdy.com/api/api.php",  // "https://www.pgxdy.com/api/xml.php",
 			"searchable":1,
