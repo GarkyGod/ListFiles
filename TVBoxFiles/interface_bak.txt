@@ -76,11 +76,12 @@
 			"key":"csp_xpath_czspp",
 			"name":"廠長資源",
 			"type":3,
-			"api":"csp_XPath",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://github.com/FongMi/CatVodOpen/raw/main/open/czzy_open.js"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQHiker/厂长影视.json"
 		},
 		{
 			"key":"key_Czsapp_1",
