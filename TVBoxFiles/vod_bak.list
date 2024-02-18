@@ -399,7 +399,7 @@
 		},
 		{
 			"key":"lajiaozy.com",    // https://apilj.com/,
-			"name":"辣椒資源_1(18+)",
+			"name":"辣椒資源(18+)",
 			"type":1,  // 0,
 //			"api":"http://apilj.com/api.php/provide/vod/at/json/",  // "https://apilj.com/api.php/provide/vod/at/xml/",
 			"api":"http://api.11bat.com/api.php/provide/vod/",  // "http://api.11bat.com/api.php/provide/vod/at/xml/",
@@ -416,7 +416,7 @@
 		},
 		{
 			"key":"dadiapi.com",
-			"name":"辣椒資源_2(18+)",
+			"name":"大地资源(18+)",
 			"type":0,
 			"api":"http://dadiapi.com/api.php",
 			"searchable":1,
@@ -623,7 +623,7 @@
 		},
 		{
 			"key":"zmcj88.com",
-			"name":"Adult_01",
+			"name":"字幕网(18+)",
 			"type":0,
 			"api":"http://zmcj88.com/sapi?ac=videolist",
 			"searchable":1,
@@ -671,7 +671,7 @@
 		},
 		{
 			"key":"mygzycj.com",
-			"name":"Adult_04",
+			"name":"JAV名优(18+)",
 			"type":0,
 			"api":"http://mygzycj.com/api.php?ac=list",
 			"searchable":1,
