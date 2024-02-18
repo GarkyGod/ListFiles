@@ -262,7 +262,51 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/heihei"
+		},
+		{
+			"key":"key_超神",
+			"name":"影視|超神",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Appto",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/chaoshen"
+		},
+		{
+			"key":"key_老虎",
+			"name":"影視|老虎",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Appto",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/laohu"
+		},
+		{
+			"key":"key_樱花",
+			"name":"影視|樱花",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Appto",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/yinghua"
+		},
+		{
+			"key":"key_星星",
+			"name":"影視|星星",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"api":"csp_Appto",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/ext/xingxing"
 		},
 		{
 			"key":"key_nongmen",
