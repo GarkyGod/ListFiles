@@ -206,7 +206,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$2$$$./json/filter_wogg.json",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json",
 			"timeout":30
 		},
 		{
@@ -230,7 +230,7 @@
 			"quickSearch":1,
 			"filterable":1,
 			"changeable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wobge.run.goorm.io$$$./json/filter_wogg.json",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wobge.run.goorm.io$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json",
 			"timeout":30
 		},
 		{
