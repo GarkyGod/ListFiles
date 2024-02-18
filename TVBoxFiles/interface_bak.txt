@@ -258,7 +258,7 @@
 			"name":"影視|嘿嘿1",
 			"type":3,
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
-			"api":"csp_AppMao",
+			"api":"csp_Appto",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
