@@ -80,7 +80,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czspp.json"
+			"ext":"https://ghproxy.net/https://github.com/FongMi/CatVodOpen/raw/main/open/czzy_open.js"
 		},
 		{
 			"key":"key_Czsapp_1",
