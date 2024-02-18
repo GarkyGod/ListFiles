@@ -254,6 +254,7 @@
 			"key":"key_new6V",
 			"name":"🧲影視|新6V_1",
 			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
 			"api":"csp_New6v",
 			"searchable":1,
 			"quickSearch":1,
