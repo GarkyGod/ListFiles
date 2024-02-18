@@ -205,7 +205,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$1$$$./json/filter_wogg.json",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://wogg.xyz/|104.16.245.50$$$./json/filter_wogg.json",
 			"timeout":30
 		},
 		{
