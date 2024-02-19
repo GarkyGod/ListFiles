@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-02-19 00:11:09
+!Last Modified: 2024-02-20 00:11:09
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3768,6 +3768,7 @@ huaxin.ph
 ||huhangfei.com
 huiyi.in
 .hulkshare.com
+||humanparty.me
 ||humanrightspressawards.org
 ||hung-ya.com
 ||hungerstrikeforaids.org
@@ -6113,6 +6114,7 @@ teensinasia.com
 .telecomspace.com
 ||telegraph.co.uk
 .tenacy.com
+||tenor.com
 ||tenzinpalmo.com
 .tew.org
 ||tew.org
@@ -7433,7 +7435,6 @@ ultrasurf
 !---------------------EOF-----------------------
 !---------403/451/520 & URL Redirects---------
 ||discord.media
-||tenor.com
 ||nordstrommedia.com
 ||nudezz.com
 ||aiv-cdn.net
