@@ -314,7 +314,8 @@
 //			"type":3,
 //			"api":"csp_Doll",
 //			"searchable":1,
-//			"recordable":0
+//			"recordable":0,
+//			"style":{"type":"rect","ratio":1.309}
 //		},
 		{
 			"key":"javdb523.com",
@@ -331,7 +332,7 @@
 			"api":"csp_Eighteen",
 			"searchable":1,
 			"recordable":0,
-			"style":{"type":"rect","ratio":1.33}
+			"style":{"type":"rect","ratio":1.485}
 		},
 		{
 			"key":"18A",
@@ -339,7 +340,8 @@
 			"type":3,
 			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
 			"searchable":1,
-			"recordable":0
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.485}
 		},
 //		{
 //			"key":"Jable",
