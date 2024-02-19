@@ -455,7 +455,7 @@
 			"type":1,
 			"api":"http://www.feifei67.com/api.php/provide/vod/",
 			"searchable":1,
-			"recordable":0,
+			"recordable":0
 //			"categories":["伦理片"]
 		},
 		{
