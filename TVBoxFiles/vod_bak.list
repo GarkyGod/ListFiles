@@ -315,7 +315,7 @@
 //			"api":"csp_Doll",
 //			"searchable":1,
 //			"recordable":0,
-//			"style":{"type":"rect","ratio":1.309}
+//			"style":{"type":"rect","ratio":1.333}
 //		},
 		{
 			"key":"javdb523.com",
@@ -324,7 +324,7 @@
 			"api":"csp_JavDb",
 			"searchable":1,
 			"recordable":0,
-			"style":{"type":"rect","ratio":1.78}
+			"style":{"type":"rect","ratio":1.333}
 		},
 		{
 			"key":"18AV",
@@ -333,7 +333,7 @@
 			"api":"csp_Eighteen",
 			"searchable":1,
 			"recordable":0,
-			"style":{"type":"rect","ratio":1.485}
+			"style":{"type":"rect","ratio":1.333}
 		},
 		{
 			"key":"18A",
@@ -342,7 +342,7 @@
 			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
 			"searchable":1,
 			"recordable":0,
-			"style":{"type":"rect","ratio":1.485}
+			"style":{"type":"rect","ratio":1.333}
 		},
 //		{
 //			"key":"Jable",
@@ -351,7 +351,7 @@
 //			"api":"csp_Jable",
 //			"searchable":1,
 //			"recordable":0,
-//			"style":{"type":"rect","ratio":1.78}
+//			"style":{"type":"rect","ratio":1.333}
 //		},
 //		{
 //			"key":"MissAV",
@@ -360,7 +360,7 @@
 //			"api":"csp_Miss",
 //			"searchable":1,
 //			"recordable":0,
-//			"style":{"type":"rect","ratio":1.78}
+//			"style":{"type":"rect","ratio":1.333}
 //		},
 //		{
 //			"key":"Hanime",
@@ -378,7 +378,7 @@
 			"api":"https://aosikazy.com/api.php/provide/vod/",  // "https://aosikazy.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
-			"style":{"type":"rect","ratio":1.78},
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -392,6 +392,7 @@
 			"api":"http://api.11bat.com/api.php/provide/vod/",  // "http://api.11bat.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -404,6 +405,7 @@
 			"api":"http://dadiapi.com/api.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -416,6 +418,7 @@
 //			"api":"http://madouse.la/api.php/provide/vod/",
 //			"searchable":1,
 //			"recordable":0,
+//			"style":{"type":"rect","ratio":1.333},
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -428,6 +431,7 @@
 //			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
 //			"searchable":1,
 //			"recordable":0,
+//			"style":{"type":"rect","ratio":1.333},
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -440,6 +444,7 @@
 			"api":"https://madoucun.cn/api.php/provide/vod/",  // "https://madoucun.cn/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -452,6 +457,7 @@
 			"api":"http://api.sexnguon.com/api.php/provide/vod/",  // "https://api.sexnguon.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -473,6 +479,7 @@
 			"api":"http://jcspcj8.com/api?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -485,6 +492,7 @@
 			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",  // "https://semaozy6.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -497,6 +505,7 @@
 			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",  // "https://caiji.huakuiapi.com/inc/api.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -509,6 +518,7 @@
 			"api":"https://kkzy.me/api.php/provide/vod/",  // "https://kkzy.me/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -521,6 +531,7 @@
 			"api":"https://apittzy.com/api.php/provide/vod/",  // "https://apittzy.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -534,6 +545,7 @@
 			"api":"https://api.apilyzy.com/api.php/provide/vod/",  // "https://api.apilyzy.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -547,6 +559,7 @@
 			"api":"https://timizy10.cc/api.php/provide/vod/",  // "https://timizy10.cc/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -559,6 +572,7 @@
 			"api":"http://zmcj88.com/sapi?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -571,6 +585,7 @@
 			"api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -583,6 +598,7 @@
 			"api":"http://wmcj8.com/inc/sapi.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -595,6 +611,7 @@
 			"api":"http://mygzycj.com/api.php?ac=list",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -607,6 +624,7 @@
 			"api":"http://bttcj.com/inc/sapi.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -619,6 +637,7 @@
 			"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -631,6 +650,7 @@
 //			"api":"https://www.888dav.com/api.php/provide/vod/",
 //			"searchable":1,
 //			"recordable":0,
+//			"style":{"type":"rect","ratio":1.333},
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -643,6 +663,7 @@
 			"api":"https://www.gdlsp.com/api/api.php",  // "https://www.gdlsp.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -655,6 +676,7 @@
 			"api":"http://llzxcj.com/inc/sck.php?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -667,6 +689,7 @@
 			"api":"http://f2dcj6.com/sapi?ac=videolist",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -687,6 +710,7 @@
 			"api":"http://fhapi9.com/api.php/provide/vod/",  // "http://fhapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -699,6 +723,7 @@
 			"api":"https://shayuapi.com/api.php/provide/vod/",  // "https://shayuapi.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -712,6 +737,7 @@
 			"api":"https://lbapi9.com/api.php/provide/vod/",  // "https://lbapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -724,6 +750,7 @@
 //			"api":"https://www.afasu.com/api/xml.php",
 //			"searchable":1,
 //			"recordable":0,
+//			"style":{"type":"rect","ratio":1.333},
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -736,6 +763,7 @@
 			"api":"https://www.msnii.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -748,6 +776,7 @@
 			"api":"https://www.kxgav.com/api/api.php",  // "https://www.kxgav.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -760,6 +789,7 @@
 			"api":"https://www.xrbsp.com/api/api.php",  // "https://www.xrbsp.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
@@ -772,6 +802,7 @@
 			"api":"https://www.pgxdy.com/api/api.php",  // "https://www.pgxdy.com/api/xml.php",
 			"searchable":1,
 			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
 			"header":{
 				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
