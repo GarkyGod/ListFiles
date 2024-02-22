@@ -149,7 +149,7 @@
 				"播放标题":">&&<",
 				"播放列表":"<a&&/a>",
 				"分类url":"http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-				"分类":"電影$1#電視劇$2#綜藝$3#動漫$4"
+				"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
 		{
