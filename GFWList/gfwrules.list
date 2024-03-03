@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-03-03 00:11:01
+!Last Modified: 2024-03-04 00:11:06
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7602,6 +7602,7 @@ ultrasurf
 ||is-a-hunter.com
 ||dynu.net
 ||freeddns.org
+||facebook.net
 @@||about.fb.com
 ||sl-reverse.com
 ||meta.com
@@ -9879,7 +9880,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||p16-tiktokcdn-com.akamaized.net
 ||tiktokcdn-us.com
 ||tiktokv.com
-!--------------------NEW---------------------
+!--------------------ADD BY LOUKKY---------------
 ||proxy1.xyz
 ||whichav.com
 ||whichav.video
@@ -10126,6 +10127,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sydney.bing.com
 ||copilot.microsoft.com
 ||machbbs.com
+||jotform.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10399,7 +10401,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||evozi.com
 ||exblog.co.jp
 ||expofutures.com
-||facebook.net
 ||faceueditor.com
 ||faceueditorv.com
 ||families.google
