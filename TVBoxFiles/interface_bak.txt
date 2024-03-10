@@ -65,7 +65,7 @@
 			"key":"key_AliYunPan",
 			"name":"阿里設置",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/Yue.jar",
+			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"quickSearch":0,
