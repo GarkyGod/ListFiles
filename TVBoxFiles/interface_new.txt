@@ -19,7 +19,7 @@
 			"key":"csp_xpath_czspp",
 			"name":"影視|廠長1",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/spider.jar",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/Yue.jar",
 			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
