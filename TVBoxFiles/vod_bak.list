@@ -123,7 +123,7 @@
 			"key":"廠長",
 			"name":"廠長",
 			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/czzy_open.js",
+			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/czzy_open.js",
 			"searchable":1,
 			"changeable":0
 		},
@@ -139,7 +139,7 @@
 			"key":"愛看",
 			"name":"愛看",
 			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js",
+			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/ikanbot_open.js",
 			"searchable":1,
 			"changeable":1
 		},
@@ -147,7 +147,7 @@
 			"key":"快看",
 			"name":"快看",
 			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js",
+			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/kkys_open.js",
 			"searchable":1,
 			"changeable":1
 		},
