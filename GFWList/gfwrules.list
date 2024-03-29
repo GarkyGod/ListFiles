@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-03-29 00:11:24
+!Last Modified: 2024-03-30 00:11:10
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -100,11 +100,13 @@ tumblrviewer
 ||casinobellini.com
 ||centauro.com.br
 ||chobit.cc
+||ciciai.com
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
 ||counter.social
 ||costco.com
+||coze.com
 ||crossfire.co.kr
 ||crunchyroll.com
 ||d2pass.com
@@ -1688,6 +1690,7 @@ appledaily.com.tw
 ||archive.is
 .archive.li
 ||archive.li
+||archive.md
 ||archive.org
 ||archive.ph
 archive.today
@@ -2071,6 +2074,7 @@ bwsj.hk
 ||c-spanvideo.org
 ||c-est-simple.com
 .c100tibet.org
+||cableav.tv
 ||cablegatesearch.net
 .cachinese.com
 .cacnw.com
@@ -2765,6 +2769,7 @@ eastern-ark.com
 .easyca.ca
 .easypic.com
 ||fnc.ebc.net.tw
+||news.ebc.net.tw
 .ebony-beauty.com
 ebookbrowse.com
 ebookee.com
@@ -2888,8 +2893,8 @@ etvonline.hk
 ||euronews.com
 eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
 eeas.europa.eu/statements-eeas/2015/151022
-.evschool.net
-|http://evschool.net
+||apps.evozi.com
+||evschool.net
 ||exblog.jp
 ||blog.exblog.co.jp
 @@||www.exblog.jp
@@ -8288,7 +8293,6 @@ ultrasurf
 ||ettoday.net
 ||eucasino.com
 ||eulam.com
-||evschool.net
 ||excite.co.jp
 ||experts-univers.com
 ||extremetube.com
@@ -10122,15 +10126,12 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||bootstrapcdn.com
 ||acgbox.link
 ||lmsys.org
-||ciciai.com
-||coze.com
 ||sydney.bing.com
 ||copilot.microsoft.com
 ||machbbs.com
 ||jotform.com
 ||nengcard.com
 ||yysub.net
-||archive.md
 ||hcaptcha.com
 ||cachefly.net
 ||cachefly.com
