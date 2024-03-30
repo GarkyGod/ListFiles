@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-03-30 00:11:10
+!Last Modified: 2024-03-31 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10139,6 +10139,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ab.chatgpt.com
 ||playbeasts.com
 ||huigui.tw
+||tukaani.org
+||mail.me.com
+||devv.ai
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
