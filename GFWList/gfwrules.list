@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-04-01 00:10:05
+!Last Modified: 2024-04-02 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10148,6 +10148,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||030buy.com
 ||10.tt
 ||1080pzy.co
+||12ft.io
 ||138.com
 ||1998cdp.org
 ||1drv.com
@@ -10172,6 +10173,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||9to5google.com
 ||9to5mac.com
 ||9to5toys.com
+||Cjb.net
 ||a.se
 ||aave.com
 ||ab.co
@@ -10181,19 +10183,23 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||accim.org
 ||acg18.me
 ||acloudvideos.com
+||addresseepaper.com
+||addthis.com
 ||adobe.com
 ||adobe.io
-||aent.com
 ||aent-m.com
+||aent.com
 ||afantibbs.com
 ||affyun.com
+||ai.com
 ||aircrack-ng.org
 ||ais86.com
 ||ais96.com
 ||ajsands.com
-||akamai.net
 ||akamai-cdn-content.com
 ||akamai-content-network.com
+||akamai-video-content.com
+||akamai.net
 ||akamaihd.net
 ||akamaistream.net
 ||akamaized.net
@@ -10211,6 +10217,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||androidapksfree.com
 ||annatam.com
 ||antd.org
+||anthropic.com
 ||anws.gov.tw
 ||aol.ca
 ||ap.org
@@ -10221,18 +10228,22 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||appsflyer.com
 ||appsflyersdk.com
 ||archive.vn
+||arkoselabs.com
 ||artsy.net
 ||arxiv.org
 ||asianclub.tv
 ||asianfreeforum.com
 ||audionow.com
+||auth0.com
 ||authorizeddns.net
 ||authorizeddns.us
 ||avfile.info
 ||avple.video
 ||avtb388.com
 ||avtby.com
+||azureedge.net
 ||backpackers.com.tw
+||barrons.com
 ||bash-hackers.org
 ||baywords.com
 ||bbkz.com
@@ -10306,13 +10317,13 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cdbook.info
 ||cdnlz3.com
 ||changeip.org
+||chatgpt.com
 ||chinesetalks.net
 ||chosun.com
 ||city365.ca
 ||citytalk.tw
 ||civisec.org
 ||cixiaoya.club
-||Cjb.net
 ||cjkypo.com
 ||cleansite.info
 ||cleansite.us
@@ -10348,8 +10359,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||datalabour.com
 ||dayabook.com
 ||dayoneapp.com
-||dazn.com
 ||dazn-api.com
+||dazn.com
 ||dazndn.com
 ||dbc.hk
 ||ddns.name
@@ -10378,6 +10389,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||donga.com
 ||dood.video
 ||dood.watch
+||doppiocdn.net
 ||doppiocdn.org
 ||dreammask.net
 ||drift.com
@@ -10396,6 +10408,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||dyncdn.me
 ||dynssl.com
 ||dzcdn.net
+||ebc.net.tw
 ||echainhost.com
 ||edmontonservice.com
 ||eeas.europa.eu
@@ -10425,6 +10438,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||fbjav.com
 ||fcww95.com
 ||fdbox.com
+||featuregates.org
 ||feijichang.xyz
 ||ff-01.com
 ||ff-02.com
@@ -10470,9 +10484,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||gluckman.com
 ||gmbd.cn
 ||gmx.net
+||go-mpulse.net
 ||go.com
 ||goliathguitartutorials.com
-||go-mpulse.net
 ||google.calstate.edu
 ||google.com.hk
 ||google.com.my
@@ -10485,8 +10499,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||greenreadings.com
 ||groueta.cc
 ||gs-discuss.com
-||gunsandammo.com
+||gsjln04hd.com
 ||gun-world.net
+||gunsandammo.com
 ||gvlib.com
 ||gvt2.com
 ||gzm.tv
@@ -10519,6 +10534,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||host.io
 ||hotbak.net
 ||hotpot.hk
+||how-did-i-get-here.net
 ||https443.net
 ||https443.org
 ||huanggua11.com
@@ -10527,11 +10543,13 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hustlercash.com
 ||hxwq.org
 ||hyread.com.tw
+||i-scmp.com
 ||ibb.co
 ||ibiblio.org
 ||ibyteimg.com
 ||iconfactory.net
 ||iddddg.com
+||identrust.com
 ||idlcoyote.com
 ||idouga.com
 ||idsam.com
@@ -10555,6 +10573,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||informer.com
 ||inoreader.jp
 ||instanthq.com
+||intercom.io
+||intercomcdn.com
 ||internetdefenseleague.org
 ||invidio.us
 ||iownyour.biz
@@ -10565,7 +10585,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||irdeto.com
 ||irib.ir
 ||isasecret.com
-||i-scmp.com
 ||islamawareness.net
 ||isnssdk.com
 ||isohunt.com
@@ -10645,11 +10664,13 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||lithium.com
 ||live-video.net
 ||lkcn.net
+||llnwi.net
 ||logmein.com
 ||lotsawahouse.org
 ||loved.hk
 ||lsmradio.com
 ||luxebc.com
+||m-sport.co.uk
 ||mail.com
 ||mail.ru
 ||mailchimp.com
@@ -10676,7 +10697,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||moztw.org
 ||mponline.hk
 ||msn.com.tw
-||m-sport.co.uk
 ||mstopq.com
 ||mtvnservices.com
 ||musescore.com
@@ -10727,9 +10747,11 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nintendium.com
 ||ninth.biz
 ||niupic.com
+||njav.tv
+||no-ip.com
 ||nobelprize.org
 ||nodesnoop.com
-||no-ip.com
+||nooc.ink
 ||note.com
 ||notion.so
 ||nowtorrents.com
@@ -10758,10 +10780,13 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||onmypc.us
 ||oopsforum.com
 ||openbase.com
+||opendns.com
+||opengw.net
 ||opensupports.com
 ||openwrt.org.cn
-||opera.com
+||opera-api.com
 ||opera-mini.net
+||opera.com
 ||opus-gaming.com
 ||orchidbbs.com
 ||organiccrap.com
@@ -10845,6 +10870,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rssing.com
 ||ruanyifeng.com
 ||rushbee.com
+||s-dragon.org
+||s-onetag.com
 ||s1s1s1.com
 ||s4miniarchive.com
 ||sa.com
@@ -10861,7 +10888,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||scorecardresearch.com
 ||scroll.com
 ||sd-play.com
-||s-dragon.org
 ||seatguru.com
 ||sellclassics.com
 ||sentry.io
@@ -10905,30 +10931,32 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||smartmailcloud.com
 ||smith.edu
 ||sneakme.net
+||so-net.net.tw
 ||socialwhale.com
 ||softlayer.net
 ||sogoo.org
 ||soifind.com
-||so-net.net.tw
-||s-onetag.com
 ||sophos.com
+||sou-tong.org
 ||soumo.info
 ||sourceforge.net
-||sou-tong.org
 ||sowiki.net
 ||soylent.com
 ||spark.adobe.com
+||spotifycdn.com
 ||spreadsheet.new
 ||sprite.page
 ||ssl443.org
 ||sstatic.net
+||st-hatena.com
 ||stackoverflow.com
 ||stanford.edu
 ||statically.io
 ||statsig.com
+||statsigapi.net
 ||steampowered.com
 ||stgloballink.com
-||st-hatena.com
+||stream-link.org
 ||streamroot.io
 ||streamsb.net
 ||streamtape.com
@@ -10964,6 +10992,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tgfcer.com
 ||thaicn.com
 ||theblemish.com
+||thedayweplay.lol
 ||thefreeland.club
 ||thefrontier.hk
 ||thegioitinhoc.vn
@@ -11012,6 +11041,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tv.com
 ||tvants.com
 ||tvb.com
+||tw-npo.org
 ||tweepmag.com
 ||twibbon.com
 ||twilightsex.com
@@ -11022,7 +11052,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||twitgoo.com
 ||twitthat.com
 ||twitzap.com
-||tw-npo.org
 ||twt.tl
 ||twurl.nl
 ||typecho.org
