@@ -1049,8 +1049,8 @@
 			"key":"key_mv_vod",
 			"name":"音樂|明星MV",
 			"type":1,
-			"api":"https://mv.wogg.link/mv/vod",
-			// "api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
+			// "api":"https://mv.wogg.link/mv/vod",
+			"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod",
 			"style":{"type":"oval"},
 			"searchable":1,
 			"quickSearch":0,
@@ -1082,18 +1082,18 @@
 			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","伦理片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
 			// "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","综艺","动漫","动漫电影","体育赛事"]
 		},
-		{
-			"key": "key_jialiang",
-			"name": "影视|嘉良",
-			"type": 3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
-			"api": "csp_AppYsV2",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://api.jialiangos.com:81/api.php/app/"
-		},
+//		{
+//			"key": "key_jialiang",
+//			"name": "影视|嘉良",
+//			"type": 3,
+//			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+//			"api": "csp_AppYsV2",
+//			"playerType": 2,
+//			"searchable": 1,
+//			"quickSearch": 1,
+//			"filterable": 1,
+//			"ext": "http://api.jialiangos.com:81/api.php/app/"
+//		},
 		{
 			"key": "key_zhaifutv",
 			"name": "影视|宅腐TV",
@@ -1105,34 +1105,9 @@
 			"filterable": 1,
 			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
 		},
-		{
-			"key": "琪琪资源",
-			"name": "🫙官源┃切片",
-			"type": 1,
-			"api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
-			"playerType": 2,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1
-		},
-{"key":"ytvip","name":"影视 | 影探","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
-{"key":"哈喽","name":"影视 | 哈喽","type":3,"api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/cat/js/AppYsV2.js","ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"1080dyw","name":"影视 | 视界","type":3,"api":"AppYsV2","ext":"https://www.1080dyw.cc/api.php/v1.vod"},
-{"key":"miniku","name":"影视 | 迷你","type":3,"api":"AppYsV2","ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"aidi","name":"影视 | 爱迪","type":3,"api":"AppYsV2","ext":"https://api123.adys.app/xgapp.php/v3/"},
-{"key":"yaya","name":"影视 | 鸭鸭","type":3,"api":"AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"kuku","name":"影视 | 酷酷","type":3,"api":"AppYsV2","ext":"http://cms.realdou.cn:35264/api.php/app/"},
-{"key":"beijihu","name":"影视 | 极狐","type":3,"api":"AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
-{"key":"kuk","name":"影视 | 天堂","type":3,"api":"AppYsV2","ext":"http://dytt996.com/api.php/app/"},
-{"key":"kku","name":"影视 | 酷影","type":3,"api":"AppYsV2","ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key":"kuu","name":"影视 | 酷客","type":3,"api":"AppYsV2","ext":"https://www.kuin.one/api.php/app/"},
-{"key":"ruidou","name":"影视 | 锐豆","type":3,"api":"AppYsV2","ext":"http://ys.realdou.cn:2683/api.php/app/"},
-{"key":"mayi","name":"影视 | 蚂蚁","type":3,"api":"AppYsV2","ext":"http://wushutvcms.byzz.top/api.php/app/"},
-{"key":"sukan","name":"影视 | 速看","type":3,"api":"AppYsV2","ext":"https://sk100.tv/api.php/app/"},
-{"key":"midi","name":"影视 | 明帝","type":3,"api":"AppYsV2","ext":"https://ys.md214.cn/api.php/app/"},
-{"key":"dadou","name":"影视 | 大豆","type":3,"api":"AppYsV2","ext":"http://www.dadou.cm/api.php/app/"},
-{"key":"qtw","name":"影视 | 彩虹","type":3,"api":"AppYsV2","ext":"http://ys.qtw.asia/lvdou_api.php/v1.vod"},
 
+
+{"key":"yaya","name":"影视 | 鸭鸭","type":3,"api":"AppYsV2","ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 
 //////////////////////////////////////////////////  Debug_End  //////////////////////////////////////////////////
 ////////////////////  標識  ////////////////////
