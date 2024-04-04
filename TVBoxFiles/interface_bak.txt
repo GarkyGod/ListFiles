@@ -150,17 +150,6 @@
 				"分类":"电影$1#电视剧$2#综艺$3#动漫$4"
 			}
 		},
-//		{
-//			"key":"key_world_1",
-//			"name":"影視|世界_1",
-//			"type":3,
-			// "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/ab.jar",
-//			"api":"csp_AppYsV2",
-//			"searchable":1,
-//			"quickSearch":1,
-//			"filterable":1,
-//			"ext":"http://103.197.25.136:3836/api.php/app/"
-//		},
 		{
 			"key":"key_world_2",
 			"name":"影視|世界_2",
