@@ -515,7 +515,7 @@
 
 {
 "key":"key_ikunzy_xml",  //  https://www.ikunzy.com/
-"name":"採集|ikun資源站Xml",
+"name":"採集|ikun爱坤資源站Xml",
 "type":0,
 "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
@@ -525,7 +525,7 @@
 },
 {
 "key":"key_ikunzy_json",
-"name":"採集|ikun資源站Json",
+"name":"採集|ikun爱坤資源站Json",
 "type":1,
 "api":"https://ikunzyapi.com/api.php/provide/vod",
 "searchable":1,
