@@ -497,6 +497,16 @@
 },
 
 {
+"key":"key_quanzhan",  // https://caiji.yueai55.cc:2277
+"name":"採集|全站",
+"type":0,  // "type":1,
+"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/xml",  // "api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
+"searchable":1,
+"changeable":1,
+"categories":["电影","动作","喜剧","爱情","科幻","恐怖","剧情","战争","惊悚","犯罪","冒险","悬疑","动画","武侠","奇幻","记录","连续剧","国产","港台","日韩","欧美","综艺","动漫"]
+},
+
+{
 "key":"key_haohua",  // http://www.haohuazy.com/
 "name":"採集|豪華",
 "type":0,  // "type":1,
@@ -509,7 +519,7 @@
 
 {
 "key":"key_ikunzy",  // https://www.ikunzy.com/
-"name":"採集|ikun爱坤資源站",
+"name":"採集|ikun爱坤",
 "type":0,  // "type":1,
 "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"https://ikunzyapi.com/api.php/provide/vod",
 "searchable":1,
@@ -520,7 +530,7 @@
 
 {
 "key":"key_wolongzyw",  // https://wolongzyw.com/
-"name":"採集|臥龍資源網",
+"name":"採集|臥龍",
 "type":0,  // "type":1,
 "api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
 "searchable":1,
