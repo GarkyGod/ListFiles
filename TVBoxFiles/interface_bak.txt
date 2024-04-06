@@ -476,7 +476,7 @@
 		},
 
 //{
-//"key":"key_haiwaikan",  // http://www.haohuazy.com/
+//"key":"key_haiwaikan",  // https://haiwaikan.com/
 //"name":"採集|海外看|Proxy",
 //"type":0,  // "type":1,
 //"api":"https://haiwaikan.com/api.php/provide/vod/at/xml",  // "api":"https://haiwaikan.com/api.php/provide/vod/",
