@@ -563,7 +563,7 @@
 			}
 		},
 		{
-			"key":"apittzy.com",
+			"key":"apittzy.com",    // https://tantanzy.com/
 			"name":"探探資源(18+)",
 			"type":1,  // 0,
 			"api":"https://apittzy.com/api.php/provide/vod/",  // "https://apittzy.com/api.php/provide/vod/at/xml/",
