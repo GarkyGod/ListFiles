@@ -151,7 +151,7 @@
 			}
 		},
 		{
-			"key":"key_world_2",
+			"key":"key_duanju",
 			"name":"影視|短劇",
 			"type":3,
 			// "jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/ab.jar",
@@ -225,7 +225,6 @@
 			"name":"影視|南瓜",
 			"type":3,
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
-//			"jar":"https://raw.githubusercontents.com/gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_NanGua",
 			"searchable":1,
 			"quickSearch":1,
@@ -455,13 +454,13 @@
 		},
 
 		{
-			"key": "key_zhaifutv",
-			"name": "影视|宅腐TV",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
+			"key":"key_zhaifutv",
+			"name":"影视|宅腐TV",
+			"type":3,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
 		},
 
@@ -469,10 +468,10 @@
 			"key":"key_yaya",
 			"name":"影视|鸭鸭",
 			"type":3,
-			"api":"AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
+			"api":"csp_AppYsV2",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
 			"ext":"https://yayayaaapp.ynf.icu/api.php/app/"
 		},
 
