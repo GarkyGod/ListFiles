@@ -433,7 +433,7 @@
 			}
 		},
 		{
-			"key":"dadiapi.com",
+			"key":"dadiapi.com",    // http://dadizy.com/
 			"name":"大地资源(18+)",
 			"type":0,
 			"api":"http://dadiapi.com/api.php",
