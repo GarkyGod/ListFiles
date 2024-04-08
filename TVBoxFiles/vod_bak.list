@@ -537,10 +537,10 @@
 			}
 		},
 		{
-			"key":"caiji.huakuiapi.com",
-			"name":"花魁資源(18+)X",
+			"key":"putaozy.com",  // https://putaozyw.com/  // https://putaozyw.net
+			"name":"葡萄資源(18+)",
 			"type":1,  // 0,
-			"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php",  // "https://caiji.huakuiapi.com/inc/api.php",
+			"api":"https://caiji.putaozyw.net/inc/apijson_vod.php",  // "https://caiji.putaozyw.net/inc/api.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
