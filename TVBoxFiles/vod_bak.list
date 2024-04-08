@@ -700,7 +700,7 @@
 			"key":"gdlsp.com",  // https://www.xne6.shop/cn/home/web/
 			"name":"香奶儿资源(18+)",
 			"type":0,  // 1,  // 1,
-			"https://www.gdlsp.com/api/xml.php",  // "api":"https://www.gdlsp.com/api/api.php",  // "https://www.gdlsp.com/api/json.php",
+			"api":"https://www.gdlsp.com/api/xml.php",  // "api":"https://www.gdlsp.com/api/api.php",  // "api":"https://www.gdlsp.com/api/json.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
