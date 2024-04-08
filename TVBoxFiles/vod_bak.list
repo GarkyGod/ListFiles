@@ -685,9 +685,9 @@
 		{
 			"key":"kuaiavzy.com",  // http://kuaiavzy.com/
 			"name":"快AV資源(18+)",
-			"type":1, // "type":0,
-			"api":"http://kuaiavzy.com/api.php/provide/vod/",  // "api":"http://kuaiavzy.com/api.php/provide/vod/at/xml/",
-			"playUrl":"https://bf.vipyun.me//?url=",
+			"type":0, // "type":1,
+			"api":"http://kuaiavzy.com/api.php/provide/vod/at/xml",  // "api":"http://kuaiavzy.com/api.php/provide/vod/",
+//			"playUrl":"https://bf.vipyun.me//?url=",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
