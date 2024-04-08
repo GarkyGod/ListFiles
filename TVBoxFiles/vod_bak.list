@@ -1034,7 +1034,7 @@
 //		{"name":"暴风廣告","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 //		{"name":"索尼廣告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 		{"name":"蝸牛廣告","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-
+	{"name":"奶香香(18+)廣告","hosts":["nxxzy","nxxzycdn"],"regex":["#EXT-X-KEY:METHOD=AES-128,URI=.*?\\s+#EXTINF:5.52,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 		{"name":"索尼採集","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
 //		{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.5[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 //		{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn","bfengbf"],"regex":["video/adjump/time","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3.52,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
