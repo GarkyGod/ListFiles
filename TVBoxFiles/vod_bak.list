@@ -525,7 +525,7 @@
 			}
 		},
 		{
-			"key":"api.maozyapi.com",
+			"key":"api.maozyapi.com",  // https://www.semaozy.com/  // https://www.semaozy5.com/  // https://www.semaozy6.com/
 			"name":"色貓資源(18+)",
 			"type":1,  // 0,  // 0,
 			"api":"https://api.maozyapi.com/inc/apijson_vod.php",  // "https://caiji.semaozy.net/inc/api.php",  // "https://semaozy6.com/inc/api.php",
@@ -644,10 +644,10 @@
 			}
 		},
 		{
-			"key":"mygzycj.com",
-			"name":"JAV名优(18+)X",
-			"type":0,
-			"api":"http://mygzycj.com/api.php?ac=list",
+			"key":"155zy.com",  // http://155zy.com/
+			"name":"155資源(18+)",
+			"type":1,  // "type":0,
+			"api":"https://155api.com/api.php/provide/vod/",  // "api":"https://155api.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -670,10 +670,10 @@
 			}
 		},
 		{
-			"key":"cjmygzy.com",
-			"name":"狼少年(18+)X",
-			"type":0,
-			"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
+			"key":"caoliuzyw.com",  // https://caoliuzyw.com/  // http://caoliuzyw.net/
+			"name":"草榴資源(18+)",
+			"type":1,  // "type":0,
+			"api":"https://www.caoliuzyw.com/api.php/provide/vod/",  // "api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/"
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
