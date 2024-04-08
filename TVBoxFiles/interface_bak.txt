@@ -662,7 +662,7 @@
 },
 
 {
-"key":"key_subo",  // https://subocaiji.com/
+"key":"key_subo",  // https://subocaiji.com/  // http://www.suboziyuan.com/  // http://suboziyuan.net/  // http://www.subozy.com/
 "name":"採集|速播",
 "type":1,  // "type":0,
 "api":"https://subocaiji.com/api.php/provide/vod/",  // "api":"https://subocaiji.com/api.php/provide/vod/at/xml",
