@@ -618,10 +618,10 @@
 			}
 		},
 		{
-			"key":"99zywcj.com",
-			"name":"Adult_02X",
-			"type":0,
-			"api":"http://99zywcj.com/inc/sapi.php?ac=videolist",
+			"key":"siwazyw.com",  // https://siwazyw.com/  // https://siwazyw.tv/  // https://siwazyw.org/
+			"name":"絲祙(18+)",
+			"type":1,  // "type":0,
+			"api":"https://siwazyw.tv/api.php/provide/vod/",  // "api":"https://siwazyw.tv/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
