@@ -759,7 +759,7 @@
 },
 
 {
-"key":"key_zuida",  // https://zuidazy.me/
+"key":"key_zuida",  // https://zuidazy.me/  // https://zuidazy.co/  // https://zuida.xyz/
 "name":"採集|最大",
 "type":1,  // "type":0,
 "api":"https://api.zuidapi.com/api.php/provide/vod/",  // "api":"https://api.zuidapi.com/api.php/provide/vod/at/xml",
