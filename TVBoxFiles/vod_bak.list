@@ -591,7 +591,7 @@
 			}
 		},
 		{
-			"key":"timizy.cc",
+			"key":"timizy.cc",  // https://timizy.cc/  // https://timizy1.cc/  //...  // https://timizy9.cc/
 			"name":"甜蜜資源(18+)",
 			"type":1,  // 0,
 //			"api":"https://timizy.cc/api.php/provide/vod/",
@@ -682,19 +682,19 @@
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
-//		{
-//			"key":"888dav.com",
-//			"name":"Adult_07",
-//			"type":1,
-//			"api":"https://www.888dav.com/api.php/provide/vod/",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333},
-//			"header":{
-//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-//			}
-//		},
+		{
+			"key":"kuaiavzy.com",  / http://kuaiavzy.com/
+			"name":"快AV資源(18+)",
+			"type":1, // "type":0,
+			"api":"http://kuaiavzy.com/api.php/provide/vod/",  // "api":"http://kuaiavzy.com/api.php/provide/vod/at/xml/",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
 		{
 			"key":"gdlsp.com",  // https://www.xne6.shop/cn/home/web/
 			"name":"香奶儿资源(18+)",
@@ -749,7 +749,7 @@
 		},
 		{
 			"key":"fhapi9.com",
-			"name":"番号资源(18+)",
+			"name":"番號資源(18+)",
 			"type":1,  // 0,
 			"api":"http://fhapi9.com/api.php/provide/vod/",  // "http://fhapi9.com/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -761,8 +761,8 @@
 			}
 		},
 		{
-			"key":"shayuapi.com",
-			"name":"Adult_13",
+			"key":"shayuapi.com",  // http://shayuzy.com/  // http://shayuapi.com/
+			"name":"鯊魚資源(18+)",
 			"type":1, // 0,
 			"api":"https://shayuapi.com/api.php/provide/vod/",  // "https://shayuapi.com/api.php/provide/vod/at/xml",
 			"searchable":1,
