@@ -498,7 +498,7 @@
 			}
 		},
 		{
-			"key":"jkunzy.com",
+			"key":"jkunzy.com",  // https://jkunzy.com/  // https://jkunzy.cc/  // https://jkunzy.vip/
 			"name":"JKUN資源站(18+)",
 			"type":1,  // 0,
 			"api":"https://jkunzyapi.com/api.php/provide/vod",  // "https://jkunzyapi.com/api.php/provide/vod/at/xml",
