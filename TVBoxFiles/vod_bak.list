@@ -604,10 +604,10 @@
 			}
 		},
 		{
-			"key":"zmcj88.com",
-			"name":"字幕网(18+)X",
-			"type":0,
-			"api":"http://zmcj88.com/sapi?ac=videolist",
+			"key":"naixxzy.com",  // https://naixxzy.com/
+			"name":"奶香香(18+)",
+			"type":1,  // "type":0,
+			"api":"https://naixxzy.com/api.php/provide/vod/",  // https://naixxzy.com/api.php/provide/vod/at/xml/
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
