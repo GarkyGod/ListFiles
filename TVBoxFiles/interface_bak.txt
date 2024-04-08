@@ -727,9 +727,9 @@
 {
 "key":"key_wolong",  // https://wolongzyw.com/
 "name":"採集|臥龍",
-"type":1,  // "type":0,
-"api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
-"playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
+"type":0,  // "type":1,
+"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+// "playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
 "searchable":1,
 "changeable":1,
 "categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","短片","动画片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺片","港台综艺","韩国综艺","大陆综艺","欧美综艺","动漫片","国产动漫","欧美动漫","日本动漫","电影解说","体育","篮球","足球"]
