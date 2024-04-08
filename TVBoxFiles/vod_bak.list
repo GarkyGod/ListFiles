@@ -687,7 +687,7 @@
 			"name":"快AV資源(18+)",
 			"type":1, // "type":0,
 			"api":"http://kuaiavzy.com/api.php/provide/vod/",  // "api":"http://kuaiavzy.com/api.php/provide/vod/at/xml/",
-			"playUrl":"https://bf.vipyun.me//?url="
+			"playUrl":"https://bf.vipyun.me//?url=",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
