@@ -444,7 +444,7 @@
 },
 
 {
-"key":"key_bdzy",  // https://api.apibdzy.com/
+"key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
 "name":"採集|百度",
 "type":1,  // "type":0,
 "api":"https://api.apibdzy.com/api.php/provide/vod/",  // "api":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
