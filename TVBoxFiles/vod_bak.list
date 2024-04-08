@@ -673,7 +673,7 @@
 			"key":"caoliuzyw.com",  // https://caoliuzyw.com/  // http://caoliuzyw.net/
 			"name":"草榴資源(18+)",
 			"type":1,  // "type":0,
-			"api":"https://www.caoliuzyw.com/api.php/provide/vod/",  // "api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/"
+			"api":"https://www.caoliuzyw.com/api.php/provide/vod/",  // "api":"https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -683,7 +683,7 @@
 			}
 		},
 		{
-			"key":"kuaiavzy.com",  / http://kuaiavzy.com/
+			"key":"kuaiavzy.com",  // http://kuaiavzy.com/
 			"name":"快AV資源(18+)",
 			"type":1, // "type":0,
 			"api":"http://kuaiavzy.com/api.php/provide/vod/",  // "api":"http://kuaiavzy.com/api.php/provide/vod/at/xml/",
