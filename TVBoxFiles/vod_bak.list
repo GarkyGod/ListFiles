@@ -848,7 +848,7 @@
 			}
 		},
 		{
-			"key":"apiyutu.com",
+			"key":"apiyutu.com",  // https://yutuzy.com/ |proxy
 			"name":"玉兔资源(18+)",
 			"type":1,  // 0,
 			"api":"https://apiyutu.com/api.php/provide/vod/",  // "https://apiyutu.com/api.php/provide/vod/at/xml/",
