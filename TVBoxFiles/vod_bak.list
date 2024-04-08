@@ -696,10 +696,10 @@
 //			}
 //		},
 		{
-			"key":"gdlsp.com",
+			"key":"gdlsp.com",  // https://www.xne6.shop/cn/home/web/
 			"name":"香奶儿资源(18+)",
-			"type":1,  // 0,
-			"api":"https://www.gdlsp.com/api/api.php",  // "https://www.gdlsp.com/api/xml.php",
+			"type":1,  // 0,  // 1,
+			"api":"https://www.gdlsp.com/api/api.php",  // "https://www.gdlsp.com/api/xml.php",  // "https://www.gdlsp.com/api/json.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -782,24 +782,24 @@
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
-//		{
-//			"key":"afasu.com",
-//			"name":"Adult_15",
-//			"type":0,
-//			"api":"https://www.afasu.com/api/xml.php",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333},
-//			"header":{
-//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-//			}
-//		},
 		{
-			"key":"msnii.com",
+			"key":"afasu.com",  // https://www.xsm8.quest/cn/home/web/  // https://www.xzylm.com/
+			"name":"小濕妹資源(18+)",
+			"type":1,  // "type":0,  // "type":1,
+			"api":"https://www.afasu.com/api/api.php",  // "api":"https://www.afasu.com/api/xml.php", // "api":"https://www.afasu.com/api/json.php"
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
+		{
+			"key":"msnii.com",  // https://www.msn7.yachts/cn/home/web/
 			"name":"美少女资源(18+)",
-			"type":0,
-			"api":"https://www.msnii.com/api/xml.php",
+			"type":0,  // "type":1,
+			"api":"https://www.msnii.com/api/xml.php",  // "api":"https://www.msnii.com/api/json.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -809,10 +809,10 @@
 			}
 		},
 		{
-			"key":"kxgav.com",
+			"key":"kxgav.com",  // https://www.bp9.pics/cn/home/web/
 			"name":"白嫖资源(18+)",
-			"type":1,  // 0,
-			"api":"https://www.kxgav.com/api/api.php",  // "https://www.kxgav.com/api/xml.php",
+			"type":1,  // 0,  // 1,
+			"api":"https://www.kxgav.com/api/api.php",  // "https://www.kxgav.com/api/xml.php",  // "https://www.kxgav.com/api/json.php"
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -822,10 +822,10 @@
 			}
 		},
 		{
-			"key":"xrbsp.com",
+			"key":"xrbsp.com",  // https://www.ysj7.today/cn/home/web/
 			"name":"淫水机资源(18+)",
-			"type":1,  // 0,
-			"api":"https://www.xrbsp.com/api/api.php",  // "https://www.xrbsp.com/api/xml.php",
+			"type":1,  // 0,  // 1,
+			"api":"https://www.xrbsp.com/api/api.php",  // "https://www.xrbsp.com/api/xml.php", // "https://www.xrbsp.com/api/json.php"
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -835,10 +835,10 @@
 			}
 		},
 		{
-			"key":"pgxdy.com",
-			"name":"AV资源(18+)",
-			"type":1,  // 0,
-			"api":"https://www.pgxdy.com/api/api.php",  // "https://www.pgxdy.com/api/xml.php",
+			"key":"pgxdy.com",  // https://www.hav2.hair/cn/home/web/
+			"name":"黃AV资源(18+)",
+			"type":1,  // 0,  // 1,
+			"api":"https://www.pgxdy.com/api/api.php",  // "https://www.pgxdy.com/api/xml.php",  // "https://www.pgxdy.com/api/json.php",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
