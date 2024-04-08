@@ -519,7 +519,7 @@
 },
 
 {
-"key":"key_huyazy",  // https://huyazy.com/
+"key":"key_huyazy",  // https://huyazy.com/  // http://huyazy.net/
 "name":"採集|虎牙",
 "type":1,  // "type":0,
 "api":"https://www.huyaapi.com/api.php/provide/vod/",  // "api":"https://www.huyaapi.com/api.php/provide/vod/at/xml",
