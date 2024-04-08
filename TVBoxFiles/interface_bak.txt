@@ -477,7 +477,7 @@
 },
 
 {
-"key":"key_feisu",  // https://feisuzy.com/
+"key":"key_feisu",  // https://feisuzy.com/  // https://help.feisuzyapi.com/
 "name":"採集|飛速",
 "type":1,  // "type":0,
 "api":"https://www.feisuzyapi.com/api.php/provide/vod/",  // "api":"https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
