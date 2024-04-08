@@ -530,7 +530,7 @@
 },
 
 {
-"key":"key_beidouxing",  // https://hongniuzy.net/
+"key":"key_beidouxing",  // https://hongniuzy.net/  // https://hongniuzy.com/  // https://hongniuzy.tv/
 "name":"採集|紅牛",
 "type":1,  // "type":0,
 "api":"https://www.hongniuzy2.com/api.php/provide/vod/",  // "api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml/"
