@@ -154,7 +154,7 @@
 			"key":"key_freeok",
 			"name":"影視|FreeOK",
 			"type":3,
-			"playerType": "2",
+//			"playerType": "2",
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"ext":{
