@@ -160,7 +160,7 @@
 //				"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
 //				"分类":"FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
 //				"分类值":"1&2&3&4&12&5",
-				"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;a",
+				"分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ar1",
 				"分类":"FREE电影$1#FREE剧集$2#FREE动漫$3#FREE综艺$4#FREE短剧$12#FREE少儿$5",
 				"筛选类型名称":"动作&喜剧&爱情&科幻&剧情&悬疑&惊悚&恐怖&犯罪&谍战&冒险&奇幻&灾难&战争&动画&歌舞&历史&纪录&其他",
 				"筛选类型替换词":"动作&喜剧&爱情&科幻&剧情&悬疑&惊悚&恐怖&犯罪&谍战&冒险&奇幻&灾难&战争&动画&歌舞&历史&纪录&其他",
