@@ -446,6 +446,16 @@
 },
 
 {
+"key":"key_49zyw",  // https://49zyw.com/  // https://49zy1.com/ // ...... // https://49zy9.com/
+"name":"採集|四九",
+"type":1,  // "type":0,
+"api":"https://49zyw.com/api.php/provide/vod/",  // "api":"https://49zyw.com/api.php/provide/vod/at/xml",
+"searchable":1,
+"changeable":1,
+"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","海外剧","短剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"]
+},
+
+{
 "key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
 "name":"採集|百度",
 "type":1,  // "type":0,
