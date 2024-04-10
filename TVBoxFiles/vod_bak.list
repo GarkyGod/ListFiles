@@ -7,6 +7,15 @@
 	"sites": [
 //////////////////////////////// 影视 /////////////////////////////////////
 		{
+			"key":"key_csp_Douban",
+			"name":"豆瓣yue",
+			"type":3,
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/Yue.jar",
+			"api":"csp_Douban",
+			"searchable":0,
+			"changeable":0
+		},
+		{
 			"key":"key_Douban",
 			"name":"豆瓣",
 			"type":3,
