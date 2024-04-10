@@ -121,7 +121,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|TVB雲播",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).jar",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
 //			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"ext":{
