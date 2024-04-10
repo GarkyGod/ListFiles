@@ -430,13 +430,13 @@
 			"recordable":0,
 			"ext":{
 				"主页url":"http://91md.me/",
-				"首页":"400",
-				"请求头": "User-Agent$PC_UA",
+//				"首页":"400",
+//				"请求头": "User-Agent$PC_UA",
 				"搜索url": "http://91md.me/index.php/vod/search.html?wd={wd}/",
-				"分类url": "http://91md.me/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-				"分类数组": "<a&&</a>",
-				"分类标题": ">&&</a>",
-				"分类ID": "/index.php/vod/type/id/&&.html"
+				"分类url": "http://91md.me/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+//				"分类数组": "<a&&</a>",
+//				"分类标题": ">&&</a>",
+//				"分类ID": "/index.php/vod/type/id/&&.html"
 			}
 		},
 		{
