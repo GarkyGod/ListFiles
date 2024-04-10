@@ -459,19 +459,19 @@
 //				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 //			}
 //		},
-//		{
-//			"key":"91md.me",
-//			"name":"麻豆視頻(18+)",
-//			"type":1,  // 0,
-//			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333},
-//			"header":{
-//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
-//			}
-//		},
+		{
+			"key":"91md.me",
+			"name":"麻豆視頻(18+)",
+			"type":1,  // 0,
+			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+			}
+		},
 		{
 			"key":"madoucun.cn",
 			"name":"麻豆村(18+)",
