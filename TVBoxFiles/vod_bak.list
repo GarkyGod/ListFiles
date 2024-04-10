@@ -463,7 +463,7 @@
 			"key":"91md.me",
 			"name":"麻豆視頻(18+)",
 			"type":1,  // 0,
-			"api":"https://91md.me/api.php/provide/vod/",  // "https://91md.me/api.php/provide/vod/at/xml",
+			"api":"http://91md.me/api.php/provide/vod/",  // "http://91md.me/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
