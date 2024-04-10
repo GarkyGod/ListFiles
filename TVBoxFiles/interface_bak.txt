@@ -74,17 +74,16 @@
 		},
 		{
 			"key":"key_233dm",
-			"name":"動漫|二二三動漫",
+			"name":"動漫|维奇动漫",
 			"type":3,
 			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
 //			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"ext":{
-"主页url":"http://233dm.net",
-// "分类url":"http://233dm.net/show/{cateId}--------{catePg}---.html",
-"分类url":"https://233dm.net/vshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-"分类":"新番动漫$21#国产动漫$23#欧美动漫$26#日本动漫$27#目录$4"
-"副标题":"module-item-note\">&&</div>",
+"数组":"<li class=\"col-xs-3\">&&</span>",
+"图片":"data-echo=\"&&\"",
+"分类url":"https://www.uiviki.com/anime-select-{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html",
+"分类":"连载动漫$lianzai#日本动漫$riman#国产动漫$guoman"
 			}
 		},
 		{
