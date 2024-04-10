@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-04-10 00:10:04
+!Last Modified: 2024-04-11 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8382,7 +8382,7 @@ ultrasurf
 ||free-gate.org
 ||free-hada-now.org
 ||free-proxy.cz
-||tibetlibre.free.fr
+||free.fr
 ||freebearblog.org
 ||freefq.com
 ||freefuckvids.com
@@ -10465,7 +10465,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||foxtang.com
 ||fractal-design.com
 ||fragment.com
-||free.fr
 ||freechal.com
 ||freedomcollection.org
 ||freeforums.org
