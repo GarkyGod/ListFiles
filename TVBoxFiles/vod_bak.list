@@ -420,27 +420,6 @@
 			}
 		},
 		{
-			"key":"key_hsck.la",
-			"name":"黃色倉庫(18+)",
-			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
-//			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
-			"api":"csp_XBPQ",
-			"searchable": 1,
-			"recordable":0,
-			"ext":{
-				"主页url":"http://91md.me/",
-//				"首页":"400",
-//				"请求头": "User-Agent$PC_UA",
-				"搜索url": "http://91md.me/index.php/vod/search.html?wd={wd}/",
-				"分类url": "http://91md.me/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-				"分类":"麻豆视频$1#91制片厂$2#天美传媒$3#蜜桃传媒$4"
-//				"分类数组": "<a&&</a>",
-//				"分类标题": ">&&</a>",
-//				"分类ID": "/index.php/vod/type/id/&&.html"
-			}
-		},
-		{
 			"key":"aosikazy.com",
 			"name":"奥斯卡资源(18+)",
 			"type":1,  // 0,
