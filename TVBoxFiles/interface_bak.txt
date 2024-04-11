@@ -83,19 +83,6 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 		{
-			"key":"key_csp_Wogg",  // https://tvfan.xxooo.cf/
-			"name":"影視|玩偶哥哥jar",
-			"type":3,
-			"api":"csp_Wogg",
-			"searchable":1,
-			"changeable":0,
-//			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
-			"ext":{
-				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-				"filter":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/json/wogg.json"
-			}
-		},
-		{
 			"key":"key_uiviki",
 			"name":"動漫|维奇动漫",
 			"type":3,
