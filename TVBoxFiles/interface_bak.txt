@@ -52,8 +52,8 @@
 
 	"sites":[
 		{
-			"key":"key_Douban_old",
-			"name":"豆瓣O",
+			"key":"key_Douban",
+			"name":"豆瓣",
 			"type":3,
 			"api":"csp_Douban",
 			"searchable":0,
@@ -61,16 +61,16 @@
 			"filterable":0,
 			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
-		{
-			"key":"key_Douban",
-			"name":"豆瓣",
-			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/yueer521/Tvbox/raw/main/Yue.jar",
-			"api":"csp_Douban",
-			"searchable":0,
-			"quickSearch":0,
-			"filterable":0
-		},
+//		{
+//			"key":"key_Douban",
+//			"name":"豆瓣",
+//			"type":3,
+//			"jar":"https://ghproxy.net/https://github.com/yueer521/Tvbox/raw/main/Yue.jar",
+//			"api":"csp_Douban",
+//			"searchable":0,
+//			"quickSearch":0,
+//			"filterable":0
+//		},
 		{
 			"key":"key_AliYunPan",
 			"name":"阿里設置",
