@@ -27,240 +27,9 @@
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// Jar影視 //////////////////////////////////////
-//		{
-//			"key":"key_csp_Yinshiche",  // Block  // https://www.weixine.link
-//			"name":"影視|影視車",
-//			"type":3,
-//			"api":"csp_Yingshiche",
-//			"searchable":1,
-//			"changeable":1
-//		},
-//		{
-//			"key":"key_csp_NiNi",  // Proxy | Block  // https://m.nbys.tv/  // https://www.nivod8.tv/
-//			"name":"影視|泥巴",
-//			"type":3,
-//			"api":"csp_NiNi",
-//			"searchable":1,
-//			"changeable":1
-//		},
-//		{
-//			"key":""key_csp_Star",  // Proxy  // https://www.histar.tv/
-//			"name":"影視|星視界",
-//			"type":3,
-//			"api":"csp_Star",
-//			"searchable":1,
-//			"changeable":1
-//		},
 		{
-			"key":"key_csp_Wogg",  // https://tvfan.xxooo.cf/
-			"name":"影視|玩偶哥哥",
-			"type":3,
-			"api":"csp_Wogg",
-			"searchable":1,
-			"changeable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list$$$https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
-//			"ext":{
-//				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-//				"filter":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/json/wogg.json"
-//			}
-		},
-		{
-			"key":"賤賤",
-			"name":"賤賤",
-			"type":3,
-			"api":"csp_Jianpian",
-			"searchable":1,
-			"changeable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-		},
-//		{
-//			"key":"獨播",
-//			"name":"獨播",
-//			"type":3,
-//			"api":"csp_XPathMacFilter",
-//			"searchable":1,
-//			"changeable":1,
-//			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json"
-//		},
-		{
-			"key":"三五",
-			"name":"三五",
-			"type":3,
-//			"api":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy_open.js"
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/555dy_open.js",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"key_555dy",
-			"name":"影視|三五",
-			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-			"searchable":1,
-			"quickSearch":1,
-			"changeable":0,
-			// "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
-		},
-//		{
-//			"key":"haiwaikan",
-//			"name":"海外看",
-//			"type":1,
-//			"api":"https://haiwaikan.com/api.php/provide/vod",
-//			"searchable":1,
-//			"changeable":1,
-//			"categories":["日本动漫","国产动漫","欧美动漫","国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","冒险片","剧情片","动作片",
-//					"同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片"]
-//		},
-		{
-			"key":"廠長",
-			"name":"廠長",
-			"type":3,
-			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/czzy_open.js",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"jojo",
-			"name":"JOJO",
-			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/jiohub.js",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"愛看",
-			"name":"愛看",
-			"type":3,
-			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/ikanbot_open.js",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"快看",
-			"name":"快看",
-			"type":3,
-			"api":"https://ghproxy.net/https://github.com/catvod/CatVodOpen/raw/main/open/kkys_open.js",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"豆瓣",
-			"name":"豆瓣",
-			"type":3,
-			"api":"csp_Douban",
-			"searchable":0,
-			"changeable":1,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
-		},
-		{
-			"key":"新6V",
-			"name":"新6V",
-			"type":3,
-			"api":"csp_Xb6v",
-			"searchable":1,
-			"changeable":0,
-			"timeout":60
-		},
-		{
-			"key":"盤99",
-			"name":"盤99",
-			"type":3,
-			"api":"csp_Pan99",
-			"searchable":1,
-			"changeable":0,
-			"ext": "影視天下第一"
-		},
-		{
-			"key":"看球",
-			"name":"看球",
-			"type":3,
-			"api":"csp_Kanqiu",
-			"searchable":1,
-			"changeable":0,
-			"style":{"type":"list"}
-		},
-		{
-			"key":"短劇",
-			"name":"短劇",
-			"type":3,
-			"api":"csp_Duanju",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"暴風",
-			"name":"暴風",
-			"type":1,
-			"api":"https://bfzyapi.com/api.php/provide/vod",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"索尼",
-			"name":"索尼",
-			"type":1,
-			"api":"https://suoniapi.com/api.php/provide/vod",
-			"searchable":1,
-			"changeable":1
-		},
-//		{
-//			"key":"快帆",
-//			"name":"快帆",
-//			"type":1,
-//			"api":"https://api.kuaifan.tv/api.php/provide/vod",
-//			"searchable":1,
-//			"changeable":1
-//		},
-		{
-			"key":"量子",
-			"name":"量子",
-			"type":0,
-			"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-			"searchable":1,
-			"changeable":1,
-			"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","伦理片","预告片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻"]
-//			"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","预告片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻"]
-		},
-		{
-			"key":"非凡",
-			"name":"非凡",
-			"type":0,
-			"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-			"searchable":1,
-			"changeable":1,
-			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-//			"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-		},
-//////////////////////////////// 动漫 /////////////////////////////////////
-		{
-			"key":"櫻花動漫",
-			"name":"櫻花動漫",
-			"type":3,
-			"api":"csp_Ying",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"動漫巴士",
-			"name":"動漫巴士",
-			"type":3,
-			"api":"csp_Dm84",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"異世界動漫",
-			"name":"異世界動漫",
-			"type":3,
-			"api":"csp_Ysj",
-			"searchable":1,
-			"changeable":1
-		},
-//////////////////////////////// 嗶哩嗶哩 /////////////////////////////////////
-		{
-			"key":"bilibili_json",
-			"name":"嗶哩嗶哩JSON",
+			"key":"key_csp_Bili",  // https://www.bilibili.com
+			"name":"嗶哩嗶哩",
 			"type":3,
 			"api":"csp_Bili",
 			"searchable":1,
@@ -276,26 +45,127 @@
 			}
 		},
 		{
-			"key":"bilibili_open",
-			"name":"嗶哩嗶哩LIST",
+			"key":"key_csp_Duanju",
+			"name":"影視|短劇|Block",
 			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+			"api":"csp_Duanju",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Jianpian",  // http://api2.rinhome.com
+			"name":"影視|薦片",
+			"type":3,
+			"api":"csp_Jianpian",
+			"searchable":1,
+			"changeable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+		},
+		{
+			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
+			"name":"影視|泥视频|ProxyBlock",
+			"type":3,
+			"api":"csp_NiNi",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":""key_csp_Star",  // https://www.histar.tv/
+			"name":"影視|星視界|Proxy",
+			"type":3,
+			"api":"csp_Star",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Wogg",  // https://tvfan.xxooo.cf/
+			"name":"影視|玩偶哥哥|Bug",
+			"type":3,
+			"api":"csp_Wogg",
 			"searchable":1,
 			"changeable":0,
 			"ext":{
-				"categories":"演唱會#棟篤笑#沙雕",
-				"cookie":""
+				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
 			}
 		},
 		{
-			"key":"酷狗",
-			"name":"酷狗",
+			"key":"key_csp_Xb6v",  //http://www.xb6v.com
+			"name":""🧲影視|新版6V",
+			"type":3,
+			"api":"csp_Xb6v",
+			"searchable":1,
+			"changeable":0,
+			"timeout":60
+		},
+		{
+			"key":"key_csp_Yinshiche",  // https://www.weixine.link
+			"name":"影視|影視車|Block",
+			"type":3,
+			"api":"csp_Yingshiche",
+			"searchable":1,
+			"changeable":1
+		},
+//	////////////////////////////////////// Jar動漫 //////////////////////////////////////
+		{
+			"key":"key_csp_Dm84",  // https://dm84.tv/
+			"name":"動漫|動漫巴士",
+			"type":3,
+			"api":"csp_Dm84",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Ying",  // https://www.iyhdmm.com
+			"name":"動漫|櫻花動漫",
+			"type":3,
+			"api":"csp_Ying",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Ysj",  // https://www.lldm.net/
+			"name":"動漫|異世界動漫",
+			"type":3,
+			"api":"csp_Ysj",
+			"searchable":1,
+			"changeable":1
+		},
+//	////////////////////////////////////// 雜項 //////////////////////////////////////
+		{
+			"key":"key_csp_FirstAid",  // https://m.youlai.cn
+			"name":"雜項|有來醫生",
+			"type":3,
+			"api":"csp_FirstAid",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Kugou",  // https://www.kugou.com/
+			"name":"雜項|酷狗音樂",
 			"type":3,
 			"api":"csp_Kugou",
 			"searchable":0,
 			"changeable":0
 		},
-//////////////////////////////// 18+ /////////////////////////////////////
+		{
+			"key":"key_csp_JustLive",  // http://live.yj1211.work
+			"name":"直播|JustLive",
+			"type":3,
+			"api":"csp_JustLive",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Kanqiu",  // http://www.88kanqiu.one
+			"name":"競賽|88看球",
+			"type":3,
+			"api":"csp_Kanqiu",
+			"searchable":1,
+			"changeable":0,
+			"style":{"type":"list"}
+		},
+//	////////////////////////////////////// 18+ //////////////////////////////////////
 //		{
 //			"key":"AList_18+",
 //			"name":"AList_18+",
@@ -314,26 +184,45 @@
 //					]
 //			}
 //		},
-//		{
-//			"key":"泥巴18+",
-//			"name":"泥巴(18+)",
-//			"type":3,
-//			"api":"csp_NiNi",
-//			"searchable":1,
-//			"ext":"1"
-//		},
-//		{
-//			"key":"hongkongdollvideo.com",
-//			"name":"玩偶姐姐(18+)",
-//			"type":3,
-//			"api":"csp_Doll",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333}
-//		},
 		{
-			"key":"javdb523.com",
-			"name":"JavDb",
+			"key":"key_csp_Doll",  // https://hongkongdollvideo.com/
+			"name":"🔞(18+)|玩偶姐姐|Proxy",
+			"type":3,
+			"api":"csp_Doll",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333}
+		},
+		{
+			"key":"key_csp_Eighteen",  // https://mjv002.com/zh/
+			"name":"🔞(18+)|18AV",
+			"type":3,
+			"api":"csp_Eighteen",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333}
+		},
+		{
+			"key":"key_csp_Hanime",  // https://hanime1.me/
+			"name":"🔞(18+)|Hanime|Proxy",
+			"type":3,
+			"api":"csp_Hanime",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":0.68}
+		},
+		{
+			"key":"key_csp_Jable",  // https://jable.tv/
+			"name":"🔞(18+)|Jable|Proxy",
+			"type":3,
+			"api":"csp_Jable",
+			"searchable":1,
+			"recordable":0,
+			"style":{"type":"rect","ratio":1.333}
+		},
+		{
+			"key":"key_csp_JavDb",  // https://javdb523.com
+			"name":"🔞(18+)|JavDb|Block",
 			"type":3,
 			"api":"csp_JavDb",
 			"searchable":1,
@@ -341,13 +230,21 @@
 			"style":{"type":"rect","ratio":1.333}
 		},
 		{
-			"key":"18AV",
-			"name":"18AV",
+			"key":"key_csp_Miss",  // https://missav.com/
+			"name":"🔞(18+)|MissAV|Proxy",
 			"type":3,
-			"api":"csp_Eighteen",
+			"api":"csp_Miss",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333}
+		},
+		{
+			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
+			"name":"🔞(18+)|泥視頻-午夜場|Proxy",
+			"type":3,
+			"api":"csp_NiNi",
+			"searchable":1,
+			"ext":"1"
 		},
 		{
 			"key":"18A",
@@ -358,33 +255,7 @@
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333}
 		},
-//		{
-//			"key":"Jable",
-//			"name":"Jable(18+)",
-//			"type":3,
-//			"api":"csp_Jable",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333}
-//		},
-//		{
-//			"key":"MissAV",
-//			"name":"MissAV(18+)",
-//			"type":3,
-//			"api":"csp_Miss",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":1.333}
-//		},
-//		{
-//			"key":"Hanime",
-//			"name":"Hanime(18+)",
-//			"type":3,
-//			"api":"csp_Hanime",
-//			"searchable":1,
-//			"recordable":0,
-//			"style":{"type":"rect","ratio":0.68}
-//		},
+
 		{
 			"key":"key_uiviki",
 			"name":"91網曝黑料(18+)",
@@ -886,93 +757,49 @@
 				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
 			}
 		},
-//////////////////////////////// 本地&網盤 /////////////////////////////////////
+//	////////////////////////////////////// 搜索服務 //////////////////////////////////////
 		{
-			"key":"本地",
-			"name":"本地",
-			"type":3,
-			"api":"csp_Local",
-			"searchable":0,
-			"changeable":0
-		},
-		{
-			"key":"AList",
-			"name":"AList",
-			"type":3,
-			"api":"csp_AList",
-			"searchable":1,
-			"changeable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
-		},
-		{
-			"key":"WebDAV",
-			"name":"WebDAV",
-			"type":3,
-			"api":"csp_WebDAV",
-			"searchable":0,
-			"changeable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
-		},
-		{
-			"key":"JustLive",
-			"name":"JustLive",
-			"type":3,
-			"api":"csp_JustLive",
-			"searchable":1,
-			"changeable":0
-		},
-//////////////////////////////// 搜索服務 /////////////////////////////////////
-		{
-			"key":"七夜",
-			"name":"七夜",
-			"type":3,
-			"api":"csp_Dovx",
-			"searchable":1,
-			"changeable":0,
-			"ext":"5622cd606f9a49309c776d1b1ba7cd4f"
-		},
-		{
-			"key":"易搜",
-			"name":"易搜",
-			"type":3,
-			"api":"csp_YiSo",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"雲搜",
-			"name":"雲搜",
-			"type":3,
-			"api":"csp_UpYun",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"盤搜",
-			"name":"盤搜",
-			"type":3,
-			"api":"csp_PanSou",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"紙條搜",
-			"name":"紙條搜",
-			"type":3,
-			"api":"csp_XiaoZhiTiao",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"盤搜索",
-			"name":"盤搜索",
+			"key":"key_csp_PanSearch",  // https://www.pansearch.me/
+			"name":"搜索|PanSearch",
 			"type":3,
 			"api":"csp_PanSearch",
 			"searchable":1,
 			"changeable":0
 		},
 		{
-			"key":"找資源",
+			"key":"key_csp_PanSou",  // https://www.alipansou.com/
+			"name":"搜索|猫狸盘搜",
+			"type":3,
+			"api":"csp_PanSou",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_UpYun",
+			"name":"搜索|雲搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_XiaoZhiTiao",
+			"name":"搜索|紙條搜",
+			"type":3,
+			"api":"csp_XiaoZhiTiao",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_YiSo",  // https://yiso.fun/
+			"name":"搜索|易搜",
+			"type":3,
+			"api":"csp_YiSo",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Zhaozy",  //https://zhaoziyuan1.cc/
 			"name":"找資源",
 			"type":3,
 			"api":"csp_Zhaozy",
@@ -980,9 +807,45 @@
 			"changeable":0,
 			"ext":"影視天下第一$$$test2$$$test2"
 		},
-//////////////////////////////// LAST /////////////////////////////////////
+//		{
+//			"key":"七夜",
+//			"name":"七夜",
+//			"type":3,
+//			"api":"csp_Dovx",
+//			"searchable":1,
+//			"changeable":0,
+//			"ext":"5622cd606f9a49309c776d1b1ba7cd4f"
+//		},
+//	////////////////////////////////////// 本地&網盤 //////////////////////////////////////
 		{
-			"key":"push_agent",
+			"key":"key_csp_Local",
+			"name":"本地磁盤",
+			"type":3,
+			"api":"csp_Local",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_AList",
+			"name":"AList網盤",
+			"type":3,
+			"api":"csp_AList",
+			"searchable":1,
+			"changeable":0,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+		},
+		{
+			"key":"key_csp_WebDAV",
+			"name":"WebDAV網盤",
+			"type":3,
+			"api":"csp_WebDAV",
+			"searchable":0,
+			"changeable":0,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+		},
+//	////////////////////////////////////// END //////////////////////////////////////
+		{
+			"key":"key_csp_Push",
 			"name":"推送",
 			"type":3,
 			"api":"csp_Push",
@@ -991,7 +854,7 @@
 			"timeout":60
 		},
 		{
-			"key":"應用商店",
+			"key":"key_csp_Market",
 			"name":"應用商店",
 			"type":3,
 			"api":"csp_Market",
