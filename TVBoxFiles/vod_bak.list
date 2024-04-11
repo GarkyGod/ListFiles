@@ -28,7 +28,7 @@
 		},
 //	////////////////////////////////////// Jar影視 //////////////////////////////////////
 //		{
-//			"key":"key_csp_Yinshiche",
+//			"key":"key_csp_Yinshiche",  // Block  // https://www.weixine.link
 //			"name":"影視|影視車",
 //			"type":3,
 //			"api":"csp_Yingshiche",
@@ -36,24 +36,24 @@
 //			"changeable":1
 //		},
 //		{
-//			"key":"泥巴",
-//			"name":"泥巴",
+//			"key":"key_csp_NiNi",  // Proxy | Block  // https://m.nbys.tv/  // https://www.nivod8.tv/
+//			"name":"影視|泥巴",
 //			"type":3,
 //			"api":"csp_NiNi",
 //			"searchable":1,
 //			"changeable":1
 //		},
 //		{
-//			"key":"星星",
-//			"name":"星星",
+//			"key":""key_csp_Star",  // Proxy  // https://www.histar.tv/
+//			"name":"影視|星視界",
 //			"type":3,
 //			"api":"csp_Star",
 //			"searchable":1,
 //			"changeable":1
 //		},
 		{
-			"key":"tvfan.xxooo.cf",
-			"name":"玩偶哥哥",
+			"key":"key_csp_Wogg",  // https://tvfan.xxooo.cf/
+			"name":"影視|玩偶哥哥",
 			"type":3,
 			"api":"csp_Wogg",
 			"searchable":1,
@@ -63,14 +63,6 @@
 				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
 			}
 		},
-//		{
-//			"key":"www.cs1369.com",
-//			"name":"996影院",
-//			"type":3,
-//			"api":"csp_Cs1369",
-//			"searchable":1,
-//			"changeable":1
-//		},
 		{
 			"key":"賤賤",
 			"name":"賤賤",
