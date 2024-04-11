@@ -26,14 +26,14 @@
 			"changeable":0,
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
-//		{
-//			"key":"影視",
-//			"name":"影視",
-//			"type":3,
-//			"api":"csp_YingShi",
-//			"searchable":1,
-//			"changeable":1
-//		},
+		{
+			"key":"影視",
+			"name":"影視",
+			"type":3,
+			"api":"csp_YingShi",
+			"searchable":1,
+			"changeable":1
+		},
 //		{
 //			"key":"泥巴",
 //			"name":"泥巴",
