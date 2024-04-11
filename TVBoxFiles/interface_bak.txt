@@ -89,11 +89,11 @@
 			"api":"csp_Wogg",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
-//			"ext":{
-//				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-//				"filter":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/json/wogg.json"
-//			}
+//			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
+			"ext":{
+				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://ghproxy.net/https://github.com/gaotianliuyun/gao/raw/master/json/wogg.json"
+			}
 		},
 		{
 			"key":"key_uiviki",
