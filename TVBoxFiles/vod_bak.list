@@ -1,41 +1,30 @@
 {
 	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
-//	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/jar/custom_spider.jar",
+
 	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",
-//	"wallpaper": "https://gao.chuqiuyu.workers.dev",
+//	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // 18+
+
 	"sites": [
-//////////////////////////////// 影视 /////////////////////////////////////
+//	////////////////////////////////////// 影视 //////////////////////////////////////
 		{
-			"key":"key_Douban_old",
-			"name":"豆瓣O",
-			"type":3,
-			"api":"csp_Douban",
-			"searchable":0,
-			"quickSearch":0,
-			"filterable":0
-//			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
-		},
-		{
-			"key":"key_Douban",
+			"key":"key_csp_Douban",
 			"name":"豆瓣",
 			"type":3,
 			"api":"csp_Douban",
 			"searchable":0,
-			"quickSearch":0,
-			"filterable":0,
+			"changeable":0,
 			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
-			"key":"key_AliYunPan",
+			"key":"key_csp_AliYunPan",
 			"name":"阿里設置",
 			"type":3,
 			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
-			"quickSearch":0,
-			"filterable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"changeable":0,
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //		{
 //			"key":"影視",
