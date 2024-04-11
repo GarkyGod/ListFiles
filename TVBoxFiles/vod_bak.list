@@ -14,7 +14,7 @@
 			"searchable":0,
 			"quickSearch":0,
 			"filterable":0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json"
+			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_AliYunPan",
