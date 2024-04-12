@@ -166,24 +166,24 @@
 			"style":{"type":"list"}
 		},
 //	////////////////////////////////////// 18+ //////////////////////////////////////
-//		{
-//			"key":"AList_18+",
-//			"name":"AList_18+",
-//			"type":3,
-//			"api":"csp_AList",
-//			"searchable":1,
-//			"changeable":0,
-//			"ext":{
-//				"drives":[
-//						{
-//							"name":"Sodaz's OneDrive",
-//							"server":"https://a.sodaz.xyz"
+		{
+			"key":"AList_18+",
+			"name":"AList_18+",
+			"type":3,
+			"api":"csp_AList",
+			"searchable":1,
+			"changeable":0,
+			"ext":{
+				"drives":[
+						{
+							"name":"Sodaz's OneDrive",
+							"server":"https://a.sodaz.xyz"
 //							"server":"https://pan.sodaz.xyz"
 //							"server":"https://om.sodaz.xyz"
-//						}
-//					]
-//			}
-//		},
+						}
+					]
+			}
+		},
 		{
 			"key":"key_csp_Doll",  // https://hongkongdollvideo.com/
 			"name":"🔞(18+)|玩偶姐姐|Proxy",
@@ -806,15 +806,6 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":"影視天下第一$$$test2$$$test2"
-		},
-		{
-			"key":"七夜",
-			"name":"七夜",
-			"type":3,
-			"api":"csp_Dovx",
-			"searchable":1,
-			"changeable":0,
-			"ext":"5622cd606f9a49309c776d1b1ba7cd4f"
 		},
 //	////////////////////////////////////// 本地&網盤 //////////////////////////////////////
 		{
