@@ -1,5 +1,5 @@
 # ListFiles
 
-Store some shared documents
+Store some personal documents
 
-存放一些共享文檔
+存放一些自用文檔
