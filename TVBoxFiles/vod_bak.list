@@ -800,7 +800,7 @@
 		},
 		{
 			"key":"key_csp_Zhaozy",  //https://zhaoziyuan1.cc/
-			"name":"找資源",
+			"name":"搜索|找資源",
 			"type":3,
 			"api":"csp_Zhaozy",
 			"searchable":1,
