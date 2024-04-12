@@ -176,10 +176,10 @@
 			"ext":{
 				"drives":[
 						{
-							"name":"Sodaz's OneDrive",
-							"server":"https://a.sodaz.xyz"
-//							"server":"https://pan.sodaz.xyz"
-//							"server":"https://om.sodaz.xyz"
+						"name":"Sodaz's OneDrive",
+//						"server":"https://a.sodaz.xyz"
+						"server":"https://pan.sodaz.xyz"
+//						"server":"https://om.sodaz.xyz"
 						}
 					]
 			}
