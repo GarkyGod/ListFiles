@@ -170,8 +170,10 @@
 			"key":"AList_18+",
 			"name":"AList_18+",
 			"type":3,
-			"api":"csp_AList",
-			"searchable":1,
+//			"api":"csp_AList",
+			"api":"csp_WebDAV",
+//			"searchable":1,
+			"searchable":0,
 			"changeable":0,
 			"ext":{
 				"drives":[
