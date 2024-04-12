@@ -70,7 +70,7 @@
 			"changeable":1
 		},
 		{
-			"key":""key_csp_Star",  // https://www.histar.tv/
+			"key":"key_csp_Star",  // https://www.histar.tv/
 			"name":"影視|星視界|Proxy",
 			"type":3,
 			"api":"csp_Star",
