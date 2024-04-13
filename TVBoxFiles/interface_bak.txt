@@ -51,37 +51,27 @@
 //		type0,MacCMS,api_file end with_/at/xml/
 
 	"sites":[
+//	////////////////////////////////////// 🎲HOME //////////////////////////////////////
 		{
-			"key":"key_Douban",
-			"name":"豆瓣",
+			"key":"key_csp_Douban",
+			"name":"🎲豆瓣",
 			"type":3,
 			"api":"csp_Douban",
 			"searchable":0,
-			"quickSearch":0,
-			"filterable":0,
+			"changeable":0,
 			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
-//		{
-//			"key":"key_Douban",
-//			"name":"豆瓣",
-//			"type":3,
-//			"jar":"https://ghproxy.net/https://github.com/yueer521/Tvbox/raw/main/Yue.jar",
-//			"api":"csp_Douban",
-//			"searchable":0,
-//			"quickSearch":0,
-//			"filterable":0
-//		},
 		{
-			"key":"key_AliYunPan",
-			"name":"阿里設置",
+			"key":"key_csp_AliYunPan",
+			"name":"🎲阿里設置",
 			"type":3,
 			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
-			"quickSearch":0,
-			"filterable":0,
+			"changeable":0,
 			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
+
 		{
 			"key":"key_uiviki",
 			"name":"動漫|维奇动漫",
