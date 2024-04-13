@@ -253,7 +253,7 @@
 			"key":"18A",
 			"name":"18A(18+)",
 			"type":3,
-			"api":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
+			"api":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333}
