@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-04-14 00:10:04
+!Last Modified: 2024-04-15 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3814,7 +3814,7 @@ ibros.org
 .ibvpn.com
 ||ibvpn.com
 icams.com
-blogs.icerocket.com/tag
+||icedrive.net
 .icij.org
 ||icij.org
 ||icl-fi.org
@@ -5503,6 +5503,7 @@ rfaweb.org
 .roodo.com
 .rosechina.net
 .rotten.com
+||rou.video
 .rsf.org
 ||rsf.org
 .rsf-chinese.org
@@ -9971,7 +9972,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||hjd2048.com
 ||v.roucdn*.xyz
 ||v.rn*.xyz
-||rou.video
 ||roucdn.link
 ||citizenpowerforchina.org
 ||melon365.com
@@ -10042,7 +10042,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||elconfidencial.com
 ||gfnormal05at.com
 ||halktv.com.tr
-||icedrive.net
 ||illawarramercury.com.au
 ||imago-images.com
 ||mywife.cc
