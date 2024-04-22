@@ -467,9 +467,7 @@
 "type":1,  // "type":0,
 "api":"https://www.394tv.com/api.php/provide/vod/",  // "api":"https://www.394tv.com/api.php/provide/vod/at/xml",
 "searchable":1,
-"changeable":1,
-"ext":{"class":[{"type_id":"dianying","type_name":"电影"},{"type_id":"dianshi","type_name":"电视"}],
-"filters":{"dianying": [{"key":"0","name":"分类","value":[{"n":"全部","v":"dianying"},{"n":"动作片","v":"dongzuopian"},{"n":"喜剧片","v":"xijupian"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"香港","v":"香港"},{"n":"台湾","v":"台湾"}]}],"dianshi": [{"key":"0","name":"分类","value":[{"n":"全部","v":"dianshi"},{"n":"国产剧","v":"guochanju"},{"n":"港台剧","v":"gangtaiju"}]},{"key":"area","name":"地区","value":[{"n":"全部","v":""},{"n":"内地","v":"内地"},{"n":"韩国","v":"韩国"}]}]}}
+"changeable":1
 // "categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"]
 },
 
