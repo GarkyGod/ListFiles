@@ -7,7 +7,7 @@
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
 //	"spider":"https://raw.githubusercontents.com/takagen99/channel/master/CATVOD/jar/lite.jar",
-	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 // "lives":[{"name":"直播","type":0,"url":"https://raw.githubusercontents.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}"}],
@@ -19,18 +19,18 @@
 			"key":"csp_xpath_czspp",
 			"name":"影視|廠長1",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/yueer521/Tvbox/main/Yue.jar",
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yueer521/Tvbox/main/Yue.jar",
 			"api":"csp_XYQHikerAL",
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_厂长影视.json"
+			"ext":"https://mirror.ghproxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_厂长影视.json"
 		},
 		{
 			"key":"key_Czsapp_2",
 			"name":"影視|廠長2",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
@@ -41,7 +41,7 @@
 			"key":"key_nangua",
 			"name":"影視|南瓜",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_NanGua",
 			"searchable":1,
 			"quickSearch":1,
@@ -63,7 +63,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|TVB雲播",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"ext":{
 				"影片类型":"分类：&&主演",
