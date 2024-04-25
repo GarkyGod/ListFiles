@@ -1,6 +1,6 @@
 {
-	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://mirror.ghproxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",
 //	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // 18+
@@ -16,17 +16,17 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://mirror.ghproxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://mirror.ghproxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 		{
@@ -44,7 +44,7 @@
 			"api":"csp_Jianpian",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
 			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
@@ -70,8 +70,8 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":{
-				"token":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-				"filter":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
+				"token":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
 			}
 		},
 		{
@@ -129,7 +129,7 @@
 				"ratio":1.433
 			},
 			"ext":{
-				"json":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"json":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
 				"type":"",
 				"cookie":""
 			}
@@ -253,7 +253,7 @@
 			"key":"18A",
 			"name":"18A(18+)",
 			"type":3,
-			"api":"https://mirror.ghproxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
+			"api":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333}
@@ -263,8 +263,8 @@
 			"key":"key_uiviki",
 			"name":"91網曝黑料(18+)",
 			"type":3,
-			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
-//			"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
+//			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"searchable": 1,
 			"recordable":0,
@@ -826,7 +826,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -835,7 +835,7 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
 //	////////////////////////////////////// END //////////////////////////////////////
 		{
@@ -854,7 +854,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
 		}
 	],
 	"doh": [
