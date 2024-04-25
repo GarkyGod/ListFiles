@@ -2,7 +2,10 @@
 	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
-	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",
+	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // 漸變
+//	"wallpaper": "https://tian.chuqiuyu.workers.dev",  // 
+//	"wallpaper": "https://yun.chuqiuyu.workers.dev",  // 
+//	"wallpaper": "https://shuping.chuqiuyu.workers.dev",  // 
 //	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // 18+
 //	"wallpaper": "https://liu.chuqiuyu.workers.dev",  // 18+
 
