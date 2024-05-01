@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,10.tt
 DOMAIN-SUFFIX,1000giri.net
 DOMAIN-SUFFIX,100ke.org
 DOMAIN-SUFFIX,1080pzy.co
+DOMAIN-SUFFIX,1080pzy.net
 DOMAIN-SUFFIX,10beasts.net
 DOMAIN-SUFFIX,10conditionsoflove.com
 DOMAIN-SUFFIX,10musume.com
@@ -508,6 +509,7 @@ DOMAIN-SUFFIX,azerimix.com
 DOMAIN-SUFFIX,azubu.tv
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-ok.cc
 DOMAIN-SUFFIX,b0ne.com
 DOMAIN-SUFFIX,baby-kingdom.com
@@ -1399,6 +1401,7 @@ DOMAIN-SUFFIX,dilber.se
 DOMAIN-SUFFIX,dingchin.com.tw
 DOMAIN-SUFFIX,dipity.com
 DOMAIN-SUFFIX,directcreative.com
+DOMAIN-SUFFIX,directv.com
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,discoins.com
 DOMAIN-SUFFIX,disconnect.me
@@ -1513,6 +1516,8 @@ DOMAIN-SUFFIX,dstk.dk
 DOMAIN-SUFFIX,dtdns.net
 DOMAIN-SUFFIX,dtiblog.com
 DOMAIN-SUFFIX,dtic.mil
+DOMAIN-SUFFIX,dtvcdn.com
+DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,dtwang.org
 DOMAIN-SUFFIX,duanzhihu.com
 DOMAIN-SUFFIX,duboku.tv
@@ -1893,6 +1898,7 @@ DOMAIN-SUFFIX,fingerdaily.com
 DOMAIN-SUFFIX,finler.net
 DOMAIN-SUFFIX,firearmsworld.net
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firefly-iii.org
 DOMAIN-SUFFIX,fireofliberty.org
 DOMAIN-SUFFIX,firetweet.io
 DOMAIN-SUFFIX,firstfivefollowers.com
@@ -2945,6 +2951,7 @@ DOMAIN-SUFFIX,invidio.us
 DOMAIN-SUFFIX,inxian.com
 DOMAIN-SUFFIX,iownyour.biz
 DOMAIN-SUFFIX,iownyour.org
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipalter.com
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,ipfire.org
@@ -3252,6 +3259,7 @@ DOMAIN-SUFFIX,kspcoin.com
 DOMAIN-SUFFIX,ktkjmp.com
 DOMAIN-SUFFIX,ktzhk.com
 DOMAIN-SUFFIX,kuaikan-cdn3.com
+DOMAIN-SUFFIX,kuaikan-cdn4.com
 DOMAIN-SUFFIX,kuaikan-play1.com
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kui.name
@@ -4285,6 +4293,7 @@ DOMAIN-SUFFIX,perfect-privacy.com
 DOMAIN-SUFFIX,perfectgirls.net
 DOMAIN-SUFFIX,perfectvpn.net
 DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,persecutionblog.com
 DOMAIN-SUFFIX,persiankitty.com
 DOMAIN-SUFFIX,pfd.org.hk
@@ -4342,6 +4351,8 @@ DOMAIN-SUFFIX,pk.com
 DOMAIN-SUFFIX,placemix.com
 DOMAIN-SUFFIX,planetscale.com
 DOMAIN-SUFFIX,play-asia.com
+DOMAIN-SUFFIX,play-cdn21.com
+DOMAIN-SUFFIX,play-cdn23.com
 DOMAIN-SUFFIX,playbeasts.com
 DOMAIN-SUFFIX,playboy.com
 DOMAIN-SUFFIX,playboyplus.com
@@ -4600,6 +4611,7 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,raxcdn.com
 DOMAIN-SUFFIX,razyboard.com
+DOMAIN-SUFFIX,rb.gy
 DOMAIN-SUFFIX,rcinet.ca
 DOMAIN-SUFFIX,rd.com
 DOMAIN-SUFFIX,rdio.com
@@ -4696,6 +4708,7 @@ DOMAIN-SUFFIX,rosechina.net
 DOMAIN-SUFFIX,rotten.com
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,roucdn.link
+DOMAIN-SUFFIX,roucdn.xyz
 DOMAIN-SUFFIX,rpglogs.com
 DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rsf-chinese.org
@@ -6520,7 +6533,10 @@ DOMAIN-SUFFIX,yyii.org
 DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yysub.net
 DOMAIN-SUFFIX,yzzk.com
+DOMAIN-SUFFIX,z-lib.id
+DOMAIN-SUFFIX,z-lib.io
 DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
 DOMAIN-SUFFIX,zamimg.com

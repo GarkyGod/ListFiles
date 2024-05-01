@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-05-01 00:10:04
+!Last Modified: 2024-05-02 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10152,12 +10152,15 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||yts.am
 ||yts.ag
 ||suno.ai
+||z-library.se
+||perplexity.ai
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
 ||030buy.com
 ||10.tt
 ||1080pzy.co
+||1080pzy.net
 ||12ft.io
 ||138.com
 ||1998cdp.org
@@ -10228,7 +10231,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||annatam.com
 ||antd.org
 ||anthropic.com
-||anws.gov.tw
 ||aol.ca
 ||ap.org
 ||apilayer.com
@@ -10252,6 +10254,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||avtb388.com
 ||avtby.com
 ||azureedge.net
+||b-cdn.net
 ||backpackers.com.tw
 ||barrons.com
 ||bash-hackers.org
@@ -10360,7 +10363,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||cryptographyengineering.com
 ||cuhk.edu.hk
 ||cuhkacs.org
-||cwb.gov.tw
 ||cyberctm.com
 ||cz.cc
 ||d0z.net
@@ -10386,6 +10388,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||didiao.cloud
 ||digiland.tw
 ||digwebinterface.com
+||directv.com
 ||discfan.net
 ||disneystreaming.com
 ||diversity.google
@@ -10407,6 +10410,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||dropboxapi.com
 ||drvhub.net
 ||dtdns.net
+||dtvcdn.com
+||dtvce.com
 ||duboku.tv
 ||duckload.com
 ||dumb1.com
@@ -10456,6 +10461,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ff-04.com
 ||ff-05.com
 ||ffzyread1.com
+||firefly-iii.org
 ||fizzik.com
 ||flickrhivemind.net
 ||fmnnow.com
@@ -10588,6 +10594,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||invidio.us
 ||iownyour.biz
 ||iownyour.org
+||ip.sb
 ||ipdata.co
 ||ipinfo.io
 ||iportal.me
@@ -10649,6 +10656,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||klip.me
 ||ktkjmp.com
 ||kuaikan-cdn3.com
+||kuaikan-cdn4.com
 ||kuaikan-play1.com
 ||kun.im
 ||lamenhu.com
@@ -10820,6 +10828,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||picffzy.com
 ||picuki.com
 ||planetscale.com
+||play-cdn21.com
+||play-cdn23.com
 ||plixi.com
 ||pokerstrategy.com
 ||pornbest.org
@@ -10859,6 +10869,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ranxiang.com
 ||rapidgator.net
 ||raxcdn.com
+||rb.gy
 ||reabble.com
 ||read100.com
 ||recaptcha.net
@@ -10875,7 +10886,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rileyguide.com
 ||rocketcdn.me
 ||roodo.com
-||roucdn*.xyz
+||roucdn.xyz
 ||rssing.com
 ||ruanyifeng.com
 ||rushbee.com
@@ -11168,6 +11179,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||youthnetradio.org
 ||youthwant.com.tw
 ||yuetwanlauseng.com
+||z-lib.id
+||z-lib.io
 ||zdassets.com
 ||zfreet.com
 ||zhuanxing.cn
