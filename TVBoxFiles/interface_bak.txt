@@ -878,7 +878,7 @@
 			"searchable":0,
 			"quickSearch":0,
 			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/虎牙直播.js",
 			"style":{"type":"rect","ratio":1.755}
 		},
 		{
@@ -889,7 +889,7 @@
 			"searchable":0,
 			"quickSearch":0,
 			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/斗鱼直播.js",
 			"style":{"type":"rect","ratio":1.755}
 		},
 		{
@@ -900,7 +900,7 @@
 			"searchable":0,
 			"quickSearch":0,
 			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js",
 			"style":{"type":"rect","ratio":1}
 		},
 		{
@@ -911,7 +911,7 @@
 			"searchable":0,
 			"quickSearch":0,
 			"changeable":0,
-			"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/310直播.js",
 			"style":{"type":"rect","ratio":1}
 		},
 		{
