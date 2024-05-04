@@ -128,7 +128,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "https://www.czys.top/"
+			"ext": "https://www.czzy77.com/"
 		},
 //		{
 //			"key":"key_tvbsk",
