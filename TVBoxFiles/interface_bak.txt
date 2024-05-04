@@ -99,15 +99,14 @@
 			}
 		},
 		{
-			"key":"csp_xpath_czspp",
+			"key":"csp_drpy2_czspp",
 			"name":"影視|廠長",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
-			"api":"csp_XYQHikerAL",
+			"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 			"searchable":1,
 			"quickSearch":1,
-			"filterable":1,
-			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_厂长影视.json"
+			"changeable":0,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/厂长资源.js"
 		},
 		{
 			"key":"key_Czsapp_1",
@@ -277,8 +276,7 @@
 			"quickSearch":1,
 			"changeable":0,
 			// "ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/FongMi/json/555dy.js",
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js",
-			"style":{"type":"rect","ratio":1}
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/555电影[V2].js"
 		},
 		{
 			"key":"key_pipixia",
