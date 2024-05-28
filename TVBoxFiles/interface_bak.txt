@@ -662,7 +662,7 @@
 },
 
 {
-"key":"key_kuaikan",  // https://
+"key":"key_kuaikan",  // https://kuaikanzy.com/  // https://kuaikanzy.net/  // https://kkzy.tv/
 "name":"採集|快看",
 "type":1,  // "type":0,
 "api":"https://kuaikan-api.com/api.php/provide/vod/",  // "api":"https://kuaikan-api.com/api.php/provide/vod/at/xml",
@@ -1111,6 +1111,7 @@
 	{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn","bfengbf"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
 	{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["17.99","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
 	{"name":"ikunzy廣告","hosts":["ikzybf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"快看廣告","hosts":["vip.kuaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"量子廣告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["17.19","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 	{"name":"索尼廣告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
 	{"name":"優質廣告","hosts":["yzzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
