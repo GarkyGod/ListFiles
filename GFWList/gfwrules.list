@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-05-30 00:10:05
+!Last Modified: 2024-05-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1155,6 +1155,7 @@ cn.nytstyle.com
 ||twitter.com
 ||twitter.jp
 ||vine.co
+||x.com
 !!---Taiwan---
 ||gov.taipei
 .gov.tw
@@ -10077,7 +10078,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||oaistatic.com
 ||hoyolab.com
 ||spring-plus.net
-||x.com
 ||wallhaven.cc
 ||sakura-paris.org
 ||av01.tv
