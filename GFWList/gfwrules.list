@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-05-31 00:10:04
+!Last Modified: 2024-06-01 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10160,6 +10160,21 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||thestandard.com.hk
 ||theage.com.au
 ||jwplayer.com
+||detroitnews.com
+||news18.com
+||indiatoday.in
+||nydailynews.com
+||thestar.com
+||gallup.com
+||hindustantimes.com
+||politico.eu
+||indianexpress.com
+||ndtv.com
+||enca.com
+||thehindu.com
+||vox.com
+||medicalnewstoday.com
+||ebc.net.tw
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10427,7 +10442,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||dyncdn.me
 ||dynssl.com
 ||dzcdn.net
-||ebc.net.tw
 ||echainhost.com
 ||edmontonservice.com
 ||eeas.europa.eu
@@ -10781,7 +10795,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nsaimg.com
 ||ntu.edu.tw
 ||nuzcom.com
-||nydailynews.com
 ||nytlog.com
 ||o0-1.com
 ||o0-2.com
@@ -11019,7 +11032,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||thefreeland.club
 ||thefrontier.hk
 ||thegioitinhoc.vn
-||thehindu.com
 ||theplatform.com
 ||thereallove.kr
 ||therock.net.nz
