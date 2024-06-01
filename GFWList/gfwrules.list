@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-01 00:10:04
+!Last Modified: 2024-06-02 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5351,7 +5351,8 @@ ss.pythonic.life/
 !--------------------QQ-------------------------
 .qanote.com
 ||qanote.com
-.qgirl.com.tw
+||qbittorrent.org
+||qgirl.com.tw
 ||qianbai.tw
 ||qiandao.today
 ||qiangwaikan.com
@@ -9184,7 +9185,6 @@ ultrasurf
 ||python.com.tw
 ||pythonhackers.com
 ||ss.pythonic.life
-||qgirl.com.tw
 ||qidian.ca
 ||qixianglu.cn
 ||qkshare.com
