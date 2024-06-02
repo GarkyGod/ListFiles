@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-02 00:10:04
+!Last Modified: 2024-06-03 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5166,6 +5166,7 @@ picturesocial.com
 .piposay.com
 piraattilahti.org
 .piring.com
+||pixeldrain.com
 ||pixelqi.com
 ||css.pixnet.in
 .pk.com
@@ -7249,8 +7250,8 @@ yilubbs.com
 .yipub.com
 ||yipub.com
 yinlei.org/mt
-||yiyechat.com
 .yizhihongxing.com
+||yizhihongxing.com
 .yobt.com
 .yobt.tv
 ||yobt.tv
@@ -7287,20 +7288,19 @@ topic.youthwant.com.tw
 .youporngay.com
 ||youporngay.com
 .yourlisten.com
-|http://yourlisten.com
+||yourlisten.com
 .yourlust.com
-|http://yourlust.com
+||yourlust.com
 youshun12.com
 .youtubecn.com
 youversion.com
 ||youversion.com
-blog.youxu.info/2010/03/14/west-chamber
 ytht.net
 yuanming.net
 .yuanzhengtang.org
 .yulghun.com
+||yulghun.com
 ||yunchao.net
-||yuntipub.com
 .yuvutu.com
 ||yvesgeleyn.com
 .ywpw.com/forums/history/post/A0/p0/html/227
@@ -7308,6 +7308,7 @@ yx51.net
 .yyii.org
 ||yyii.org
 ||yyjlymb.xyz
+||yysub.net
 .yzzk.com
 ||yzzk.com
 !--------------------ZZ-------------------------
@@ -9817,7 +9818,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||yibaochina.com
 ||yilubbs.com
 ||yingsuoss.com
-||yizhihongxing.com
 ||yobt.com
 ||yolasite.com
 ||yomiuri.co.jp
@@ -9826,14 +9826,12 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||youngpornvideos.com
 ||youngspiration.hk
 ||your-freedom.net
-||yourlisten.com
-||yourlust.com
 ||youshun12.com
 ||youtubecn.com
 ||ytht.net
 ||yuanming.net
 ||yuanzhengtang.org
-||yulghun.com
+||yuntipub.com
 ||yuvutu.com
 ||ywpw.com
 ||yx51.net
@@ -10134,7 +10132,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||machbbs.com
 ||jotform.com
 ||nengcard.com
-||yysub.net
 ||hcaptcha.com
 ||cachefly.net
 ||cachefly.com
@@ -11188,6 +11185,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||yboku.com
 ||ycombinator.com
 ||yinlei.org
+||yiyechat.com
 ||ymp4.download
 ||yottaa.net
 ||youdontcare.com
