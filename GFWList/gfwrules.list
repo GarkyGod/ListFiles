@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-04 00:10:06
+!Last Modified: 2024-06-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1363,7 +1363,7 @@ video.yahoo.com
 141hongkong.com/forum
 ||141jj.com
 .141tube.com
-.1688.com.au
+||1688.com.au
 .173ng.com
 ||173ng.com
 .177pic.info
@@ -4340,14 +4340,13 @@ listorious.com
 .liujianshu.com
 ||liujianshu.com
 .liuxiaobo.net
-|http://liuxiaobo.net
+||liuxiaobo.net
 liuxiaotong.com
 ||liuxiaotong.com
 .livedoor.jp
 .liveleak.com
 ||liveleak.com
 ||livemint.com
-.livestation.com
 livestream.com
 ||livestream.com
 ||livingonline.us
@@ -4357,7 +4356,7 @@ livestream.com
 .liwangyang.com
 lizhizhuangbi.com
 lkcn.net
-.llss.me/
+||chat.lmsys.org
 ||lncn.org
 .load.to
 .lobsangwangyal.com
@@ -5391,13 +5390,11 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 !--------------------RR-------------------------
 ||r0.ru
-.ra.gg
-|http://ra.gg/
-.radicalparty.org
+||radio-canada.ca
 ||rael.org
 radicalparty.org
 ||radio.garden
-radioaustralia.net.au
+||radioaustralia.net.au
 .radiohilight.net
 ||radiohilight.net
 ||radioline.co
@@ -6049,6 +6046,7 @@ tahr.org.tw
 .taipeisociety.org
 ||taipeisociety.org
 ||taipeitimes.com
+||taisounds.com
 .taiwanbible.com
 .taiwancon.com
 .taiwandaily.net
@@ -6952,7 +6950,7 @@ webworkerdaily.com
 .wefong.com
 weiboleak.com
 .weihuo.org
-weijingsheng.org
+||weijingsheng.org
 .weiming.info
 ||weiming.info
 weiquanwang.org
@@ -7794,7 +7792,6 @@ ultrasurf
 ||123rf.com
 ||141hongkong.com
 ||141tube.com
-||1688.com.au
 ||17.live
 ||177pic.info
 ||17t17p.com
@@ -8817,7 +8814,6 @@ ultrasurf
 ||listorious.com
 ||liu-xiaobo.org
 ||liuhanyu.com
-||liuxiaobo.net
 ||livedoor.jp
 ||livestation.com
 ||liwangyang.com
@@ -9195,7 +9191,6 @@ ultrasurf
 ||qxbbs.org
 ||ra.gg
 ||radicalparty.org
-||radioaustralia.net.au
 ||opml.radiotime.com
 ||rainbowplan.org
 ||raizoji.or.jp
@@ -9713,7 +9708,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||webwarper.net
 ||weiboleak.com
 ||weihuo.org
-||weijingsheng.org
 ||weiquanwang.org
 ||weisuo.ws
 ||welovecock.com
