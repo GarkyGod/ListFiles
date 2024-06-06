@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-06 00:10:05
+!Last Modified: 2024-06-07 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1670,8 +1670,8 @@ video.ap.org
 .apkmonk.com/app
 ||apkmonk.com
 ||apkplz.com
-apkpure.com
 ||apkpure.com
+||apkpure.net
 .aplusvpn.com
 ||appbrain.com
 .appdownloader.net/Android
@@ -2611,6 +2611,7 @@ delicious.com/GFWbookmark
 ||deviantart.net
 ||devio.us
 ||devpn.com
+||devv.ai
 ||dfas.mil
 dfn.org
 dharmakara.net
@@ -10019,8 +10020,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ratx.com
 ||podcast.app
 ||oraclecloud.com
-||battle.net
-@@||nydus.battle.net
 ||theb.ai
 ||kemono.party
 ||smashwords.com
@@ -10135,7 +10134,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||huigui.tw
 ||tukaani.org
 ||mail.me.com
-||devv.ai
 ||manhuagui.com
 ||yts.mx
 ||yts.lt
@@ -10166,6 +10164,9 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||vox.com
 ||medicalnewstoday.com
 ||ebc.net.tw
+||ac.jp
+||itch.io
+||uyghur-archive.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10270,6 +10271,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||backpackers.com.tw
 ||barrons.com
 ||bash-hackers.org
+||battle.net
 ||baywords.com
 ||bbkz.com
 ||bbppics.com
