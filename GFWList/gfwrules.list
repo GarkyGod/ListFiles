@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-07 00:10:05
+!Last Modified: 2024-06-08 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4305,12 +4305,12 @@ letscorp.net
 ||liaowangxizang.net
 .liaowangxizang.net
 ||liberal.org.hk
-.libertytimes.com.tw
+||libertysculpturepark.com
+||libertytimes.com.tw
 blogs.libraryinformationtechnology.com/jxyz
 ||libredd.it
-.lighten.org.tw
-.lightnovel.cn
-@@|https://www.lightnovel.cn
+||lighten.org.tw
+||lightnovel.cn
 limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
@@ -7092,6 +7092,7 @@ woxinghuiguo.com
 ||wqyd.org
 wrchina.org
 wretch.cc
+||writesonic.com
 .wsj.com
 ||wsj.com
 .wsj.net
@@ -8798,10 +8799,8 @@ ultrasurf
 ||lhakar.org
 ||lhasocialwork.org
 ||lianyue.net
-||libertytimes.com.tw
 ||libraryinformationtechnology.com
 ||lidecheng.com
-||lighten.org.tw
 ||limiao.net
 ||linkuswell.com
 ||abitno.linpie.com
@@ -10683,7 +10682,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||lflink.com
 ||lflinkup.org
 ||lfpcontent.com
-||lightnovel.cn
 ||lih.kg
 ||limbopro.xyz
 ||linpie.com
