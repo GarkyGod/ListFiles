@@ -214,7 +214,7 @@
 			"key":"key_woggcli_1",
 			"name":"影視|玩偶_1",
 			"type":3,
-			"jar":"https://ghproxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+//			"jar":"https://ghproxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
 			"api":"csp_Wogg",
 			"searchable":1,
 			"quickSearch":1,
