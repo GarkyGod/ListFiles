@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-06-19 00:10:04
+!Last Modified: 2024-06-20 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9154,7 +9154,6 @@ ultrasurf
 ||porntubenews.com
 ||pornvisit.com
 ||post01.com
-||postimg.org
 ||powerphoto.org
 ||proxyanonimo.es
 ||pttvan.org
@@ -10846,6 +10845,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||pornstarbyface.com
 ||portablevpn.nl
 ||postadult.com
+||postimg.org
 ||powerpointninja.com
 ||pplusstatic.com
 ||presentation.new
