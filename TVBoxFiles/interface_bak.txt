@@ -271,7 +271,8 @@
 			"key":"key_555dy",
 			"name":"影視|三五",
 			"type":3,
-			"api":"https://ghproxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+//			"api":"https://ghproxy.org/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+			"api":"csp_AppYsV2",
 			"searchable":1,
 			"quickSearch":1,
 			"changeable":0,
@@ -462,7 +463,7 @@
 
 {
 "key":"key_394tv",  // https://www.394tv.com/
-"name":"採集|394TV",
+"name":"資源站|394TV",
 "type":1,  // "type":0,
 "api":"https://www.394tv.com/api.php/provide/vod/",  // "api":"https://www.394tv.com/api.php/provide/vod/at/xml",
 "searchable":1,
@@ -472,7 +473,7 @@
 
 {
 "key":"key_49zyw",  // https://49zyw.com/  // https://49zy1.com/ // ...... // https://49zy9.com/
-"name":"採集|四九",
+"name":"資源站|四九",
 "type":1,  // "type":0,
 "api":"https://49zyw.com/api.php/provide/vod/",  // "api":"https://49zyw.com/api.php/provide/vod/at/xml",
 "searchable":1,
