@@ -483,7 +483,7 @@
 
 {
 "key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
-"name":"採集|百度",
+"name":"資源站|百度",
 "type":1,  // "type":0,
 "api":"https://api.apibdzy.com/api.php/provide/vod/",  // "api":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
 "searchable":1,
@@ -494,9 +494,9 @@
 
 {
 "key":"key_bfzy",  // http://bfzy.tv/
-"name":"採集|暴風",
+"name":"資源站|暴風",
 "type":1,  // "type":0,
-"api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
+"api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
