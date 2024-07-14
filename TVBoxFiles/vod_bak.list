@@ -64,7 +64,8 @@
 			"type":3,
 			"api":"csp_PTT",
 			"searchable":1,
-			"changeable":1
+			"changeable":1,
+			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
 		{
 			"key":"key_csp_Star",  // https://www.histar.tv/
