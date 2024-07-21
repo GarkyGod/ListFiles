@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-07-21 00:10:04
+!Last Modified: 2024-07-22 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -80,6 +80,7 @@ tumblrviewer
 ||altrec.com
 ||angela-merkel.de
 ||angola.org
+||anthropic.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -101,6 +102,7 @@ tumblrviewer
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||claude.ai
 ||clearsurance.com
 ||images.comico.tw
 ||static.comico.tw
@@ -509,6 +511,7 @@ share.dmhy.org
 ||bithumb.com
 ||bitinka.com.ar
 ||bitmex.com
+||bnbstatic.com
 ||btc98.com
 ||btcbank.bank
 ||btctrade.im
@@ -5126,6 +5129,7 @@ penisbot.com
 .percy.in
 .perfectgirls.net
 ||perfect-privacy.com
+||perplexity.ai
 .persecutionblog.com
 .persiankitty.com
 phapluan.org
@@ -7485,7 +7489,6 @@ ultrasurf
 ||pixiv.org
 ||redditlist.com
 ||bntrace.com
-||bnbstatic.com
 ||bitz.com
 ||lsxszzg.com
 ||now.im
@@ -10043,7 +10046,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||mywife.cc
 ||singlelogin.me
 ||torrentgalaxy.to
-||claude.ai
 ||18comic.org
 ||domain.glass
 ||thechinaproject.com
@@ -10141,7 +10143,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||yts.ag
 ||suno.ai
 ||z-library.se
-||perplexity.ai
 ||miraheze.org
 ||fanqiangdang.org
 ||crwdcntrl.net
@@ -10176,6 +10177,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||voi.id
 ||cht.com.tw
 ||androidcombo.com
+||b-cdn.net
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10252,7 +10254,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||androidapksfree.com
 ||annatam.com
 ||antd.org
-||anthropic.com
 ||aol.ca
 ||ap.org
 ||apilayer.com
@@ -10276,7 +10277,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||avtb388.com
 ||avtby.com
 ||azureedge.net
-||b-cdn.net
 ||backpackers.com.tw
 ||barrons.com
 ||bash-hackers.org
