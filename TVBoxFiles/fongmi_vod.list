@@ -1,0 +1,16 @@
+{
+	"urls":[
+		{
+			"url":"./FongMiDetails/vod_bak.list",
+			"name":"Backup"
+		},
+		{
+			"url":"./FongMiDetails/vod_ziyuanzhan.list",
+			"name":"資源站"
+		},
+		{
+			"url":"./FongMiDetails/nsfw.list",
+			"name":"NSFW"
+		}
+	]
+}
