@@ -1,9 +1,17 @@
 {
 //////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
-	"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
+	"wallpaper":"https://epg.112114.xyz/bingimg",
+//	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+//	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|漸變
+//	"wallpaper": "https://tian.chuqiuyu.workers.dev",  // Proxy|
+//	"wallpaper": "https://yun.chuqiuyu.workers.dev",  // Proxy|
+//	"wallpaper": "https://shuping.chuqiuyu.workers.dev",  // Proxy|豎屏
+//	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // Proxy|卡通18+
+//	"wallpaper": "https://liu.chuqiuyu.workers.dev",  // Proxy|真人18+
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
 	"spider":"https://ghproxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
 //	"lives":[
