@@ -3,8 +3,8 @@
 	"logo":"https://avatars.githubusercontent.com/u/100259948?v=4",
 
 //////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
-	"wallpaper":"https://epg.112114.xyz/bingimg",
-//	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+//	"wallpaper":"https://epg.112114.xyz/bingimg",
+	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 //	"wallpaper":"https://深色壁纸.xxooo.cf/",
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|漸變
 //	"wallpaper": "https://tian.chuqiuyu.workers.dev",  // Proxy|
@@ -487,8 +487,7 @@
 			"searchable":0,
 			"changeable":0,
 			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
-//			"ext":[{"name":"TVBox","list":[{"name":"TVBox_takagen99","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20240709-2109"},
-{"name":"TVBox_q215613905","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20231105-0923"}]}]
+//			"ext":[{"name":"TVBox","list":[{"name":"TVBox_takagen99","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20240709-2109"},{"name":"TVBox_q215613905","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20231105-0923"}]}]
 		}
 	],
 	
