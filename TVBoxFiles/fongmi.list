@@ -1,0 +1,28 @@
+{
+	"urls":[
+		{
+			"url":"./vod_bak.list",
+			"name":"Backup"
+		},
+		{
+			"url":"./fongmi/vod_ziyuanzhan.list",
+			"name":"資源站"
+		},
+		{
+			"url":"./0826.json",
+			"name":"高天流云FTY"
+		},
+		{
+			"url":"./0827.json",
+			"name":"高天流云FM"
+		},
+		{
+			"url":"./js.json",
+			"name":"高天流云JS"
+		},
+		{
+			"url":"./XYQ.json",
+			"name":"NSFW"
+		}
+	]
+}
