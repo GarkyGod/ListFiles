@@ -1,13 +1,17 @@
 {
-	"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+//////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
+	"wallpaper":"https://epg.112114.xyz/bingimg",
+//	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+//	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|漸變
+//	"wallpaper": "https://tian.chuqiuyu.workers.dev",  // Proxy|
+//	"wallpaper": "https://yun.chuqiuyu.workers.dev",  // Proxy|
+//	"wallpaper": "https://shuping.chuqiuyu.workers.dev",  // Proxy|豎屏
+//	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // Proxy|卡通18+
+//	"wallpaper": "https://liu.chuqiuyu.workers.dev",  // Proxy|真人18+
 
-	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // 漸變
-//	"wallpaper": "https://tian.chuqiuyu.workers.dev",  // 
-//	"wallpaper": "https://yun.chuqiuyu.workers.dev",  // 
-//	"wallpaper": "https://shuping.chuqiuyu.workers.dev",  // 豎屏
-//	"wallpaper": "https://gao.chuqiuyu.workers.dev",  // 卡通18+
-//	"wallpaper": "https://liu.chuqiuyu.workers.dev",  // 真人18+
+//////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
+	"spider":"https://ghproxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //	📢⚽⚾🏀🏈🏉🎾🎱🎳⛳🎣🎲🎭🎨🎦🎥📺💻🎬🎮📡💎🆕🆗🆖
 
