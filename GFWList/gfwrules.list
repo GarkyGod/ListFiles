@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-07-29 00:10:04
+!Last Modified: 2024-07-30 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1770,6 +1770,7 @@ avaaz.org
 ||axureformac.com
 .azerbaycan.tv
 azerimix.com
+||azirevpn.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
@@ -2384,7 +2385,8 @@ cloakpoint.com
 ||cloudflare-ipfs.com
 ||club1069.com
 ||clubhouseapi.com
-cmi.org.tw
+||cmegroup.com
+||cmi.org.tw
 |http://www.cmoinc.org
 cmp.hku.hk
 hkupop.hku.hk
@@ -3881,7 +3883,8 @@ ifjc.org
 .imagefap.com
 ||imagefap.com
 ||imageflea.com
-imageshack.us
+||imageglass.org
+||imageshack.us
 ||imagevenue.com
 ||imagezilla.net
 .imb.org
@@ -8137,7 +8140,6 @@ ultrasurf
 ||clearwisdom.net
 ||clipfish.de
 ||cloakpoint.com
-||cmi.org.tw
 ||cmoinc.org
 ||cn6.eu
 ||download.cnet.com
@@ -10596,7 +10598,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||igoogle.lv
 ||igoogle.sk
 ||ihao.org
-||imageshack.us
 ||imagetwist.com
 ||imb.org
 ||imdb.com
