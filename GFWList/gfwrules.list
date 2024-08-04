@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-08-04 00:10:04
+!Last Modified: 2024-08-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3942,7 +3942,7 @@ internetfreedom.org
 inxian.com
 ||inxian.com
 ipalter.com
-.ipfire.org
+||ipfire.org
 ||iphone4hongkong.com
 ||iphonehacks.com
 ||iphonetaiwan.org
@@ -4013,6 +4013,7 @@ ithelp.ithome.com.tw
 .iverycd.com
 .ivpn.net
 ||ivpn.net
+||iwara.tv
 ||ixquick.com
 .ixxx.com
 .iyouport.com
@@ -6300,11 +6301,11 @@ tibetoffice.eu
 tibetonline.com
 ||tibetonline.com
 .tibetoffice.com.au
-|http://tibetoffice.com.au
+||tibetoffice.com.au
 ||tibetonline.tv
 .tibetonline.tv
 .tibetoralhistory.org
-|http://tibetoralhistory.org
+||tibetoralhistory.org
 .tibetpolicy.eu
 .tibetrelieffund.co.uk
 tibetsites.com
@@ -6312,10 +6313,11 @@ tibetsites.com
 ||tibetsociety.com
 .tibetsun.com
 .tibetsupportgroup.org
-|http://tibetsupportgroup.org
+||tibetsupportgroup.org
 .tibetswiss.ch
 .tibettelegraph.com
 tibettimes.net
+||tibettruth.com
 ||tibetwrites.org
 .ticket.com.tw
 .tigervpn.com
@@ -8680,7 +8682,6 @@ ultrasurf
 ||indiatimes.com
 ||internetfreedom.org
 ||ipalter.com
-||ipfire.org
 ||ipobar.com
 ||ipoock.com
 ||iptv.com.tw
@@ -9497,13 +9498,10 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tibetkomite.dk
 ||tibetoffice.ch
 ||tibetoffice.eu
-||tibetoffice.com.au
-||tibetoralhistory.org
 ||tibetpolicy.eu
 ||tibetrelieffund.co.uk
 ||tibetsites.com
 ||tibetsun.com
-||tibetsupportgroup.org
 ||tibetswiss.ch
 ||tibettelegraph.com
 ||tibettimes.net
