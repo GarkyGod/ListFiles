@@ -9,8 +9,8 @@
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://ghproxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://ghproxy.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //	📢⚽⚾🏀🏈🏉🎾🎱🎳⛳🎣🎲🎭🎨🎦🎥📺💻🎬🎮📡💎🆕🆗🆖
 
