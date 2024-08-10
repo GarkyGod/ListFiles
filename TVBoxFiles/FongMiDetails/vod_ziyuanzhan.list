@@ -9,8 +9,8 @@
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://ghproxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://ghproxy.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
@@ -44,17 +44,17 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://ghproxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://ghproxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://ghproxy.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// 📡資源站 //////////////////////////////////////
 		{
@@ -482,7 +482,7 @@
 			"searchable":0,
 			"changeable":0,
 			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
-//			"ext":[{"name":"TVBox","list":[{"name":"TVBox_takagen99","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20240709-2109"},{"name":"TVBox_q215613905","url":"https://ghproxy.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20231105-0923"}]}]
+//			"ext":[{"name":"TVBox","list":[{"name":"TVBox_takagen99","url":"https://ghproxy.net/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20240709-2109"},{"name":"TVBox_q215613905","url":"https://ghproxy.net/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20231105-0923"}]}]
 		}
 	],
 	
