@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-08-15 00:10:05
+!Last Modified: 2024-08-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5960,6 +5960,7 @@ stickeraction.com/sesawe
 .stoptibetcrisis.net
 ||stoptibetcrisis.net
 ||storify.com
+||storj.io
 .stormmediagroup.com
 ||stoweboyd.com
 ||straitstimes.com
@@ -6714,8 +6715,8 @@ us.to
 ||usacn.com
 .usaip.eu
 ||usaip.eu
-dalailama.usc.edu
 ||uscnpm.org
+||uscardforum.com
 ||usma.edu
 .usocctn.com
 ||ustibetcommittee.org
@@ -11124,7 +11125,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||url.com.tw
 ||url.tw
 ||usc.edu
-||uscardforum.com
 ||usembassy.gov
 ||uspto.gov
 ||uujiasu.com
