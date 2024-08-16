@@ -516,7 +516,7 @@
 "key":"key_feifan",  // http://www.ffzy.tv
 "name":"採集|非凡",
 "type":1,  // "type":0,
-"api":"http://cj.ffzyapi.com/api.php/provide/vod/",  // "api":"https://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",
 "searchable":1,
 "changeable":1,
 "categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
