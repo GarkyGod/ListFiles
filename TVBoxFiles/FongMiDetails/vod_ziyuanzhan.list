@@ -368,13 +368,17 @@
 
 		{
 		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.tv/  // https://wolongzyw.tv/
-		"name":"📡資源站|臥龍",
-		"type":0,  // "type":1,
-		"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
+		"name":"📡資源站|臥龍|Bug",
+		"type":1,  // "type":0,
+		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
 		// "playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=",  // "playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
 		"searchable":1,
-		"changeable":1
-//		"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","短片","动画片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺片","港台综艺","韩国综艺","大陆综艺","欧美综艺","动漫片","国产动漫","欧美动漫","日本动漫","电影解说","体育","篮球","足球"]
+		"changeable":1,
+//		"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","短片","动画片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺片","港台综艺","韩国综艺","大陆综艺","欧美综艺","动漫片","国产动漫","欧美动漫","日本动漫","电影解说","体育","篮球","足球"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+			}
 		},
 
 		{
@@ -389,9 +393,9 @@
 
 		{
 		"key":"key_xinlang",  // https://xinlangzy.com/
-		"name":"📡資源站|新浪",
-		"type":0,  // "type":1,
-		"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",  // "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+		"name":"📡資源站|新浪|Bug",
+		"type":1,  // "type":0,
+		"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",  // "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","动漫电影","伦理片","电视剧","大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","综艺","体育"],
@@ -404,11 +408,15 @@
 		{
 		"key":"key_yinghua",  // https://yhzy.cc/  |原因不明電腦明顯正常 電視無顯示
 		"name":"📡資源站|櫻花|Bug",
-		"type":0,  // "type":1,
-		"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",  // "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+		"type":1,  // "type":0,
+		"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",  // "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
-		"changeable":1
-//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","纪录片","动画电影","伦理片","连续剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","海外剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","资讯","公告","头条"]
+		"changeable":1,
+//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","纪录片","动画电影","伦理片","连续剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","海外剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","资讯","公告","头条"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+			}
 		},
 
 		{
