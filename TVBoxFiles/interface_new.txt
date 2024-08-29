@@ -5,14 +5,14 @@
 //	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-//	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
-//	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
-//	"spider":"https://ghproxy.net/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
-	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20220424.jar",
+//	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/takagen99/channel/master/CATVOD/jar/20221013.jar",
+//	"spider":"https://gh-proxy.com/https://github.com/takagen99/channel/blob/master/CATVOD/jar/lite.jar?raw=true",
+	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  直播  //////////////////////////////////////////////////
-	"lives":[{"name":"直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-//	"lives":[{"name":"直播","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
+	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+//	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
 
 //////////////////////////////////////////////////  影视  //////////////////////////////////////////////////
 	"sites":[
@@ -24,24 +24,24 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 
 		{
 			"key":"key_Czsapp",
 			"name":"影視|廠長",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com//gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_Czsapp",
 			"searchable":1,
 			"quickSearch":1,
@@ -52,7 +52,7 @@
 			"key":"key_nangua",
 			"name":"影視|南瓜",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/fan.txt",
 			"api":"csp_NanGua",
 			"searchable":1,
 			"quickSearch":1,
@@ -73,7 +73,7 @@
 			"key":"key_tvbyunbo",
 			"name":"影視|TVB雲播",
 			"type":3,
-			"jar":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"ext":{
 				"影片类型":"分类：&&主演",
