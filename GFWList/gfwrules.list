@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-10-04 00:10:04
+!Last Modified: 2024-10-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8335,6 +8335,7 @@ ultrasurf
 ||fanyue.info
 ||farwestchina.com
 ||favotter.net
+||fastly.net
 ||faydao.com
 ||fc2.com
 ||fc2china.com
@@ -9869,7 +9870,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||deepdiscount.com
 ||clips4sale.com
 |*parts.blog.livedoor.jp
-|*0914.global.ssl.fastly.net
 ||biggo.com.tw
 ||zsdxzk.com
 ||puffin.com
@@ -10462,7 +10462,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||families.google
 ||fandom.com
 ||fanqiang.tk
-||fastly.net
 ||faviconkit.com
 ||fbit.com
 ||fbjav.com
