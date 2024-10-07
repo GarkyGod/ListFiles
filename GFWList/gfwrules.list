@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-10-07 00:10:04
+!Last Modified: 2024-10-08 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -845,6 +845,7 @@ cdninstagram.com
 .facebook.com
 ||facebook.com
 @@||v6.facebook.com
+||facebook.de
 ||facebook.design
 ||connect.facebook.net
 ||facebook.hu
@@ -863,6 +864,7 @@ cdninstagram.com
 ||instagram.com
 ||m.me
 ||messenger.com
+||meta.com
 ||oculus.com
 ||oculuscdn.com
 ||rocksdb.org
@@ -6375,6 +6377,7 @@ torrentprivacy.com
 |http://torrentproject.se
 ||torrenty.org
 ||torrentz.eu
+||tortoisesvn.net
 ||torvpn.com
 ||totalvpn.com
 .toutiaoabc.com
@@ -7619,7 +7622,6 @@ ultrasurf
 ||facebook.net
 @@||about.fb.com
 ||sl-reverse.com
-||meta.com
 ||gogole.com
 ||google-analytics.com
 @@|*.google-analytics.com
