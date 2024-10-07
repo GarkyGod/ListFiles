@@ -281,7 +281,7 @@
 		},
 
 		{
-		"key":"key_jinying",  // https://jinyingzy.com/
+		"key":"key_jinying",  // https://jinyingzy.com/  // https://jinyingzy.net/
 		"name":"📡資源站|金鷹",
 		"type":1,  // "type":0,
 		"api":"https://jyzyapi.com/provide/vod/",  // "api":"https://jinyingzy.com/provide/vod/at/xml/",
