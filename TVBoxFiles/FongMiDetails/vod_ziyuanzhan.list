@@ -365,7 +365,7 @@
 		},
 
 		{
-		"key":"key_okzy",  // https://okzy.org/
+		"key":"key_okzy",  // https://okzy.org/  // https://okzyw.me/  // https://okzyw.info/  // https://okzy.info/  // https://okzyw.vip/
 		"name":"📡資源站|OK",
 		"type":1,  // "type":0,
 		"api":"https://api.okzy.org/api.php/provide/vod/",  // "api":"https://api.okzy.org/api.php/provide/vod/at/xml/",
