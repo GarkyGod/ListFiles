@@ -225,7 +225,7 @@
 		},
 
 		{
-		"key":"key_huyazy",  // https://huyazy.com/  // http://huyazy.net/
+		"key":"key_huya",  // https://huyazy.com/  // http://huyazy.net/
 		"name":"📡資源站|虎牙",
 		"type":1,  // "type":0,
 		"api":"https://www.huyaapi.com/api.php/provide/vod/",  // "api":"https://www.huyaapi.com/api.php/provide/vod/at/xml",
@@ -352,7 +352,7 @@
 
 		{
 		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/
-		"name":"📡資源站|魔都動漫",
+		"name":"📡資源站|魔都",
 		"type":1,  // "type":0,
 		"api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/"  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
 		"searchable":1,
