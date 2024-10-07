@@ -686,14 +686,24 @@
 
 {
 "key":"key_modu",  // https://www.moduzy.com/ | proxy
-"name":"採集|魔都動漫",
+"name":"採集|魔都",
 "type":1,  // "type":0,
-"api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+"api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
 "searchable":1,
 "changeable":1,
 "categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
 // "categories":["国产动漫","日韩动漫","港台动漫","欧美动漫","动漫电影"]
 },
+
+		{
+		"key":"key_okzy",  // https://okzy.org/  // https://okzyw.me/  // https://okzyw.info/  // https://okzy.info/  // https://okzyw.vip/
+		"name":"📡資源站|OK",
+		"type":1,  // "type":0,
+		"api":"https://api.okzy.org/api.php/provide/vod/",  // "api":"https://api.okzy.org/api.php/provide/vod/at/xml/",
+		"searchable":1,
+		"changeable":1
+//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"]
+		},
 
 {
 "key":"key_piaoling",  // https://www.p21000.com/
