@@ -200,7 +200,7 @@
 		"key":"key_heimuer",  // https://heimuer.tv/
 		"name":"📡資源站|黑木耳",
 		"type":1,  // "type":0,
-		"api":"https://www.heimuer.tv/api.php/provide/vod/",  // "api":"https://www.heimuer.tv/api.php/provide/vod/at/xml",
+		"api":"https://json02.heimuer.xyz/api.php/provide/vod/",  //(json國內服務器用)// "api":"https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/",  //(xml國內服務器用)// "api":"https://json.heimuer.xyz/api.php/provide/vod/",  //(json海外服務器用)// "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/",  //(xml海外服務器用)// "api":"https://www.heimuer.tv/api.php/provide/vod/",  // "api":"https://www.heimuer.tv/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","剧情","动作","冒险","同性","喜剧","奇幻","恐怖","悬疑","惊悚","灾难","爱情","犯罪","科幻","动画电影","歌舞","战争","经典","网络电影","其它","电视剧","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","动漫","欧美","日本","韩国","国产","港台","新马泰","其它","综艺","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","短剧","古装","虐恋","逆袭","悬疑","神豪","重生","复仇","穿越","甜宠","强者","萌宝","其它"],
