@@ -777,7 +777,7 @@
 			}
 		},
 		{
-			"key":"gayziyuan.com",  // https://gayziyuan.com/ |proxy
+			"key":"gayziyuan.com",  // https://gayziyuan.com/ |proxy  // https://gayzy.tv/
 			"name":"GAY资源(18+)",
 			"type":1,  // 0,
 			"api":"https://gayapi.com/api.php/provide/vod/",  // "https://gayapi.com/api.php/provide/vod/at/xml",
