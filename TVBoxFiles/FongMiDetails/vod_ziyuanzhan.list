@@ -354,7 +354,7 @@
 		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/
 		"name":"📡資源站|魔都",
 		"type":1,  // "type":0,
-		"api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/"  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",
+		"api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
