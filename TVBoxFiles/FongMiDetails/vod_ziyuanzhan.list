@@ -253,7 +253,7 @@
 		},
 
 		{
-		"key":"key_ikunzy",  // https://www.ikunzy.com/
+		"key":"key_ikunzy",  // https://www.ikunzy.com/  // https://ikunzy.net/
 		"name":"📡資源站|ikun爱坤",
 		"type":1,  // "type":0,
 		"api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",
