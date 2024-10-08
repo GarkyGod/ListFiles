@@ -632,6 +632,20 @@
 		},
 
 		{
+		"key":"key_yparse",  // https://www.yparse.com/help
+		"name":"📡資源站|雲解釋",
+		"type":1,  // "type":0,
+		"api":"https://api.yparse.com/api/json",  // "api":"https://api.yparse.com/api/xml",
+		"searchable":1,
+		"changeable":1,
+//		"categories":["动漫","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","国产剧","香港剧","欧美剧","日本剧","海外剧","台湾剧","韩国剧","泰国剧","剧情片","纪录片","动画片","微电影","福利","伦理片","影视解说","短剧"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
 		"key":"key_zuida",  // https://zuidazy.me/  // https://zuidazy.co/  // https://zuida.xyz/
 		"name":"📡資源站|最大",
 		"type":1,  // "type":0,
