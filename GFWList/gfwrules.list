@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-10-10 00:10:05
+!Last Modified: 2024-10-11 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7765,6 +7765,7 @@ ultrasurf
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
+|http://store.steampowered.com
 ||steamstatic.com
 ||steambroadcast.akamaized.net
 ||gov.tw
@@ -9770,6 +9771,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||xuite.net
 ||xuzhiyong.net
 ||xvideo.cc
+||xvideos2.com
 ||xkiwi.tk
 ||xxlmovies.com
 ||xxx.xxx
@@ -10175,6 +10177,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||gettyimages.hk
 ||ntdsf.tv
 ||joinpeertube.org
+||njav.tv
+||xchina.co
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10777,7 +10781,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nintendium.com
 ||ninth.biz
 ||niupic.com
-||njav.tv
 ||no-ip.com
 ||nobelprize.org
 ||nodesnoop.com
