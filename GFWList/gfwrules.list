@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-10-15 00:10:05
+!Last Modified: 2024-10-16 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7766,6 +7766,8 @@ ultrasurf
 ||nytchina.com
 ||nyti.ms
 |http://store.steampowered.com
+||login.steampowered.com
+|http://api.steampowered.com
 ||steamstatic.com
 ||steambroadcast.akamaized.net
 ||gov.tw
@@ -9100,8 +9102,6 @@ ultrasurf
 ||peeasian.com
 ||pemulihan.or.id
 ||penchinese.com
-||pengyulong.com
-||penisbot.com
 ||penthouse.com
 ||peoplebookcafe.com
 ||percy.in
@@ -10180,6 +10180,12 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||njav.tv
 ||xchina.co
 ||v2raya.org
+||fandom.com
+||thinkhk.com
+||pcgamestorrents.com
+||paimon.moe
+||spatial.io
+||proxlet.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10467,7 +10473,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||faceueditor.com
 ||faceueditorv.com
 ||families.google
-||fandom.com
 ||fanqiang.tk
 ||faviconkit.com
 ||fbit.com
@@ -10838,6 +10843,8 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||pcloud.com
 ||pdetails.com
 ||pearlher.org
+||pengyulong.com
+||penisbot.com
 ||pentalogic.net
 ||philly.com
 ||phonegap.com
@@ -10862,7 +10869,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||proex.io
 ||prosciana.com
 ||protonmail.com
-||proxlet.com
 ||pstorage.space
 ||pureapk.com
 ||puritan.com
