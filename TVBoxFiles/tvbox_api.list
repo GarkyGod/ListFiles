@@ -54,9 +54,252 @@
 			"searchable":0,
 			"changeable":0,
 			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+		},
+//	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
+		{
+			"key":"key_csp_Duanju",
+			"name":"🎥影視|短劇|Block",
+			"type":3,
+			"api":"csp_Duanju",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Jianpian",  // http://api2.rinhome.com
+			"name":"🎥影視|薦片",
+			"type":3,
+			"api":"csp_Jianpian",
+			"searchable":1,
+			"changeable":1,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+		},
+		{
+			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
+			"name":"🎥影視|泥视频|ProxyBlock",
+			"type":3,
+			"api":"csp_NiNi",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_PTT",  // https://ptt.red/
+			"name":"🎥影視|PTT視頻",
+			"type":3,
+			"api":"csp_PTT",
+			"searchable":1,
+			"changeable":1,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
+		},
+		{
+			"key":"key_csp_Star",  // https://www.histar.tv/
+			"name":"🎥影視|星視界|Proxy",
+			"type":3,
+			"api":"csp_Star",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Wogg",  // https://www.wogg.net/
+			"name":"🎥影視|玩偶哥哥|Bug",
+			"type":3,
+			"api":"csp_Wogg",
+			"searchable":1,
+			"changeable":0,
+			"ext":{
+				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
+			}
+		},
+		{
+			"key":"key_csp_Xb6v",  //http://www.xb6v.com
+			"name":"🧲影視|新版6V",
+			"type":3,
+			"api":"csp_Xb6v",
+			"searchable":1,
+			"changeable":0,
+			"timeout":60
+		},
+		{
+			"key":"key_csp_Yinshiche",  // https://www.weixine.link
+			"name":"🎥影視|影視車|Block",
+			"type":3,
+			"api":"csp_Yingshiche",
+			"searchable":1,
+			"changeable":1
+		},
+//	////////////////////////////////////// Jar動漫 //////////////////////////////////////
+		{
+			"key":"key_csp_Dm84",  // https://dm84.tv/
+			"name":"🎨動漫|動漫巴士",
+			"type":3,
+			"api":"csp_Dm84",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Ying",  // https://www.iyhdmm.com
+			"name":"🎨動漫|櫻花動漫",
+			"type":3,
+			"api":"csp_Ying",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_csp_Ysj",  // https://www.dmmiku.com  // https://www.lldm.net/
+			"name":"🎨動漫|異世界動漫",
+			"type":3,
+			"api":"csp_Ysj",
+			"searchable":1,
+			"changeable":1
+		},
+//	////////////////////////////////////// 雜項 //////////////////////////////////////
+		{
+			"key":"key_csp_Bili",  // https://www.bilibili.com
+			"name":"🎭雜項|嗶哩嗶哩",
+			"type":3,
+			"api":"csp_Bili",
+			"searchable":1,
+			"changeable":0,
+			"style":{
+				"type":"rect",
+				"ratio":1.433
+			},
+			"ext":{
+				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"type":"",
+				"cookie":""
+			}
+		},
+		{
+			"key":"key_csp_FirstAid",  // https://m.youlai.cn
+			"name":"🎭雜項|有來醫生",
+			"type":3,
+			"api":"csp_FirstAid",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Kugou",  // https://www.kugou.com/
+			"name":"🎭雜項|酷狗音樂",
+			"type":3,
+			"api":"csp_Kugou",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_JustLive",  // http://live.yj1211.work
+			"name":"🎭直播|JustLive",
+			"type":3,
+			"api":"csp_JustLive",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Kanqiu",  // http://www.88kanqiu.one
+			"name":"🎭競賽|88看球",
+			"type":3,
+			"api":"csp_Kanqiu",
+			"searchable":1,
+			"changeable":0,
+			"style":{"type":"list"}
+		},
+
+//	////////////////////////////////////// 📡搜索服務 //////////////////////////////////////
+		{
+			"key":"key_csp_PanSearch",  // https://www.pansearch.me/
+			"name":"📡搜索|PanSearch",
+			"type":3,
+			"api":"csp_PanSearch",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_PanSou",  // https://www.alipansou.com/
+			"name":"📡搜索|猫狸盘搜",
+			"type":3,
+			"api":"csp_PanSou",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_UpYun",
+			"name":"📡搜索|雲搜",
+			"type":3,
+			"api":"csp_UpYun",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_XiaoZhiTiao",
+			"name":"📡搜索|紙條搜",
+			"type":3,
+			"api":"csp_XiaoZhiTiao",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_YiSo",  // https://yiso.fun/
+			"name":"📡搜索|易搜",
+			"type":3,
+			"api":"csp_YiSo",
+			"searchable":1,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_Zhaozy",  //https://zhaoziyuan1.cc/
+			"name":"📡搜索|找資源",
+			"type":3,
+			"api":"csp_Zhaozy",
+			"searchable":1,
+			"changeable":0,
+			"ext":"影視天下第一$$$test2$$$test2"
+		},
+//	////////////////////////////////////// 本地&網盤 //////////////////////////////////////
+		{
+			"key":"key_csp_Local",
+			"name":"🆗本地磁盤",
+			"type":3,
+			"api":"csp_Local",
+			"searchable":0,
+			"changeable":0
+		},
+		{
+			"key":"key_csp_AList",
+			"name":"🆗AList網盤",
+			"type":3,
+			"api":"csp_AList",
+			"searchable":1,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+		},
+		{
+			"key":"key_csp_WebDAV",
+			"name":"🆗WebDAV網盤",
+			"type":3,
+			"api":"csp_WebDAV",
+			"searchable":0,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+		},
+//	////////////////////////////////////// END //////////////////////////////////////
+		{
+			"key":"key_csp_Push",
+			"name":"📢推送",
+			"type":3,
+			"api":"csp_Push",
+			"searchable":0,
+			"changeable":0,
+			"timeout":60
+		},
+		{
+			"key":"key_csp_Market",
+			"name":"💎應用商店",
+			"type":3,
+			"api":"csp_Market",
+			"searchable":0,
+			"changeable":0,
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
 		}
-
-
 	],
 
 //////////////////////////////////////////////////  Parses  //////////////////////////////////////////////////
