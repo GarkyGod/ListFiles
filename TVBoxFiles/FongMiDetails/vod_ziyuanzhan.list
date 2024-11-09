@@ -792,7 +792,7 @@
 		{"name":"Quad9 DNS","url":"https://dns.quad9.net/dns-query","ips":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"]},
 		{"name":"Quad9 DNS 2","url":"https://dns9.quad9.net/dns-query","ips":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"]},
 		{"name":"Yandex DNS|unsure","url":"https://77.88.8.8/dns-query","ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
-		{"name":"Yandex DNS 2|unsure","url":"https://common.dot.dns.yandex.net","ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
+//		{"name":"Yandex DNS 2|unsure","url":"https://common.dot.dns.yandex.net","ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
 		{"name":"Yandex DNS 3|unsure","url":"https://77.88.8.8","ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
 		{"name":"Yandex DNS 4|unsure","url":"https://2a02:6b8::feed:0ff","ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}
 	],
