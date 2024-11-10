@@ -797,6 +797,7 @@
 		{"name":"Fondation Restena DNS","url":"https://kaitain.restena.lu/dns-query","ips":[""]},
 		{"name":"¤☆Google Public DNS","url":"https://8.8.4.4/dns-query","ips":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"]},
 //		{"name":"Google Public DNS|bak","url":["https://dns.google/dns-query","https://8.8.8.8/dns-query","https://8.8.4.4/dns-query","https://dns64.dns.google/dns-query"],"ips":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"]},
+		{"name":"IIJ DNS","url":"https://public.dns.iij.jp/dns-query","ips":["103.2.57.6","103.2.57.5"]},
 		{"name":"LibreDNS","url":"https://doh.libredns.gr/dns-query","ips":["116.202.176.26"]},
 		{"name":"OSZX DNS","url":"https://dns.oszx.co/dns-query","ips":["217.160.156.119"]},
 		{"name":"Privacy-First DNS 1","url":"https://doh.tiarap.org/dns-query","ips":["104.21.91.14","172.67.164.149"]},
