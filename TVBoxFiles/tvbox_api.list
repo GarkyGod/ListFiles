@@ -57,14 +57,6 @@
 		},
 //	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 		{
-			"key":"key_csp_Duanju",
-			"name":"🎥影視|短劇|Block",
-			"type":3,
-			"api":"csp_Duanju",
-			"searchable":1,
-			"changeable":0
-		},
-		{
 			"key":"key_csp_Jianpian",  // http://api2.rinhome.com
 			"name":"🎥影視|薦片",
 			"type":3,
@@ -72,14 +64,6 @@
 			"searchable":1,
 			"changeable":1,
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-		},
-		{
-			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
-			"name":"🎥影視|泥视频|ProxyBlock",
-			"type":3,
-			"api":"csp_NiNi",
-			"searchable":1,
-			"changeable":1
 		},
 		{
 			"key":"key_csp_PTT",  // https://ptt.red/
@@ -91,26 +75,6 @@
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
 		{
-			"key":"key_csp_Star",  // https://www.histar.tv/
-			"name":"🎥影視|星視界|Proxy",
-			"type":3,
-			"api":"csp_Star",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"key_csp_Wogg",  // https://www.wogg.net/
-			"name":"🎥影視|玩偶哥哥|Bug",
-			"type":3,
-			"api":"csp_Wogg",
-			"searchable":1,
-			"changeable":0,
-			"ext":{
-				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
-			}
-		},
-		{
 			"key":"key_csp_Xb6v",  //http://www.xb6v.com
 			"name":"🧲影視|新版6V",
 			"type":3,
@@ -119,13 +83,51 @@
 			"changeable":0,
 			"timeout":60
 		},
+//	////////////////////////////////////// 🎦資源站 //////////////////////////////////////
 		{
-			"key":"key_csp_Yinshiche",  // https://www.weixine.link
-			"name":"🎥影視|影視車|Block",
-			"type":3,
-			"api":"csp_Yingshiche",
-			"searchable":1,
-			"changeable":1
+		"key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
+		"name":"📡資源站|百度",
+		"type":1,  // "type":0,
+		"api":"https://api.apibdzy.com/api.php/provide/vod/",  // "api":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1,
+		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"]
+		},
+		{
+		"key":"key_bfzy",  // http://bfzy.tv/
+		"name":"📡資源站|暴風",
+		"type":1,  // "type":0,
+		"api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1,
+		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+		},
+		{
+		"key":"key_feifan",  // http://www.ffzy.tv
+		"name":"📡資源站|非凡",
+		"type":1,  // "type":0,
+		"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",  // older-"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
+		"searchable":1,
+		"changeable":1,
+		"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+		},
+		{
+		"key":"key_haohua",  // http://www.haohuazy.com/  // https://www.haohuaziyuan.com/
+		"name":"📡資源站|豪華",
+		"type":1,  // "type":0,
+		"api":"https://hhzyapi.com/api.php/provide/vod/",  // "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1,
+		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","短剧","电影","动作片","喜剧片","爱情片","科幻片","奇幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","记录片","动画片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+		},
+		{
+		"key":"key_jisu",  // https://jisuzy.com/  // https://jisuzy.tv/  // http://www.jisuziyuan.com/
+		"name":"📡資源站|極速",
+		"type":1,  // "type":0,
+		"api":"https://jszyapi.com/api.php/provide/vod/",  // "api":"https://jszyapi.com/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1,
+		"categories":["电视剧","日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","奇幻片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]
 		},
 //	////////////////////////////////////// Jar動漫 //////////////////////////////////////
 		{
