@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-11-19 00:10:06
+!Last Modified: 2024-11-20 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -53,6 +53,10 @@ tumblrviewer
 .linktr.ee
 ||mydramalist.com
 .mydramalist.com
+||yt1s.com
+.yt1s.com
+||youtube4kdownloader.com
+.youtube4kdownloader.com
 !---------- NSFW ----------
 ||nhentai.net
 .nhentai.net
