@@ -86,20 +86,6 @@
 		},
 
 		{
-		"key":"key_49zyw",  // https://49zyw.com/  // https://49zy1.com/ // ...... // https://49zy9.com/
-		"name":"📡資源站|四九|Closed",
-		"type":1,  // "type":0,
-		"api":"https://49zyw.com/api.php/provide/vod/",  // "api":"https://49zyw.com/api.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1,
-//		"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","海外剧","短剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
 		"key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
 		"name":"📡資源站|百度",
 		"type":1,  // "type":0,
@@ -414,34 +400,6 @@
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","邵氏大片","动漫电影","微电影","理论片","连续剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","综艺","动漫","站内新闻","娱乐动态","八卦爆料","影片资讯"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
-		"key":"key_qihu",  // https://caiji.qhzyapi.com/
-		"name":"📡資源站|奇虎|Closed",
-		"type":1,  // "type":0,
-		"api":"https://caiji.qhzyapi.com/api.php/provide/vod/",  // "api":"https://caiji.qhzyapi.com/api.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1,
-//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","纪录片","动画片","伦理片","电视剧","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动漫","欧美动漫","日本动漫","国产动漫","综艺","欧美综艺","日韩综艺","大陆综艺","港台综艺","体育"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
-		"key":"key_quanzhan",  // https://caiji.yueai55.cc:2277
-		"name":"📡資源站|全站|Closed",
-		"type":1,  // "type":0,
-		"api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",  // "api":"https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1,
-//		"categories":["电影","动作","喜剧","爱情","科幻","恐怖","剧情","战争","惊悚","犯罪","冒险","悬疑","动画","武侠","奇幻","记录","连续剧","国产","港台","日韩","欧美","综艺","动漫"],
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
