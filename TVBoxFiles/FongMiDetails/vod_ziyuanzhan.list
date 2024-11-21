@@ -115,7 +115,7 @@
 
 		{
 		"key":"key_bfzy",  // http://bfzy.tv/
-		"name":"📡資源站|暴風|360",
+		"name":"📡資源站|暴風",
 		"type":1,  // "type":0,
 		"api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -142,7 +142,7 @@
 
 		{
 		"key":"key_feifan",  // http://www.ffzy.tv
-		"name":"📡資源站|非凡|ALi",
+		"name":"📡資源站|非凡",
 		"type":1,  // "type":0,
 		"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",  // older-"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
 		"searchable":1,
