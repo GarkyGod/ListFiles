@@ -56,6 +56,43 @@
 			"changeable":0,
 			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
+
+		{
+			"key":"key_YouTube",
+			"name":"📡服務器|YouTube",
+			"type":4,
+			"api":"http://zhangqun66.com/yt/yt001.php",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.77},
+			"ext":"动作片#谍战剧#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛#苍生局#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+		},
+		{
+			"key":"key_CaiJi",
+			"name":"📡資源站|合集",
+			"type":1,
+			"api":"http://zhangqun66.com/cjjh.php",
+			"searchable":1,
+			"changeable":1
+		},
+		{
+			"key":"key_YouTube1",
+			"name":"📡服務器|YouTube列表1",
+			"type":4,
+			"api":"http://zhangqun66.com/ytlb.php",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.77}
+		},
+		{
+			"key":"key_YouTube2",
+			"name":"📡服務器|YouTube列表2",
+			"type":4,
+			"api":"http://zhangqun66.com/ytlb1.php",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.77}
+		},
 //	////////////////////////////////////// 📡資源站 //////////////////////////////////////
 		{
 			"key":"key_360zy",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/
