@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-12-12 00:10:05
+!Last Modified: 2024-12-13 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9564,7 +9564,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||twimbow.com
 ||twistar.cc
 ||twitmania.com
-|||twt.tl
+||twt.tl
 ||twittbot.net
 ||twitterfeed.com
 ||twiyia.com
@@ -11336,7 +11336,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||twitgoo.com
 ||twitthat.com
 ||twitzap.com
-||twt.tl
 ||twurl.nl
 ||typecho.org
 ||ucam.org
