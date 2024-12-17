@@ -1,6 +1,6 @@
 {
 //////////////////////////////////////////////////  Logo  //////////////////////////////////////////////////
-	"logo":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/logo_tvbox_api.gif",
+	"logo":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/logo_tvbox_api.gif",
 
 //////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
 //	"wallpaper":"https://epg.112114.xyz/bingimg",
@@ -10,8 +10,8 @@
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-//	"spider": "https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
+	"spider":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider": "https://gh.noki.eu.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //	📢⚽⚾🏀🏈🏉🎾🎱🎳⛳🎣🎲🎭🎨🎦🎥📺💻🎬🎮📡💎🆕🆗🆖
 
@@ -24,17 +24,17 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 		{
@@ -52,7 +52,7 @@
 			"api":"csp_Jianpian",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
 			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
@@ -69,7 +69,7 @@
 			"api":"csp_PTT",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
+			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
 		{
 			"key":"key_csp_Star",  // https://www.histar.tv/
@@ -87,8 +87,8 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":{
-				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
+				"token":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
 			}
 		},
 		{
@@ -146,7 +146,7 @@
 				"ratio":1.433
 			},
 			"ext":{
-				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+				"json":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
 				"type":"",
 				"cookie":""
 			}
@@ -270,7 +270,7 @@
 			"key":"18A",
 			"name":"18A(18+)",
 			"type":3,
-			"api":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
+			"api":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333}
@@ -280,8 +280,8 @@
 			"key":"key_uiviki",
 			"name":"91網曝黑料(18+)",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
-//			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
+			"jar":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
+//			"jar":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
 			"api":"csp_XBPQ",
 			"searchable": 1,
 			"recordable":0,
@@ -856,7 +856,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -865,7 +865,7 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
 //	////////////////////////////////////// END //////////////////////////////////////
 		{
@@ -884,7 +884,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
 		}
 	],
 	"doh": [
