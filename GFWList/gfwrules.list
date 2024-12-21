@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-12-21 00:10:06
+!Last Modified: 2024-12-22 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -57,6 +57,8 @@ tumblrviewer
 .yt1s.com
 ||youtube4kdownloader.com
 .youtube4kdownloader.com
+||sleazyfork.org
+.sleazyfork.org
 !---------- NSFW ----------
 ||nhentai.net
 .nhentai.net
