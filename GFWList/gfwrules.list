@@ -1,5 +1,5 @@
 !
-!Last Modified: 2024-12-30 00:10:04
+!Last Modified: 2024-12-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -936,6 +936,7 @@ blogspot.com
 ||digisfera.com
 ||dns.google
 ||hub.docker.com
+||docs.new
 ||domains.google
 ||duck.com
 ||environment.google
@@ -1079,6 +1080,9 @@ blogspot.com
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
+||sheets.new
+||slides.new
+||snapseed.com
 ||stories.google
 ||sustainability.google
 ||synergyse.com
@@ -1097,6 +1101,7 @@ blogspot.com
 ||webpkgcache.com
 ||webrtc.org
 ||whatbrowser.org
+||whats.new
 ||widevine.com
 ||withgoogle.com
 ||withyoutube.com
@@ -2038,7 +2043,8 @@ bbs.brockbbs.com
 brucewang.net
 .brutaltgp.com
 ||brutaltgp.com
-.bt2mag.com
+||bsky.app
+||bsky.social
 ||bt95.com
 .btaia.com
 .btbtav.com
@@ -2612,6 +2618,7 @@ dcmilitary.com
 ||de-sci.org
 .de-sci.org
 ||deadline.com
+||deepai.org
 ||decodet.co
 .definebabe.com
 ||delcamp.net
@@ -3514,21 +3521,12 @@ guruonline.hk
 .h-moe.com
 |http://h-moe.com
 h1n1china.org
-.hacg.club
-||hacg.club
-.hacg.in
-|http://hacg.in
-.hacg.li
-|http://hacg.li
-.hacg.me
-|http://hacg.me
-.hacg.red
-|http://hacg.red
 .hacken.cc/bbs
 .hacker.org
 ||hackmd.io
 ||hackthatphone.net
 hahlo.com
+||haijiao.com
 ||hakkatv.org.tw
 .handcraftedsoftware.org
 |http://bbs.hanminzu.org/
@@ -6887,6 +6885,7 @@ vpnjack.com
 .vpser.net
 @@||vpser.net
 vraiesagesse.net
+||vrchat.com
 .vrmtr.com
 ||vtunnel.com
 ||vuku.cc
@@ -8545,6 +8544,7 @@ ultrasurf
 ||h5galgame.me
 ||h-moe.com
 ||h1n1china.org
+||hacg.club
 ||hacg.in
 ||hacg.li
 ||hacg.me
@@ -10216,8 +10216,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tron.network
 ||chinahrc.org
 ||chped.com
-||bsky.social
-||bsky.app
 ||house.gov
 ||punjab.gov.pk
 ||punjab.gov.in
@@ -10526,7 +10524,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||dlsite.jp
 ||dmm.com
 ||doc.new
-||docs.new
 ||document.new
 ||domain.club.tw
 ||donga.com
@@ -11190,7 +11187,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sexxxy.biz
 ||sf.net
 ||sheet.new
-||sheets.new
 ||shemalez.com
 ||shinychan.com
 ||shkspr.mobi
@@ -11212,7 +11208,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||skynet.be
 ||skype.com
 ||slaytizle.com
-||slides.new
 ||slime.com.tw
 ||slinkset.com
 ||smarthide.com
