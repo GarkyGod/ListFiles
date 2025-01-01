@@ -78,7 +78,7 @@
 //			"categories":["电影","连续剧","综艺","动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","体育","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","足球","篮球","未分类","西部片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","反转爽剧","女频恋爱","成长逆袭"],
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //				}
 		},
 
@@ -92,7 +92,7 @@
 //			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"],
 //			"header":{
 //				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //				}
 		},
 
@@ -106,7 +106,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","纪录片","动画电影","邵氏电影","预告","伦理片","电视剧","大陆剧","港澳剧","韩剧","日剧","台湾剧","欧美剧","其他剧","泰剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","资讯","电影资讯","明星资讯"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -120,7 +120,7 @@
 //		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -133,7 +133,7 @@
 		"changeable":1
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -147,7 +147,7 @@
 //		"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -161,7 +161,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","其他片","电视剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","泰国剧","欧美剧","其他剧","短剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","体育赛事","电影解说","求片留言"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -175,7 +175,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","剧情片","恐怖片","战争片","动漫电影","记录片","伦理片","电视剧","大陆剧","欧美剧","港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -189,7 +189,7 @@
 //		"categories":["电影","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","战争片","电视剧","欧美剧","日剧","韩剧","国产剧","泰剧","港剧","台剧","新马剧","其他剧","动漫","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","综艺","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","体育","纪录片","明星资讯"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -213,25 +213,25 @@
 		"type":1,  // "type":0,
 		"api":"https://json.heimuer.xyz/api.php/provide/vod/",  // "api":"https://xml.heimuer.xyz/api.php/provide/vod/at/xml/",  // "api":"https://www.heimuer.tv/api.php/provide/vod/",  // "api":"https://www.heimuer.tv/api.php/provide/vod/at/xml",  // https://json02.heimuer.xyz/api.php/provide/vod/,https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/
 		"searchable":1,
-		"changeable":1
+		"changeable":1,
 //		"categories":["电影","剧情","动作","冒险","同性","喜剧","奇幻","恐怖","悬疑","惊悚","灾难","爱情","犯罪","科幻","动画电影","歌舞","战争","经典","网络电影","其它","电视剧","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","动漫","欧美","日本","韩国","国产","港台","新马泰","其它","综艺","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","短剧","古装","虐恋","逆袭","悬疑","神豪","重生","复仇","穿越","甜宠","强者","萌宝","其它"],
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//			}
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
 		},
 
 		{
-		"key":"key_huawei8",  // https://hw8.live/
+		"key":"key_huawei8",  // https://hw8.live/  // https://huawei8.live/  // https://huaweiba.live/
 		"name":"📡資源站|華為吧|Bug",
 		"type":1,  // "type":0,
-		"api":"https://cjhwba.com/api.php/provide/vod/",  // "api":"https://cjhwba.com/api.php/provide/vod/at/xml/",  // https://hw8.live/api.php/provide/vod/,https://hw8.live/api.php/provide/vod/at/xml
+		"api":"https://huawei8.live/api.php/provide/vod/",  // "api":"https://huaweiba.live/api.php/provide/vod/",  // "api":"https://cjhwba.com/api.php/provide/vod/",  // "api":"https://cjhwba.com/api.php/provide/vod/at/xml/",  // https://hw8.live/api.php/provide/vod/,https://hw8.live/api.php/provide/vod/at/xml
 		"searchable":1,
 		"changeable":1
 //		"categories":["电影","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","战争片","纪录片","伦理片","电视剧","欧美剧","日剧","韩剧","国产剧","泰剧","港剧","台剧","新马剧","其他剧","动漫","欧美动漫","日韩动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","综艺","欧美综艺","日韩综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","体育"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -245,7 +245,7 @@
 //		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","动画片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -259,7 +259,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动漫电影","伦理片","连续剧","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","短剧","综艺","动漫","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -273,7 +273,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","爽文短剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫","国产动漫","欧美动漫","日本动漫","体育","足球","德甲","意甲","英超","西甲","法甲","NBA","CBA","LPL","WCBA","微信","内地明星","港台明星"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -287,7 +287,7 @@
 //		"categories":["電影","電視劇","綜藝","動漫","短劇","直播"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -301,7 +301,7 @@
 //		"categories":["电视剧","韩剧","日剧","马泰剧","内地剧","欧美剧","香港剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -315,7 +315,7 @@
 //		"categories":["电视剧","日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","奇幻片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -329,7 +329,7 @@
 //		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","短剧","电影","动作片","喜剧片","爱情片","科幻片","奇幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","记录片","动画片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -343,7 +343,7 @@
 //		"categories":["电影","纪录片","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","伦理片","连续剧","国产剧","欧美剧","日本剧","泰剧","港台剧","新马剧","其他剧","韩国剧","海外剧","热门短剧","综艺","欧美综艺","日本综艺","韩国综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","动漫","欧美动漫","日本动漫","韩国动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","体育","电影解说","影视资讯","影视资讯","影视推荐","站内公告"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -357,7 +357,7 @@
 //		"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","预告片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育","足球","篮球","网球","斯诺克","演员","新闻资讯","电影资讯","娱乐新闻"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -371,7 +371,7 @@
 //		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -385,7 +385,7 @@
 //		"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -399,7 +399,7 @@
 //		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -413,7 +413,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","邵氏大片","动漫电影","微电影","理论片","连续剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","综艺","动漫","站内新闻","娱乐动态","八卦爆料","影片资讯"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -427,7 +427,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","冒险片","动画片","惊悚片","奇幻片","理论片","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","斯诺克"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -441,7 +441,7 @@
 //		"categories":["电影","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","动漫电影","伦理片","电视剧","大陆剧","港澳剧","台湾剧","日剧","韩剧","美剧","泰剧","动漫","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -455,7 +455,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","4K电影","预告片","电视剧","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","爽文短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","体育赛事","篮球","足球","斯诺克","影视解说","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -469,7 +469,7 @@
 //		"categories":["电影/动作片","电影/喜剧片","电影/爱情片","电影/科幻片","电影/奇幻片","电影/恐怖片","电影/惊悚片","电影/剧情片","电影/战争片","电影/纪录片","电影/冒险片","电影/悬疑片","电影/动画片","电视剧/国产剧","电视剧/香港剧","电视剧/台湾剧","电视剧/日本剧","电视剧/韩国剧","电视剧/欧美剧","电视剧/泰国剧","电视剧/海外剧","动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫/海外动漫","综艺/大陆综艺","综艺/港台综艺","综艺/日韩综艺","综艺/欧美综艺","综艺/海外综艺"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -483,7 +483,7 @@
 //		"categories":["电影","纪录片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","奇幻片","灾难片","悬疑片","其他片","连续剧","欧美剧","香港剧","国产剧","韩国剧","台湾剧","泰国剧","日剧","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","体育赛事"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -497,7 +497,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","动漫电影","伦理片","电视剧","国产剧","港澳剧","台湾剧","日剧","韩剧","欧美剧","泰剧","动漫","综艺","资讯","新闻资讯","预告资讯","影视资讯","明星资讯"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -512,7 +512,7 @@
 //		"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","短片","动画片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺片","港台综艺","韩国综艺","大陆综艺","欧美综艺","动漫片","国产动漫","欧美动漫","日本动漫","电影解说","体育","篮球","足球"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -526,7 +526,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","邵氏电影","连续剧","国产剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰剧","海外剧","短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","体育赛事","影视解说","资讯","公告","头条"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -540,7 +540,7 @@
 //		"categories":["电影","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","动漫电影","伦理片","电视剧","大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","综艺","体育"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -554,7 +554,7 @@
 //		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -568,7 +568,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","纪录片","动画电影","伦理片","连续剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","海外剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","资讯","公告","头条"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -582,7 +582,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","连续剧","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","演员"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -596,7 +596,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","动画片","海外剧","倫理片","福利","连续剧","国产剧","台湾剧","韩国剧","欧美剧","香港剧","泰国剧","日本剧","短剧大全","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","搞笑","音乐","影视","汽车"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -610,7 +610,7 @@
 //		"categories":["动漫","综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","国产剧","香港剧","欧美剧","日本剧","海外剧","台湾剧","韩国剧","泰国剧","剧情片","纪录片","动画片","微电影","福利","伦理片","影视解说","短剧"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
@@ -624,7 +624,7 @@
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","犯罪片","剧情片","纪录片","邵氏电影","伦理片","福利片","港剧","美剧","国产剧","影视解说"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 //			}
 		},
 
