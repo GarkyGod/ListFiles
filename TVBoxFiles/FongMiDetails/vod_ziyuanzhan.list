@@ -196,8 +196,8 @@
 		{
 		"key":"key_haohua",  // http://www.haohuazy.com/  // https://www.haohuaziyuan.com/
 		"name":"📡資源站|豪華",
-		"type":1,  // "type":0,
-		"api":"https://hhzyapi.com/api.php/provide/vod/",  // "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
+		"type":0,  // "type":1,
+		"api":"https://hhzyapi.com/api.php/provide/vod/at/xml",  // "api":"https://hhzyapi.com/api.php/provide/vod/",
 		"searchable":1,
 		"changeable":1
 //		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","短剧","电影","动作片","喜剧片","爱情片","科幻片","奇幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","记录片","动画片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
