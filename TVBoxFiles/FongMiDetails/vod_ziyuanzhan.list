@@ -229,10 +229,10 @@
 		"searchable":1,
 		"changeable":1
 //		"categories":["电影","冒险片","剧情片","动作片","动画电影","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","歌舞片","灾难片","爱情片","犯罪片","科幻片","经典片","网络电影","战争片","纪录片","伦理片","电视剧","欧美剧","日剧","韩剧","国产剧","泰剧","港剧","台剧","新马剧","其他剧","动漫","欧美动漫","日韩动漫","国产动漫","新马泰动漫","港台动漫","其他动漫","综艺","欧美综艺","日韩综艺","国产综艺","新马泰综艺","港台综艺","其他综艺","体育"],
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//			}
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
 		},
 
 		{
