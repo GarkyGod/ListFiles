@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-10 00:10:05
+!Last Modified: 2025-01-11 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10236,6 +10236,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||1dumb.com
 ||1mobile.com
 ||1mobile.tw
+||1point3acres.com
 ||2000fun.com
 ||24smile.org
 ||3a5a.com
@@ -10426,6 +10427,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||bwbx.io
 ||bwh88.net
 ||byteeffecttos-g.com
+||byteoversea.net
 ||bytevcloudapi.com
 ||ca.gov
 ||calgarychinese.net
@@ -11030,6 +11032,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||niupic.com
 ||no-ip.com
 ||nobelprize.org
+||nodeseek.com
 ||nodesnoop.com
 ||nooc.ink
 ||note.com
