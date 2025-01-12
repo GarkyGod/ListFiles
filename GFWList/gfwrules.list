@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-12 00:10:05
+!Last Modified: 2025-01-13 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1408,17 +1408,15 @@ zhao.1984.city
 .1eew.com
 .1mobile.com
 |http://*.1mobile.tw
+||1point3acres.com
 ||1pondo.tv
 .2-hand.info
 .2000fun.com/bbs
-.2008xianzhang.info
 ||2008xianzhang.info
 ||2017.hk
 ||2021hkcharter.com
 ||2047.name
 21andy.com/blog
-.21join.com
-.21pron.com
 21sextury.com
 .228.net.tw
 ||233abc.com
@@ -1488,6 +1486,7 @@ taiwannation.50webs.com
 .9001700.com
 |http://908taiwan.org/
 ||91porn.com
+||91porny.com
 ||91vps.club
 .92ccav.com
 .991.com
@@ -2610,14 +2609,14 @@ daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
-.dbc.hk/main
 ||dbgjd.com
 ||dcard.tw
 dcmilitary.com
-.ddc.com.tw
+||ddc.com.tw
 .ddhw.info
 ||de-sci.org
 .de-sci.org
+||deadhouse.org
 ||deadline.com
 ||deepai.org
 ||decodet.co
@@ -3765,9 +3764,10 @@ hqmovies.com
 .hrw.org
 ||hrw.org
 hrweb.org
+||hsex.men
 ||hsjp.net
 ||hsselite.com
-|http://hst.net.tw
+||hst.net.tw
 .hstern.net
 .hstt.net
 .htkou.net
@@ -8212,7 +8212,6 @@ ultrasurf
 ||david-kilgour.com
 ||daylife.com
 ||dcmilitary.com
-||ddc.com.tw
 ||ddhw.info
 ||destroy-china.jp
 ||dfn.org
@@ -8636,7 +8635,6 @@ ultrasurf
 ||hrea.org
 ||hrtsea.com
 ||hrweb.org
-||hst.net.tw
 ||hstern.net
 ||hstt.net
 ||hua-yue.net
@@ -10236,7 +10234,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||1dumb.com
 ||1mobile.com
 ||1mobile.tw
-||1point3acres.com
 ||2000fun.com
 ||24smile.org
 ||3a5a.com
