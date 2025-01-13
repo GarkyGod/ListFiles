@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-13 00:10:04
+!Last Modified: 2025-01-14 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -218,6 +218,7 @@ share.dmhy.org
 ||mattwilcox.net
 ||metarthunter.com
 ||mfxmedia.com
+||miraheze.org
 ||mojim.com
 ||kb.monitorware.com
 ||monster.com
@@ -301,7 +302,6 @@ share.dmhy.org
 ||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
-||tiktok.com
 ||tma.co.jp
 ||tracfone.com
 ||tryheart.jp
@@ -1155,12 +1155,17 @@ cn.nytstyle.com
 ||telegramdownload.com
 ||telesco.pe
 !!!---IP---
+!!---Tiktok---
+||tiktok.com
+||tiktokv.com
+||tiktokv.us
+||tiktokcdn-us.com
 !!---Twitch---
 ||jtvnw.net
 ||ttvnw.net
 ||twitch.tv
 ||twitchcdn.net
-!!---Twitter---
+!!---Twitter/X---
 ||periscope.tv
 .pscp.tv
 ||pscp.tv
@@ -1762,6 +1767,7 @@ atgfw.org
 ||atlanta168.com
 .atnext.com
 ||atnext.com
+||audacy.com
 ice.audionow.com
 .av.com
 ||av.movie
@@ -1813,7 +1819,7 @@ badoo.com
 ||bakgeekhome.tk
 .banana-vpn.com
 ||banana-vpn.com
-.band.us
+||band.us
 ||bandcamp.com
 .bandwagonhost.com
 ||bandwagonhost.com
@@ -2208,14 +2214,12 @@ cdp1998.org
 cdp2006.org
 ||cdp2006.org
 .cdpa.url.tw
-cdpeu.org
-cdpusa.org
-cdpweb.org
+||cdpeu.org
+||cdpuk.co.uk
+||cdpusa.org
 ||cdpweb.org
-cdpwu.org
 ||cdpwu.org
 ||cdw.com
-.cecc.gov
 ||cecc.gov
 ||cellulo.info
 ||cenews.eu
@@ -3082,6 +3086,7 @@ finler.net
 ||firetweet.io
 ||firstpost.com
 ||firstrade.com
+||fish.audio
 .flagsonline.it
 fleshbot.com
 .fleursdeslettres.com
@@ -3934,6 +3939,7 @@ in-disguise.com
 ||indiemerch.com
 ||info-graf.fr
 website.informer.com
+||inherit.live
 ||initiativesforchina.org
 ||inkbunny.net
 ||inkui.com
@@ -3949,7 +3955,7 @@ website.informer.com
 ||interactivebrokers.com
 ||internet.org
 internetdefenseleague.org
-internetfreedom.org
+||internetfreedom.org
 ||internetpopculture.com
 .inthenameofconfuciusmovie.com
 ||inthenameofconfuciusmovie.com
@@ -4635,9 +4641,9 @@ wiki.moegirl.org
 ||mog.com
 ||mohu.rocks
 molihua.org
+||momoshop.com.tw
 ||mondex.org
-.money-link.com.tw
-|http://money-link.com.tw
+||money-link.com.tw
 |http://www.monlamit.org
 ||moon.fm
 .moonbbs.com
@@ -5408,6 +5414,7 @@ qxbbs.org
 !--------------------RR-------------------------
 ||r0.ru
 ||radio-canada.ca
+||radio-en-ligne.fr
 ||rael.org
 radicalparty.org
 ||radio.garden
@@ -5906,6 +5913,7 @@ spem.at
 .spike.com
 .spotflux.com
 ||spotflux.com
+||spreaker.com
 .spring4u.info
 ||spring4u.info
 ||springwood.me
@@ -6322,7 +6330,6 @@ tibetoffice.eu
 .ticket.com.tw
 .tigervpn.com
 ||tigervpn.com
-||tiktokv.com
 .timdir.com
 |http://timdir.com
 .time.com
@@ -7324,6 +7331,7 @@ yx51.net
 .yzzk.com
 ||yzzk.com
 !--------------------ZZ-------------------------
+||z-lib.io
 ||z-lib.org
 zacebook.com
 .zalmos.com
@@ -7331,7 +7339,6 @@ zacebook.com
 ||zannel.com
 .zaobao.com
 ||zaobao.com
-|http://zaobao.com.sg
 ||zaobao.com.sg
 .zaozon.com
 ||zdnet.com.tw
@@ -7780,6 +7787,7 @@ ultrasurf
 |http://api.steampowered.com
 ||steamstatic.com
 ||steambroadcast.akamaized.net
+!!---Twitter---
 ||gov.tw
 @@||www.gov.tw
 @@||tacc.cwb.gov.tw
@@ -7948,7 +7956,6 @@ ultrasurf
 ||badjojo.com
 ||badoo.com
 ||bahamut.com.tw
-||band.us
 ||bandpage.com
 ||bangbrosnetwork.com
 ||bangchen.net
@@ -8075,8 +8082,6 @@ ultrasurf
 ||cdnews.com.tw
 ||cdp1989.org
 ||cdpa.url.tw
-||cdpeu.org
-||cdpusa.org
 ||centurys.net
 ||cfhks.org.hk
 ||cfos.de
@@ -8685,7 +8690,6 @@ ultrasurf
 ||in-disguise.com
 ||incapdns.net
 ||indiatimes.com
-||internetfreedom.org
 ||ipalter.com
 ||ipobar.com
 ||ipoock.com
@@ -8933,7 +8937,6 @@ ultrasurf
 ||mofaxiehui.com
 ||mofos.com
 ||molihua.org
-||money-link.com.tw
 ||moonbbs.info
 ||mooo.com
 ||morbell.com
@@ -9868,7 +9871,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||musical.ly
 ||muscdn.com
 ||p16-tiktokcdn-com.akamaized.net
-||tiktokcdn-us.com
 !--------------------ADD BY LOUKKY---------------
 ||proxy1.xyz
 ||whichav.com
@@ -9927,7 +9929,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||celestiallight.org
 ||hdsky.me
 ||efreenews.com
-||momoshop.com.tw
 ||sspanel.org
 ||zhujiget.com
 ||vyprvpn.com
@@ -10125,7 +10126,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||yts.am
 ||yts.ag
 ||suno.ai
-||miraheze.org
 ||fanqiangdang.org
 ||crwdcntrl.net
 ||ipdefenseforum.com
@@ -11447,7 +11447,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||youthnetradio.org
 ||youthwant.com.tw
 ||yuetwanlauseng.com
-||z-lib.io
 ||z-library.se
 ||z-library.sk
 ||z-library.sx
