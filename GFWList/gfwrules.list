@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-18 00:10:04
+!Last Modified: 2025-01-19 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -267,6 +267,7 @@ share.dmhy.org
 ||phmsociety.org
 |http://*.pimg.tw/
 ||podcast.co
+||popai.pro
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -1119,6 +1120,8 @@ blogspot.com
 ||ytimg.com
 ||zynamics.com
 !!---KickASS---
+!!---Microsoft---
+||copilot.microsoft.com
 !!---NaughtyAmerica---
 ||naughtyamerica.com
 !!---NYTimes---
@@ -1515,6 +1518,7 @@ a5.com.ru
 .abchinese.com
 abclite.net
 |https://www.abclite.net
+||abebooks.co.uk
 .ablwang.com
 .aboluowang.com
 ||aboluowang.com
@@ -1906,8 +1910,8 @@ beric.me
 @@||bianlei.com
 biantailajiao.com
 biantailajiao.in
-.biblesforamerica.org
-|http://biblesforamerica.org
+||biblesforamerica.org
+||vpl.bibliocommons.com
 .bic2011.org
 ||biedian.me
 bigfools.com
@@ -2159,6 +2163,7 @@ ss.carryzhou.com
 .cari.com.my
 ||cari.com.my
 ||caribbeancom.com
+||carousell.com.hk
 .casinoking.com
 .casinoriva.com
 ||catch22.net
@@ -2239,6 +2244,7 @@ cdp2006.org
 .changsa.net
 |http://changsa.net
 ||channelnewsasia.com
+||chanworld.org
 .chapm25.com
 ||chatgpt.com
 .chaturbate.com
@@ -2605,12 +2611,12 @@ dalianmeng.org
 daolan.net
 darktoy.net
 ||darrenliuwei.com
+||dashlane.com
 ||dastrassi.org
 .david-kilgour.com
 |http://david-kilgour.com
 daxa.cn
 ||daxa.cn
-cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
 ||dbgjd.com
@@ -2907,8 +2913,6 @@ erabaru.net
 .eroticsaloon.net
 .eslite.com
 ||eslite.com
-wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
-||esu.dog
 .etaa.org.au
 .etadult.com
 etaiwannews.com
@@ -5594,7 +5598,7 @@ sacom.hk
 ||cn.sandscotaicentral.com
 ||sankakucomplex.com
 ||sankei.com
-.sanmin.com.tw
+||sanmin.com.tw
 sapikachu.net
 savemedia.com
 ||savethesounds.info
@@ -7996,7 +8000,6 @@ ultrasurf
 ||beyondfirewall.com
 ||biantailajiao.com
 ||biantailajiao.in
-||biblesforamerica.org
 ||bic2011.org
 ||bigfools.com
 ||bigsound.org
@@ -9244,7 +9247,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sakya.org
 ||samair.ru
 ||sambhota.org
-||sanmin.com.tw
 ||sapikachu.net
 ||savemedia.com
 ||savetibet.nl
@@ -10067,7 +10069,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ggjav.com
 ||prettyvirgin.com
 ||captainfawcett.com
-||carousell.com.hk
 ||clickme.net
 ||soav.com
 ||ho5ho.com
@@ -10108,7 +10109,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||acgbox.link
 ||lmsys.org
 ||sydney.bing.com
-||copilot.microsoft.com
 ||machbbs.com
 ||jotform.com
 ||nengcard.com
@@ -10197,7 +10197,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||z-library.*
 ||onion666.com
 ||cia.gov
-||dashlane.com
 ||megalodon.jp
 ||notion.site
 ||prohashing.com
@@ -10564,6 +10563,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||empornium.ph
 ||empornium.sx
 ||esl.gg
+||esu.dog
 ||esu.im
 ||etowns.net
 ||etvonline.hk
