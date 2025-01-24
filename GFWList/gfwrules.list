@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-24 00:10:05
+!Last Modified: 2025-01-25 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -228,6 +228,7 @@ share.dmhy.org
 ||moonbingo.com
 ||mos.ru
 ||msha.gov
+||www.msn.com
 ||muzu.tv
 ||mvg.jp
 .mybet.com
@@ -353,6 +354,7 @@ share.dmhy.org
 !---Amazon---
 ||abebooks.com
 |https://*.s3.amazonaws.com
+||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
 ||43110.cf
 ||9cache.com
@@ -1155,6 +1157,7 @@ cn.nytstyle.com
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
+||legra.ph
 ||quiz.directory
 ||t.me
 ||updates.tdesktop.com
@@ -1200,12 +1203,16 @@ cn.nytstyle.com
 ||tacc.cwb.gov.tw
 ||data.gov.tw
 ||epa.gov.tw
+||exam.gov.tw
+||ey.gov.tw
 ||fa.gov.tw
 ||fda.gov.tw
 ||hpa.gov.tw
 ||immigration.gov.tw
 ||itaiwan.gov.tw
+||judicial.gov.tw
 ||li.taipei
+||ly.gov.tw
 ||mjib.gov.tw
 ||moeaic.gov.tw
 ||mofa.gov.tw
@@ -1712,6 +1719,7 @@ video.ap.org
 ||apkpure.com
 ||apkpure.net
 .aplusvpn.com
+||appadvice.com
 ||appbrain.com
 .appdownloader.net/Android
 .appledaily.com
@@ -1955,6 +1963,7 @@ bizhat.com
 .bjs.org
 bjzc.org
 ||bjzc.org
+||blacked.com
 .blacklogic.com
 .blackvpn.com
 ||blackvpn.com
@@ -1964,7 +1973,7 @@ tor.blingblingsquad.net
 ||blinkx.com
 blinw.com
 .blip.tv
-||blip.tv/
+||blip.tv
 ||blockcast.it
 .blockcn.com
 ||blockcn.com
@@ -2818,6 +2827,7 @@ e-info.org.tw
 .earthcam.com
 .earthvpn.com
 ||earthvpn.com
+||eastasiaforum.org
 eastern-ark.com
 .easternlightning.org
 .eastturkestan.com
@@ -2911,7 +2921,7 @@ epochtimes.com
 .epochweek.com
 ||epochweek.com
 ||epochweekly.com
-.eporner.com
+||eporner.com
 .equinenow.com
 erabaru.net
 .eracom.com.tw
@@ -3104,7 +3114,7 @@ finler.net
 .firearmsworld.net
 |http://firearmsworld.net
 ||relay.firefox.com
-.fireofliberty.org
+||fireofliberty.info
 ||fireofliberty.org
 .firetweet.io
 ||firetweet.io
@@ -3149,6 +3159,7 @@ video.foxbusiness.com
 ||fooooo.com
 ||foreignaffairs.com
 .fotile.me
+||fountmedia.io
 ||fourthinternational.org
 ||foxdie.us
 ||foxsub.com
@@ -3848,6 +3859,7 @@ huyandex.com
 ||hxwk.org
 hxwq.org
 ||hyperrate.com
+||hypothes.is
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
@@ -4015,6 +4027,7 @@ chinese.irib.ir
 .ironsocket.com
 ||ironsocket.com
 .is.gd
+||ishr.ch
 .islahhaber.net
 .islam.org.hk
 |http://islam.org.hk
@@ -4091,6 +4104,7 @@ jamaat.org
 ||javakiba.org
 .javbus.com
 ||javbus.com
+||javfinder.ai
 ||javfor.me
 .javhd.com
 .javhip.com
@@ -4286,6 +4300,7 @@ kyohk.net
 ||kyoyue.com
 .kyzyhello.com
 ||kyzyhello.com
+||kzaobao.com
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
@@ -4550,7 +4565,7 @@ megavideo.com
 .meltoday.com
 .memehk.com
 ||memehk.com
-memorybbs.com
+||memes.tw
 .memri.org
 .memrijttm.org
 ||mercdn.net
@@ -4644,6 +4659,7 @@ mixpod.com
 ||mixx.com
 ||mizzmona.com
 .mk5000.com
+||mlc.ai
 .mlcool.com
 ||mlzs.work
 .mm-cg.com
@@ -4699,7 +4715,6 @@ mponline.hk
 |http://mqxd.org
 mrtweet.com
 ||mrtweet.com
-news.hk.msn.com
 news.msn.com.tw
 msguancha.com
 .mswe1.org
@@ -5189,6 +5204,7 @@ philborges.com
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
+||pigav.com
 ||pin-cong.com
 .pin6.com
 ||pin6.com
@@ -5377,7 +5393,7 @@ psblog.name
 ||ptt.cc
 ||pttgame.com
 .puffstore.com
-.puuko.com
+||main-ecnpaper-economist.content.pugpig.com
 ||pullfolio.com
 .punyu.com/puny
 ||pureconcepts.net
@@ -5500,6 +5516,7 @@ redtube.com
 referer.us
 ||referer.us
 ||reflectivecode.com
+||blog.reimu.net
 relaxbbs.com
 .relay.com.tw
 .releaseinternational.org
@@ -5662,14 +5679,14 @@ securityinabox.org
 .securitykiss.com
 ||securitykiss.com
 ||seed4.me
-news.seehua.com
+||news.seehua.com
 seesmic.com
 ||seevpn.com
 ||seezone.net
+||sehuatang.net
 sejie.com
 .sendspace.com
 ||sensortower.com
-|http://tweets.seraph.me/
 sesawe.net
 ||sesawe.net
 .sesawe.org
@@ -5818,7 +5835,6 @@ sis001.us
 ||sitemaps.org
 .sjrt.org
 |http://sjrt.org
-||sjum.cn
 ||sketchappsources.com
 ||skimtube.com
 ||lab.skk.moe
@@ -5994,6 +6010,7 @@ sthoo.com
 .stickam.com
 stickeraction.com/sesawe
 .stileproject.com
+||stitcher.com
 .sto.cc
 .stoporganharvesting.org
 ||storagenewsletter.com
@@ -6241,8 +6258,8 @@ thevivekspot.com
 |http://theync.com
 .thinkingtaiwan.com
 ||thinkingtaiwan.com
-.thisav.com
-|http://thisav.com
+||thirdmill.org
+||thisav.com
 .thlib.org
 ||thomasbernhard.org
 .thongdreams.com
@@ -6404,6 +6421,7 @@ top81.ws
 .topnews.in
 .toppornsites.com
 |http://toppornsites.com
+||toptoon.net
 .torguard.net
 ||torguard.net
 ||top.tv
@@ -6518,12 +6536,11 @@ tuitwit.com
 .tv.com
 |http://tv.com
 tvants.com
-forum.tvb.com
-news.tvb.com/list/world
-news.tvb.com/local
+||forum.tvb.com
+||inews-api.tvb.com
 news.tvbs.com.tw
 .tvboxnow.com
-|http://tvboxnow.com/
+||tvboxnow.com
 tvider.com
 .tvmost.com.hk
 .tvplayvideos.com
@@ -6726,6 +6743,7 @@ unpo.org
 ||unstable.icu
 .untraceable.us
 |http://untraceable.us
+||unwire.hk
 ||uocn.org
 tor.updatestar.com
 ||upghsbc.com
@@ -6791,7 +6809,7 @@ uygur.org
 .vanemu.cn
 .vanilla-jp.com
 .vanpeople.com
-vansky.com
+||vansky.com
 ||vaticannews.va
 ||vcf-online.org
 ||vcfbuilder.org
@@ -6966,15 +6984,15 @@ www.wangruowang.org
 wapedia.mobi/zhsimp
 ||warroom.org
 ||waselpro.com
-.watchinese.com
+||watchinese.com
 ||watchout.tw
 .wattpad.com
 ||wattpad.com
 .makzhou.warehouse333.com
-washeng.net
 .watch8x.com
 ||watchmygf.net
 ||wav.tv
+||waybig.com
 ||wd.bible
 .wdf5.com
 ||wealth.com.tw
@@ -7476,7 +7494,7 @@ ultrasurf
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
-@@|http://translate.google.cn
+@@||translate.google.cn
 @@|http://www.google.cn/maps
 @@||http2.golang.org
 @@||gov.cn
@@ -8323,7 +8341,6 @@ ultrasurf
 ||entnt.com
 ||episcopalchurch.org
 ||epochtimes.cz
-||eporner.com
 ||equinenow.com
 ||erabaru.net
 ||eracom.com.tw
@@ -9319,6 +9336,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||site2unblock.com
 ||sitebro.tw
 ||sjrt.org
+||sjum.cn
 ||skyking.com.tw
 ||skykiwi.com
 ||slandr.net
@@ -9449,7 +9467,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||thetibetconnection.org
 ||thetibetmuseum.org
 ||theync.com
-||thisav.com
 ||thlib.org
 ||thongdreams.com
 ||threatchaos.com
@@ -9548,9 +9565,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||tushycash.com
 ||tuzaijidi.com
 ||tw01.org
-||forum.tvb.com
-||inews-api.tvb.com
-||tvboxnow.com
 ||tvider.com
 ||tvmost.com.hk
 ||tvplayvideos.com
@@ -9632,7 +9646,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||van698.com
 ||vanemu.cn
 ||vanpeople.com
-||vansky.com
 ||velkaepocha.sk
 ||venchina.com
 ||veoh.com
@@ -9683,7 +9696,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wangruoshui.net
 ||wangruowang.org
 ||wapedia.mobi
-||watchinese.com
 ||washeng.net
 ||watch8x.com
 ||wdf5.com
@@ -9896,7 +9908,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||2049bbs.xyz
 ||extrabux.com
 ||v2mm.tech
-||memes.tw
 |*apps.evozi.com
 ||9to5*.com
 ||stats.wp.com
@@ -9991,7 +10002,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||shanxivideo.com
 ||asrockind.com
 ||pchomeec.tw
-||unwire.hk
 ||ptthito.com
 ||xmonk.net
 ||cuntcrack.com
@@ -10051,7 +10061,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||v2board.com
 ||madou.club
 ||sehuatang.org
-||sehuatang.net
 ||haiwaikan.com
 ||ggjav.com
 ||prettyvirgin.com
@@ -10313,13 +10322,13 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||bbkz.com
 ||bbppics.com
 ||bianlei.com
+||bibliocommons.com
 ||bigmoney.biz
 ||billypan.com
 ||bing.com
 ||binsearch.info
 ||binwang.me
 ||blacklogic.com
-||blip.tv
 ||blog.jp
 ||blogjav.net
 ||blogs.com
@@ -10570,6 +10579,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||ff-05.com
 ||ffzyread1.com
 ||firefly-iii.org
+||firstory.me
 ||fizzik.com
 ||flickrhivemind.net
 ||fmnnow.com
@@ -10610,6 +10620,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||go-mpulse.net
 ||go.com
 ||goliathguitartutorials.com
+||good.news
 ||google.ad
 ||google.al
 ||google.bf
@@ -10860,6 +10871,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||jav247.net
 ||jav2be.com
 ||javarchive.com
+||javcdn.vip
 ||javcloud.com
 ||javdb4.com
 ||javhay.net
@@ -10948,6 +10960,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||metrohk.com.hk
 ||michaelanti.com
 ||minepi.com
+||missav.ws
 ||mit.edu
 ||moegirl.org
 ||monar.ch
@@ -10957,6 +10970,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||motor4ik.ru
 ||moztw.org
 ||mponline.hk
+||msn.com
 ||msn.com.tw
 ||mstopq.com
 ||mtvnservices.com
@@ -11008,6 +11022,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||nintendium.com
 ||ninth.biz
 ||niupic.com
+||njavplayer.me
 ||no-ip.com
 ||nobelprize.org
 ||nodesnoop.com
@@ -11222,6 +11237,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||streamsb.net
 ||streamtape.com
 ||streetvoice.com
+||strpst.com
 ||sueddeutsche.de
 ||superchat.live
 ||surfeasy.com.au
