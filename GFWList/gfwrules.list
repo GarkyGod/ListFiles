@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-25 00:10:05
+!Last Modified: 2025-01-26 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -81,6 +81,8 @@ tumblrviewer
 ||hobbyfanclub.com
 .hobbyfanclub.com
 !---------403/451/503/520 & URL Redirects---------
+||500px.com
+||500px.org
 |http://85.17.73.31/
 ||afreecatv.com
 ||agnesb.fr
@@ -258,6 +260,7 @@ share.dmhy.org
 ||s1.nudezz.com
 ||nusatrip.com
 ||nuuvem.com
+||bbs.nyinfor.com
 ||olehdtv.com
 ||omni7.jp
 ||onapp.com
@@ -1046,7 +1049,7 @@ blogspot.com
 ||googlepagecreator.com
 ||googleplay.com
 ||googleplus.com
-||googlescholar.comUSA
+||googlescholar.com
 ||googlesource.com
 ||googleusercontent.com
 .googlevideo.com
@@ -1104,6 +1107,7 @@ blogspot.com
 ||tiltbrush.com
 ||translate.goog
 ||tv.google
+||ua5v.com
 ||urchin.com
 ||usercontent.goog
 ||waveprotocol.org
@@ -1294,10 +1298,13 @@ cn.nytstyle.com
 ||kinmen.org.tw
 !!---USA---
 |http://www.americorps.gov
+||dma.mil
 ||jpl.nasa.gov
 ||pds.nasa.gov
+||soc.mil
 ||solarsystem.nasa.gov
 iipdigital.usembassy.gov
+||uscg.mil
 ||usfk.mil
 ||usmc.mil
 |http://tarr.uspto.gov/
@@ -2084,6 +2091,7 @@ brucewang.net
 .btbtav.com
 ||btdig.com
 ||btdigg.org
+||btguard.com
 .btku.me
 ||btku.me
 ||btku.org
@@ -2375,7 +2383,7 @@ chinese-leaders.org
 ||chinesegay.org
 .chinesen.de
 ||chinesen.de
-.chinesenews.net.au/
+||chinesenews.net.au
 .chinesepen.org
 ||chineseradioseattle.com
 .chinesetalks.net/ch
@@ -2698,6 +2706,7 @@ disp.cc
 ||disqus.com
 .dit-inc.us
 ||dit-inc.us
+||diyin.org
 .dizhidizhi.com
 ||dizhuzhishang.com
 djangosnippets.org
@@ -4380,6 +4389,7 @@ blogs.libraryinformationtechnology.com/jxyz
 ||libredd.it
 ||lighten.org.tw
 ||lightnovel.cn
+||lilaoshibushinilaoshi.com
 limiao.net
 linkuswell.com
 abitno.linpie.com/use-ipv6-to-fuck-gfw
@@ -4497,6 +4507,7 @@ my.mail.ru
 .maizhong.org
 makkahnewspaper.com
 .mamingzhe.com
+||mangmang.run
 manicur4ik.ru
 ||manyvoices.news
 .maplew.com
@@ -5873,7 +5884,6 @@ smhric.org
 sneakme.net
 snowlionpub.com
 home.so-net.net.tw/yisa_tsai
-||soc.mil
 ||socialblade.com
 .socks-proxy.net
 ||socks-proxy.net
@@ -6201,6 +6211,7 @@ teensinasia.com
 ||tenzinpalmo.com
 .tew.org
 ||tew.org
+||tfc-taiwan.org.tw
 ||tfiflve.com
 .thaicn.com
 ||theatlantic.com
@@ -6248,7 +6259,6 @@ thetibetconnection.org
 .thetibetmuseum.org
 .thetibetpost.com
 ||thetibetpost.com
-||thetinhat.com
 thetrotskymovie.com
 ||thetvdb.com
 thevivekspot.com
@@ -6712,7 +6722,8 @@ uighurbiz.net
 ukcdp.co.uk
 ukliferadio.co.uk
 ||ukliferadio.co.uk
-ultravpn.fr
+||ultrasurf.us
+||ultravpn.com
 ||ultravpn.fr
 ultraxs.com
 umich.edu/~falun
@@ -6788,7 +6799,7 @@ usus.cc
 ||uwants.com
 .uwants.net
 uyghur.co.uk
-|http://uyghur-j.org
+||uyghur-j.org
 ||uyghuraa.org
 ||uyghuramerican.org
 ||uyghurbiz.org
@@ -6922,6 +6933,7 @@ vpnjack.com
 ||vpnpick.com
 ||vpnpop.com
 ||vpnpronet.com
+||vpnproxymaster.com
 .vpnreactor.com
 ||vpnreactor.com
 ||vpnreviewz.com
@@ -7282,6 +7294,7 @@ xyy69.info
 yangjianli.com
 .yasni.co.uk
 ||yasni.co.uk
+||yasukuni.or.jp
 .yayabay.com/forum
 ||news.ycombinator.com
 .ydy.com
@@ -7364,6 +7377,7 @@ yuanming.net
 .yulghun.com
 ||yulghun.com
 ||yunchao.net
+||yunomi.tokyo
 .yuvutu.com
 ||yvesgeleyn.com
 .ywpw.com/forums/history/post/A0/p0/html/227
@@ -7437,6 +7451,7 @@ zhuichaguoji.org
 .zkaip.com
 ||zkaip.com
 realforum.zkiz.com
+||zmedia.com.tw
 ||zmw.cn
 .zodgame.us
 zomobo.net
@@ -7463,20 +7478,6 @@ writer.zoho.com
 .zynaima.com
 zyzc9.com
 .zzcartoon.com
-!-----------------URL Keywords------------------
-64memo
-aHR0cHM6Ly95ZWNsLm5ldA
-freenet
-.google.*/falun
-phobos.apple.com*/video
-q=freedom
-q%3Dfreedom
-remembering_tiananmen_20_years
-search*safeweb
-q=triangle
-q%3DTriangle
-ultrareach
-ultrasurf
 @@||aliyun.com
 @@||baidu.com
 @@||chinaso.com
@@ -7795,7 +7796,6 @@ ultrasurf
 ||igoogle.ws
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 @@||googleapis.cn
-||googlescholar.com
 ||*.goog
 @@||c.pki.goog
 ||sipml5.org
@@ -8162,7 +8162,6 @@ ultrasurf
 ||chinese-hermit.net
 ||chinese-leaders.org
 ||chinesedaily.com
-||chinesenews.net.au
 ||chinesepen.org
 ||chinesetalks.net/ch
 ||chinman.net
@@ -9637,7 +9636,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||uu-gg.com
 ||uwants.net
 ||uyghur.co.uk
-||uyghur-j.org
 ||uyghurcanadiansociety.org
 ||uyghurensemble.co.uk
 ||uygur.org
@@ -9846,6 +9844,20 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||zonghexinwen.net
 ||zsrhao.com
 ||zzcartoon.com
+!-----------------URL Keywords------------------
+64memo
+aHR0cHM6Ly95ZWNsLm5ldA
+freenet
+.google.*/falun
+phobos.apple.com*/video
+q=freedom
+q%3Dfreedom
+remembering_tiananmen_20_years
+search*safeweb
+q=triangle
+q%3DTriangle
+ultrareach
+ultrasurf
 @@||imasdk.googleapis.com
 @@||dl.l.google.com
 ||rlcdn.com
@@ -10146,7 +10158,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||itch.io
 ||uyghur-archive.com
 ||gstf.org
-||lilaoshibushinilaoshi.com
 ||tagesschau.de
 ||a5vpn.com
 ||softonic.cn
@@ -11277,6 +11288,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||theplatform.com
 ||thereallove.kr
 ||therock.net.nz
+||thetinhat.com
 ||thetrotskymovie.com
 ||thevivekspot.com
 ||thisiscdn.com
