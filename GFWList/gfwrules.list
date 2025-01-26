@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-01-26 00:10:05
+!Last Modified: 2025-01-27 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1339,10 +1339,13 @@ zh.uncyclopedia.wikia.com
 !-------------Wikipedia Related-------------
 !------0------
 !------1------
+||wikidata.org
 !------2------
 ||wikimedia.org
 !------3------
+||wikibooks.org
 !------4------
+||wikiversity.org
 !------5------
 |http://zh.wikisource.org
 !------6------
@@ -1350,11 +1353,13 @@ zh.uncyclopedia.wikia.com
 !------7------
 ||zh.wikinews.org
 !------8------
+||wikivoyage.org
 !------9------
+||wiktionary.org
 !-----10------
 !----Main-----
-||ja.wikipedia.org
 ||wikipedia.org
+||wmfusercontent.org
 !!---Yahoo---
 ||data.flurry.com
 ||page.bid.yahoo.com
@@ -9730,15 +9735,10 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wildammo.com
 ||williamhill.com
 ||wikinews.org
-||wikidata.org
 ||mediawiki.org
 ||w.wiki
-||wikiversity.org
 ||wikisource.org
-||wikibooks.org
-||wiktionary.org
 ||wikiquote.org
-||wikivoyage.org
 ||winning11.com
 ||winwhispers.info
 ||wisdompubs.org
