@@ -11,8 +11,44 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"青木",
+		"name":"k84307195",
 		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"aktv",
+		"url":"http://aktv.top/live.m3u",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"综合",
+		"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"zjykfy",
+		"url":"https://ghproxy.cc/https://raw.githubusercontent.com/zjykfy/yy-ff-yy/c702b5d9c9014a90a17a15275afa0cc6b812e2cc/all.m3u",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"52sw",
+		"url":"http://www.52sw.top:678/play/mytvsuper/",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"live",
+		"url":"https://ghproxy.cc/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"CR",
+		"url":"https://gh.noki.eu.org/https://github.com/koashe/zby/raw/refs/heads/main/cr.m3u",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
