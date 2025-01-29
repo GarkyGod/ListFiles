@@ -29,6 +29,24 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+		"name":"体育",
+		"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"央视",
+		"url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"365直播",
+		"url":"https://live.iptv365.org/live.m3u",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 		"name":"zjykfy",
 		"url":"https://ghproxy.cc/https://raw.githubusercontent.com/zjykfy/yy-ff-yy/c702b5d9c9014a90a17a15275afa0cc6b812e2cc/all.m3u",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
