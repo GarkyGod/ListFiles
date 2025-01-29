@@ -11,6 +11,12 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+		"name":"koashe",
+		"url":"https://gh.noki.eu.org/https://github.com/koashe/zby/raw/refs/heads/main/zby.txt",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
