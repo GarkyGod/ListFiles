@@ -12,7 +12,7 @@
 		},
 		{
 		"name":"青木",
-		"url":"https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
+		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
