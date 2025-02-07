@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-02-07 00:10:06
+!Last Modified: 2025-02-08 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1297,10 +1297,12 @@ cn.nytstyle.com
 @@||yda.gov.tw
 ||kinmen.org.tw
 !!---USA---
-|http://www.americorps.gov
+||americorps.gov
+||dfas.mil
 ||dma.mil
 ||jpl.nasa.gov
 ||pds.nasa.gov
+||pacom.mil
 ||soc.mil
 ||solarsystem.nasa.gov
 iipdigital.usembassy.gov
@@ -2225,6 +2227,7 @@ catholic.org.tw
 ||cccat.co
 .ccdtr.org
 ||ccdtr.org
+||ccfd.org.tw
 .cchere.com
 ||cchere.com
 .ccim.org
@@ -2552,14 +2555,12 @@ csdparty.com
 ||csis.org
 ||csmonitor.com
 ||csuchen.de
-.csw.org.uk
-.ct.org.tw
+||csw.org.uk
 ||ct.org.tw
 .ctao.org
 .ctfriend.net
-.ctitv.com.tw
+||ctitv.com.tw
 ||ctowc.org
-.cts.com.tw
 ||cts.com.tw
 ||ctwant.com
 |http://library.usc.cuhk.edu.hk/
@@ -2688,7 +2689,6 @@ delicious.com/GFWbookmark
 ||devio.us
 ||devpn.com
 ||devv.ai
-||dfas.mil
 dfn.org
 dharmakara.net
 .dharamsalanet.com
@@ -3452,7 +3452,6 @@ gluckman.com/DalaiLama
 go-pki.com
 ||goagent.biz
 ||goagentplus.com
-gobet.cc
 ||godaddy.com
 godfootsteps.org
 ||godfootsteps.org
@@ -3511,6 +3510,7 @@ greatfirewall.biz
 .greenparty.org.tw
 ||greenpeace.org
 .greenreadings.com/forum
+||greasyfork.org
 great-firewall.com
 great-roc.org
 greatroc.org
@@ -4016,6 +4016,7 @@ internetdefenseleague.org
 inxian.com
 ||inxian.com
 ipalter.com
+||ipdefenseforum.com
 ||ipfire.org
 ||iphone4hongkong.com
 ||iphonehacks.com
@@ -4943,6 +4944,7 @@ nobelprize.org/nobel_prizes/peace/laureates/1989
 nobelprize.org/nobel_prizes/peace/laureates/2010
 nobodycanstop.us
 ||nobodycanstop.us
+||nodeseek.com
 ||nokogiri.org
 ||nokola.com
 noodlevpn.com
@@ -4959,7 +4961,6 @@ nordvpn.com
 ||npa.go.jp
 .npnt.me
 |http://npnt.me
-.nps.gov
 .nradio.me
 |http://nradio.me
 .nrk.no
@@ -6001,7 +6002,6 @@ sstmlt.net
 ||standupfortibet.org
 ||standwithhk.org
 stanford.edu/group/falun
-usinfo.state.gov
 ||statueofdemocracy.org
 .starfishfx.com
 .starp2p.com
@@ -7949,7 +7949,6 @@ zyzc9.com
 ||alljackpotscasino.com
 ||alphaporno.com
 ||ameba.jp
-||americorps.gov
 ||amigobbs.net
 ||amitabhafoundation.us
 ||amnesty.tw
@@ -8217,10 +8216,8 @@ zyzc9.com
 ||crd-net.org
 ||creadersnet.com
 ||crocotube.com
-||csw.org.uk
 ||ctao.org
 ||ctfriend.net
-||ctitv.com.tw
 ||cytode.us
 ||d-fukyu.com
 ||d2bay.com
@@ -10136,7 +10133,6 @@ ultrasurf
 ||suno.ai
 ||fanqiangdang.org
 ||crwdcntrl.net
-||ipdefenseforum.com
 ||thestandard.com.hk
 ||theage.com.au
 ||jwplayer.com
@@ -10223,7 +10219,6 @@ ultrasurf
 ||house.gov
 ||punjab.gov.pk
 ||punjab.gov.in
-||nodeseek.com
 ||bignewsnetwork.com
 ||xaislam.com
 !------------------------------------------------
