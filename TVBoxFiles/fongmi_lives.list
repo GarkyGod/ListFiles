@@ -41,6 +41,13 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
+		"name":"電視直播",
+		"url":"https://tv.iill.top/m3u/Gather",
+		"ua":"okhttp/3.15",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
 		"name":"365直播",
 		"url":"https://live.iptv365.org/live.m3u",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
