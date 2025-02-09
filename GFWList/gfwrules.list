@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-02-09 00:10:05
+!Last Modified: 2025-02-10 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10176,6 +10176,7 @@ ultrasurf
 ||manchustate.org
 ||metacubex.one
 ||annas-archive.org
+||annas-archive.se
 ||hkreadingcity.net
 ||eckosia.org
 ||tunnels.api.visualstudio.com
@@ -10221,6 +10222,8 @@ ultrasurf
 ||punjab.gov.in
 ||bignewsnetwork.com
 ||xaislam.com
+||snow-plus.net
+||typekit.net
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
