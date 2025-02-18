@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-02-18 00:10:04
+!Last Modified: 2025-02-19 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1489,6 +1489,7 @@ taiwannation.50webs.com
 5i01.com
 .5isotoi5.org
 .5maodang.com
+||611study.icu
 ||63i.com
 .64museum.org
 64tianwang.com
@@ -4877,6 +4878,7 @@ newipnow.com
 .newlandmagazine.com.au
 ||newmitbbs.com
 .newnews.ca
+||news1.kr
 news100.com.tw
 newschinacomment.org
 .newscn.org
@@ -5221,6 +5223,7 @@ philborges.com
 .picidae.net
 ||img*.picturedip.com
 picturesocial.com
+||picuki.com
 ||pigav.com
 ||pin-cong.com
 .pin6.com
@@ -6051,7 +6054,6 @@ tw.streetvoice.com
 .strikingly.com
 ||strongvpn.com
 .strongwindpress.com
-.student.tw/db
 ||studentsforafreetibet.org
 ||stumbleupon.com
 stupidvideos.com
@@ -11095,7 +11097,6 @@ ultrasurf
 ||philly.com
 ||phonegap.com
 ||picffzy.com
-||picuki.com
 ||planetscale.com
 ||play-cdn21.com
 ||play-cdn23.com
