@@ -590,7 +590,6 @@ DOMAIN-SUFFIX,bbkz.com
 DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbppics.com
 DOMAIN-SUFFIX,bbs-tw.com
-DOMAIN-SUFFIX,bbs.nyinfor.com
 DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bbsdigest.com
 DOMAIN-SUFFIX,bbsfeed.com
@@ -1046,7 +1045,6 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdnews.com.tw
 DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,cdnlz3.com
 DOMAIN-SUFFIX,cdp1989.org
 DOMAIN-SUFFIX,cdp1998.org
 DOMAIN-SUFFIX,cdp2006.org
@@ -2693,6 +2691,7 @@ DOMAIN-SUFFIX,greenreadings.com
 DOMAIN-SUFFIX,greenvpn.net
 DOMAIN-SUFFIX,greenvpn.org
 DOMAIN-SUFFIX,grindr.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grotty-monday.com
 DOMAIN-SUFFIX,groueta.cc
 DOMAIN-SUFFIX,ground.news
@@ -4394,6 +4393,7 @@ DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,nybooks.com
 DOMAIN-SUFFIX,nydailynews.com
 DOMAIN-SUFFIX,nydus.ca
+DOMAIN-SUFFIX,nyinfor.com
 DOMAIN-SUFFIX,nylon-angel.com
 DOMAIN-SUFFIX,nylonstockingsonline.com
 DOMAIN-SUFFIX,nypost.com
@@ -5557,6 +5557,7 @@ DOMAIN-SUFFIX,straplessdildo.com
 DOMAIN-SUFFIX,stream-link.org
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,streamate.com
+DOMAIN-SUFFIX,streaminghelp.org
 DOMAIN-SUFFIX,streamingthe.net
 DOMAIN-SUFFIX,streamroot.io
 DOMAIN-SUFFIX,streamsb.net
@@ -6747,6 +6748,7 @@ DOMAIN-SUFFIX,wzyboy.im
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,x-berry.com
 DOMAIN-SUFFIX,x-wall.org
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.company

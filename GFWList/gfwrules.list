@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-02-21 00:10:04
+!Last Modified: 2025-02-22 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10460,7 +10460,6 @@ ultrasurf
 ||ccache.org
 ||ccp.ovh
 ||cdbook.info
-||cdnlz3.com
 ||changeip.org
 ||chinesetalks.net
 ||chosun.com
@@ -10782,6 +10781,7 @@ ultrasurf
 ||gr8name.biz
 ||gradconnection.com
 ||greenreadings.com
+||grok.com
 ||groueta.cc
 ||gs-discuss.com
 ||gsjln04hd.com
@@ -11050,6 +11050,7 @@ ultrasurf
 ||nsaimg.com
 ||ntu.edu.tw
 ||nuzcom.com
+||nyinfor.com
 ||nytlog.com
 ||o0-1.com
 ||o0-2.com
@@ -11429,6 +11430,7 @@ ultrasurf
 ||wwwhost.biz
 ||wzj9.com
 ||wzyboy.im
+||x.ai
 ||x24hr.com
 ||xda-developers.com
 ||xdubo.com
@@ -11467,3 +11469,4 @@ ultrasurf
 ||zoozle.net
 ||zynaima.com
 ||zyzc9.com
+||streaminghelp.org
