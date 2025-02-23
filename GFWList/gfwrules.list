@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-02-23 00:10:04
+!Last Modified: 2025-02-24 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -172,6 +172,7 @@ share.dmhy.org
 ||wego.here.com
 ||gamer-cds.cdn.hinet.net
 ||gamer2-cds.cdn.hinet.net
+||grok.com
 ||hmoegirl.com
 ||hmvdigital.ca
 ||hmvdigital.com
@@ -2495,6 +2496,7 @@ news.cnyes.com
 |http://goagent.codeplex.com
 ||codeshare.io
 ||codeskulptor.org
+||cofacts.tw
 ||conoha.jp
 |http://tosh.comedycentral.com
 comefromchina.com
@@ -10781,7 +10783,6 @@ ultrasurf
 ||gr8name.biz
 ||gradconnection.com
 ||greenreadings.com
-||grok.com
 ||groueta.cc
 ||gs-discuss.com
 ||gsjln04hd.com
