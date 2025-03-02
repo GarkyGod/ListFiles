@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-02 00:10:04
+!Last Modified: 2025-03-03 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -450,6 +450,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||pixiv.org
 ||pixivsketch.net
 ||potato.im
 ||premproxy.com
@@ -950,7 +951,7 @@ blogspot.com
 ||design.google
 ||digisfera.com
 ||dns.google
-||hub.docker.com
+||docker.com
 ||docs.new
 ||domains.google
 ||duck.com
@@ -1385,7 +1386,7 @@ tw.answers.yahoo.com
 |https://tw.answers.yahoo.com
 ||tw.knowledge.yahoo.com
 ||tw.mall.yahoo.com
-tw.yahoo.com
+||tw.yahoo.com
 ||tw.mobi.yahoo.com
 tw.myblog.yahoo.com
 ||tw.news.yahoo.com
@@ -1539,6 +1540,8 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||acg.rip
+||annas-archive.se
 .tibet.a.se
 |http://tibet.a.se
 ||a-normal-day.com
@@ -1836,6 +1839,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bangumi.moe
 ||b-ok.cc
 forum.baby-kingdom.com
 ||babylonbee.com
@@ -2014,6 +2018,7 @@ blogtd.net
 .blogtd.org
 |http://blogtd.org
 ||bloodshed.net
+||bootstrapcdn.com
 ||assets.bwbx.io
 ||bloomfortune.com
 blueangellive.com
@@ -2147,6 +2152,7 @@ bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ci-en.jp
 ||c-span.org
 .c-spanvideo.org
 ||c-spanvideo.org
@@ -2750,6 +2756,7 @@ dongtaiwang.com
 |http://danbooru.donmai.us
 .dontfilter.us
 ||dontmovetochina.com
+||doosho.com
 ||doourbest.org
 .dorjeshugden.com
 .dotplane.com
@@ -3004,6 +3011,9 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
+||fanbox.cc
+||free.bg
+||f-droid.org
 ||facebookquotes4u.com
 .faceless.me
 ||faceless.me
@@ -3577,6 +3587,7 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||hoy.tv
 .h528.com
 .h5dm.com
 .h5galgame.me
@@ -4210,6 +4221,7 @@ juziyue.com
 ||cdn.jwplayer.com
 .jyxf.net
 !--------------------KK-------------------------
+||kpkuang.org
 ||k-doujin.net
 ||ka-wai.com
 ||kadokawa.co.jp
@@ -4503,6 +4515,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mangabz.com
 http://*.m-team.cc
 .macrovpn.com
 macts.com.tw
@@ -4603,6 +4616,7 @@ megavideo.com
 meshrep.com
 .mesotw.com/bbs
 metacafe.com/watch
+||wiki.metacubex.one
 ||metafilter.com
 ||meteorshowersonline.com
 ||metro.taipei
@@ -4803,6 +4817,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||newthuhole.com
 ||naacoalition.org
 old.nabble.com
 ||naitik.net
@@ -5128,6 +5143,11 @@ bbs.ozchinese.com
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||pendrivelinux.com
+||paimon.moe
+||photonmedia.net
+||points-media.com
+||pkuanvil.com
 ||pachosting.com
 .pacificpoker.com
 .packetix.net
@@ -5629,6 +5649,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||syosetu.com
 .s1s1s1.com
 ||s-cute.com
 .s-dragon.org
@@ -6113,6 +6134,9 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||thechasernews.co.uk
+||hole.thu.monster
+||thuhole.com
 ||t-g.com
 .t35.com
 .t66y.com
@@ -6546,6 +6570,7 @@ tuitwit.com
 |http://*.tuzaijidi.com
 .tw01.org
 |http://tw01.org
+||use.typekit.net
 !---Tumblr---
 .tumblr.com
 ||tumblr.com
@@ -7093,6 +7118,7 @@ whylover.com
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
+||wilsoncenter.org
 .williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org
@@ -7556,7 +7582,6 @@ zyzc9.com
 ||zh.bitterwinter.org
 ||dictionary.goo.ne.jp
 ||sukebei.nyaa.si
-||pixiv.org
 ||redditlist.com
 ||bntrace.com
 ||bitz.com
@@ -10026,13 +10051,11 @@ ultrasurf
 ||kemono.party
 ||smashwords.com
 ||stheadline.com
-||f-droid.org
 ||soundon.fm
 ||aljazeera.com
 ||aljazeera.net
 ||ganjing.world
 ||cloudokyo.cloud
-||docker.com
 ||docker.io
 ||forbes.com
 ||8world.com
@@ -10115,7 +10138,6 @@ ultrasurf
 ||news.com.au
 ||wsimg.com
 ||jrf.org.tw
-||bootstrapcdn.com
 ||acgbox.link
 ||lmsys.org
 ||sydney.bing.com
@@ -10181,7 +10203,6 @@ ultrasurf
 ||manchustate.org
 ||metacubex.one
 ||annas-archive.org
-||annas-archive.se
 ||hkreadingcity.net
 ||eckosia.org
 ||tunnels.api.visualstudio.com
@@ -10198,7 +10219,6 @@ ultrasurf
 ||v2raya.org
 ||fandom.com
 ||thinkhk.com
-||paimon.moe
 ||proxlet.com
 ||z-lib.*
 ||z-library.*
