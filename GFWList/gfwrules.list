@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-03 00:10:04
+!Last Modified: 2025-03-04 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -81,6 +81,10 @@ tumblrviewer
 ||hobbyfanclub.com
 .hobbyfanclub.com
 !---------403/451/503/520 & URL Redirects---------
+||ptwxz.com
+||miuipolska.pl
+||piaotia.com
+||wunderground.com
 ||500px.com
 ||500px.org
 |http://85.17.73.31/
@@ -377,7 +381,6 @@ share.dmhy.org
 ||boomssr.com
 ||bwgyhw.com
 ||castbox.fm
-||chinatimes.com
 ||clyp.it
 ||cmcn.org
 ||cmx.im
@@ -391,7 +394,7 @@ share.dmhy.org
 ||encyclopedia.com
 ||fangeqiang.com
 ||fanqiangdang.com
-||feedly.com
+||feedly.comfastgpt.run
 ||feedx.net
 ||flyzy2005.com
 ||foreignpolicy.com
@@ -916,6 +919,7 @@ cdninstagram.com
 @@|https://www.ampproject.org
 @@|https://cdn.ampproject.org
 ||android.com
+@@||ci.android.com
 ||androidify.com
 ||androidtv.com
 ||api.ai
@@ -1342,6 +1346,7 @@ cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 !-------------Wikipedia Related-------------
 !------0------
+||mediawiki.org
 !------1------
 ||wikidata.org
 !------2------
@@ -1351,11 +1356,11 @@ zh.uncyclopedia.wikia.com
 !------4------
 ||wikiversity.org
 !------5------
-|http://zh.wikisource.org
+||wikisource.org
 !------6------
 ||zh.wikiquote.org
 !------7------
-||zh.wikinews.org
+wikinews.org
 !------8------
 ||wikivoyage.org
 !------9------
@@ -1365,38 +1370,15 @@ zh.uncyclopedia.wikia.com
 ||wikipedia.org
 ||wmfusercontent.org
 !!---Yahoo---
-||data.flurry.com
-||page.bid.yahoo.com
-||tw.bid.yahoo.com
 ||auctions.yahoo.co.jp
 ||blogs.yahoo.co.jp
 ||search.yahoo.co.jp
-||buy.yahoo.com.tw
-||hk.yahoo.com
-||hk.knowledge.yahoo.com
-||tw.money.yahoo.com
-||hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
-||hk.news.yahoo.com
-hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
-meme.yahoo.com
-tw.answers.yahoo.com
-|https://tw.answers.yahoo.com
-||tw.knowledge.yahoo.com
-||tw.mall.yahoo.com
-||tw.yahoo.com
-||tw.mobi.yahoo.com
-tw.myblog.yahoo.com
-||tw.news.yahoo.com
-pulse.yahoo.com
-||search.yahoo.com
-upcoming.yahoo.com
-video.yahoo.com
+||yahoo.com.tw
 ||yahoo.com.hk
+||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 !------------------Numerics---------------------
+||18comic.org
 ||000webhost.com
 .030buy.com
 .0rz.tw
@@ -1540,6 +1522,8 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||annas-archive.org
+||av01.tv
 ||acg.rip
 ||annas-archive.se
 .tibet.a.se
@@ -2152,6 +2136,9 @@ bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||clipconverter.cc
+||zh-hans.cfsh99.com
+||colacloud.net
 ||ci-en.jp
 ||c-span.org
 .c-spanvideo.org
@@ -2600,6 +2587,7 @@ cytode.us
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||cloud.dify.ai
 .d-fukyu.com
 |http://d-fukyu.com
 cl.d0z.net
@@ -2834,6 +2822,7 @@ xys.dxiong.com
 ||dysfz.cc
 .dzze.com
 !--------------------EE-------------------------
+||elconfidencial.com
 ||e-classical.com.tw
 ||e-gold.com
 .e-gold.com
@@ -2974,10 +2963,8 @@ etaiwannews.com
 ||etizer.org
 ||etokki.com
 ||etsy.com
-.ettoday.net/news/20151216/614081
+||*.ettoday.net
 etvonline.hk
-.eu.org
-||eu.org
 .eucasino.com
 .eulam.com
 .eurekavpt.com
@@ -3011,6 +2998,9 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
+||free.com.tw
+||fastgpt.run
+||froth.zone
 ||fanbox.cc
 ||free.bg
 ||f-droid.org
@@ -3320,6 +3310,8 @@ fzh999.com
 fzh999.net
 fzlm.com
 !--------------------GG-------------------------
+||go-to-zlibrary.se
+||gitbook.io
 .g6hentai.com
 |http://g6hentai.com
 ||g-queen.com
@@ -3439,7 +3431,6 @@ gigporno.ru
 ||githubcopilot.com
 .github.io
 ||github.io
-||githubassets.com
 .gizlen.net
 ||gizlen.net
 .gjczz.com
@@ -3587,6 +3578,8 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||haiwaikan.com
+||home.saxo
 ||hoy.tv
 .h528.com
 .h5dm.com
@@ -3892,6 +3885,8 @@ hxwq.org
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||illawarramercury.com.au
+||imago-images.com
 ||i1.hk
 ||i2p2.de
 ||i2runner.com
@@ -4116,6 +4111,7 @@ ithelp.ithome.com.tw
 .izles.net
 .izlesem.org
 !--------------------JJ-------------------------
+||jifangge.com
 ||j.mp
 ||jable.tv
 ||blog.jackjia.com
@@ -4335,6 +4331,7 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||www.lorenzetti.com.br
 la-forum.org
 ladbrokes.com
 ||labiennale.org
@@ -4515,6 +4512,13 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mywife.cc
+||c.mi.com
+||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
+||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
+||missav.com
+||madou.club
+||mahjongsoul.com
 ||mangabz.com
 http://*.m-team.cc
 .macrovpn.com
@@ -5370,7 +5374,6 @@ provpnaccounts.com
 proxyanonimo.es
 .proxynetwork.org.uk
 ||proxynetwork.org.uk
-||pts.org.tw
 .pttvan.org
 ||pubu.com.tw
 ||puffinbrowser.com
@@ -5649,6 +5652,12 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||slides.com
+||suno.com
+||sydney.bing.com
+||sehuatang.org
+||singlelogin.se
+||suno.ai
 ||syosetu.com
 .s1s1s1.com
 ||s-cute.com
@@ -6134,6 +6143,10 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||tomp3.cc
+||tukaani.org
+||thetatoken.org
+||typeset.io
 ||thechasernews.co.uk
 ||hole.thu.monster
 ||thuhole.com
@@ -6729,6 +6742,7 @@ twurl.nl
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||demo.unlock-music.dev
 .u9un.com
 ||u9un.com
 .ubddns.org
@@ -6847,6 +6861,7 @@ uyghur.co.uk
 uygur.org
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vern.cc
 ||v2raycn.com
 ||v2raytech.com
 ||valeursactuelles.com
@@ -6999,8 +7014,8 @@ vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||wikiless.funami.tech
 lists.w3.org/archives/public
-||w3schools.com
 ||waffle1999.com
 .wahas.com
 .waigaobu.com
@@ -7431,8 +7446,6 @@ zacebook.com
 .zalmos.com
 ||zalmos.com
 ||zannel.com
-.zaobao.com
-||zaobao.com
 ||zaobao.com.sg
 .zaozon.com
 ||zdnet.com.tw
@@ -7574,7 +7587,6 @@ zyzc9.com
 ||riseup.net
 ||search.xxx
 ||shiksha.ws
-||c.mi.com
 163.29.207.130
 213.186.33.19
 213.186.33.87
@@ -7883,8 +7895,6 @@ zyzc9.com
 ||npm.edu.tw
 ||flurry.com
 ||yahoo.co.jp
-||yahoo.com.tw
-||yahoo.com
 ||yahoo.net
 ||yimg.com
 ||yahoosandbox.com
@@ -8386,6 +8396,7 @@ zyzc9.com
 ||etadult.com
 ||etaiwannews.com
 ||ettoday.net
+||eu.org
 ||eucasino.com
 ||eulam.com
 ||excite.co.jp
@@ -8563,6 +8574,7 @@ zyzc9.com
 ||gifree.com
 ||giganews.com
 ||gigporno.ru
+||githubassets.com
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globaltm.org
@@ -9222,6 +9234,7 @@ zyzc9.com
 ||post01.com
 ||powerphoto.org
 ||proxyanonimo.es
+||pts.org.tw
 ||pttvan.org
 ||pushchinawall.com
 ||pp.ru
@@ -9762,9 +9775,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||wildammo.com
 ||williamhill.com
 ||wikinews.org
-||mediawiki.org
 ||w.wiki
-||wikisource.org
 ||wikiquote.org
 ||winning11.com
 ||winwhispers.info
@@ -9947,6 +9958,7 @@ ultrasurf
 ||2049bbs.xyz
 ||extrabux.com
 ||v2mm.tech
+||feedly.com
 |*apps.evozi.com
 ||9to5*.com
 ||stats.wp.com
@@ -10017,7 +10029,6 @@ ultrasurf
 ||fast.com
 ||cdn.jsdelivr.net
 ||pages.dev
-||missav.com
 ||mirror.xyz
 ||paperclip.tk
 ||bgme.me
@@ -10061,15 +10072,10 @@ ultrasurf
 ||8world.com
 ||69shu.com
 ||agemys.net
-||elconfidencial.com
 ||gfnormal05at.com
 ||halktv.com.tr
-||illawarramercury.com.au
-||imago-images.com
-||mywife.cc
 ||singlelogin.me
 ||torrentgalaxy.to
-||18comic.org
 ||domain.glass
 ||thechinaproject.com
 ||asiatimes.com
@@ -10094,11 +10100,7 @@ ultrasurf
 ||spring-plus.net
 ||wallhaven.cc
 ||sakura-paris.org
-||av01.tv
 ||v2board.com
-||madou.club
-||sehuatang.org
-||haiwaikan.com
 ||ggjav.com
 ||prettyvirgin.com
 ||captainfawcett.com
@@ -10140,7 +10142,6 @@ ultrasurf
 ||jrf.org.tw
 ||acgbox.link
 ||lmsys.org
-||sydney.bing.com
 ||machbbs.com
 ||jotform.com
 ||nengcard.com
@@ -10150,14 +10151,12 @@ ultrasurf
 ||congyu.moe
 ||playbeasts.com
 ||huigui.tw
-||tukaani.org
 ||mail.me.com
 ||manhuagui.com
 ||yts.mx
 ||yts.lt
 ||yts.am
 ||yts.ag
-||suno.ai
 ||fanqiangdang.org
 ||crwdcntrl.net
 ||thestandard.com.hk
@@ -10191,7 +10190,6 @@ ultrasurf
 ||b-cdn.net
 ||ko-fi.com
 ||mee6.xyz
-||gitbook.io
 ||moomoo.com
 ||beanfun.com
 ||techcrunch.com
@@ -10202,7 +10200,6 @@ ultrasurf
 ||sagernet.org
 ||manchustate.org
 ||metacubex.one
-||annas-archive.org
 ||hkreadingcity.net
 ||eckosia.org
 ||tunnels.api.visualstudio.com
@@ -10485,6 +10482,7 @@ ultrasurf
 ||ccp.ovh
 ||cdbook.info
 ||changeip.org
+||chinatimes.com
 ||chinesetalks.net
 ||chosun.com
 ||city365.ca
@@ -11420,6 +11418,7 @@ ultrasurf
 ||vs.com
 ||vzw.com
 ||w3.org
+||w3schools.com
 ||wan-press.org
 ||warehouse333.com
 ||waze.com
@@ -11479,6 +11478,7 @@ ultrasurf
 ||z-library.se
 ||z-library.sk
 ||z-library.sx
+||zaobao.com
 ||zdassets.com
 ||zerodaylab.cloud
 ||zfreet.com
