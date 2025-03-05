@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-05 00:10:04
+!Last Modified: 2025-03-06 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -81,6 +81,7 @@ tumblrviewer
 ||hobbyfanclub.com
 .hobbyfanclub.com
 !---------403/451/503/520 & URL Redirects---------
+||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
 ||miuipolska.pl
@@ -141,7 +142,6 @@ tumblrviewer
 ||dish.com
 |http://img.dlsite.jp/
 ||dm530.net
-share.dmhy.org
 ||dmhy.org
 ||dmm.co.jp
 |http://www.dmm.com/netgame
@@ -497,6 +497,7 @@ share.dmhy.org
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||redd.it
+||redditspace.com
 ||reddit.com
 .redditlist.com
 |http://redditlist.com
@@ -664,10 +665,9 @@ china-mmm.sa.com
 .allowed.org
 .now.im
 !!---Amazon---
+||payments-jp.amazon.com
 ||amazon.co.jp
-.amazon.com/Dalai-Lama
-amazon.com/Prisoner-State-Secret-Journal-Premier
-s3-ap-northeast-1.amazonaws.com
+||s3-ap-*.amazonaws.com
 !!---AOL---
 ||aolchannels.aol.com
 video.aol.ca/video-detail
@@ -941,7 +941,20 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
+||doc.new
+||form.new
+||forms.new
+||sheet.new
+||sheets.new
+||spreadsheet.new
+||site.new
+||sites.new
+||website.new
+||slides.new
+||deck.new
+||presentation.new
 ||translate.googleapis.com
+||maps.googleapis.com
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -1134,8 +1147,6 @@ blogspot.com
 ||schema.org
 ||shattered.io
 |http://sipml5.org/
-||sheets.new
-||slides.new
 ||snapseed.com
 ||stories.google
 ||sustainability.google
@@ -1406,6 +1417,7 @@ wikinews.org
 ||wikipedia.org
 ||wmfusercontent.org
 !!---Yahoo---
+||shopping.yahoo.co.jp
 ||auctions.yahoo.co.jp
 ||blogs.yahoo.co.jp
 ||search.yahoo.co.jp
@@ -1414,6 +1426,7 @@ wikinews.org
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 !------------------Numerics---------------------
+||2049bbs.xyz
 ||611study.com
 ||18comic.org
 ||000webhost.com
@@ -1559,6 +1572,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||aljazeera.com
 ||akinator.com
 ||annas-archive.org
 ||av01.tv
@@ -1825,7 +1839,6 @@ asg.to
 atgfw.org
 .atlaspost.com
 ||atlaspost.com
-||atdmt.com
 .atlanta168.com
 ||atlanta168.com
 .atnext.com
@@ -1859,6 +1872,8 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||btbtt.me
+||btbtt.co
 ||btbit.net
 ||betaclouds.net
 ||blocktempo.com
@@ -2176,6 +2191,9 @@ bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cixiaoya.club
+||campaign-archive.com
+||chinauncensored.tv
 ||catbox.moe
 ||crosswall.org
 ||clipconverter.cc
@@ -2629,6 +2647,7 @@ cytode.us
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||ddex.io
 ||d.cash
 ||doubiyunbackup.com
 ||cloud.dify.ai
@@ -2748,7 +2767,7 @@ dharmakara.net
 .discuss.com.hk
 ||discuss.com.hk
 .discuss4u.com
-disp.cc
+||disp.cc
 .disqus.com
 ||disqus.com
 .dit-inc.us
@@ -2866,8 +2885,10 @@ xys.dxiong.com
 ||dysfz.cc
 .dzze.com
 !--------------------EE-------------------------
+||edx-cdn.org
+||everipedia.org
 ||epochtimes.com.tw
-||cn.etherscan.com
+||etherscan.com
 ||elconfidencial.com
 ||e-classical.com.tw
 ||e-gold.com
@@ -3044,6 +3065,7 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
+||fuchsia.dev
 ||freess.org
 ||fril.jp
 ||free.com.tw
@@ -3937,6 +3959,7 @@ hxwq.org
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||invidio.us
 ||improd.works
 ||illawarramercury.com.au
 ||imago-images.com
@@ -4164,6 +4187,7 @@ ithelp.ithome.com.tw
 .izles.net
 .izlesem.org
 !--------------------JJ-------------------------
+||justmysockscn.com
 ||justmysocks.net
 ||jav321.com
 ||jifangge.com
@@ -4272,6 +4296,7 @@ juziyue.com
 ||cdn.jwplayer.com
 .jyxf.net
 !--------------------KK-------------------------
+||kingkong.com.tw
 ||kanald.com.tr
 ||kpkuang.org
 ||k-doujin.net
@@ -4387,6 +4412,7 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
 la-forum.org
@@ -4552,7 +4578,6 @@ lsforum.net
 .lsmradio.com/rad_archives
 .lsmwebcast.com
 .ltn.com.tw
-||ltn.com.tw
 ||luckydesigner.space
 .luke54.com
 .luke54.org
@@ -4569,6 +4594,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
 ||mercari.com
@@ -4883,6 +4909,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||nightswatch.top
 ||nbyy.tv
 ||newthuhole.com
 ||naacoalition.org
@@ -5087,6 +5114,7 @@ nylonstockingsonline.com
 .nzchinese.com
 ||nzchinese.net.nz
 !--------------------OO-------------------------
+||onevps.com
 ||onedrive.com
 ||olelive.com
 ||oann.com
@@ -5211,6 +5239,8 @@ bbs.ozchinese.com
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||pandafan.pub
+||proxz.com
 ||potatso.com
 ||pendrivelinux.com
 ||paimon.moe
@@ -5325,19 +5355,8 @@ picturesocial.com
 ||pinimg.com
 .pinkrod.com
 ||pinoy-n.com
-||pinterest.at
-||pinterest.ca
-||pinterest.co.kr
-||pinterest.co.uk
-.pinterest.com
-||pinterest.com
-||pinterest.com.mx
-||pinterest.de
-||pinterest.dk
-||pinterest.fr
-||pinterest.jp
-||pinterest.nl
-||pinterest.se
+||pinterest.*
+@@||pinterest.cn
 .pipii.tv
 .piposay.com
 piraattilahti.org
@@ -5525,6 +5544,7 @@ python.com
 pythonhackers.com/p
 ss.pythonic.life
 !--------------------QQ-------------------------
+||qianmo.tw
 .qanote.com
 ||qanote.com
 ||qbittorrent.org
@@ -5719,8 +5739,13 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
-||share-videos.se
+||ssrtool.com
 ||ssrshare.us
+||secure.shadowsocks.nu
+||synapse.org
+||south-plus.net
+||silvergatebank.com
+||share-videos.se
 ||cdn.statically.io
 ||slides.com
 ||suno.com
@@ -5783,7 +5808,6 @@ savevid.com
 ||scmp.com
 .scmpchinese.com
 ||scramble.io
-.scribd.com
 ||scribd.com
 ||scriptspot.com
 ||search.com
@@ -5814,7 +5838,7 @@ sesawe.net
 ||sesawe.net
 .sesawe.org
 ||sethwklein.net
-.setn.com
+||setn.com
 .settv.com.tw
 forum.setty.com.tw
 .sevenload.com
@@ -5911,7 +5935,7 @@ ch.shvoong.com
 ||simbolostwitter.com
 simplecd.org
 ||simplecd.org
-@@||simplecd.me
+||simplecd.me
 simpleproductivityblog.com
 bbs.sina.com/
 bbs.sina.com%2F
@@ -6212,6 +6236,8 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||tunein.streamguys1.com
+||tou.tv
 ||tinyurl.com
 ||textnow.com
 ||token.im
@@ -6538,7 +6564,7 @@ tintuc101.com
 |http://tnp.org
 .to-porno.com
 ||to-porno.com
-togetter.com
+||togetter.com
 .tokyo-247.com
 .tokyo-hot.com
 ||tokyo-porn-tube.com
@@ -6936,6 +6962,8 @@ uyghur.co.uk
 uygur.org
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vilanet.me
+||vewas.net
 ||v2.help
 ||vocaroo.com
 ||vern.cc
@@ -7624,6 +7652,10 @@ zyzc9.com
 @@||storage.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
+@@||connectivitycheck.gstatic.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
+@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
@@ -8385,7 +8417,6 @@ zyzc9.com
 ||difangwenge.org
 ||dipity.com
 ||discuss4u.com
-||disp.cc
 ||dizhidizhi.com
 ||doctorvoice.org
 ||dogfartnetwork.com
@@ -9283,6 +9314,16 @@ zyzc9.com
 ||picturedip.com
 ||picturesocial.com
 ||pinkrod.com
+||pinterest.at
+||pinterest.ca
+||pinterest.co.uk
+||pinterest.com
+||pinterest.de
+||pinterest.dk
+||pinterest.fr
+||pinterest.jp
+||pinterest.nl
+||pinterest.se
 ||pipii.tv
 ||piposay.com
 ||piraattilahti.org
@@ -9413,7 +9454,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sejie.com
 ||sendspace.com
 ||sesawe.org
-||setn.com
 ||settv.com.tw
 ||sex-11.com
 ||sfileydy.com
@@ -9448,6 +9488,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silkbook.com
+@@||simplecd.me
 ||sinchew.com.my
 ||singfortibet.com
 ||singpao.com.hk
@@ -9646,7 +9687,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||timsah.com
 ||tmpp.org
 ||tnp.org
-||togetter.com
 ||tokyo-247.com
 ||tokyo-hot.com
 ||tonyyan.net
@@ -9983,10 +10023,6 @@ ultrasurf
 @@||imasdk.googleapis.com
 @@||dl.l.google.com
 ||rlcdn.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
 @@||www.gstatic.com
 @@||google.cn
 @@||ime.baidu.jp
@@ -10037,7 +10073,6 @@ ultrasurf
 ||wiki.kfd.me
 ||g.kfd.me
 ||wo3t.wordpress.com
-||2049bbs.xyz
 ||extrabux.com
 ||v2mm.tech
 ||feedly.com
@@ -10114,7 +10149,6 @@ ultrasurf
 ||jp1lib.org
 ||1lib.domains
 ||himalaya.exchange
-||south-plus.net
 ||hjd.tw
 ||shanxivideo.com
 ||asrockind.com
@@ -10130,7 +10164,6 @@ ultrasurf
 ||smashwords.com
 ||stheadline.com
 ||soundon.fm
-||aljazeera.com
 ||aljazeera.net
 ||ganjing.world
 ||cloudokyo.cloud
@@ -10157,7 +10190,6 @@ ultrasurf
 ||henduohao.com
 ||vercel.com
 ||open-assistant.io
-||everipedia.org
 ||qwant.com
 ||ingress.com
 ||oaistatic.com
@@ -10310,6 +10342,8 @@ ultrasurf
 ||snow-plus.net
 ||typekit.net
 ||dweb.link
+||611.icu
+||limelight.moe
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10401,6 +10435,7 @@ ultrasurf
 ||asianclub.tv
 ||asianfreeforum.com
 ||astro.com.my
+||atdmt.com
 ||audionow.com
 ||auth0.com
 ||authorizeddns.net
@@ -10426,7 +10461,6 @@ ultrasurf
 ||binwang.me
 ||blacklogic.com
 ||blog.jp
-||blogjav.net
 ||blogs.com
 ||blogspot.ae
 ||blogspot.al
@@ -10550,7 +10584,6 @@ ultrasurf
 ||city365.ca
 ||citytalk.tw
 ||civisec.org
-||cixiaoya.club
 ||cjkypo.com
 ||cleansite.info
 ||cleansite.us
@@ -10595,7 +10628,6 @@ ultrasurf
 ||ddns.net
 ||ddns.us
 ||debian.org
-||deck.new
 ||deepmind.google
 ||definebabe.com
 ||delicious.com
@@ -10611,7 +10643,6 @@ ultrasurf
 ||djangosnippets.org
 ||dlsite.jp
 ||dmm.com
-||doc.new
 ||document.new
 ||domain.club.tw
 ||donga.com
@@ -10681,8 +10712,6 @@ ultrasurf
 ||fontawesome.com
 ||fontsource.org
 ||foolsmountain.com
-||form.new
-||forms.new
 ||forums-free.com
 ||foxbusiness.com
 ||foxtang.com
@@ -10943,7 +10972,6 @@ ultrasurf
 ||intercom.io
 ||intercomcdn.com
 ||internetdefenseleague.org
-||invidio.us
 ||iownyour.biz
 ||iownyour.org
 ||ip.sb
@@ -11005,7 +11033,6 @@ ultrasurf
 ||khmusic.com.tw
 ||kimy.com.tw
 ||kindleren.com
-||kingkong.com.tw
 ||kink.com
 ||klip.me
 ||ktkjmp.com
@@ -11181,6 +11208,8 @@ ultrasurf
 ||philly.com
 ||phonegap.com
 ||picffzy.com
+||pinterest.co.kr
+||pinterest.com.mx
 ||planetscale.com
 ||play-cdn21.com
 ||play-cdn23.com
@@ -11193,7 +11222,6 @@ ultrasurf
 ||postimg.org
 ||powerpointninja.com
 ||pplusstatic.com
-||presentation.new
 ||prestigein.com
 ||printfriendly.com
 ||proex.io
@@ -11276,7 +11304,6 @@ ultrasurf
 ||sextvx.com
 ||sexxxy.biz
 ||sf.net
-||sheet.new
 ||shemalez.com
 ||shinychan.com
 ||shkspr.mobi
@@ -11290,8 +11317,6 @@ ultrasurf
 ||singlelogin.re
 ||singlelogin.site
 ||sino-monthly.com
-||site.new
-||sites.new
 ||skimresources.com
 ||skk.moe
 ||skrt.best
@@ -11317,7 +11342,6 @@ ultrasurf
 ||soylent.com
 ||spark.adobe.com
 ||spotifycdn.com
-||spreadsheet.new
 ||sprite.page
 ||ssl443.org
 ||sstatic.net
@@ -11489,7 +11513,6 @@ ultrasurf
 ||web.id
 ||webpack.de
 ||webpass.net
-||website.new
 ||websitepulse.com
 ||websnapr.com
 ||webworkerdaily.com
