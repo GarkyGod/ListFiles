@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-06 00:10:05
+!Last Modified: 2025-03-07 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10344,6 +10344,8 @@ ultrasurf
 ||dweb.link
 ||611.icu
 ||limelight.moe
+||18jav.tv
+||x.ai
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -11537,7 +11539,6 @@ ultrasurf
 ||wwwhost.biz
 ||wzj9.com
 ||wzyboy.im
-||x.ai
 ||x24hr.com
 ||xda-developers.com
 ||xdubo.com
