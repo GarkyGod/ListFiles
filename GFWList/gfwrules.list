@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-07 00:10:04
+!Last Modified: 2025-03-08 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -953,8 +953,7 @@ bloomberg.de
 ||slides.new
 ||deck.new
 ||presentation.new
-||translate.googleapis.com
-||maps.googleapis.com
+||googleapis.com
 ||1e100.net
 ||466453.com
 ||abc.xyz
@@ -1426,6 +1425,7 @@ wikinews.org
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 !------------------Numerics---------------------
+||69shuba.cx
 ||2049bbs.xyz
 ||611study.com
 ||18comic.org
@@ -3030,7 +3030,7 @@ etaiwannews.com
 ||etizer.org
 ||etokki.com
 ||etsy.com
-||*.ettoday.net
+.ettoday.net
 etvonline.hk
 .eucasino.com
 .eulam.com
@@ -3140,8 +3140,8 @@ fangeming.com
 .fanyue.info
 .farwestchina.com
 en.favotter.net
-||*.global.ssl.fastly.net
-||*.freetls.fastly.net
+.global.ssl.fastly.net
+.freetls.fastly.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
@@ -3504,6 +3504,7 @@ gigporno.ru
 ||githubcopilot.com
 .github.io
 ||github.io
+||githubassets.com
 .gizlen.net
 ||gizlen.net
 .gjczz.com
@@ -5239,6 +5240,7 @@ bbs.ozchinese.com
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||polymarket.com
 ||pandafan.pub
 ||proxz.com
 ||potatso.com
@@ -7247,7 +7249,6 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||wikimapia.org
 .wikiwand.com
 ||wikiwand.com
-||wikiwiki.jp
 ||casino.williamhill.com
 ||sports.williamhill.com
 ||vegas.williamhill.com
@@ -7958,7 +7959,6 @@ zyzc9.com
 ||igoogle.ws
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 @@||googleapis.cn
-||googleapis.com
 ||*.goog
 @@||c.pki.goog
 ||sipml5.org
@@ -8687,7 +8687,6 @@ zyzc9.com
 ||gifree.com
 ||giganews.com
 ||gigporno.ru
-||githubassets.com
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globaltm.org
@@ -11528,6 +11527,7 @@ ultrasurf
 ||wikia.com
 ||wikia.org
 ||wikilivres.info
+||wikiwiki.jp
 ||windy.com
 ||wistia.com
 ||woesermiddle-way.net
