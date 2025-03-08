@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-08 00:10:04
+!Last Modified: 2025-03-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4595,6 +4595,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
@@ -6238,6 +6239,7 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||twkan.com
 ||tunein.streamguys1.com
 ||tou.tv
 ||tinyurl.com
@@ -7640,6 +7642,7 @@ writer.zoho.com
 .zynaima.com
 zyzc9.com
 .zzcartoon.com
+@@||www.ettoday.net
 @@||aliyun.com
 @@||baidu.com
 @@||chinaso.com
@@ -10324,7 +10327,6 @@ ultrasurf
 ||pionex.com
 ||mashash.com
 ||loongese.com
-||musixmatch.com
 ||oaiusercontent.com
 ||statsig.com
 ||nanhuyt.com
