@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-10 00:10:04
+!Last Modified: 2025-03-11 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -273,7 +273,7 @@ tumblrviewer
 ||onapp.com
 ||ontrac.com
 @@|http://blog.ontrac.com
-||openai.com
+||chat.openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -299,7 +299,7 @@ tumblrviewer
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||spotify.com
+||open.spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
@@ -7706,6 +7706,7 @@ zyzc9.com
 ||riseup.net
 ||search.xxx
 ||shiksha.ws
+||spotify.com
 163.29.207.130
 213.186.33.19
 213.186.33.87
@@ -10161,6 +10162,7 @@ ultrasurf
 ||ratx.com
 ||podcast.app
 ||oraclecloud.com
+||openai.com
 ||theb.ai
 ||kemono.party
 ||smashwords.com
