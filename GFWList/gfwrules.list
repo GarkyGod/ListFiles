@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-14 00:10:04
+!Last Modified: 2025-03-15 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3075,7 +3075,6 @@ eyevio.jp
 ||freess.org
 ||fril.jp
 ||free.com.tw
-||fastgpt.run
 ||froth.zone
 ||fanbox.cc
 ||free.bg
