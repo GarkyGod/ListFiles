@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-16 00:10:05
+!Last Modified: 2025-03-17 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -388,6 +388,8 @@ tumblrviewer
 ||xn--oiq.cc
 ||xn--p8j9a0d9c9a.xn--q9jyb4c
 ||xn--9pr62r24a.com
+@@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
+||xn--ngstr-lra8j.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 ||abebooks.com
@@ -1171,7 +1173,6 @@ blogspot.com
 ||withgoogle.com
 ||withyoutube.com
 ||x.company
-||xn--ngstr-lra8j.com
 ||youtu.be
 .youtube.com
 ||youtube.com
@@ -1572,6 +1573,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||aomedia.org
 ||aljazeera.com
 ||akinator.com
 ||annas-archive.org
