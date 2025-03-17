@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-17 00:10:04
+!Last Modified: 2025-03-18 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5493,13 +5493,13 @@ powerapple.com
 ||abc.pp.ru
 heix.pp.ru
 ||prayforchina.net
-||premeforwindows7.com
+||prcleader.org
 ||presentationzen.com
 ||prestige-av.com
 .prisoneralert.com
 ||pritunl.com
 ||privacybox.de
-.private.com/home
+||private.com
 ||privateinternetaccess.com
 privatepaste.com
 ||privatepaste.com
@@ -9378,8 +9378,8 @@ zyzc9.com
 ||pttvan.org
 ||pushchinawall.com
 ||pp.ru
+||premeforwindows7.com
 ||prisoneralert.com
-||private.com
 ||provideocoalition.com
 ||proxifier.com
 ||proxyroad.com
