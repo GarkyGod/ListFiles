@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-23 00:10:04
+!Last Modified: 2025-03-24 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -81,6 +81,7 @@ tumblrviewer
 ||hobbyfanclub.com
 .hobbyfanclub.com
 !---------403/451/503/520 & URL Redirects---------
+||coincarp.com
 ||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
@@ -866,6 +867,9 @@ bloomberg.de
 .zyns.com
 .zzux.com
 !!--Cloudflare--
+||1.1.1.1
+||1.0.0.1
+||one.one.one.one
 !!---CloudFront---
 ||cloudfront.net
 !!---DtDNS---
@@ -3138,7 +3142,7 @@ fail.hk
 .fan-qiang.com
 .fangbinxing.com
 ||fangbinxing.com
-fangeming.com
+fangeming.comffvpn.com
 .fangmincn.org
 ||fangmincn.org
 .fanhaodang.com
@@ -3146,29 +3150,18 @@ fangeming.com
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
-en.favotter.net
-.global.ssl.fastly.net
-.freetls.fastly.net
-nytimes.map.fastly.net
+||global.ssl.fastly.net
+||freetls.fastly.net
 ||nytimes.map.fastly.net
-||fast.wistia.com
 ||fastestvpn.com
 ||fastssh.com
 ||faststone.org
-favstar.fm
-||favstar.fm
-faydao.com/weblog
+||faydao.com
 ||faz.net
-.fc2.com
-.fc2china.com
-.fc2cn.com
 ||fc2cn.com
-fc2blog.net
 |http://uygur.fc2web.com/
-video.fdbox.com
-.fdc64.de
-.fdc64.org
-.fdc89.jp
+||fdc64.de
+||fdc64.org
 ||fourface.nodesnoop.com
 ||feeder.co
 ||feelssh.com
@@ -3183,9 +3176,7 @@ feer.com
 .fengzhenghu.net
 ||fengzhenghu.net
 .fevernet.com
-|http://ff.im
-fffff.at
-fflick.com
+||ff.im
 .ffvpn.com
 fgmtv.net
 .fgmtv.org
@@ -3389,6 +3380,7 @@ fzh999.com
 fzh999.net
 fzlm.com
 !--------------------GG-------------------------
+||gemini.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org
@@ -8565,13 +8557,11 @@ zyzc9.com
 ||farwestchina.com
 ||favotter.net
 ||fastly.net
-||faydao.com
+||favstar.fm
 ||fc2.com
 ||fc2china.com
 ||fc2blog.net
 ||fc2web.com
-||fdc64.de
-||fdc64.org
 ||fdc64.jp
 ||fdc89.jp
 ||feer.com
@@ -8579,7 +8569,6 @@ zyzc9.com
 ||feitianacademy.org
 ||feitian-california.org
 ||fevernet.com
-||ff.im
 ||fffff.at
 ||fflick.com
 ||ffvpn.com
@@ -10199,7 +10188,6 @@ ultrasurf
 ||friday.tw
 ||141-hk.com
 ||jsfiddle.net
-||one.one.one.one
 ||myip.com
 ||henduohao.com
 ||vercel.com
@@ -10290,7 +10278,6 @@ ultrasurf
 ||tagesschau.de
 ||a5vpn.com
 ||softonic.cn
-||gemini.com
 ||voi.id
 ||cht.com.tw
 ||androidcombo.com
