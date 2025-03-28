@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-28 00:10:04
+!Last Modified: 2025-03-29 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7970,7 +7970,6 @@ zyzc9.com
 ||*.goog
 @@||c.pki.goog
 ||sipml5.org
-@@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com
 ||googlesyndication.com
 ||googleanalytics.com
 @@||*.googlesyndication.com
