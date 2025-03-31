@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-03-31 00:10:04
+!Last Modified: 2025-04-01 00:10:07
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10583,6 +10583,7 @@ ultrasurf
 ||citytalk.tw
 ||civisec.org
 ||cjkypo.com
+||claudeusercontent.com
 ||cleansite.info
 ||cleansite.us
 ||cloudcone.com
@@ -10724,6 +10725,7 @@ ultrasurf
 ||fstats.xyz
 ||ftpserver.biz
 ||fuckgfw233.org
+||funami.tech
 ||fvs.io
 ||gamerp.jp
 ||gamme.com.tw
@@ -11061,6 +11063,7 @@ ultrasurf
 ||lkcn.net
 ||llnwi.net
 ||logmein.com
+||lorenzetti.com.br
 ||lotsawahouse.org
 ||loved.hk
 ||lsmradio.com
@@ -11302,6 +11305,7 @@ ultrasurf
 ||sextvx.com
 ||sexxxy.biz
 ||sf.net
+||shadowsocks.nu
 ||shemalez.com
 ||shinychan.com
 ||shkspr.mobi
@@ -11351,6 +11355,8 @@ ultrasurf
 ||steampowered.com
 ||stgloballink.com
 ||stream-link.org
+||streamguys1.com
+||streaminghelp.org
 ||streamroot.io
 ||streamsb.net
 ||streamtape.com
@@ -11400,6 +11406,7 @@ ultrasurf
 ||thetrotskymovie.com
 ||thevivekspot.com
 ||thisiscdn.com
+||thu.monster
 ||tianhuayuan.com
 ||tianlawoffice.com
 ||tianyantong.org.cn
@@ -11465,6 +11472,7 @@ ultrasurf
 ||uni.cc
 ||unicode.org
 ||uniswap.org
+||unlock-music.dev
 ||unogs.com
 ||unpkg.com
 ||updatestar.com
@@ -11548,6 +11556,7 @@ ultrasurf
 ||xxbbx.com
 ||xxxy.biz
 ||yandex.com
+||yandex.net
 ||yandex.ru
 ||yboku.com
 ||ycombinator.com
@@ -11576,4 +11585,3 @@ ultrasurf
 ||zoozle.net
 ||zynaima.com
 ||zyzc9.com
-||streaminghelp.org
