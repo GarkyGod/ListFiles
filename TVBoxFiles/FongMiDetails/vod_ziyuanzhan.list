@@ -504,8 +504,8 @@
 		{
 		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.tv/  // https://wolongzyw.tv/
 		"name":"📡資源站|臥龍",
-		"type":1,  // "type":0,
-		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
+		"type":0,  // "type":1,
+		"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
 		// "playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=",  // "playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
 		"searchable":1,
 		"changeable":1
