@@ -346,8 +346,8 @@
 		{
 			"key":"dadiapi.com",    // http://dadizy.com/
 			"name":"大地资源(18+)",
-			"type":1,  // "type":0,
-			"api":"https://dadiapi.com/feifei/",  // "api":"https://dadiapi.com/api.php",
+			"type":0,  // "type":1,
+			"api":"https://dadiapi.com/api.php",  // "api":"https://dadiapi.com/feifei/",
 //			"api":"http://ddkbo.com/feifei/",  // "api":"http://ddkbo.com/api.php",
 			"searchable":1,
 			"recordable":0,
