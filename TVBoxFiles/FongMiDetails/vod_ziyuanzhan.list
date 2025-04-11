@@ -153,6 +153,19 @@
 		},
 
 		{
+		"key":"key_fczy",  // https://fczy888.com/  // https://fczy888.me/  // https://fczy888.vip/
+		"name":"📡資源站|蜂巢",
+		"type":1,  // "type":0,
+		"api":"https://api.fczy888.me/api.php/provide/vod/",  // "api":"https://api.fczy888.me/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
 		"key":"key_guangsu",  // https://www.guangsuzy.com/  // https://guangsuzy.net/
 		"name":"📡資源站|光速",
 		"type":1,  // "type":0,
@@ -279,6 +292,19 @@
 		},
 
 		{
+		"key":"key_jinchan",  // http://jczy.jinchan.pro/
+		"name":"📡資源站|金蟬",
+		"type":1,  // "type":0,
+		"api":"http://jczy.jinchan.pro/api.php/provide/vod/",  // "api":"http://jczy.jinchan.pro/api.php/provide/vod/at/xml/",
+		"searchable":1,
+		"changeable":1
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
 		"key":"key_jinying",  // https://jinyingzy.com/  // https://jinyingzy.net/
 		"name":"📡資源站|金鷹",
 		"type":0,  // "type":1,
@@ -370,6 +396,19 @@
 		"searchable":1,
 		"changeable":1
 //		"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
+		"key":"key_mozhuazy",  // https://mzzy.me/  // https://mozhuazy.com/
+		"name":"📡資源站|魔爪",
+		"type":1,  // "type":0,
+		"api":"https://mozhuazy.com/api.php/provide/vod/",  // "api":"https://mozhuazy.com/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -489,6 +528,19 @@
 		},
 
 		{
+		"key":"key_wwzy",  // https://www.wwzy.tv/
+		"name":"📡資源站|旺旺",
+		"type":1,  // "type":0,
+		"api":"https://api.wwzy.tv/api.php/provide/vod/",  // "api":"https://api.wwzy.tv/api.php/provide/vod/at/xml/",  // "api":"https://ww.tyyszy5.com/api.php/provide/vod/",  // "api":"https://ww.tyyszy5.com/api.php/provide/vod/at/xml/",
+		"searchable":1,
+		"changeable":1
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
 		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.tv/  // https://wolongzyw.tv/
 		"name":"📡資源站|臥龍",
 		"type":0,  // "type":1,
@@ -511,6 +563,32 @@
 		"searchable":1,
 		"changeable":1
 //		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","邵氏电影","连续剧","国产剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰剧","海外剧","短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","体育赛事","影视解说","资讯","公告","头条"],
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
+		"key":"key_wuxianzy",  // https://wuxianzy.com/  // https://wuxianzy.net/  // https://wuxianzy.vip/
+		"name":"📡資源站|無線",
+		"type":1,  // "type":0,
+		"api":"https://api.wuxianzy.net/api.php/provide/vod/",  // "api":"https://api.wuxianzy.net/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
+		"key":"key_hls.one",  // https://zy.hls.one/
+		"name":"📡資源站|蝦米",
+		"type":1,  // "type":0,
+		"api":"https://zy.hls.one/api.php/provide/vod/",  // "api":"https://zy.hls.one/api.php/provide/vod/at/xml",
+		"searchable":1,
+		"changeable":1
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
