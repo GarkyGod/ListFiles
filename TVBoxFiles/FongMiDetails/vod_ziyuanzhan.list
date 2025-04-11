@@ -125,19 +125,6 @@
 		},
 
 		{
-		"key":"key_bjzy",  // https://
-		"name":"📡資源站|八戒",
-		"type":0,  
-		"api":"http://cj.bajiecaiji.com/inc/bjm3u8.php",  
-		"searchable":1,
-		"changeable":1
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//			}
-		},
-
-		{
 		"key":"key_feifan",  // http://www.ffzy.tv
 		"name":"📡資源站|非凡",
 		"type":1,  // "type":0,
