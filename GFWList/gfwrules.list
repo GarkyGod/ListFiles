@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-04-12 00:10:04
+!Last Modified: 2025-04-13 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -398,6 +398,7 @@ tumblrviewer
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
+||s3.eu-central-1.amazonaws.com
 ||43110.cf
 ||9cache.com
 ||9gag.com
@@ -872,7 +873,6 @@ bloomberg.de
 ||1.0.0.1
 ||one.one.one.one
 !!---CloudFront---
-||cloudfront.net
 !!---DtDNS---
 .3d-game.com
 .4irc.com
@@ -1578,6 +1578,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||audiomack.com
 ||aomedia.org
 ||aljazeera.com
 ||akinator.com
@@ -7699,6 +7700,7 @@ zyzc9.com
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
 ||primevideo.com
+||cloudfront.net
 ||disney-plus.net
 ||disneyplus.com
 ||disneyplus.com.ssl.sc.omtrdc.net
