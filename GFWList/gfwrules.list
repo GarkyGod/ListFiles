@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-04-13 00:10:04
+!Last Modified: 2025-04-14 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -872,6 +872,7 @@ bloomberg.de
 ||1.1.1.1
 ||1.0.0.1
 ||one.one.one.one
+||cloudflare-dns.com
 !!---CloudFront---
 !!---DtDNS---
 .3d-game.com
@@ -1430,6 +1431,7 @@ wikinews.org
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
 !------------------Numerics---------------------
+||8888.google
 ||2047.one
 ||69shuba.cx
 ||2049bbs.xyz
@@ -3077,6 +3079,8 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
+||fani.com
+||favcomic.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -3655,6 +3659,8 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||v2.hysteria.network
+||h-ciyuan.com
 ||halktv.com.tr
 ||haiwaikan.com
 ||home.saxo
@@ -4598,6 +4604,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||manwa.me
 ||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
@@ -5747,6 +5754,9 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||sing-box.sagernet.org
+||ssm.fun
+||sotwe.com
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -6245,6 +6255,7 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||thotsbay.tv
 ||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
@@ -10218,7 +10229,6 @@ ultrasurf
 ||animezilla.com
 ||55comic.com
 ||hanime1.me
-||sotwe.com
 ||hgamefree.info
 ||seju.life
 ||laowang.vip
