@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-04-18 00:10:04
+!Last Modified: 2025-04-19 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10116,6 +10116,7 @@ ultrasurf
 ||musical.ly
 ||muscdn.com
 ||p16-tiktokcdn-com.akamaized.net
+||tiktokcdn-eu.com
 !--------------------ADD BY LOUKKY---------------
 ||proxy1.xyz
 ||whichav.com
