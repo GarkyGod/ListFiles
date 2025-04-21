@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-04-21 00:10:04
+!Last Modified: 2025-04-22 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -81,7 +81,6 @@ tumblrviewer
 ||hobbyfanclub.com
 .hobbyfanclub.com
 !---------403/451/503/520 & URL Redirects---------
-||coincarp.com
 ||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
@@ -275,7 +274,6 @@ tumblrviewer
 ||ontrac.com
 @@|http://blog.ontrac.com
 ||chat.openai.com
-||auth.openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -398,7 +396,6 @@ tumblrviewer
 |https://*.s3.amazonaws.com
 ||s3-ap-southeast-1.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
-||s3.eu-central-1.amazonaws.com
 ||43110.cf
 ||9cache.com
 ||9gag.com
@@ -869,11 +866,8 @@ bloomberg.de
 .zyns.com
 .zzux.com
 !!--Cloudflare--
-||1.1.1.1
-||1.0.0.1
-||one.one.one.one
-||cloudflare-dns.com
 !!---CloudFront---
+||cloudfront.net
 !!---DtDNS---
 .3d-game.com
 .4irc.com
@@ -1430,58 +1424,7 @@ wikinews.org
 ||yahoo.com.hk
 ||yahoo.com
 ||duckduckgo-owned-server.yahoo.net
-!!---Zlibrary---
-z-library.sk
-go-to-library.sk
-1lib.cloud
-1lib.sk
-italian-books.sk
-1lib.cz
-1lib.domains
-1lib.education
-1lib.eu
-1lib.limited
-1lib.pl
-1lib.to
-1lib.tw
-2lib.org
-3lib.net
-art1lib.com
-b-ok.africa
-b-ok.asia
-b-ok.cc
-b-ok.global
-b-ok.org
-book4you.org
-bookfi.net
-booksc.eu
-booksc.me
-booksc.org
-booksc.xyz
-bookshome.info
-bookshome.net
-bookshome.world
-de1lib.org
-hk1lib.org
-libsolutions.app
-libsolutions.domains
-libsolutions.net
-ma1lib.org
-sg1lib.org
-singlelogin.app
-singlelogin.me
-singlelogin.re
-singlelogin.site
-z-lib.org
-z-lib.ps
-z-lib.gd
-z-lib.gs
-z-library.se
-zlib.life
-zlibcdn.com
-zlibcdn2.com
 !------------------Numerics---------------------
-||8888.google
 ||2047.one
 ||69shuba.cx
 ||2049bbs.xyz
@@ -1630,7 +1573,6 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
-||audiomack.com
 ||aomedia.org
 ||aljazeera.com
 ||akinator.com
@@ -3129,8 +3071,6 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
-||fani.com
-||favcomic.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -3198,7 +3138,7 @@ fail.hk
 .fan-qiang.com
 .fangbinxing.com
 ||fangbinxing.com
-fangeming.comffvpn.com
+fangeming.com
 .fangmincn.org
 ||fangmincn.org
 .fanhaodang.com
@@ -3206,18 +3146,29 @@ fangeming.comffvpn.com
 ||fanswong.com
 .fanyue.info
 .farwestchina.com
-||global.ssl.fastly.net
-||freetls.fastly.net
+en.favotter.net
+.global.ssl.fastly.net
+.freetls.fastly.net
+nytimes.map.fastly.net
 ||nytimes.map.fastly.net
+||fast.wistia.com
 ||fastestvpn.com
 ||fastssh.com
 ||faststone.org
-||faydao.com
+favstar.fm
+||favstar.fm
+faydao.com/weblog
 ||faz.net
+.fc2.com
+.fc2china.com
+.fc2cn.com
 ||fc2cn.com
+fc2blog.net
 |http://uygur.fc2web.com/
-||fdc64.de
-||fdc64.org
+video.fdbox.com
+.fdc64.de
+.fdc64.org
+.fdc89.jp
 ||fourface.nodesnoop.com
 ||feeder.co
 ||feelssh.com
@@ -3232,7 +3183,9 @@ feer.com
 .fengzhenghu.net
 ||fengzhenghu.net
 .fevernet.com
-||ff.im
+|http://ff.im
+fffff.at
+fflick.com
 .ffvpn.com
 fgmtv.net
 .fgmtv.org
@@ -3436,7 +3389,6 @@ fzh999.com
 fzh999.net
 fzlm.com
 !--------------------GG-------------------------
-||gemini.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org
@@ -3629,6 +3581,7 @@ good.news
 ||gopetition.com
 .goproxing.net
 ||goreforum.com
+||gotquestions.org
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
@@ -3709,8 +3662,6 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
-||v2.hysteria.network
-||h-ciyuan.com
 ||halktv.com.tr
 ||haiwaikan.com
 ||home.saxo
@@ -4061,6 +4012,7 @@ idemocracy.asia
 ||identi.ca
 ||idiomconnection.com
 |http://www.idlcoyote.com
+||idope.se
 .idouga.com
 .idreamx.com
 forum.idsam.com
@@ -4654,7 +4606,6 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
-||manwa.me
 ||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
@@ -5177,7 +5128,6 @@ nylonstockingsonline.com
 .nzchinese.com
 ||nzchinese.net.nz
 !--------------------OO-------------------------
-||opendesktop.org
 ||onevps.com
 ||onedrive.com
 ||olelive.com
@@ -5804,9 +5754,6 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
-||sing-box.sagernet.org
-||ssm.fun
-||sotwe.com
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -6253,6 +6200,7 @@ tw.streetvoice.com
 ||stumbleupon.com
 stupidvideos.com
 ||substack.com
+||subhd.tv
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
@@ -6305,7 +6253,6 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
-||thotsbay.tv
 ||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
@@ -7761,7 +7708,6 @@ zyzc9.com
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
 ||primevideo.com
-||cloudfront.net
 ||disney-plus.net
 ||disneyplus.com
 ||disneyplus.com.ssl.sc.omtrdc.net
@@ -8621,11 +8567,13 @@ zyzc9.com
 ||farwestchina.com
 ||favotter.net
 ||fastly.net
-||favstar.fm
+||faydao.com
 ||fc2.com
 ||fc2china.com
 ||fc2blog.net
 ||fc2web.com
+||fdc64.de
+||fdc64.org
 ||fdc64.jp
 ||fdc89.jp
 ||feer.com
@@ -8633,6 +8581,7 @@ zyzc9.com
 ||feitianacademy.org
 ||feitian-california.org
 ||fevernet.com
+||ff.im
 ||fffff.at
 ||fflick.com
 ||ffvpn.com
@@ -10252,6 +10201,7 @@ ultrasurf
 ||friday.tw
 ||141-hk.com
 ||jsfiddle.net
+||one.one.one.one
 ||myip.com
 ||henduohao.com
 ||vercel.com
@@ -10280,6 +10230,7 @@ ultrasurf
 ||animezilla.com
 ||55comic.com
 ||hanime1.me
+||sotwe.com
 ||hgamefree.info
 ||seju.life
 ||laowang.vip
@@ -10341,6 +10292,7 @@ ultrasurf
 ||tagesschau.de
 ||a5vpn.com
 ||softonic.cn
+||gemini.com
 ||voi.id
 ||cht.com.tw
 ||androidcombo.com
@@ -10662,6 +10614,7 @@ ultrasurf
 ||cnitter.com
 ||cnn.com
 ||codeplex.com
+||coincarp.com
 ||comedycentral.com
 ||comico.tw
 ||compython.net
