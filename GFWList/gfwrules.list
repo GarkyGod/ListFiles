@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-04 00:10:05
+!Last Modified: 2025-05-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -273,7 +273,7 @@ tumblrviewer
 ||onapp.com
 ||ontrac.com
 @@|http://blog.ontrac.com
-||chat.openai.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -299,7 +299,7 @@ tumblrviewer
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||open.spotify.com
+||spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
@@ -1210,6 +1210,9 @@ cn.nytstyle.com
 ||steamstatic.com
 !!---Telegram---
 !!!---Domain---
+||tx.me
+||tg.dev
+||telega.one
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
@@ -2653,6 +2656,7 @@ cytode.us
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||disneyplus.com
 ||ddex.io
 ||d.cash
 ||doubiyunbackup.com
@@ -3069,6 +3073,7 @@ eyevio.jp
 .ezpc.tk/category/soft
 .ezpeer.com
 !--------------------FF-------------------------
+||fast.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -3660,6 +3665,7 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||hanime1.me
 ||halktv.com.tr
 ||haiwaikan.com
 ||home.saxo
@@ -4604,6 +4610,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
 ||mergersandinquisitions.com
@@ -5755,6 +5762,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||simplex.chat
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -6254,6 +6262,7 @@ blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||tellapart.com
 ||threads.com
 ||tg-me.com
 ||twkan.com
@@ -7570,6 +7579,7 @@ yx51.net
 .yzzk.com
 ||yzzk.com
 !--------------------ZZ-------------------------
+||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
 ||z-lib.io
@@ -7711,7 +7721,6 @@ zyzc9.com
 ||atv-ps.amazon.com
 ||primevideo.com
 ||disney-plus.net
-||disneyplus.com
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||dssott.com
 ||dssott.com.akamaized.net
@@ -7723,7 +7732,6 @@ zyzc9.com
 ||riseup.net
 ||search.xxx
 ||shiksha.ws
-||spotify.com
 163.29.207.130
 213.186.33.19
 213.186.33.87
@@ -10158,7 +10166,6 @@ ultrasurf
 ||arunachalforests.gov.in
 ||disk.yandex.*
 ||cc.com
-||fast.com
 ||cdn.jsdelivr.net
 ||pages.dev
 ||paperclip.tk
@@ -10177,7 +10184,6 @@ ultrasurf
 ||ratx.com
 ||podcast.app
 ||oraclecloud.com
-||openai.com
 ||theb.ai
 ||kemono.party
 ||smashwords.com
@@ -10230,7 +10236,6 @@ ultrasurf
 ||manhuache.com
 ||animezilla.com
 ||55comic.com
-||hanime1.me
 ||sotwe.com
 ||hgamefree.info
 ||seju.life
@@ -11104,7 +11109,6 @@ ultrasurf
 ||metrohk.com.hk
 ||michaelanti.com
 ||minepi.com
-||missav.ws
 ||mit.edu
 ||moegirl.org
 ||monar.ch
