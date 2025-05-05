@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-05 00:10:05
+!Last Modified: 2025-05-06 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8020,7 +8020,6 @@ zyzc9.com
 ||nyti.ms
 |http://store.steampowered.com
 ||login.steampowered.com
-|http://api.steampowered.com
 ||steambroadcast.akamaized.net
 !!---Twitter---
 ||gov.tw
