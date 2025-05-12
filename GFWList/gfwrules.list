@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-12 00:10:04
+!Last Modified: 2025-05-13 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -944,6 +944,8 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
+||ai.google
+||notebooklm.google
 ||play.google
 ||doc.new
 ||form.new
@@ -1235,6 +1237,7 @@ cn.nytstyle.com
 ||tiktokv.com
 ||tiktokv.us
 ||tiktokcdn-us.com
+||tiktokcdn.com
 !!---Twitch---
 ||jtvnw.net
 ||ttvnw.net
@@ -4934,6 +4937,10 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||nikke.hotcool.tw
+||nikke-kr.com
+||nikke-jp.com
+||nikke-en.com
 ||nodeloc.com
 ||netlify.app
 ||nightswatch.top
@@ -10084,7 +10091,6 @@ ultrasurf
 ||ibytedtos.com
 ||ttwstatic.com
 ||byteoversea.com
-||tiktokcdn.com
 ||musical.ly
 ||muscdn.com
 ||p16-tiktokcdn-com.akamaized.net
@@ -10429,7 +10435,6 @@ ultrasurf
 ||afantibbs.com
 ||affyun.com
 ||ai.com
-||ai.google
 ||aircrack-ng.org
 ||ais86.com
 ||ais96.com
