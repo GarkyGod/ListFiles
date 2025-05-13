@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-13 00:10:04
+!Last Modified: 2025-05-14 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10389,6 +10389,7 @@ ultrasurf
 ||10.tt
 ||1080pzy.co
 ||1080pzy.net
+||111666.best
 ||12ft.io
 ||138.com
 ||1998cdp.org
@@ -10781,6 +10782,7 @@ ultrasurf
 ||gitmemory.com
 ||gluckman.com
 ||gmbd.cn
+||gmp4.com
 ||gmx.net
 ||go-mpulse.net
 ||go.com
@@ -10971,6 +10973,7 @@ ultrasurf
 ||honeynet.org
 ||host.io
 ||hotbak.net
+||hotcool.tw
 ||hotpot.hk
 ||how-did-i-get-here.net
 ||https443.net
@@ -11138,6 +11141,7 @@ ultrasurf
 ||msn.com
 ||msn.com.tw
 ||mstopq.com
+||mt.co.kr
 ||mtvnservices.com
 ||musescore.com
 ||mxc.com
@@ -11277,6 +11281,7 @@ ultrasurf
 ||pwned.com
 ||pythonic.life
 ||qboku.com
+||qmp4.com
 ||qmzdd.com
 ||qooqlevideo.com
 ||qooza.hk
@@ -11464,6 +11469,7 @@ ultrasurf
 ||tmi.me
 ||tngrnow.com
 ||tngrnow.net
+||tnt-ea.com
 ||toh.info
 ||tomonews.net
 ||tongil.or.kr
