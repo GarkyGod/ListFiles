@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-17 00:10:05
+!Last Modified: 2025-05-18 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1238,6 +1238,7 @@ cn.nytstyle.com
 ||tiktokv.us
 ||tiktokcdn-us.com
 ||tiktokcdn.com
+||tiktokcdn-eu.com
 !!---Twitch---
 ||jtvnw.net
 ||ttvnw.net
@@ -3159,7 +3160,7 @@ fangeming.com
 .farwestchina.com
 en.favotter.net
 .global.ssl.fastly.net
-.freetls.fastly.net
+||freetls.fastly.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
@@ -4437,6 +4438,8 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||ldplayer.tw
+||ldplayer.net
 ||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
@@ -4937,6 +4940,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||bbs.naixi.net
 ||nikke.hotcool.tw
 ||nikke-kr.com
 ||nikke-jp.com
@@ -5778,6 +5782,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com
@@ -10094,7 +10099,6 @@ ultrasurf
 ||musical.ly
 ||muscdn.com
 ||p16-tiktokcdn-com.akamaized.net
-||tiktokcdn-eu.com
 !--------------------ADD BY LOUKKY---------------
 ||proxy1.xyz
 ||whichav.com
@@ -10329,7 +10333,6 @@ ultrasurf
 ||jmcomic.me
 ||inlang.com
 ||hysteria.network
-||sagernet.org
 ||manchustate.org
 ||metacubex.one
 ||hkreadingcity.net
