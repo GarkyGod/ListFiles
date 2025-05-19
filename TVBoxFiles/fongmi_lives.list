@@ -1,11 +1,19 @@
 {
 	"lives":[
 		{
-		"name":"M3U",
+		"name":"XtreamCode",
+		"api":"csp_XtreamCode",
+		"url":"http://iptv.icsnleb.com:25461/player_api.php?username=12&password=12",
+		"epg":"http://iptv.icsnleb.com:25461/xmltv.php?username=12&password=12",
+		"type":3,
+		"ext":{"live":true,"vod":true,"formats":["m3u8","ts"]}
+		},
+		{
+		"name":"iptv-org",
 		"url":"https://gh.noki.eu.org/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u"
 		},
 		{
-		"name":"TXT",
+		"name":"caca3559823437",
 		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -23,46 +31,46 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"综合",
+		"name":"mytvsuper综合",
 		"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"体育",
+		"name":"mytvsuper体育",
 		"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"央视",
+		"name":"mytvsuper央视",
 		"url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"電視直播",
+		"name":"yang-1989電視直播",
 		"url":"https://tv.iill.top/m3u/Gather",
 		"ua":"okhttp/3.15",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"網絡直播",
+		"name":"yang-1989網絡直播",
 		"url":"https://tv.iill.top/m3u/Live",
 		"ua":"okhttp/3.15",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"體育直播",
+		"name":"yang-1989體育直播",
 		"url":"https://tv.iill.top/m3u/Sport",
 		"ua":"okhttp/3.15",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"MyTV直播",
+		"name":"yang-1989 MyTV直播",
 		"url":"https://tv.iill.top/m3u/MyTV",
 		"ua":"okhttp/3.15",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
@@ -75,7 +83,7 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"52sw",
+		"name":"52sw mytvsuper",
 		"url":"http://www.52sw.top:678/play/mytvsuper/",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
@@ -93,10 +101,11 @@
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"zjykfy",
-		"url":"https://ghproxy.cc/https://raw.githubusercontent.com/zjykfy/yy-ff-yy/c702b5d9c9014a90a17a15275afa0cc6b812e2cc/all.m3u",
+		"name":"XingHuo",
+		"url":"https://json.doube.eu.org/XingHuo.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"logo":"https://epg.112114.xyz/logo/{name}.png",
+		"header": {"Referer": "https://www.kds.tw/"}
 		},
 		{
 		"name":"live",
