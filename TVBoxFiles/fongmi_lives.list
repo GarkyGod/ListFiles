@@ -10,17 +10,23 @@
 		},
 		{
 		"name":"iptv-org",
-		"url":"https://gh.noki.eu.org/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u"
+		"url":"https://ghp.garkygod.dpdns.org/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u"
 		},
 		{
-		"name":"caca3559823437",
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt",
+		"name":"caca3559823437 wsg",
+		"url":"https://ghp.garkygod.dpdns.org/https://github.com/caca3559823437/2022/raw/main/wsg.txt",
+		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"caca3559823437 2023",
+		"url":"https://ghp.garkygod.dpdns.org/https://github.com/caca3559823437/2022/raw/main/2023.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"k84307195",
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
+		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
@@ -108,14 +114,14 @@
 		"header": {"Referer": "https://www.kds.tw/"}
 		},
 		{
-		"name":"live",
-		"url":"https://ghproxy.cc/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/live.m3u",
+		"name":"cqbf live",
+		"url":"https://ghp.garkygod.dpdns.org/https://github.com/cqbf/tv/raw/main/live.m3u",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"CR",
-		"url":"https://gh.noki.eu.org/https://github.com/koashe/zby/raw/refs/heads/main/cr.m3u",
+		"url":"https://ghp.garkygod.dpdns.org/https://github.com/koashe/zby/raw/refs/heads/main/cr.m3u",
 		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://epg.112114.xyz/logo/{name}.png"
 		},
