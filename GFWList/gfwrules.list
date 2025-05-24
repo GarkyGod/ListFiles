@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-24 00:10:04
+!Last Modified: 2025-05-25 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -511,6 +511,7 @@ tumblrviewer
 ||redd.it
 ||redditspace.com
 ||reddit.com
+||reddithelp.com
 .redditlist.com
 |http://redditlist.com
 ||redditmedia.com
@@ -4948,7 +4949,7 @@ mysinablog.com
 ||nikke-kr.com
 ||nikke-jp.com
 ||nikke-en.com
-||nodeloc.com
+||www.nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
@@ -11197,6 +11198,7 @@ ultrasurf
 ||njavplayer.me
 ||no-ip.com
 ||nobelprize.org
+||nodeloc.com
 ||nodesnoop.com
 ||nooc.ink
 ||note.com
