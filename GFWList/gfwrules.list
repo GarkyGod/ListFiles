@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-26 00:10:04
+!Last Modified: 2025-05-27 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -956,6 +956,7 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
+||gemini.google
 ||ai.google
 ||notebooklm.google
 ||play.google
