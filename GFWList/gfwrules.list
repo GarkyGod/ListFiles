@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-29 00:10:05
+!Last Modified: 2025-05-30 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -405,8 +405,6 @@ tumblrviewer
 !---Amazon---
 ||abebooks.com
 |https://*.s3.amazonaws.com
-||s3-ap-southeast-1.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
 ||43110.cf
 ||9cache.com
 ||9gag.com
@@ -681,6 +679,14 @@ china-mmm.sa.com
 ||payments-jp.amazon.com
 ||amazon.co.jp
 ||s3-ap-*.amazonaws.com
+||s3.eu-central-1.amazonaws.com
+||s3-eu-central-1.amazonaws.com
+||s3.us-east-1.amazonaws.com
+||s3-ap-northeast-2.amazonaws.com
+||s3.ap-northeast-2.amazonaws.com
+||s3-ap-northeast-1.amazonaws.com
+||s3-ap-southeast-1.amazonaws.com
+||s3-ap-southeast-2.amazonaws.com
 !!---AOL---
 ||aolchannels.aol.com
 video.aol.ca/video-detail
@@ -956,7 +962,7 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
-||google
+||*.google
 ||doc.new
 ||form.new
 ||forms.new
@@ -8016,7 +8022,6 @@ zyzc9.com
 ||swbusdev.com
 ||mypicasa.com
 ||*.youtube
-||*.google
 ||livemap*.waze.com
 ||worldtiles*.waze.com
 ||static01.nyt.com
