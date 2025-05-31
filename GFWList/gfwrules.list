@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-05-30 00:10:04
+!Last Modified: 2025-06-01 02:36:06
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1877,6 +1877,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||blackmagicdesign.com
 ||bearteach.com
 ||btbtt.me
 ||btbtt.co
