@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-04 01:00:05
+!Last Modified: 2025-06-05 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -124,6 +124,7 @@ tumblrviewer
 ||centauro.com.br
 ||chobit.cc
 ||ciciai.com
+||cici.com
 ||claude.ai
 ||clearsurance.com
 ||cnbeta.com.tw
@@ -1579,6 +1580,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||cdn.arstechnica.net
 ||aomedia.org
 ||aljazeera.com
 ||akinator.com
@@ -10265,6 +10267,7 @@ ultrasurf
 ||jrf.org.tw
 ||acgbox.link
 ||lmsys.org
+||ciciaicdn.com
 ||machbbs.com
 ||jotform.com
 ||nengcard.com
@@ -10371,6 +10374,7 @@ ultrasurf
 ||statearmor.org
 ||maxai.co
 ||sclub.com.tw
+||minjian-danganguan.org
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
