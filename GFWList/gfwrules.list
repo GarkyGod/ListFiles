@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-05 01:00:04
+!Last Modified: 2025-06-06 01:00:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2199,6 +2199,7 @@ bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||coffeemanga.to
 ||ctinews.com
 ||cachefly.com
 ||cachefly.net
