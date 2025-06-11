@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-11 01:00:04
+!Last Modified: 2025-06-12 01:00:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4435,6 +4435,7 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||lingualeo.com
 ||ldplayer.tw
 ||ldplayer.net
 ||ltn.com.tw
@@ -10174,7 +10175,6 @@ ultrasurf
 ||sm3ha.ru
 ||ghanely.me
 ||fatakat-n.club
-||lingualeo.com
 ||arunachalforests.gov.in
 ||disk.yandex.*
 ||cc.com
