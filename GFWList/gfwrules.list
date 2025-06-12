@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-12 01:00:05
+!Last Modified: 2025-06-13 01:00:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2200,6 +2200,7 @@ bwsj.hk
 ||bx.tl
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cpu-monkey.com
 ||coffeemanga.to
 ||ctinews.com
 ||cachefly.com
@@ -3973,7 +3974,6 @@ hutong9.net
 huyandex.com
 .hwadzan.tw
 ||hwayue.org.tw
-||hwinfo.com
 ||hxwk.org
 hxwq.org
 ||hyperrate.com
@@ -10988,6 +10988,7 @@ ultrasurf
 ||huasing.org
 ||hustler.com
 ||hustlercash.com
+||hwinfo.com
 ||hxwq.org
 ||hyread.com.tw
 ||i-scmp.com
