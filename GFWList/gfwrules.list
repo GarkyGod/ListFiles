@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-15 01:00:04
+!Last Modified: 2025-06-16 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3128,6 +3128,7 @@ funp.com
 .fxcm-chinese.com
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||gitlab.net
 |http://gmp4.com
 ||getsession.org
 ||gdaily.org
@@ -3370,6 +3371,7 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||hinet.net
 ||hindustantimes.com
 ||hanime1.me
 ||halktv.com.tr
@@ -8133,7 +8135,6 @@ writer.zoho.com
 ||hilive.tv
 ||himalayanglacier.com
 ||himemix.net
-||hinet.net
 ||hitomi.la
 ||hizbuttahrir.org
 ||hizb-ut-tahrir.info
