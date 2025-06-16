@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-16 01:00:04
+!Last Modified: 2025-06-17 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4659,6 +4659,7 @@ nylonstockingsonline.com
 ||nypost.com
 .nzchinese.com
 !--------------------OO-------------------------
+||oojj.de
 ||onevps.com
 ||onedrive.com
 ||olelive.com
@@ -9643,6 +9644,7 @@ ultrasurf
 ||cuntcrack.com
 ||ratx.com
 ||podcast.app
+||osm.tw
 ||oraclecloud.com
 ||theb.ai
 ||kemono.party
