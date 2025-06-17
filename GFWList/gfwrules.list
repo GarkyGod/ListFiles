@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-17 01:00:04
+!Last Modified: 2025-06-18 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -839,8 +839,6 @@ bloomberg.de
 !!--Cloudflare--
 ||workers.dev
 ||one.one.one.one
-!!---CloudFront---
-||cloudfront.net
 !!---DtDNS---
 .3d-game.com
 .4irc.com
@@ -1365,6 +1363,7 @@ zh.uncyclopedia.wikia.com
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
 ||1lib.sk
@@ -2468,6 +2467,7 @@ cyberghostvpn.com
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dweb.link
 ||docker.io
 ||disneyplus.com
 ||ddex.io
@@ -4469,6 +4469,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||nftstorage.link
 ||newindianexpress.com
 ||news18.com
 ||bbs.naixi.net
@@ -5216,6 +5217,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||storry.tv
 ||standard.co.uk
 ||sagernet.org
 ||simplex.chat
@@ -6467,6 +6469,7 @@ vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+|https://w3s.link/ipfs
 ||work2icu.org
 ||wikiless.funami.tech
 lists.w3.org/archives/public
@@ -6971,6 +6974,7 @@ writer.zoho.com
 ||aiv-delivery.net
 ||atv-ext.amazon.com
 ||atv-ps.amazon.com
+||cloudfront.net
 ||disney-plus.net
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||dssott.com
@@ -9816,7 +9820,6 @@ ultrasurf
 ||xaislam.com
 ||snow-plus.net
 ||typekit.net
-||dweb.link
 ||611.icu
 ||limelight.moe
 ||18jav.tv
