@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-18 01:00:04
+!Last Modified: 2025-06-19 01:00:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9649,7 +9649,6 @@ ultrasurf
 ||ratx.com
 ||podcast.app
 ||osm.tw
-||oraclecloud.com
 ||theb.ai
 ||kemono.party
 ||smashwords.com
