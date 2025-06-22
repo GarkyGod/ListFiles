@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-22 01:00:04
+!Last Modified: 2025-06-23 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -911,7 +911,8 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
-||*.google
+||gle
+||google
 ||doc.new
 ||form.new
 ||forms.new
@@ -3638,6 +3639,11 @@ hxwq.org
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||president.ir
+||gov.ir
+||irna.ir
+||arvanstorage.ir
+||irangov.ir
 ||india.com
 ||indiatoday.in
 ||invidio.us
@@ -7275,6 +7281,7 @@ writer.zoho.com
 ||swbusdev.com
 ||mypicasa.com
 ||*.youtube
+||*.google
 ||livemap*.waze.com
 ||worldtiles*.waze.com
 ||static01.nyt.com
