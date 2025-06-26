@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-06-26 01:00:05
+!Last Modified: 2025-06-27 01:00:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2213,39 +2213,27 @@ cdp2006.org
 ||chaturbate.com
 .chuang-yen.org
 ||checkgfw.com
-chengmingmag.com
-.chenguangcheng.com
+||chengmingmag.com
 ||chenguangcheng.com
-.chenpokong.com
 ||chenpokong.com
 ||chenpokongvip.com
 ||cherrysave.com
-.chhongbi.org
-chicagoncmtv.com
-|http://chicagoncmtv.com
-.china-week.com
-china101.com
+||chhongbi.org
+||china-week.com
 ||china101.com
 ||china18.org
 ||china21.com
-china21.org
 ||china21.org
-.china5000.us
-chinaaffairs.org
+||china5000.us
 ||chinaaffairs.org
-chinaaid.us
-chinaaid.org
-chinaaid.net
+||chinaaid.us
+||chinaaid.org
 ||chinaaid.net
-.chinachange.org
 ||chinachange.org
-chinachannel.hk
 ||chinachannel.hk
 ||chinademocrats.org
-.chinadialogue.net
-.chinadigitaltimes.net
+||chinadialogue.net
 ||chinadigitaltimes.net
-.chinaelections.org
 ||chinaelections.org
 ||chinafile.com
 ||chinafreepress.org
@@ -3046,9 +3034,6 @@ tibetlibre.free.fr
 ||freedomhouse.org
 .freedomsherald.org
 ||freedomsherald.org
-.freefq.com
-.freefuckvids.com
-.freegao.com
 ||freegao.com
 freeilhamtohti.org
 ||freekazakhs.org
@@ -5082,6 +5067,7 @@ qusi8.net
 nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 !--------------------RR-------------------------
+||radmin-vpn.com
 ||rule34video.com
 ||r10s.jp
 ||rakuten.co.jp
@@ -7602,18 +7588,11 @@ writer.zoho.com
 ||channel8news.sg
 ||chapm25.com
 ||chuang-yen.org
-||chengmingmag.com
 ||chenpokong.net
-||chhongbi.org
 ||chicagoncmtv.com
-||china-week.com
-||china5000.us
 ||chinaaid.me
-||chinaaid.us
-||chinaaid.org
 ||chinacomments.org
 ||chinacitynews.be
-||chinadialogue.net
 ||chinaeweekly.com
 ||chinagate.com
 ||chinageeks.org
