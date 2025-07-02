@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-07-02 00:44:57
+!Last Modified: 2025-07-03 00:44:57
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9815,6 +9815,7 @@ ultrasurf
 ||maxai.co
 ||sclub.com.tw
 ||minjian-danganguan.org
+||dmm.com
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
@@ -10136,7 +10137,6 @@ ultrasurf
 ||diversity.google
 ||djangosnippets.org
 ||dlsite.jp
-||dmm.com
 ||dns.google
 ||document.new
 ||dollf.com
