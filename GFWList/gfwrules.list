@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-07-03 00:44:57
+!Last Modified: 2025-07-04 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2457,6 +2457,7 @@ cyberghostvpn.com
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||doom9.org
 ||dweb.link
 ||docker.io
 ||disneyplus.com
@@ -7272,6 +7273,7 @@ writer.zoho.com
 ||*.google
 ||livemap*.waze.com
 ||worldtiles*.waze.com
+||c.gle
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
