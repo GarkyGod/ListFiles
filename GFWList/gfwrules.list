@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-07-09 00:10:03
+!Last Modified: 2025-07-10 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2670,6 +2670,7 @@ xys.dxiong.com
 ||dysfz.cc
 .dzze.com
 !--------------------EE-------------------------
+||e621.net
 ||edx-cdn.org
 ||everipedia.org
 ||epochtimes.com.tw
