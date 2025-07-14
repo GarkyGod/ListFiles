@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-07-14 00:10:04
+!Last Modified: 2025-07-15 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6666,6 +6666,7 @@ wujieliulan.com
 ||wwitv.com
 wzyboy.im/post/160
 !--------------------XX-------------------------
+||www.xicons.org
 ||x.ai
 ||xt.com
 ||xt.pub
@@ -9820,6 +9821,7 @@ ultrasurf
 ||sclub.com.tw
 ||minjian-danganguan.org
 ||dmm.com
+||yangzhi.org
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
