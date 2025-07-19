@@ -867,7 +867,7 @@
 	{"name":"快看廣告","hosts":["vip.kuaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"量子廣告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 //	{"name":"魔都廣告","hosts":["modujx"],"regex":["[#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE]+[\\r\\n]+#EXTINF:3.333,[\\s\\S]*?#EXTINF:3.2,[\\s\\S]*?\\.[ts|jpg]","[#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE]+[\\r\\n]+#EXTINF:2,[\\s\\S]*?#EXTINF:1.28,[\\s\\S]*?\\.[ts|jpg]"]},
-	{"name":"魔都廣告","hosts":["modujx"],"regex":["#EXTINF.*?\\s+.*?(N3spPIQS|md250710).*?\\.ts\\s+","(#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE)\\s+#EXTINF:3.333,[\\s\\S]*?#EXTINF:3.2,[\\s\\S]*?\\.(ts|jpg)\\s+"]},
+	{"name":"魔都廣告","hosts":["modujx"],"regex":["#EXTINF.*?\\s+.*?(N3spPIQS|md250710|afTVliQw).*?\\.ts\\s+","(#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE)\\s+#EXTINF:3.333,[\\s\\S]*?#EXTINF:3.2,[\\s\\S]*?\\.(ts|jpg)\\s+"]},
 	{"name":"索尼廣告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
 	{"name":"優質廣告","hosts":["yzzy","vip.high"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 //		{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn","bfengbf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+\/video\/adjump\/time[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
