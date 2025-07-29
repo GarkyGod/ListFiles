@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-07-29 00:10:04
+!Last Modified: 2025-07-30 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6469,6 +6469,7 @@ vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||walletconnect.com
 |https://w3s.link/ipfs
 ||work2icu.org
 ||wikiless.funami.tech
