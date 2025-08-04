@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-04 00:10:04
+!Last Modified: 2025-08-05 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9523,6 +9523,12 @@ ultrasurf
 @@||imasdk.googleapis.com
 @@||dl.l.google.com
 ||rlcdn.com
+@@||crashlyticsreports-pa.googleapis.com
+@@||emmapplecodevice.googleapis.com
+@@||fontfiles.googleapis.com
+@@||performanceparameters.googleapis.com
+@@||tac.googleapis.com
+@@||wear.googleapis.com
 @@||www.gstatic.com
 @@||google.cn
 @@||ime.baidu.jp
@@ -9578,7 +9584,6 @@ ultrasurf
 ||feedly.com
 |*apps.evozi.com
 ||9to5*.com
-||stats.wp.com
 ||tgstat.com
 ||evchk.wikia.org
 ||travelinkcard.com
@@ -9833,6 +9838,7 @@ ultrasurf
 ||minjian-danganguan.org
 ||dmm.com
 ||appdefensealliance.dev
+||opendesktop.org
 !------------------------------------------------
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
