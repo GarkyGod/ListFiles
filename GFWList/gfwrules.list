@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-08 00:10:04
+!Last Modified: 2025-08-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -841,6 +841,7 @@ bloomberg.de
 !!--Cloudflare--
 ||workers.dev
 ||one.one.one.one
+||cloudflare-dns.com
 !!---DtDNS---
 .3d-game.com
 .4irc.com
@@ -1770,6 +1771,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bitget.com
 ||blackmagicdesign.com
 ||bearteach.com
 ||btbtt.me
@@ -4475,7 +4477,6 @@ mysinablog.com
 ||nikke-kr.com
 ||nikke-jp.com
 ||nikke-en.com
-||www.nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
@@ -6210,6 +6211,7 @@ twurl.nl
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||upbit.com
 ||demo.unlock-music.dev
 .u9un.com
 ||u9un.com
@@ -9809,7 +9811,6 @@ ultrasurf
 ||prohashing.com
 ||zergpool.com
 ||huobi.vc
-||bitget.com
 ||crypto.com
 ||pionex.com
 ||mashash.com
