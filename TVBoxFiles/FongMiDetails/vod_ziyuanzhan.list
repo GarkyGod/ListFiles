@@ -795,6 +795,8 @@
 
 	"doh":[
 		{"name":"-★-系統-★-","url":"","ips":["",""]},
+		{"name":"GarkyGod Cloudflare","url":"https://cdoh.garkygod.dpdns.org","ips":[]},
+		{"name":"GarkyGod Google","url":"https://gdoh.garkygod.dpdns.org","ips":[]},
 		{"name":"★☆360 Safe DNS","url":"https://doh.360.cn/dns-query","ips":["123.125.81.6","140.207.198.6","101.226.4.6","218.30.118.6"]},
 		{"name":"★☆ALi DNS","url":"https://dns.alidns.com/dns-query","ips":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"]},
 		{"name":"ALi DNS (IP版1)","url":"https://223.5.5.5/dns-query","ips":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"]},
@@ -808,8 +810,6 @@
 		{"name":"TWNIC DNS Quad 101 (IP版)","url":"https://101.101.101.101/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤HiNet 中华电信 DNS","url":"https://dns.hinet.net/dns-query","ips":["168.95.1.1","168.95.192.1","2001:b000:168::1","2001:b000:168::2"]},
 		{"name":"----------分隔線----------","url":"","ips":["",""]},
-		{"name":"GarkyGod Cloudflare","url":"https://cdoh.garkygod.pp.ua","ips":[]},
-		{"name":"GarkyGod Google","url":"https://gdoh.garkygod.pp.ua","ips":[]},
 		{"name":"0ms DNS","url":"https://0ms.dev/dns-query","ips":["172.67.153.195","104.21.88.221"]},
 //		{"name":"¤AdGuard Default DNS","url":"https://dns.adguard-dns.com/dns-query","ips":["94.140.14.14","94.140.15.15","2a10:50c0::ad1:ff","2a10:50c0::ad2:ff"]},
 //		{"name":"¤AdGuard Unfiltered DNS","url":"https://unfiltered.adguard-dns.com/dns-query","ips":["94.140.14.140","94.140.14.141","2a10:50c0::1:ff","2a10:50c0::2:ff"]},
@@ -831,7 +831,7 @@
 //		{"name":"DNS.SB|bak","url":["https://doh.dns.sb/dns-query","https://dns.sb/dns-query"],"ips":["185.222.222.222","45.11.45.11","2a09::","2a11::"]},
 //		{"name":"※DNS.Watch","url":"https://resolver1.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40","2001:1608:10:25::1c04:b12f","2001:1608:10:25::9249:d69b"]},
 //		{"name":"¤FFMUC DNS","url":"https://doh.ffmuc.net/dns-query","ips":["5.1.66.255","185.150.99.255"]},
-//		{"name":"¤Fondation Restena DNS","url":"https://kaitain.restena.lu/dns-query","ips":[""]},
+//		{"name":"¤Fondation Restena DNS","url":"https://kaitain.restena.lu/dns-query","ips":[]},
 		{"name":"¤☆Google Public DNS","url":"https://8.8.4.4/dns-query","ips":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"]},
 //		{"name":"Google Public DNS|bak","url":["https://dns.google/dns-query","https://8.8.8.8/dns-query","https://8.8.4.4/dns-query","https://dns64.dns.google/dns-query"],"ips":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"]},
 //		{"name":"¤IIJ DNS","url":"https://public.dns.iij.jp/dns-query","ips":["103.2.57.6","103.2.57.5"]},
