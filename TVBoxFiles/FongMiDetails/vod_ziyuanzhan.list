@@ -808,6 +808,8 @@
 		{"name":"TWNIC DNS Quad 101 (IP版)","url":"https://101.101.101.101/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤HiNet 中华电信 DNS","url":"https://dns.hinet.net/dns-query","ips":["168.95.1.1","168.95.192.1","2001:b000:168::1","2001:b000:168::2"]},
 		{"name":"----------分隔線----------","url":"","ips":["",""]},
+		{"name":"GarkyGod Cloudflare","url":"https://cdoh.garkygod.pp.ua","ips":[]},
+		{"name":"GarkyGod Google","url":"https://gdoh.garkygod.pp.ua","ips":[]},
 		{"name":"0ms DNS","url":"https://0ms.dev/dns-query","ips":["172.67.153.195","104.21.88.221"]},
 //		{"name":"¤AdGuard Default DNS","url":"https://dns.adguard-dns.com/dns-query","ips":["94.140.14.14","94.140.15.15","2a10:50c0::ad1:ff","2a10:50c0::ad2:ff"]},
 //		{"name":"¤AdGuard Unfiltered DNS","url":"https://unfiltered.adguard-dns.com/dns-query","ips":["94.140.14.140","94.140.14.141","2a10:50c0::1:ff","2a10:50c0::2:ff"]},
