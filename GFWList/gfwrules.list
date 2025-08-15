@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-15 00:10:04
+!Last Modified: 2025-08-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5226,6 +5226,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||swapspace.co
 ||storry.tv
 ||standard.co.uk
 ||sagernet.org
@@ -9136,7 +9137,6 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||stheadline.com
 ||stweetly.com
 ||supjav.com
-||swapspace.co
 ||sytes.net
 ||sfileydy.com
 ||sftindia.org
