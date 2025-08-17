@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-17 00:10:04
+!Last Modified: 2025-08-18 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7153,9 +7153,27 @@ writer.zoho.com
 @@|https://cdn.ampproject.org/
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+||*.goog
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
+||*.google
+||*.youtube
+@@||*.googleanalytics.com
+@@||*.googlesyndication.com
+||livemap*.waze.com
+||worldtiles*.waze.com
 @@||www.ampproject.org
 ||blogspot.com
+||business.site
+||c.gle
 ||chromercise.com
+||dmarcnetworks.com
+||eurodasp.com
+||g-desktop.ru
+||goagle.de
+||gogle.de
+||googel.de
+||google-base.de
 ||google.ae
 ||google.am
 ||google.as
@@ -7208,6 +7226,14 @@ writer.zoho.com
 ||google.tt
 ||google.vu
 ||google.ws
+||googleanalytics.com
+||googlelocal.nl
+||googlemaps.sv
+||googlesyndication.com
+||gvideo.de
+||gvt0.com
+||gwave.com
+||huaibinmall.com
 ||igoogle.ae
 ||igoogle.am
 ||igoogle.as
@@ -7257,32 +7283,6 @@ writer.zoho.com
 ||igoogle.tt
 ||igoogle.vu
 ||igoogle.ws
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-||*.goog
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-||*.google
-||*.youtube
-@@||*.googleanalytics.com
-@@||*.googlesyndication.com
-||livemap*.waze.com
-||worldtiles*.waze.com
-||business.site
-||c.gle
-||dmarcnetworks.com
-||eurodasp.com
-||g-desktop.ru
-||goagle.de
-||gogle.de
-||googel.de
-||google-base.de
-||googleanalytics.com
-||googlelocal.nl
-||googlemaps.sv
-||googlesyndication.com
-||gvideo.de
-||gvt0.com
-||gwave.com
-||huaibinmall.com
 ||mypicasa.com
 ||sipml5.org
 ||striek.com
@@ -7302,9 +7302,9 @@ writer.zoho.com
 @@||mvdis.gov.tw
 ||krtco.com.tw
 @@||nici.nat.gov.tw
+@@||scitechvista.nat.gov.tw
 !!---edu.tw----
 ||eq.ccu.edu.tw
-@@||scitechvista.nat.gov.tw
 ||npm.edu.tw
 ||gcc.ntu.edu.tw
 ||flurry.com
@@ -8128,6 +8128,7 @@ writer.zoho.com
 ||gfw.org.ua
 ||ggjav.com
 ||ghanely.me
+||ghproxy.com
 ||giantessnight.com
 ||gifree.com
 ||giganews.com
@@ -8688,6 +8689,7 @@ writer.zoho.com
 ||mnewstv.com
 ||moby.to
 ||mobypicture.com
+||github.moeyy.xyz
 ||mofaxiehui.com
 ||mofos.com
 ||molihua.org
@@ -9704,6 +9706,7 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||xiaobaiwu.com
 ||xiaochuncnjp.com
 ||xiaod.in
+||xicons.org
 ||xiezhua.com
 ||xihua.es
 ||xinbao.de
@@ -9848,7 +9851,7 @@ phobos.apple.com*/video
 ||ttwstatic.com
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
-!--------------------Uncategorized---------------
+!--------------------Misc---------------
 ||z-lib.*
 ||z-library.*
 ||disk.yandex.*
