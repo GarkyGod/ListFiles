@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-18 00:10:04
+!Last Modified: 2025-08-19 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2463,6 +2463,8 @@ cyberghostvpn.com
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||deno.dev
+||docs.deno.com
 ||doom9.org
 ||dweb.link
 ||docker.io
@@ -2845,6 +2847,7 @@ eyevio.jp
 ||eyny.com
 .ezpeer.com
 !--------------------FF-------------------------
+||furrybar.com
 ||forbes.com
 ||financialexpress.com
 ||fast.com
@@ -4476,6 +4479,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||naver.com
 ||maven.neoforged.net
 ||nftstorage.link
 ||newindianexpress.com
@@ -7144,29 +7148,25 @@ writer.zoho.com
 ||facebook.net
 @@||about.fb.com
 ||sl-reverse.com
-@@|*.google-analytics.com
 ||gogole.com
+@@|*.google-analytics.com
 ||google-analytics.com
-||http://ampproject.org
-||https://ampproject.org
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
-@@|https://cdn.ampproject.org/
-/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
-/^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 ||*.goog
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||*.google
 ||*.youtube
-@@||*.googleanalytics.com
-@@||*.googlesyndication.com
-||livemap*.waze.com
-||worldtiles*.waze.com
+||http://ampproject.org
+||https://ampproject.org
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
+@@|https://cdn.ampproject.org/
 @@||www.ampproject.org
 ||blogspot.com
 ||business.site
 ||c.gle
 ||chromercise.com
+/^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+/^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 ||dmarcnetworks.com
 ||eurodasp.com
 ||g-desktop.ru
@@ -7226,9 +7226,11 @@ writer.zoho.com
 ||google.tt
 ||google.vu
 ||google.ws
+@@||*.googleanalytics.com
 ||googleanalytics.com
 ||googlelocal.nl
 ||googlemaps.sv
+@@||*.googlesyndication.com
 ||googlesyndication.com
 ||gvideo.de
 ||gvt0.com
@@ -7287,12 +7289,14 @@ writer.zoho.com
 ||sipml5.org
 ||striek.com
 ||swbusdev.com
+||livemap*.waze.com
+||worldtiles*.waze.com
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
-|http://store.steampowered.com
 ||steambroadcast.akamaized.net
 ||login.steampowered.com
+|http://store.steampowered.com
 !!---Twitter---
 @@||www.gov.tw
 @@||tacc.cwb.gov.tw
@@ -7377,8 +7381,6 @@ writer.zoho.com
 ||91jinman.com
 ||991.com
 ||99cn.info
-||s3*.amazonaws.com
-||fbcdn*.akamaihd.net
 ||a5vpn.com
 ||aamacau.com
 ||abc.com
@@ -7404,6 +7406,7 @@ writer.zoho.com
 ||aiweiwei.com
 ||akademiye.org
 ||a771.dscq.akamai.net
+||fbcdn*.akamaihd.net
 ||foxnewsplayer-a.akamaihd.net
 ||rthklive2-lh.akamaihd.net
 ||rfalive1.akacast.akamaistream.net
@@ -7425,6 +7428,7 @@ writer.zoho.com
 ||alljackpotscasino.com
 ||almasdarnews.com
 ||alphaporno.com
+||s3*.amazonaws.com
 ||ameba.jp
 ||amigobbs.net
 ||amitabhafoundation.us
@@ -7590,8 +7594,6 @@ writer.zoho.com
 ||buzzhand.com
 ||bwsj.hk
 ||bx.tl
-||chinesetalks.net/ch
-|*app.cloudcone.com
 ||c100tibet.org
 ||dot.ca.gov
 ||cachinese.com
@@ -7681,6 +7683,7 @@ writer.zoho.com
 ||chinese-leaders.org
 ||chinesedaily.com
 ||chinesepen.org
+||chinesetalks.net
 ||chinman.net
 ||chithu.org
 ||chn.chosun.com
@@ -7715,6 +7718,7 @@ writer.zoho.com
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
+|*app.cloudcone.com
 ||cloudokyo.cloud
 ||cmoinc.org
 ||cmule.org
@@ -7851,7 +7855,6 @@ writer.zoho.com
 ||dw-world.de
 ||dzze.com
 ||gloryhole.com
-|*apps.evozi.com
 ||e-hentaidb.com
 ||e-info.org.tw
 ||e-traderland.net
@@ -7924,6 +7927,7 @@ writer.zoho.com
 ||eu.org
 ||eucasino.com
 ||eulam.com
+|*apps.evozi.com
 ||excite.co.jp
 ||experts-univers.com
 ||extrabux.com
@@ -8509,8 +8513,6 @@ writer.zoho.com
 ||kyohk.net
 ||kyoyue.com
 ||kyzyhello.com
-|*ocsp.int-x3.letsencrypt.org
-|*parts.blog.livedoor.jp
 ||la-forum.org
 ||ladbrokes.com
 ||lalulalu.com
@@ -8532,6 +8534,7 @@ writer.zoho.com
 ||leisurecafe.ca
 ||lemonde.fr
 ||lerosua.org
+|*ocsp.int-x3.letsencrypt.org
 ||ss.levyhsu.com
 ||lhakar.org
 ||lhasocialwork.org
@@ -8554,6 +8557,7 @@ writer.zoho.com
 ||liuhanyu.com
 ||liujianshu.com
 ||livedoor.jp
+|*parts.blog.livedoor.jp
 ||livestation.com
 ||livingonline.us
 ||liwangyang.com
@@ -9029,9 +9033,6 @@ writer.zoho.com
 ||qwant.com
 ||qx.net
 ||qxbbs.org
-ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
-||v.rn*.xyz
-||v.roucdn*.xyz
 ||ra.gg
 ||radicalparty.org
 ||opml.radiotime.com
@@ -9078,11 +9079,14 @@ ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||roucdn.link
 ||rsgamen.org
 ||rtycminnesota.org
+ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 ||rukor.org
 ||runbtx.com
 ||rutube.ru
 ||ruyiseek.com
 ||rxhj.net
+||v.rn*.xyz
+||v.roucdn*.xyz
 ||s-dragon.org
 ||s-nbcnews.com
 ||s1heng.com
@@ -9851,7 +9855,7 @@ phobos.apple.com*/video
 ||ttwstatic.com
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
-!--------------------Misc---------------
+!------------------Misc------------------
 ||z-lib.*
 ||z-library.*
 ||disk.yandex.*
@@ -10102,7 +10106,6 @@ phobos.apple.com*/video
 ||cdbook.info
 ||changeip.org
 ||chinatimes.com
-||chinesetalks.net
 ||chosun.com
 ||chromeenterprise.google
 ||city365.ca
