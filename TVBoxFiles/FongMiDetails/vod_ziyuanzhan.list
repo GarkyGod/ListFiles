@@ -139,33 +139,6 @@
 		},
 
 		{
-		"key":"key_feisu",  // https://feisuzy.com/  // https://help.feisuzyapi.com/
-		"name":"📡資源站|飛速|Bug",
-		"type":1,  // "type":0,
-		"api":"https://www.feisuzyapi.com/api.php/provide/vod/",  // "api":"https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1
-//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","其他片","电视剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","泰国剧","欧美剧","其他剧","短剧","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","体育赛事","电影解说","求片留言"],
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//			}
-		},
-
-		{
-		"key":"key_fczy",  // https://fczy888.com/  // https://fczy888.me/  // https://fczy888.vip/
-		"name":"📡資源站|蜂巢",
-		"type":1,  // "type":0,
-		"api":"https://api.fczy888.me/api.php/provide/vod/",  // "api":"https://api.fczy888.me/api.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//			}
-		},
-
-		{
 		"key":"key_guangsu",  // https://www.guangsuzy.com/  // https://guangsuzy.net/
 		"name":"📡資源站|光速",
 		"type":1,  // "type":0,
