@@ -74,12 +74,12 @@
 			"type":1,  // "type":0,
 			"api":"https://360zy.com/api.php/provide/vod/",  // "api":"https://360zy.com/api.php/provide/vod/at/xml",
 			"searchable":1,
-			"changeable":1
+			"changeable":1,
 //			"categories":["电影","连续剧","综艺","动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","体育","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","足球","篮球","未分类","西部片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","反转爽剧","女频恋爱","成长逆袭"],
-//			"header":{
-//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//				}
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+				}
 		},
 
 		{
