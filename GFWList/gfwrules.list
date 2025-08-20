@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-20 00:10:04
+!Last Modified: 2025-08-21 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6227,6 +6227,7 @@ twurl.nl
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||udomain.hk
 ||upbit.com
 ||demo.unlock-music.dev
 .u9un.com
@@ -6957,7 +6958,6 @@ writer.zoho.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
-@@||storage.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||connectivitycheck.gstatic.com
@@ -9839,6 +9839,7 @@ phobos.apple.com*/video
 @@||fontfiles.googleapis.com
 @@||imasdk.googleapis.com
 @@||performanceparameters.googleapis.com
+@@||storage.googleapis.com
 @@||tac.googleapis.com
 @@||wear.googleapis.com
 @@||gstatic.cn
