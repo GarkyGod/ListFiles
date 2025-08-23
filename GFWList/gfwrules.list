@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-23 00:10:04
+!Last Modified: 2025-08-24 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2848,6 +2848,8 @@ eyevio.jp
 ||eyny.com
 .ezpeer.com
 !--------------------FF-------------------------
+||fuckccp.xyz
+||fuckccp.com
 ||furrybar.com
 ||forbes.com
 ||financialexpress.com
