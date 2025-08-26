@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-26 00:10:05
+!Last Modified: 2025-08-27 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1203,6 +1203,7 @@ cn.nytstyle.com
 ||vine.co
 ||x.com
 !!---Taiwan---
+||moj.gov.tw
 ||gov.taipei
 .gov.tw
 |https://aiss.anws.gov.tw
@@ -2848,6 +2849,7 @@ eyevio.jp
 ||eyny.com
 .ezpeer.com
 !--------------------FF-------------------------
+||feedly.com
 ||fuckccp.xyz
 ||fuckccp.com
 ||furrybar.com
@@ -7987,7 +7989,6 @@ writer.zoho.com
 ||fdc64.jp
 ||fdc64.org
 ||fdc89.jp
-||feedly.com
 ||feer.com
 ||feifeiss.com
 ||feitian-california.org
@@ -8169,7 +8170,6 @@ writer.zoho.com
 ||gooddns.info
 ||goodtv.com.tw
 ||goodtv.tv
-||googlesile.com
 ||goproxing.net
 ||grandtrial.org
 ||grangorz.org
@@ -9827,17 +9827,17 @@ ultrasurf
 phobos.apple.com*/video
 @@||c.admob.com
 @@||adtrafficquality.google
-@@||ggpht.cn
+||crashlytics.com
+@@||firebase-settings.crashlytics.com
 @@||www.google-analytics.com
-@@||google.cn
 @@||cache.pack.google.com
 @@||corp.google.com
 @@||dl.l.google.com
 @@||pagead-googlehosted.l.google.com
+@@||safebrowsing-cache.google.com
 @@||ssl-google-analytics.l.google.com
 @@||tools.l.google.com
 @@||www-googletagmanager.l.google.com
-@@||googleapis.cn
 @@||crashlyticsreports-pa.googleapis.com
 @@||emmapplecodevice.googleapis.com
 @@||fontfiles.googleapis.com
@@ -9846,7 +9846,7 @@ phobos.apple.com*/video
 @@||storage.googleapis.com
 @@||tac.googleapis.com
 @@||wear.googleapis.com
-@@||gstatic.cn
+||googlesile.com
 @@||checkin.gstatic.com
 @@||www.gstatic.com
 @@||c.pki.goog
