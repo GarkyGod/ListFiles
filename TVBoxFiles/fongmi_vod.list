@@ -1,44 +1,28 @@
 {
 	"urls":[
 		{
-			"url":"./FongMiDetails/vod_bak.list",
-			"name":"Backup"
+			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
+			"name":"📺️資源站"
 		},
 		{
-			"url":"./FongMiDetails/vod_ziyuanzhan.list",
-			"name":"📡資源站"
+			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
+			"name":"📺️Backup"
 		},
 		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-		"name":"高天流云No.1"
+			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"name":"🔞NSFW"
 		},
 		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-		"name":"高天流云PG"
+			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
+			"name":"📺️資源站|G"
 		},
 		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-		"name":"高天流云FTY"
+			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
+			"name":"📺️Backup|G"
 		},
 		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-		"name":"高天流云FM"
-		},
-		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-		"name":"高天流云JS"
-		},
-		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-		"name":"高天流云XYQ"
-		},
-		{
-		"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-		"name":"高天流云NSFW"
-		},
-		{
-			"url":"./FongMiDetails/nsfw.list",
-			"name":"NSFW"
+			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"name":"🔞NSFW|G"
 		}
 	]
 }
