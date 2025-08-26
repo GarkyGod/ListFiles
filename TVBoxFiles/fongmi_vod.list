@@ -1,10 +1,15 @@
 {
 	"urls":[
+//------------------------------=網絡源=------------------------------
 		{
 			"url":"https://gh.noki.eu.org/https://github.com/qist/tvbox/raw/master/xiaosa/api.json",
-			"name":"📺️瀟灑API"
+			"name":"📺️瀟灑源API"
 		},
-
+		{
+			"url":"https://gh.noki.eu.org/https://github.com/qist/tvbox/raw/master/dianshi.json",
+			"name":"📺️qist自用源API"
+		},
+//------------------------------=自建源=------------------------------
 		{
 			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
 			"name":"📺️資源站"
@@ -17,7 +22,7 @@
 			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
 			"name":"🔞NSFW"
 		},
-
+//------------------------------=代理=------------------------------
 		{
 			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
 			"name":"📺️資源站|G"
