@@ -1,7 +1,4 @@
-DOMAIN-KEYWORD,64memo
-DOMAIN-KEYWORD,aHR0cHM6Ly95ZWNsLm5ldA
 DOMAIN-KEYWORD,btsow
-DOMAIN-KEYWORD,freenet
 DOMAIN-KEYWORD,gle
 DOMAIN-KEYWORD,goog
 DOMAIN-KEYWORD,google
@@ -9,8 +6,6 @@ DOMAIN-KEYWORD,linetv
 DOMAIN-KEYWORD,quanben
 DOMAIN-KEYWORD,soymilk
 DOMAIN-KEYWORD,tumblrviewer
-DOMAIN-KEYWORD,ultrareach
-DOMAIN-KEYWORD,ultrasurf
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
@@ -123,6 +118,7 @@ DOMAIN-SUFFIX,51luoben.com
 DOMAIN-SUFFIX,5278.cc
 DOMAIN-SUFFIX,5299.tv
 DOMAIN-SUFFIX,55comic.com
+DOMAIN-SUFFIX,5657.com.tw
 DOMAIN-SUFFIX,5aimiku.com
 DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,5isotoi5.org
@@ -3467,9 +3463,9 @@ DOMAIN-SUFFIX,jav68.tv
 DOMAIN-SUFFIX,jav777.cc
 DOMAIN-SUFFIX,javakiba.org
 DOMAIN-SUFFIX,javarchive.com
-DOMAIN-SUFFIX,javbus.
 DOMAIN-SUFFIX,javbus.co
 DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javbus.sbs
 DOMAIN-SUFFIX,javcdn.vip
 DOMAIN-SUFFIX,javcloud.com
 DOMAIN-SUFFIX,javdb.com
@@ -3680,6 +3676,7 @@ DOMAIN-SUFFIX,korenan2.com
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,kqes.net
 DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,krtc.com.tw
 DOMAIN-SUFFIX,krtco.com.tw
 DOMAIN-SUFFIX,ksdl.org
 DOMAIN-SUFFIX,ksnews.com.tw
@@ -5197,7 +5194,6 @@ DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,releaseinternational.org
 DOMAIN-SUFFIX,religionnews.com
 DOMAIN-SUFFIX,religioustolerance.org
-DOMAIN-SUFFIX,remembering_tiananmen_20_years
 DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,renyurenquan.org
 DOMAIN-SUFFIX,rerouted.org
@@ -7108,6 +7104,7 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.com.hk
 DOMAIN-SUFFIX,yahoo.com.tw
 DOMAIN-SUFFIX,yahoo.net
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yam.com
