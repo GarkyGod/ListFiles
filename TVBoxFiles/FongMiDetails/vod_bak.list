@@ -266,45 +266,10 @@
 			"searchable":1,
 			"ext":"1"
 		},
-		{
-			"key":"18A",
-			"name":"18A(18+)",
-			"type":3,
-			"api":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/18a_open.js",
-			"searchable":1,
-			"recordable":0,
-			"style":{"type":"rect","ratio":1.333}
-		},
+
 
 		{
-			"key":"key_uiviki",
-			"name":"91網曝黑料(18+)",
-			"type":3,
-			"jar":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/c (1).txt",
-//			"jar":"https://gh.noki.eu.org/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar",
-			"api":"csp_XBPQ",
-			"searchable": 1,
-			"recordable":0,
-			"ext":{
-				"主页url":"https://kb17.oneoneno8cd345.xyz/one",
-				"首页":"400",
-				"请求头": "User-Agent$PC_UA",
-				"数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",
-				"二次截取": "<div class=\"videoListBox\"&&el-pagination is-background",
-				"标题": "title\">&&</p>",
-				"副标题": "time\">&&</div>",
-				"链接": "https://kb17.oneoneno8cd345.xyz/v/+href=\"/voddetail/&&/\"+/sid/1/nid/1/",
-				"图片": "data-src=\"&&\"",
-				"跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
-				"搜索url": "https://kb17.oneoneno8cd345.xyz/s/wd/{wd}/",
-				"分类url": "https://kb17.oneoneno8cd345.xyz/t/{cateId}-{catePg}/;;z",
-				"分类数组": "<a&&</a>",
-				"分类标题": ">&&</a>",
-				"分类ID": "/t/&&/"
-			}
-		},
-		{
-			"key":"aosikazy.com",
+			"key":"aosikazy.com",  // https://aosikazy.com/
 			"name":"奥斯卡资源(18+)",
 			"type":1,  // 0,
 			"api":"https://aosikazy.com/api.php/provide/vod/",  // "https://aosikazy.com/api.php/provide/vod/at/xml",
@@ -317,10 +282,10 @@
 			}
 		},
 		{
-			"key":"baiwanzy",    // http://bwzy.tv/
+			"key":"baiwanzy",    // http://bwzyz.tv/  // http://bwzyz.com/
 			"name":"百萬资源(18+)",
 			"type":1,  // "type":0,
-			"api":"https://api.bwzym3u8.com/api.php/provide/vod/",  // "api":"https://api.bwzym3u8.com/api.php/provide/vod/at/xml/",
+			"api":"https://api.bwzyz.com/api.php/provide/vod/",  // "api":"https://api.bwzyz.com/api.php/provide/vod/at/xml/",  // "api":"https://api.bwzym3u8.com/api.php/provide/vod/",  // "api":"https://api.bwzym3u8.com/api.php/provide/vod/at/xml/",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
@@ -330,7 +295,7 @@
 			}
 		},
 		{
-			"key":"senlinzy.com",
+			"key":"senlinzy.com",  // http://senlinzy.com/
 			"name":"森林资源(18+)",
 			"type":1,  // 0,
 			"api":"https://slapibf.com/api.php/provide/vod/",  // "https://slapibf.com/api.php/provide/vod/at/xml",
@@ -946,7 +911,7 @@
 	{"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"]},
 //		{"name":"辣椒資源(18+)","hosts":["ljbfbf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-ENDLIST"]},
 	{"name":"辣椒資源(18+)","hosts":["ljbfbf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-	{"name":"奥斯卡资源(18+)","hosts":["askzycdn.com","bfaskbwerve.com"],"regex":["#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"奥斯卡资源(18+)","hosts":["askzycdn.com","bfaskbwerve.com"],"regex":["#EXT-X-KEY:METHOD=NONE\\s+.*?#EXT-X-DISCONTINUITY"]},
 	{"name":"玉兔资源(18+)","hosts":["lsbbf2.com"],"regex":["#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 
 		{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","请访问","example","社區","社 區","xuu","x u u","最新","最 新","直播","直 播","更新","更 新","社区","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
