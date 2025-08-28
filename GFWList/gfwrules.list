@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-08-28 00:10:04
+!Last Modified: 2025-08-29 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6991,16 +6991,6 @@ writer.zoho.com
 @@||zhongsou.com
 @@|http://ime.baidu.jp
 !---------------------EOF-----------------------
-!---------403/451/520 & URL Redirects---------
-||guo.media
-||gamer-cds.cdn.hinet.net
-||gamer2-cds.cdn.hinet.net
-||nordstrommedia.com
-||nudezz.com
-||pandora.tv
-||riseup.net
-||search.xxx
-||shiksha.ws
 ||aiv-cdn.net
 ||aiv-delivery.net
 ||atv-ext.amazon.com
@@ -7184,6 +7174,7 @@ writer.zoho.com
 ||google.be
 ||google.bg
 ||google.ca
+||google.cat
 ||google.cd
 ||google.ci
 ||google.co.id
@@ -7370,6 +7361,7 @@ writer.zoho.com
 ||66.ca
 ||666kb.com
 ||69shu.com
+||69shuba.com
 ||7cow.com
 ||7mmtv.tv
 ||8-d.com
@@ -7850,7 +7842,6 @@ writer.zoho.com
 ||dstk.dk
 ||dtwang.org
 ||duanzhihu.com
-||duckdns.org
 ||duga.jp
 ||dunyabulteni.net
 ||duoweitimes.com
@@ -8191,6 +8182,7 @@ writer.zoho.com
 ||guaneryu.com
 ||guangming.com.my
 ||guardster.com
+||guo.media
 ||guruonline.hk
 ||gyalwarinpoche.com
 ||gyatsostudio.com
@@ -8252,6 +8244,8 @@ writer.zoho.com
 ||himalaya.exchange
 ||himalayanglacier.com
 ||himemix.net
+||gamer-cds.cdn.hinet.net
+||gamer2-cds.cdn.hinet.net
 ||hitomi.la
 ||hizb-ut-tahrir.info
 ||hizb-ut-tahrir.org
@@ -8808,6 +8802,7 @@ writer.zoho.com
 ||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
+||nordstrommedia.com
 ||notion.site
 ||novelasia.com
 ||news.now.com
@@ -8823,6 +8818,7 @@ writer.zoho.com
 ||ntdtvla.com
 ||ntrfun.com
 ||nubiles.net
+||nudezz.com
 ||nukistream.com
 ||nuvid.com
 ||nvquan.org
@@ -8896,6 +8892,7 @@ writer.zoho.com
 ||paljorpublications.com
 ||paltalk.com
 ||pandapow.net
+||pandora.tv
 ||panluan.net
 ||paperb.us
 ||paperclip.tk
@@ -9068,6 +9065,7 @@ writer.zoho.com
 ||rfamobile.org
 ||rfaweb.org
 ||rigpa.org
+||riseup.net
 ||ritouki.jp
 ||rlcdn.com
 ||rmjdw.com
@@ -9110,6 +9108,7 @@ writer.zoho.com
 ||scmpchinese.com
 ||seapuff.com
 ||domainhelp.search.com
+||search.xxx
 ||searchtruth.com
 ||securityinabox.org
 ||see.xxx
@@ -9154,6 +9153,7 @@ writer.zoho.com
 ||sherabgyaltsen.com
 ||shiatv.net
 ||shicheng.org
+||shiksha.ws
 ||shipcamouflage.com
 ||shireyishunjian.com
 ||shitaotv.org
@@ -9832,6 +9832,7 @@ writer.zoho.com
 @@||www.gstatic.com
 @@||c.pki.goog
 @@||crl.pki.goog
+@@||o.pki.goog
 !-------------------Other--------------------
 !--------------------tiktok---------------------
 ||byteoversea.com
@@ -10181,6 +10182,7 @@ writer.zoho.com
 ||dtvcdn.com
 ||dtvce.com
 ||duboku.tv
+||duckdns.org
 ||duckload.com
 ||dumb1.com
 ||dupola.com
@@ -10283,7 +10285,6 @@ writer.zoho.com
 ||google.bt
 ||google.by
 ||google.calstate.edu
-||google.cat
 ||google.cf
 ||google.cg
 ||google.ch
