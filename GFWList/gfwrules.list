@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-03 00:10:04
+!Last Modified: 2025-09-04 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7377,7 +7377,6 @@ writer.zoho.com
 ||a5vpn.com
 ||aamacau.com
 ||abc.com
-||abchinese.com
 ||ablwang.com
 ||aceros-de-hispania.com
 ||acgbox.link
@@ -7579,6 +7578,8 @@ writer.zoho.com
 ||brockbbs.com
 ||brucewang.net
 ||bt2mag.com
+||bt4g.org
+||bt4gprx.com
 ||btaia.com
 ||btspread.com
 ||btsynckeys.com
@@ -7875,7 +7876,6 @@ writer.zoho.com
 ||economist.com
 ||ecstart.com
 ||edicypages.com
-||edmontonchina.cn
 ||edoors.com
 ||edrdg.org
 ||edupro.org
@@ -9886,6 +9886,7 @@ writer.zoho.com
 ||a.se
 ||aave.com
 ||ab.co
+||abchinese.com
 ||abclite.net
 ||about.google
 ||aboutgfw.com
@@ -10194,6 +10195,7 @@ writer.zoho.com
 ||dynssl.com
 ||dzcdn.net
 ||echainhost.com
+||edmontonchina.cn
 ||edmontonservice.com
 ||eeas.europa.eu
 ||electrek.co
