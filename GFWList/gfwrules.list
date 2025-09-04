@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-04 00:10:04
+!Last Modified: 2025-09-05 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7147,8 +7147,8 @@ writer.zoho.com
 ||*.goog
 ||*.google
 ||*.youtube
-||http://ampproject.org
-||https://ampproject.org
+|http://ampproject.org
+|https://ampproject.org
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
 @@||www.ampproject.org
@@ -9827,7 +9827,6 @@ writer.zoho.com
 @@||storage.googleapis.com
 @@||tac.googleapis.com
 @@||wear.googleapis.com
-||googlesile.com
 @@||checkin.gstatic.com
 @@||www.gstatic.com
 @@||c.pki.goog
@@ -10421,6 +10420,7 @@ writer.zoho.com
 ||google.vg
 ||googleapis.cn
 ||googlelabs.com
+||googlesile.com
 ||googletagmanager.com
 ||got-game.org
 ||gr8domain.biz
