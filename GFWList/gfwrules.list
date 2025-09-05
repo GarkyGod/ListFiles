@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-05 00:10:04
+!Last Modified: 2025-09-06 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1772,6 +1772,8 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bt4gprx.com
+||bt4g.org
 ||betterhash.net
 ||binance.org
 ||bitget.com
@@ -5688,6 +5690,7 @@ blog.syx86.com/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||tanks.gg
 ||thehansindia.com
 ||rtm.tnt-ea.com
 ||tellapart.com
@@ -7578,8 +7581,6 @@ writer.zoho.com
 ||brockbbs.com
 ||brucewang.net
 ||bt2mag.com
-||bt4g.org
-||bt4gprx.com
 ||btaia.com
 ||btspread.com
 ||btsynckeys.com
