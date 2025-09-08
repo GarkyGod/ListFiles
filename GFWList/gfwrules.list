@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-08 00:10:04
+!Last Modified: 2025-09-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7736,6 +7736,7 @@ writer.zoho.com
 ||code1984.com
 ||comic-mega.me
 ||commandarms.com
+||ironbigfools.compython.net
 ||congyu.moe
 ||contactmagazine.net
 ||coobay.com
@@ -7926,7 +7927,6 @@ writer.zoho.com
 ||eu.org
 ||eucasino.com
 ||eulam.com
-|*apps.evozi.com
 ||excite.co.jp
 ||experts-univers.com
 ||extrabux.com
@@ -8331,7 +8331,7 @@ writer.zoho.com
 ||huyandex.com
 ||hwadzan.tw
 ||hysteria.network
-||ironbigfools.compython.net
+/^https?:\/\/(?:api\.)?ipify\.org/
 ||i-cable.com
 ||i-part.com.tw
 ||i1.hk
@@ -9755,6 +9755,7 @@ writer.zoho.com
 ||yilubbs.com
 ||yingsuoss.com
 ||yobt.com
+||yodobashi.com
 ||yolasite.com
 ||yomiuri.co.jp
 ||yong.hu
