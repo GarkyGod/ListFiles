@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-14 00:10:04
+!Last Modified: 2025-09-15 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7147,9 +7147,6 @@ writer.zoho.com
 ||facebook.net
 @@||about.fb.com
 ||sl-reverse.com
-||gogole.com
-@@|*.google-analytics.com
-||google-analytics.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||*.goog
@@ -7157,8 +7154,8 @@ writer.zoho.com
 ||*.youtube
 |http://ampproject.org
 |https://ampproject.org
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@||www.ampproject.org
 ||blogspot.com
 ||business.site
@@ -7171,7 +7168,10 @@ writer.zoho.com
 ||g-desktop.ru
 ||goagle.de
 ||gogle.de
+||gogole.com
 ||googel.de
+@@|*.google-analytics.com
+||google-analytics.com
 ||google-base.de
 ||google.ae
 ||google.am
@@ -7185,6 +7185,7 @@ writer.zoho.com
 ||google.cat
 ||google.cd
 ||google.ci
+||google.co
 ||google.co.id
 ||google.co.jp
 ||google.co.kr
@@ -9257,6 +9258,7 @@ writer.zoho.com
 ||sspanel.org
 ||sspro.ml
 ||sss.camp
+||stackoverflow.com
 ||stage64.hk
 ||starfishfx.com
 ||startuplivingchina.com
@@ -10932,7 +10934,6 @@ writer.zoho.com
 ||ssl443.org
 ||sstatic.net
 ||st-hatena.com
-||stackoverflow.com
 ||stanford.edu
 ||statically.io
 ||statsigapi.net
