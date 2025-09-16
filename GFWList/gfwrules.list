@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-16 00:14:41
+!Last Modified: 2025-09-17 00:21:31
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7591,6 +7591,7 @@ writer.zoho.com
 ||brucewang.net
 ||bt2mag.com
 ||btaia.com
+||btloader.com
 ||btspread.com
 ||btsynckeys.com
 ||buddhistchannel.tv
