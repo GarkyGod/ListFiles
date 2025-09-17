@@ -269,10 +269,10 @@
 
 
 		{
-			"key":"aosikazy.com",  // https://aosikazy.com/
+			"key":"aosikazy.com",  // https://aosikazy.com/ |proxy // https://aosikazy1.com/ ...... https://aosikazy9.com/
 			"name":"奥斯卡资源(18+)",
 			"type":1,  // 0,
-			"api":"https://aosikazy.com/api.php/provide/vod/",  // "https://aosikazy.com/api.php/provide/vod/at/xml",
+			"api":"https://aosikazy1.com/api.php/provide/vod/",  // "https://aosikazy1.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"recordable":0,
 			"style":{"type":"rect","ratio":1.333},
