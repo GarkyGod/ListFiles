@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-22 00:10:04
+!Last Modified: 2025-09-23 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6257,7 +6257,6 @@ twurl.nl
 .srcf.ucam.org/salon/
 |http://china.ucanews.com/
 |http://hum*.uchicago.edu/faculty/ywang/history
-||uderzo.it
 .udn.com
 ||udn.com
 ||udn.com.tw
@@ -11062,6 +11061,7 @@ writer.zoho.com
 ||typecho.org
 ||ucam.org
 ||uchicago.edu
+||uderzo.it
 ||uk.to
 ||ulike.net
 ||ulivetv.net
