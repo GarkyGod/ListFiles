@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-24 00:10:04
+!Last Modified: 2025-09-25 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2072,6 +2072,7 @@ busytrade.com
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
 ||coffeemanga.to
@@ -3645,6 +3646,7 @@ hxwq.org
 ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||interseclab.org
 ||ipify.org
 @@||*.ipify.org
 ||itiger.com
