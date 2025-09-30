@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-09-30 00:10:05
+!Last Modified: 2025-10-01 00:10:06
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7614,6 +7614,7 @@ writer.zoho.com
 ||c100tibet.org
 ||dot.ca.gov
 ||cachinese.com
+||cacnews.ca
 ||cacnw.com
 ||cafepress.com
 ||cahr.org.tw
