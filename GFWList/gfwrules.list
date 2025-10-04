@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-04 00:10:04
+!Last Modified: 2025-10-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4272,7 +4272,7 @@ maskedip.com
 maruta.be/forget
 .marxist.com
 ||marxist.net
-.marxists.org/chinese
+||marxists.org
 ||matainja.com
 ||matrix.org
 ||matters.town
@@ -9479,7 +9479,7 @@ writer.zoho.com
 ||twisterio.com
 ||twitmania.com
 ||typekit.net
-||blogs.tampabay.com
+||tampabay.com
 ||teenfucks.org
 ||turbotwitter.com
 ||tweeplike.me
@@ -10662,7 +10662,6 @@ writer.zoho.com
 ||mailchimp.com
 ||manicur4ik.ru
 ||maruta.be
-||marxists.org
 ||matsushimakaede.com
 ||maturejp.com
 ||maying.co
@@ -10984,7 +10983,6 @@ writer.zoho.com
 ||taconet.com.tw
 ||tahr.org.tw
 ||taiwanonline.cc
-||tampabay.com
 ||tapecontent.net
 ||taragana.com
 ||target.com
