@@ -85,6 +85,19 @@
 		},
 //	////////////////////////////////////// 🎦資源站 //////////////////////////////////////
 		{
+			"key":"key_360zy",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/
+			"name":"📡資源站|360",
+			"type":1,  // "type":0,
+			"api":"https://360zy.com/api.php/provide/vod/",  // "api":"https://360zy.com/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"changeable":1,
+			"categories":["电影","连续剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","体育","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","足球","篮球","未分类","西部片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","反转爽剧","女频恋爱","成长逆袭"],
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+				}
+		},
+		{
 		"key":"key_bdzy",  // https://bdzy.com/  // https://api.apibdzy.com/
 		"name":"📡資源站|百度",
 		"type":1,  // "type":0,
@@ -100,7 +113,11 @@
 		"api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"]
+		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+			}
 		},
 		{
 		"key":"key_feifan",  // http://www.ffzy.tv
@@ -118,7 +135,11 @@
 		"api":"https://hhzyapi.com/api.php/provide/vod/",  // "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","短剧","电影","动作片","喜剧片","爱情片","科幻片","奇幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","记录片","动画片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+		"categories":["电视剧","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","短剧","电影","动作片","喜剧片","爱情片","科幻片","奇幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","记录片","动画片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+			}
 		},
 		{
 		"key":"key_jisu",  // https://jisuzy.com/  // https://jisuzy.tv/  // http://www.jisuziyuan.com/
@@ -127,84 +148,88 @@
 		"api":"https://jszyapi.com/api.php/provide/vod/",  // "api":"https://jszyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-		"categories":["电视剧","日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","奇幻片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]
-		},
-//	////////////////////////////////////// Jar動漫 //////////////////////////////////////
-		{
-			"key":"key_csp_Dm84",  // https://dm84.tv/
-			"name":"🎨動漫|動漫巴士",
-			"type":3,
-			"api":"csp_Dm84",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"key_csp_Ying",  // https://www.iyhdmm.com
-			"name":"🎨動漫|櫻花動漫",
-			"type":3,
-			"api":"csp_Ying",
-			"searchable":1,
-			"changeable":1
-		},
-		{
-			"key":"key_csp_Ysj",  // https://www.dmmiku.com  // https://www.lldm.net/
-			"name":"🎨動漫|異世界動漫",
-			"type":3,
-			"api":"csp_Ysj",
-			"searchable":1,
-			"changeable":1
-		},
-//	////////////////////////////////////// 雜項 //////////////////////////////////////
-		{
-			"key":"key_csp_Bili",  // https://www.bilibili.com
-			"name":"🎭雜項|嗶哩嗶哩",
-			"type":3,
-			"api":"csp_Bili",
-			"searchable":1,
-			"changeable":0,
-			"style":{
-				"type":"rect",
-				"ratio":1.433
-			},
-			"ext":{
-				"json":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-				"type":"",
-				"cookie":""
+		"categories":["电视剧","日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","奇幻片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 			}
 		},
-		{
-			"key":"key_csp_FirstAid",  // https://m.youlai.cn
-			"name":"🎭雜項|有來醫生",
-			"type":3,
-			"api":"csp_FirstAid",
-			"searchable":0,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_Kugou",  // https://www.kugou.com/
-			"name":"🎭雜項|酷狗音樂",
-			"type":3,
-			"api":"csp_Kugou",
-			"searchable":0,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_JustLive",  // http://live.yj1211.work
-			"name":"🎭直播|JustLive",
-			"type":3,
-			"api":"csp_JustLive",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_Kanqiu",  // http://www.88kanqiu.one
-			"name":"🎭競賽|88看球",
-			"type":3,
-			"api":"csp_Kanqiu",
-			"searchable":1,
-			"changeable":0,
-			"style":{"type":"list"}
-		},
+//	////////////////////////////////////// Jar動漫 //////////////////////////////////////
+//		{
+//			"key":"key_csp_Dm84",  // https://dm84.tv/
+//			"name":"🎨動漫|動漫巴士",
+//			"type":3,
+//			"api":"csp_Dm84",
+//			"searchable":1,
+//			"changeable":1
+//		},
+//		{
+//			"key":"key_csp_Ying",  // https://www.iyhdmm.com
+//			"name":"🎨動漫|櫻花動漫",
+//			"type":3,
+//			"api":"csp_Ying",
+//			"searchable":1,
+//			"changeable":1
+//		},
+//		{
+//			"key":"key_csp_Ysj",  // https://www.dmmiku.com  // https://www.lldm.net/
+//			"name":"🎨動漫|異世界動漫",
+//			"type":3,
+//			"api":"csp_Ysj",
+//			"searchable":1,
+//			"changeable":1
+//		},
+//	////////////////////////////////////// 雜項 //////////////////////////////////////
+//		{
+//			"key":"key_csp_Bili",  // https://www.bilibili.com
+//			"name":"🎭雜項|嗶哩嗶哩",
+//			"type":3,
+//			"api":"csp_Bili",
+//			"searchable":1,
+//			"changeable":0,
+//			"style":{
+//				"type":"rect",
+//				"ratio":1.433
+//			},
+//			"ext":{
+//				"json":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+//				"type":"",
+//				"cookie":""
+//			}
+//		},
+//		{
+//			"key":"key_csp_FirstAid",  // https://m.youlai.cn
+//			"name":"🎭雜項|有來醫生",
+//			"type":3,
+//			"api":"csp_FirstAid",
+//			"searchable":0,
+//			"changeable":0
+//		},
+//		{
+//			"key":"key_csp_Kugou",  // https://www.kugou.com/
+//			"name":"🎭雜項|酷狗音樂",
+//			"type":3,
+//			"api":"csp_Kugou",
+//			"searchable":0,
+//			"changeable":0
+//		},
+//		{
+//			"key":"key_csp_JustLive",  // http://live.yj1211.work
+//			"name":"🎭直播|JustLive",
+//			"type":3,
+//			"api":"csp_JustLive",
+//			"searchable":1,
+//			"changeable":0
+//		},
+//		{
+//			"key":"key_csp_Kanqiu",  // http://www.88kanqiu.one
+//			"name":"🎭競賽|88看球",
+//			"type":3,
+//			"api":"csp_Kanqiu",
+//			"searchable":1,
+//			"changeable":0,
+//			"style":{"type":"list"}
+//		},
 
 //	////////////////////////////////////// 📡搜索服務 //////////////////////////////////////
 		{
@@ -417,10 +442,10 @@
 		{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
 		{"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*","qianpailive.com","vid="]},
 		{"name":"海外看","hosts":["haiwaikan"],"regex":["8.1748","10.0099","10.3333"]},
+	{"name":"360廣告","hosts":["360zyx","guoluche"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXT-X-KEY.*?\\s+","#EXTINF.*?\\s+.*?(6f4A2iAv|ekskC8ik|g5ARnsXM|TwMT4jNL).*?\\.ts\\s+","(#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE)\\s+#EXTINF:3.333,[\\s\\S]*?#EXTINF:3.2,[\\s\\S]*?\\.ts\\s+"]},
 	{"name":"百度廣告","hosts":["bdzy","bdzybf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE.*?\\s+[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn","bfengbf"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
-//	{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["17.99","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY[\\r\\n]+#EXTINF:.*?\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
-	{"name":"非凡廣告","hosts":["ffzy"],"regex":["#EXT-X-DISCONTINUITY[\\r\\n]+#EXTINF:6\\.000000,[\\s\\S]*?#EXTINF:2\\.733333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY[\\r\\n]+#EXTINF:5\\.800000,[\\s\\S]*?#EXTINF:2\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name":"非凡廣告","hosts":["ffzy"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXTINF:(6.000000|6.033333),\\s+.*?\\.ts\\s+#EXTINF:(3.333333|3.866667),[\\s\\S]*?#EXTINF:(1.666667|2.733333),\\s+.*?\\.ts\\s+#EXT-X-DISCONTINUITY"]},
 	{"name":"ikunzy廣告","hosts":["ikzybf","bfikuncdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"快看廣告","hosts":["vip.kuaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"量子廣告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["17.19","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
