@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-06 00:10:04
+!Last Modified: 2025-10-07 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6361,6 +6361,7 @@ uyghur.co.uk
 uygur.org
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
 ||vewas.net
@@ -7456,6 +7457,7 @@ writer.zoho.com
 ||avcity.tv
 ||avcool.com
 ||avfantasy.com
+||avple.tv
 ||avyahoo.com
 ||azerbaycan.tv
 ||azerimix.com
@@ -9567,7 +9569,6 @@ writer.zoho.com
 ||videopediaworld.com
 ||vietdaikynguyen.com
 ||vijayatemple.org
-||vimeocdn.com
 ||visibletweets.com
 ||tunnels.api.visualstudio.com
 ||vital247.org
