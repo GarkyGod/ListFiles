@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-13 00:10:03
+!Last Modified: 2025-10-14 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9425,6 +9425,7 @@ writer.zoho.com
 ||trialofccp.org
 ||tron.network
 ||trulyergonomic.com
+||trustwallet.com
 ||truthontour.org
 ||truveo.com
 ||tsctv.net
@@ -9769,6 +9770,7 @@ writer.zoho.com
 ||yuvutu.com
 ||ywpw.com
 ||yx51.net
+||z-library.ec
 ||zacebook.com
 ||zannel.com
 ||zaozon.com
@@ -9837,9 +9839,6 @@ writer.zoho.com
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
 !------------------Misc------------------
-||z-lib.*
-||z-library.*
-||disk.yandex.*
 ||030buy.com
 ||10.tt
 ||1080pzy.co
