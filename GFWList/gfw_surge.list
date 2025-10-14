@@ -1,12 +1,10 @@
 DOMAIN-KEYWORD,btsow
 DOMAIN-KEYWORD,gle
-DOMAIN-KEYWORD,goog
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,linetv
 DOMAIN-KEYWORD,quanben
 DOMAIN-KEYWORD,soymilk
 DOMAIN-KEYWORD,tumblrviewer
-DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,030buy.com
 DOMAIN-SUFFIX,0rz.tw
@@ -258,6 +256,7 @@ DOMAIN-SUFFIX,afr.com
 DOMAIN-SUFFIX,afreecatv.com
 DOMAIN-SUFFIX,agemys.net
 DOMAIN-SUFFIX,agnesb.fr
+DOMAIN-SUFFIX,agnss.goog
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agro.hk
 DOMAIN-SUFFIX,ai-kan.net
@@ -484,6 +483,7 @@ DOMAIN-SUFFIX,asiaharvest.org
 DOMAIN-SUFFIX,asianage.com
 DOMAIN-SUFFIX,asianclub.tv
 DOMAIN-SUFFIX,asianews.it
+DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asianfreeforum.com
 DOMAIN-SUFFIX,asiansexdiary.com
 DOMAIN-SUFFIX,asianspiss.com
@@ -667,6 +667,10 @@ DOMAIN-SUFFIX,bewww.net
 DOMAIN-SUFFIX,beyondfirewall.com
 DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,bfsh.hk
+DOMAIN-SUFFIX,bg-call-donation-alpha.goog
+DOMAIN-SUFFIX,bg-call-donation-canary.goog
+DOMAIN-SUFFIX,bg-call-donation-dev.goog
+DOMAIN-SUFFIX,bg-call-donation.goog
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,bgvpn.com
 DOMAIN-SUFFIX,bianlei.com
@@ -1291,6 +1295,7 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,cloudokyo.cloud
+DOMAIN-SUFFIX,cloudpartnerservices.goog
 DOMAIN-SUFFIX,club1069.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clyp.it
@@ -1848,6 +1853,8 @@ DOMAIN-SUFFIX,englishfromengland.co.uk
 DOMAIN-SUFFIX,englishpen.org
 DOMAIN-SUFFIX,enlighten.org.tw
 DOMAIN-SUFFIX,entermap.com
+DOMAIN-SUFFIX,enterprisedemo-google.com
+DOMAIN-SUFFIX,enterprisedemogoogle.org
 DOMAIN-SUFFIX,entnt.com
 DOMAIN-SUFFIX,epac.to
 DOMAIN-SUFFIX,episcopalchurch.org
@@ -2489,6 +2496,7 @@ DOMAIN-SUFFIX,godsdirectcontact.org
 DOMAIN-SUFFIX,godsdirectcontact.org.tw
 DOMAIN-SUFFIX,godsimmediatecontact.com
 DOMAIN-SUFFIX,gofundme.com
+DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogle.de
 DOMAIN-SUFFIX,gogole.com
 DOMAIN-SUFFIX,gogotunnel.com
@@ -2521,6 +2529,7 @@ DOMAIN-SUFFIX,goodtv.com.tw
 DOMAIN-SUFFIX,goodtv.tv
 DOMAIN-SUFFIX,goofind.com
 DOMAIN-SUFFIX,googel.de
+DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-base.de
 DOMAIN-SUFFIX,google.ad
@@ -4888,6 +4897,7 @@ DOMAIN-SUFFIX,pixivsketch.net
 DOMAIN-SUFFIX,pixnet.in
 DOMAIN-SUFFIX,pixnet.net
 DOMAIN-SUFFIX,pk.com
+DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,pkqjiasu.com
 DOMAIN-SUFFIX,pkuanvil.com
 DOMAIN-SUFFIX,placemix.com
@@ -5514,6 +5524,7 @@ DOMAIN-SUFFIX,simplecd.org
 DOMAIN-SUFFIX,simpleproductivityblog.com
 DOMAIN-SUFFIX,simpleswap.io
 DOMAIN-SUFFIX,simplex.chat
+DOMAIN-SUFFIX,simtransfer.goog
 DOMAIN-SUFFIX,sina.com.hk
 DOMAIN-SUFFIX,sina.com.tw
 DOMAIN-SUFFIX,sinchew.com.my
@@ -5847,6 +5858,7 @@ DOMAIN-SUFFIX,sylfoundation.org
 DOMAIN-SUFFIX,synapse.org
 DOMAIN-SUFFIX,syncback.com
 DOMAIN-SUFFIX,syncbak.com
+DOMAIN-SUFFIX,syndicatedsearch.goog
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,sysresccd.org
@@ -5976,6 +5988,7 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telegraph.co.uk
+DOMAIN-SUFFIX,telephony.goog
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,tellapart.com
 DOMAIN-SUFFIX,tellme.pw
@@ -6260,6 +6273,7 @@ DOMAIN-SUFFIX,tpi.org.tw
 DOMAIN-SUFFIX,tracfone.com
 DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,travelinkcard.com
 DOMAIN-SUFFIX,treemall.com.tw
@@ -6564,6 +6578,7 @@ DOMAIN-SUFFIX,uscg.mil
 DOMAIN-SUFFIX,uscnpm.org
 DOMAIN-SUFFIX,usefreevpn.com
 DOMAIN-SUFFIX,usembassy.gov
+DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,usfk.mil
 DOMAIN-SUFFIX,usinfo.state.gov
 DOMAIN-SUFFIX,usma.edu

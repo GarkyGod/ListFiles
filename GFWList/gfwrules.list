@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-14 00:10:05
+!Last Modified: 2025-10-15 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7165,28 +7165,48 @@ writer.zoho.com
 ||sl-reverse.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-||*.goog
-||*.google
-||*.youtube
+||about.google
+||agnss.goog
+||ai.google
 |http://ampproject.org
 |https://ampproject.org
 @@|https://cdn.ampproject.org/
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@||www.ampproject.org
+||bg-call-donation-alpha.goog
+||bg-call-donation-canary.goog
+||bg-call-donation-dev.goog
+||bg-call-donation.goog
+||blog.google
 ||blogspot.com
 ||business.site
+||businessmessages.google
 ||c.gle
+||chromeenterprise.google
 ||chromercise.com
+||cloudpartnerservices.goog
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*youtube\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+||com.google
+||deepmind.google
+||design.google
+||diversity.google
 ||dmarcnetworks.com
+||dns.google
+||domains.google
+||enterprisedemo-google.com
+||enterprisedemogoogle.org
+||enterprisemarketingportal.google
 ||eurodasp.com
+||families.google
 ||g-desktop.ru
 ||goagle.de
+||gogle.com
 ||gogle.de
 ||gogole.com
 ||googel.de
+||googl.com
 @@|*.google-analytics.com
 ||google-analytics.com
 ||google-base.de
@@ -7250,14 +7270,28 @@ writer.zoho.com
 ||googlemaps.sv
 @@||*.googlesyndication.com
 ||googlesyndication.com
+||grow.google
 ||gvideo.de
 ||gvt0.com
 ||gwave.com
-||huaibinmall.com
+||io.google
+||labs.google
 ||mypicasa.com
+||opensource.google
+||quantumai.google
+||registry.google
+||research.google
+||safety.google
+||share.google
+||simtransfer.goog
 ||sipml5.org
-||striek.com
+||skintone.google
+||sre.google
+||stories.google
 ||swbusdev.com
+||syndicatedsearch.goog
+||tv.google
+||zdns.google
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
@@ -7448,6 +7482,7 @@ writer.zoho.com
 ||asdfg.jp
 ||asg.to
 ||asia-gaming.com
+||asianfanfics.com
 ||asiatgp.com
 ||asiatimes.com
 ||asiatoday.us
@@ -9880,7 +9915,6 @@ writer.zoho.com
 ||ab.co
 ||abchinese.com
 ||abclite.net
-||about.google
 ||aboutgfw.com
 ||abs.edu
 ||ac.jp
@@ -9896,7 +9930,6 @@ writer.zoho.com
 ||afantibbs.com
 ||affyun.com
 ||ai.com
-||ai.google
 ||aircrack-ng.org
 ||ais86.com
 ||ais96.com
@@ -9964,7 +9997,6 @@ writer.zoho.com
 ||binwang.me
 ||bitinka.com.ar
 ||blacklogic.com
-||blog.google
 ||blog.jp
 ||blogs.com
 ||blogspot.ae
@@ -10088,7 +10120,6 @@ writer.zoho.com
 ||changeip.org
 ||chinatimes.com
 ||chosun.com
-||chromeenterprise.google
 ||city365.ca
 ||citytalk.tw
 ||civisec.org
@@ -10111,7 +10142,6 @@ writer.zoho.com
 ||codeplex.com
 ||coin2co.in
 ||coincarp.com
-||com.google
 ||comedycentral.com
 ||comico.tw
 ||compython.net
@@ -10140,10 +10170,8 @@ writer.zoho.com
 ||ddns.name
 ||ddns.us
 ||debian.org
-||deepmind.google
 ||delicious.com
 ||demdex.net
-||design.google
 ||dianshimo.com
 ||didiao.cloud
 ||digiland.tw
@@ -10152,14 +10180,11 @@ writer.zoho.com
 ||directv.com
 ||discfan.net
 ||disneystreaming.com
-||diversity.google
 ||djangosnippets.org
 ||dlsite.jp
-||dns.google
 ||document.new
 ||dollf.com
 ||domain.club.tw
-||domains.google
 ||donga.com
 ||dood.video
 ||dood.watch
@@ -10210,7 +10235,6 @@ writer.zoho.com
 ||exx.com
 ||faceueditor.com
 ||faceueditorv.com
-||families.google
 ||fanqiang.tk
 ||faviconkit.com
 ||fbit.com
@@ -10423,7 +10447,6 @@ writer.zoho.com
 ||greenreadings.com
 ||groueta.cc
 ||groups.google.cn
-||grow.google
 ||gs-discuss.com
 ||gsjln04hd.com
 ||guangnianvpn.com
@@ -10468,6 +10491,7 @@ writer.zoho.com
 ||how-did-i-get-here.net
 ||https443.net
 ||https443.org
+||huaibinmall.com
 ||huanggua11.com
 ||huasing.org
 ||hustler.com
@@ -10781,7 +10805,6 @@ writer.zoho.com
 ||openbase.com
 ||opendns.com
 ||opengw.net
-||opensource.google
 ||opensupports.com
 ||openwrt.org.cn
 ||opera-api.com
@@ -10862,11 +10885,9 @@ writer.zoho.com
 ||recaptcha.net
 ||recoveryversion.org
 ||redircdn.com
-||registry.google
 ||reimu.net
 ||relaxbbs.com
 ||rerouted.org
-||research.google
 ||retweetist.com
 ||reut.rs
 ||revenuecat.com
@@ -10885,7 +10906,6 @@ writer.zoho.com
 ||s4miniarchive.com
 ||sa.com
 ||saboom.com
-||safety.google
 ||saiq.me
 ||samurai-jeans.com
 ||sandscotaicentral.com
@@ -10961,7 +10981,6 @@ writer.zoho.com
 ||statsigapi.net
 ||steampowered.com
 ||stgloballink.com
-||stories.google
 ||stream-link.org
 ||streamguys1.com
 ||streaminghelp.org
@@ -10969,6 +10988,7 @@ writer.zoho.com
 ||streamsb.net
 ||streamtape.com
 ||streetvoice.com
+||striek.com
 ||strpst.com
 ||sulian.me
 ||superchat.live
@@ -11055,7 +11075,6 @@ writer.zoho.com
 ||tunein.com
 ||tutanota.com
 ||tv.com
-||tv.google
 ||tvants.com
 ||tvb.com
 ||tw-npo.org
