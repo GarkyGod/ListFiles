@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-15 00:10:04
+!Last Modified: 2025-10-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1504,6 +1504,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
 ||cdn.arstechnica.net
@@ -5705,6 +5706,7 @@ blog.syx86.com/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||trustwallet.com
 ||tap.io
 ||taptap.io
 ||talkatone.com
@@ -6901,6 +6903,7 @@ yx51.net
 .yzzk.com
 ||yzzk.com
 !--------------------ZZ-------------------------
+||z-library.ec
 ||z-library.sk
 ||z-lib.fm
 ||z-lib.gd
@@ -7030,9 +7033,6 @@ writer.zoho.com
 163.29.207.130
 213.186.33.19
 213.186.33.87
-||bitz.com
-||bntrace.com
-||coinegg.com
 ||avmo.pw
 ||avmoo.com
 ||avmoo.net
@@ -7290,6 +7290,7 @@ writer.zoho.com
 ||stories.google
 ||swbusdev.com
 ||syndicatedsearch.goog
+||telephony.goog
 ||tv.google
 ||zdns.google
 ||static01.nyt.com
@@ -7482,7 +7483,6 @@ writer.zoho.com
 ||asdfg.jp
 ||asg.to
 ||asia-gaming.com
-||asianfanfics.com
 ||asiatgp.com
 ||asiatimes.com
 ||asiatoday.us
@@ -7563,6 +7563,7 @@ writer.zoho.com
 ||bit.ly
 ||bitsnoop.com
 ||zh.bitterwinter.org
+||bitz.com
 ||bizhat.com
 ||bjnewlife.org
 ||bjs.org
@@ -7575,6 +7576,7 @@ writer.zoho.com
 ||blueangellive.com
 ||bmfinn.com
 ||bnews.co
+||bntrace.com
 ||bodog88.com
 ||bonbonme.com
 ||bonfoundation.org
@@ -7659,6 +7661,7 @@ writer.zoho.com
 ||cex.io
 ||cfhks.org.hk
 ||cfos.de
+||cfsh99.com
 ||cftfc.com
 ||cgdepot.org
 ||cgst.edu
@@ -7749,6 +7752,7 @@ writer.zoho.com
 ||news.cnyes.com
 ||cochina.co
 ||code1984.com
+||coinegg.com
 ||comic-mega.me
 ||commandarms.com
 ||ironbigfools.compython.net
@@ -7939,7 +7943,6 @@ writer.zoho.com
 ||etadult.com
 ||etaiwannews.com
 ||ettoday.net
-||eu.org
 ||eucasino.com
 ||eulam.com
 ||excite.co.jp
@@ -8578,6 +8581,7 @@ writer.zoho.com
 ||liwangyang.com
 ||lizhizhuangbi.com
 ||llss.me
+||lmarena.ai
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
@@ -8588,6 +8592,7 @@ writer.zoho.com
 ||longhair.hk
 ||looktoronto.com
 ||loongese.com
+||lorenzetti.com.br
 ||lotuslight.org.hk
 ||lotuslight.org.tw
 ||loukky.com
@@ -9460,7 +9465,6 @@ writer.zoho.com
 ||trialofccp.org
 ||tron.network
 ||trulyergonomic.com
-||trustwallet.com
 ||truthontour.org
 ||truveo.com
 ||tsctv.net
@@ -9805,7 +9809,6 @@ writer.zoho.com
 ||yuvutu.com
 ||ywpw.com
 ||yx51.net
-||z-library.ec
 ||zacebook.com
 ||zannel.com
 ||zaozon.com
@@ -10229,6 +10232,7 @@ writer.zoho.com
 ||esu.im
 ||etowns.net
 ||etvonline.hk
+||eu.org
 ||evozi.com
 ||exblog.co.jp
 ||expofutures.com
@@ -10677,7 +10681,6 @@ writer.zoho.com
 ||llnwi.net
 ||lncn.org
 ||logmein.com
-||lorenzetti.com.br
 ||lotsawahouse.org
 ||loved.hk
 ||lsmradio.com
@@ -11019,7 +11022,6 @@ writer.zoho.com
 ||telecomspace.com
 ||telegram-cdn.org
 ||telegram-store.com
-||telephony.goog
 ||tenacy.com
 ||tgfcer.com
 ||thaicn.com
