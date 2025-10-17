@@ -274,6 +274,9 @@ DOMAIN-SUFFIX,ais86.com
 DOMAIN-SUFFIX,ais96.com
 DOMAIN-SUFFIX,aisex.com
 DOMAIN-SUFFIX,ait.org.tw
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-cdn.net.c.footprint.net
+DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,aiweiwei.com
 DOMAIN-SUFFIX,aiweiweiblog.com
 DOMAIN-SUFFIX,ajsands.com
@@ -933,6 +936,7 @@ DOMAIN-SUFFIX,bunbunhk.com
 DOMAIN-SUFFIX,busayari.com
 DOMAIN-SUFFIX,business-humanrights.org
 DOMAIN-SUFFIX,business.page
+DOMAIN-SUFFIX,business.site
 DOMAIN-SUFFIX,businessinsider.com
 DOMAIN-SUFFIX,businessinsider.com.au
 DOMAIN-SUFFIX,businesstoday.com.tw
@@ -1597,6 +1601,7 @@ DOMAIN-SUFFIX,discuss4u.com
 DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,disp.cc
 DOMAIN-SUFFIX,disqus.com
@@ -1844,6 +1849,8 @@ DOMAIN-SUFFIX,englishfromengland.co.uk
 DOMAIN-SUFFIX,englishpen.org
 DOMAIN-SUFFIX,enlighten.org.tw
 DOMAIN-SUFFIX,entermap.com
+DOMAIN-SUFFIX,enterprisedemo-google.com
+DOMAIN-SUFFIX,enterprisedemogoogle.org
 DOMAIN-SUFFIX,entnt.com
 DOMAIN-SUFFIX,epac.to
 DOMAIN-SUFFIX,episcopalchurch.org
@@ -1867,6 +1874,7 @@ DOMAIN-SUFFIX,epochweek.com
 DOMAIN-SUFFIX,epochweekly.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,eprice.com.hk
+DOMAIN-SUFFIX,eq.ccu.edu.tw
 DOMAIN-SUFFIX,equinenow.com
 DOMAIN-SUFFIX,erabaru.net
 DOMAIN-SUFFIX,eracom.com.tw
@@ -2031,6 +2039,7 @@ DOMAIN-SUFFIX,fawanghuihui.org
 DOMAIN-SUFFIX,faydao.com
 DOMAIN-SUFFIX,faz.net
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fbaddins.com
@@ -2483,7 +2492,9 @@ DOMAIN-SUFFIX,godsdirectcontact.org
 DOMAIN-SUFFIX,godsdirectcontact.org.tw
 DOMAIN-SUFFIX,godsimmediatecontact.com
 DOMAIN-SUFFIX,gofundme.com
+DOMAIN-SUFFIX,gogle.com
 DOMAIN-SUFFIX,gogle.de
+DOMAIN-SUFFIX,gogole.com
 DOMAIN-SUFFIX,gogotunnel.com
 DOMAIN-SUFFIX,gohappy.com.tw
 DOMAIN-SUFFIX,gokbayrak.com
@@ -2514,6 +2525,8 @@ DOMAIN-SUFFIX,goodtv.com.tw
 DOMAIN-SUFFIX,goodtv.tv
 DOMAIN-SUFFIX,goofind.com
 DOMAIN-SUFFIX,googel.de
+DOMAIN-SUFFIX,googl.com
+DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-base.de
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
@@ -2542,6 +2555,7 @@ DOMAIN-SUFFIX,google.ci
 DOMAIN-SUFFIX,google.cl
 DOMAIN-SUFFIX,google.cm
 DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,google.co
 DOMAIN-SUFFIX,google.co.ao
 DOMAIN-SUFFIX,google.co.bw
 DOMAIN-SUFFIX,google.co.ck
@@ -2710,6 +2724,7 @@ DOMAIN-SUFFIX,google.tt
 DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
+DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapps.com
@@ -2739,6 +2754,7 @@ DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -5716,6 +5732,7 @@ DOMAIN-SUFFIX,sstmlt.net
 DOMAIN-SUFFIX,st-hatena.com
 DOMAIN-SUFFIX,stackcommerce.net
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stacksocial.com
 DOMAIN-SUFFIX,stage64.hk
 DOMAIN-SUFFIX,standard.co.uk
 DOMAIN-SUFFIX,standupfortibet.org
@@ -6166,6 +6183,7 @@ DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.us
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,timdir.com
 DOMAIN-SUFFIX,time.com
@@ -6280,6 +6298,7 @@ DOMAIN-SUFFIX,tt1069.com
 DOMAIN-SUFFIX,tttan.com
 DOMAIN-SUFFIX,ttv.com.tw
 DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tu8964.com
 DOMAIN-SUFFIX,tubaholic.com
 DOMAIN-SUFFIX,tube.com
@@ -7133,6 +7152,7 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yahoo.com.hk
 DOMAIN-SUFFIX,yahoo.com.tw
 DOMAIN-SUFFIX,yahoo.net
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yam.com
@@ -7176,6 +7196,7 @@ DOMAIN-SUFFIX,yinlei.org
 DOMAIN-SUFFIX,yipub.com
 DOMAIN-SUFFIX,yiyechat.com
 DOMAIN-SUFFIX,yizhihongxing.com
+DOMAIN-SUFFIX,ylive.jp
 DOMAIN-SUFFIX,ymp4.download
 DOMAIN-SUFFIX,yobit.net
 DOMAIN-SUFFIX,yobt.com
@@ -7351,7 +7372,10 @@ DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
 IP-CIDR,14.102.250.18
 IP-CIDR,14.102.250.19
+IP-CIDR,163.29.207.130
 IP-CIDR,174.142.105.153
+IP-CIDR,213.186.33.19
+IP-CIDR,213.186.33.87
 IP-CIDR,67.220.91.15
 IP-CIDR,67.220.91.18
 IP-CIDR,67.220.91.23
