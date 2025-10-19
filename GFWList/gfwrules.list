@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-19 00:10:04
+!Last Modified: 2025-10-20 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7152,9 +7152,9 @@ writer.zoho.com
 ||slyip.com
 ||slyip.net
 ||blogdns.org
+||dyndns.org
 ||dyndns-ip.com
 ||dyndns-pics.com
-||dyndns.org
 ||from-pr.com
 ||from-sd.com
 ||is-a-hunter.com
@@ -7165,23 +7165,23 @@ writer.zoho.com
 @@||about.fb.com
 ||fb.gg
 ||sl-reverse.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
-/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*youtube\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||about.google
 ||agnss.goog
 ||ai.google
 |http://ampproject.org
 |https://ampproject.org
+/^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
 @@||www.ampproject.org
+||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
 ||bg-call-donation-canary.goog
 ||bg-call-donation-dev.goog
-||bg-call-donation.goog
 ||blog.google
 ||blogspot.com
 ||business.site
@@ -7209,9 +7209,6 @@ writer.zoho.com
 ||gogole.com
 ||googel.de
 ||googl.com
-@@||*.google-analytics.com
-||google-analytics.com
-||google-base.de
 ||google.ae
 ||google.am
 ||google.as
@@ -7266,12 +7263,15 @@ writer.zoho.com
 ||google.tt
 ||google.vu
 ||google.ws
-@@||*.googleanalytics.com
+||google-analytics.com
+@@||*.google-analytics.com
+||google-base.de
 ||googleanalytics.com
+@@||*.googleanalytics.com
 ||googlelocal.nl
 ||googlemaps.sv
-@@||*.googlesyndication.com
 ||googlesyndication.com
+@@||*.googlesyndication.com
 ||grow.google
 ||gvideo.de
 ||gvt0.com
@@ -7302,21 +7302,26 @@ writer.zoho.com
 ||login.steampowered.com
 |http://store.steampowered.com
 !!---Twitter---
+||gov.tw
 @@||cksmh.gov.tw
 @@||tacc.cwb.gov.tw
 @@||data.gov.tw
+||data.taipei
 @@||epa.gov.tw
-||gov.tw
+||id.taipei
 @@||moda.gov.tw
 @@||gsn.nat.gov.tw
 @@||nici.nat.gov.tw
 @@||scitechvista.nat.gov.tw
 @@||library.ntpc.gov.tw
+||service.taipei
 @@||www.gov.tw
 !!---edu.tw----
 ||eq.ccu.edu.tw
+||mbct.mlc.edu.tw
 ||npm.edu.tw
 ||gcc.ntu.edu.tw
+||char.iis.sinica.edu.tw
 ||chardb.iis.sinica.edu.tw
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
@@ -7409,12 +7414,13 @@ writer.zoho.com
 ||adultkeep.net
 ||ae.org
 ||agemys.net
+||ai.ls
 ||ai-kan.net
 ||ai-wen.net
-||ai.ls
 ||airasia.com
 ||aisex.com
 ||aiweiwei.com
+||ajunews.com
 ||akademiye.org
 ||a771.dscq.akamai.net
 ||fbcdn*.akamaihd.net
@@ -7473,8 +7479,8 @@ writer.zoho.com
 ||aol.com
 ||aolnews.com
 ||apetube.com
-||apk-dl.com
 ||apk.tw
+||apk-dl.com
 ||aplusvpn.com
 ||appdefensealliance.dev
 ||appdownloader.net
@@ -7495,8 +7501,9 @@ writer.zoho.com
 ||asrockind.com
 ||atchinese.com
 ||atgfw.org
-||av-e-body.com
+||atvnewsonline.com
 ||av.com
+||av-e-body.com
 ||avbody.tv
 ||avcity.tv
 ||avcool.com
@@ -7507,7 +7514,6 @@ writer.zoho.com
 ||azerimix.com
 ||azurewebsites.net
 ||a5.com.ru
-||tibet.a.se
 ||b-cdn.net
 ||baby-kingdom.com
 ||babynet.com.hk
@@ -7533,6 +7539,7 @@ writer.zoho.com
 ||bbsone.com
 ||bbtoystore.com
 ||bcast.co.nz
+||bcbay.com
 ||bcc.com.tw
 ||bcchinese.net
 ||bcmorning.com
@@ -7728,6 +7735,7 @@ writer.zoho.com
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
+||circle19.org
 ||circlethebayfortibet.org
 ||citizenpowerforchina.org
 ||citizenscommission.hk
@@ -7754,8 +7762,8 @@ writer.zoho.com
 ||cnineu.com
 ||wiki.cnitter.com
 ||cnproxy.com
-||blog.cnyes.com
 ||cnyes.com
+||blog.cnyes.com
 ||news.cnyes.com
 ||cochina.co
 ||code1984.com
@@ -7801,9 +7809,9 @@ writer.zoho.com
 ||daiphapinfo.net
 ||dajiyuan.com
 ||dajiyuan.eu
-||dalailama-archives.org
 ||dalailama.com
 ||dalailama.mn
+||dalailama-archives.org
 ||dalailama80.org
 ||dalailamacenter.org
 ||dalailamafellows.org
@@ -7831,6 +7839,7 @@ writer.zoho.com
 ||deepdiscount.com
 ||definebabe.com
 ||deno.com
+||derpibooru.org
 ||destroy-china.jp
 ||detroitnews.com
 ||dfas.mil
@@ -7890,8 +7899,8 @@ writer.zoho.com
 ||eastern-ark.com
 ||easternlightning.org
 ||eastturkestan.com
-||eastturkistan-gov.org
 ||eastturkistan.net
+||eastturkistan-gov.org
 ||eastturkistancc.org
 ||easyca.ca
 ||easypic.com
@@ -7966,9 +7975,9 @@ writer.zoho.com
 ||falunart.org
 ||falunau.org
 ||falunaz.net
+||falundafa.org
 ||falundafa-dc.org
 ||falundafa-sacramento.org
-||falundafa.org
 ||falundafamuseum.org
 ||falungong.club
 ||falungong.de
@@ -8024,6 +8033,7 @@ writer.zoho.com
 ||filthdump.com
 ||findbook.tw
 ||findmespot.com
+||findresultsquick.com
 ||fingerdaily.com
 ||finler.net
 ||firearmsworld.net
@@ -8044,16 +8054,16 @@ writer.zoho.com
 ||fotile.me
 ||video.foxbusiness.com
 ||foxgay.com
-||fpmt-osel.org
 ||fpmt.org
 ||fpmt.tw
+||fpmt-osel.org
 ||fqok.org
 ||freakshare.com
+||free.fr
 ||free-gate.org
 ||free-hada-now.org
 ||free-proxy.cz
 ||free-ssh.com
-||free.fr
 ||free4u.com.ar
 ||freealim.com
 ||freebearblog.org
@@ -8104,6 +8114,7 @@ writer.zoho.com
 ||fuyin.net
 ||fuyindiantai.org
 ||fuyu.org.tw
+||fx168news.com
 ||fzh999.com
 ||fzh999.net
 ||fzlm.com
@@ -8186,6 +8197,7 @@ writer.zoho.com
 ||goodtv.com.tw
 ||goodtv.tv
 ||goproxing.net
+||gotporn.com
 ||grandtrial.org
 ||grangorz.org
 ||greasespot.net
@@ -8227,7 +8239,9 @@ writer.zoho.com
 ||hacken.cc
 ||hacker.org
 ||hahlo.com
+||haiwaiwai.com
 ||handcraftedsoftware.org
+||handelsblatt.com
 ||hanminzu.org
 ||hanunyi.com
 ||hao.news
@@ -8355,6 +8369,7 @@ writer.zoho.com
 ||huyandex.com
 ||hwadzan.tw
 ||hysteria.network
+||idv.tw
 /^https?:\/\/(?:api\.)?ipify\.org/
 ||i-cable.com
 ||i-part.com.tw
@@ -8372,11 +8387,9 @@ writer.zoho.com
 ||idaiwan.com
 ||idemocracy.asia
 ||idreamx.com
-||idv.tw
 ||ieasy5.com
 ||ied2k.net
 ||ienergy1.com
-||if.ttt
 ||ifanqiang.com
 ||ifjc.org
 ||ig.com
@@ -8388,13 +8401,14 @@ writer.zoho.com
 ||ikstar.com
 ||imageab.com
 ||imb.org
+||imds-api.com
 ||img2go.com
 ||imlive.com
 ||immoral.jp
 ||impact.org.au
 ||impp.mn
-||in-disguise.com
 ||in.com
+||in-disguise.com
 ||in99.org
 ||incapdns.net
 ||indianexpress.com
@@ -8433,6 +8447,7 @@ writer.zoho.com
 ||izihost.org
 ||izles.net
 ||izlesem.org
+||if.ttt
 ||jackjia.com
 ||jamaat.org
 ||jandyx.com
@@ -8502,10 +8517,12 @@ writer.zoho.com
 ||kankan.today
 ||kanzhongguo.com
 ||kanzhongguo.eu
+||kards.com
 ||karkhung.com
-||karmapa-teachings.org
 ||karmapa.org
+||karmapa-teachings.org
 ||kba-tx.org
+||kbs.co.kr
 ||kechara.com
 ||keezmovies.com
 ||kemono.party
@@ -8533,6 +8550,7 @@ writer.zoho.com
 ||krtco.com.tw
 ||ksdl.org
 ||ksnews.com.tw
+||kuai.media
 ||kui.name
 ||kurashsultan.com
 ||kusocity.com
@@ -8546,6 +8564,7 @@ writer.zoho.com
 ||lamayeshe.com
 ||www.lamenhu.com
 ||lamrim.com
+||lantern.io
 ||lantosfoundation.org
 ||laomiu.com
 ||laowang.vip
@@ -8617,8 +8636,8 @@ writer.zoho.com
 ||magic-net.info
 ||mahabodhi.org
 ||maiio.net
-||mail-archive.com
 ||my.mail.ru
+||mail-archive.com
 ||maildns.xyz
 ||mainichi.jp
 ||maiplus.com
@@ -8670,6 +8689,7 @@ writer.zoho.com
 ||merlinblog.xyz
 ||meshrep.com
 ||mesotw.com
+||meta.ai
 ||metacafe.com
 ||metacubex.one
 ||meyou.jp
@@ -8687,10 +8707,10 @@ writer.zoho.com
 ||mimivip.com
 ||mimivv.com
 ||mindrolling.org
+||minghui.or.kr
 ||minghui-a.org
 ||minghui-b.org
 ||minghui-school.org
-||minghui.or.kr
 ||mingjingnews.com
 ||mingpaocanada.com
 ||mingpaomonthly.com
@@ -8773,6 +8793,7 @@ writer.zoho.com
 ||mysinablog.com
 ||mytalkbox.com
 ||mytizi.com
+||n-tv.de
 ||nakuz.com
 ||namgyal.org
 ||namgyalmonastery.org
@@ -8811,6 +8832,7 @@ writer.zoho.com
 ||international-news.newsmagazine.asia
 ||newspeak.cc
 ||newstarnet.com
+||newswav.com
 ||newtaiwan.com.tw
 ||newyorktimes.com
 ||next11.co.jp
@@ -8892,8 +8914,8 @@ writer.zoho.com
 ||onmoon.com
 ||onmoon.net
 ||onthehunt.com
-||open-assistant.io
 ||open.com.hk
+||open-assistant.io
 ||openallweb.com
 ||opendesktop.org
 ||opendn.xyz
@@ -8956,6 +8978,7 @@ writer.zoho.com
 ||perfectgirls.net
 ||perfectvpn.net
 ||persecutionblog.com
+||persgroep.net
 ||persiankitty.com
 ||pfd.org.hk
 ||phapluan.org
@@ -9082,6 +9105,7 @@ writer.zoho.com
 ||raremovie.cc
 ||raremovie.net
 ||ratx.com
+||rawstory.com
 ||razyboard.com
 ||rb.gy
 ||readydown.com
@@ -9113,8 +9137,9 @@ writer.zoho.com
 ||roboforex.com
 ||rosechina.net
 ||rotten.com
-||v.roucdn*.xyz
 ||roucdn.link
+||v.roucdn*.xyz
+||rri.ro
 ||rsgamen.org
 ||rtycminnesota.org
 ||rukor.org
@@ -9171,9 +9196,9 @@ writer.zoho.com
 ||sgzhan.com
 ||shadow.ma
 ||shadowsky.xyz
-||shadowsocks-r.com
 ||shadowsocks.asia
 ||shadowsocks.com
+||shadowsocks-r.com
 ||shafaqna.com
 ||shambalapost.com
 ||shambhalasun.com
@@ -9239,6 +9264,7 @@ writer.zoho.com
 ||snowlionpub.com
 ||home.so-net.net.tw
 ||soav.com
+||socialism.hk
 ||sockscap64.com
 ||socrec.org
 ||sod.co.jp
@@ -9292,8 +9318,8 @@ writer.zoho.com
 ||steganos.net
 ||stepchina.com
 ||ny.stgloballink.com
-||hd.stheadline.com
 ||stheadline.com
+||hd.stheadline.com
 ||stickam.com
 ||stickeraction.com
 ||stileproject.com
@@ -9301,6 +9327,7 @@ writer.zoho.com
 ||stoporganharvesting.org
 ||storify.com
 ||stormmediagroup.com
+||straitstimes.com.sg
 ||stranabg.com
 ||streema.com
 ||strikingly.com
@@ -9310,8 +9337,8 @@ writer.zoho.com
 ||stupidvideos.com
 ||stweetly.com
 ||successfn.com
-||panamapapers.sueddeutsche.de
 ||sueddeutsche.de
+||panamapapers.sueddeutsche.de
 ||sugobbs.com
 ||summify.com
 ||sun1911.com
@@ -9362,8 +9389,8 @@ writer.zoho.com
 ||tbi.org.hk
 ||tbjyt.org
 ||tbrc.org
-||tbs-rainbow.org
 ||tbs.co.jp
+||tbs-rainbow.org
 ||tbsseattle.org
 ||tbssqh.org
 ||tbswd.org
@@ -9379,6 +9406,7 @@ writer.zoho.com
 ||tdm.com.mo
 ||teamamericany.com
 ||techcrunch.com
+||technorati.com
 ||teenfucks.org
 ||teeniefuck.net
 ||teensinasia.com
@@ -9410,18 +9438,19 @@ writer.zoho.com
 ||thywords.com.tw
 ||tiananmenmother.org
 ||tianzhu.org
-||tibet-foundation.org
-||tibet-house-trust.co.uk
-||tibet-info.net
-||tibet-munich.de
+||tibet.a.se
 ||tibet.at
 ||tibet.ca
 ||tibet.fr
 ||tibet.sk
+||tibet-foundation.org
+||tibet-house-trust.co.uk
+||tibet-info.net
+||tibet-munich.de
 ||tibet3rdpole.org
 ||tibetaid.org
-||tibetan-alliance.org
 ||tibetan.fr
+||tibetan-alliance.org
 ||tibetanaidproject.org
 ||tibetanarts.org
 ||tibetancommunityuk.net
@@ -9480,6 +9509,7 @@ writer.zoho.com
 ||tsctv.net
 ||tsemtulku.com
 ||tsquare.tv
+||tssdnews.com.tw
 ||tsu.org.tw
 ||tubaholic.com
 ||tubecup.com
@@ -9510,6 +9540,7 @@ writer.zoho.com
 ||tvider.com
 ||tvmost.com.hk
 ||tvplayvideos.com
+||tvr.ro
 ||tw-blog.com
 ||tw01.org
 ||twaitter.com
@@ -9594,8 +9625,8 @@ writer.zoho.com
 ||usus.cc
 ||uu-gg.com
 ||uwants.net
-||uyghur-archive.com
 ||uyghur.co.uk
+||uyghur-archive.com
 ||uyghurcanadiansociety.org
 ||uyghurensemble.co.uk
 ||uyghurpress.com
@@ -9679,7 +9710,9 @@ writer.zoho.com
 ||webs-tv.net
 ||www.websnapr.com
 ||webwarper.net
+||us.weibo.com
 ||weiboleak.com
+||weights.com
 ||weihuo.org
 ||weiquanwang.org
 ||weisuo.ws
@@ -9720,8 +9753,8 @@ writer.zoho.com
 ||worldcat.org
 ||worldjournal.com
 ||worldpopulationreview.com
-||wow-life.net
 ||wow.com
+||wow-life.net
 ||wowlegacy.ml
 ||wowrk.com
 ||woxinghuiguo.com
@@ -9790,7 +9823,6 @@ writer.zoho.com
 ||ydy.com
 ||yes.xxx
 ||yeyeclub.com
-||yibada.com
 ||yilubbs.com
 ||yingsuoss.com
 ||yobt.com
@@ -9853,7 +9885,6 @@ writer.zoho.com
 @@||adtrafficquality.google
 ||crashlytics.com
 @@||firebase-settings.crashlytics.com
-@@||www.google-analytics.com
 @@||cache.pack.google.com
 @@||dl.l.google.com
 @@||pagead-googlehosted.l.google.com
@@ -9861,6 +9892,7 @@ writer.zoho.com
 @@||ssl-google-analytics.l.google.com
 @@||tools.l.google.com
 @@||www-googletagmanager.l.google.com
+@@||www.google-analytics.com
 @@||crashlyticsreports-pa.googleapis.com
 @@||emmapplecodevice.googleapis.com
 @@||fontfiles.googleapis.com
@@ -9878,8 +9910,11 @@ writer.zoho.com
 !--------------------tiktok---------------------
 ||byteoversea.com
 ||ibytedtos.com
+||lifeattiktok.com
 ||muscdn.com
 ||musical.ly
+||tiktokv.eu
+||tiktokw.eu
 ||tiktokw.us
 ||ttwstatic.com
 !------------------IDN----------------------
@@ -11206,6 +11241,7 @@ writer.zoho.com
 ||yandex.ru
 ||yboku.com
 ||ycombinator.com
+||yibada.com
 ||yinlei.org
 ||yiyechat.com
 ||ymp4.download
