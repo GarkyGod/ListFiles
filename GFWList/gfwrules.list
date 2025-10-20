@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-20 00:10:04
+!Last Modified: 2025-10-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7309,6 +7309,7 @@ writer.zoho.com
 ||data.taipei
 @@||epa.gov.tw
 ||id.taipei
+@@||moc.gov.tw
 @@||moda.gov.tw
 @@||gsn.nat.gov.tw
 @@||nici.nat.gov.tw
@@ -7320,6 +7321,7 @@ writer.zoho.com
 ||eq.ccu.edu.tw
 ||mbct.mlc.edu.tw
 ||npm.edu.tw
+||nqu.edu.tw
 ||gcc.ntu.edu.tw
 ||char.iis.sinica.edu.tw
 ||chardb.iis.sinica.edu.tw
@@ -7477,6 +7479,7 @@ writer.zoho.com
 ||aol.ca
 ||aol.co.uk
 ||aol.com
+||aolcdn.com
 ||aolnews.com
 ||apetube.com
 ||apk.tw
@@ -7554,6 +7557,7 @@ writer.zoho.com
 ||bemywife.cc
 ||beric.me
 ||berm.co.nz
+||berrraka.com
 ||bestforchina.org
 ||bestgore.com
 ||bestpornstardb.com
@@ -7636,6 +7640,7 @@ writer.zoho.com
 ||calgarychinese.ca
 ||calgarychinese.com
 ||cam4.com
+||cambridge-hotel.com.tw
 ||cams.org.sg
 ||canadameet.com
 ||canalporno.com
@@ -7668,6 +7673,7 @@ writer.zoho.com
 ||cdcparty.com
 ||cdn-apple.com
 ||cdnews.com.tw
+||cdns.com.tw
 ||cdp1989.org
 ||cdpusa.org
 ||celestiallight.org
@@ -7683,9 +7689,9 @@ writer.zoho.com
 ||channel8news.sg
 ||chapm25.com
 ||chenpokong.net
-||chicagoncmtv.com
 ||china-review.com.ua
 ||chinaaid.me
+||chinachristiantimes.com
 ||chinacitynews.be
 ||chinacomments.org
 ||chinaeweekly.com
@@ -7720,8 +7726,10 @@ writer.zoho.com
 ||chinman.net
 ||chithu.org
 ||chn.chosun.com
+||cn.chosun.com
 ||chped.com
 ||chrdnet.com
+||christianpost.com
 ||christusrex.org
 ||cht.com.tw
 ||chuang-yen.org
@@ -7787,11 +7795,17 @@ writer.zoho.com
 ||crwdcntrl.net
 ||crypto.com
 ||ctao.org
+||ctee.com.tw
 ||ctfriend.net
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
+||searchapi.culture.tw
+||tcmb.culture.tw
+||tcmbdata.culture.tw
+||tcmbfile.culture.tw
 ||cuntcrack.com
 ||cusu.hk
+||cwgv.com.tw
 ||cyberctm.com
 ||cytode.us
 ||d-fukyu.com
@@ -7824,7 +7838,6 @@ writer.zoho.com
 ||dalailamaquotes.org
 ||dalailamatrust.org
 ||dalailamavisit.org.nz
-||danwei.org
 ||daolan.net
 ||daozhongxing.org
 ||darktoy.net
@@ -7848,6 +7861,7 @@ writer.zoho.com
 ||dharmakara.net
 ||difangwenge.org
 ||digg.com
+||digitalarchives.tw
 ||digitalnomadsproject.org
 ||dilber.se
 ||dipity.com
@@ -7875,7 +7889,6 @@ writer.zoho.com
 ||drmingxia.org
 ||api.dropboxapi.com
 ||notify.dropboxapi.com
-||drsunacademy.com
 ||drtuber.com
 ||dscn.info
 ||dstk.dk
@@ -7925,7 +7938,6 @@ writer.zoho.com
 ||ellawine.org
 ||eltondisney.com
 ||embr.in
-||emilylau.org.hk
 ||bitc.bme.emory.edu
 ||empfil.com
 ||emule-ed2k.com
@@ -8031,7 +8043,7 @@ writer.zoho.com
 ||fillthesquare.org
 ||filmingfortibet.org
 ||filthdump.com
-||findbook.tw
+||findbooks.info
 ||findmespot.com
 ||findresultsquick.com
 ||fingerdaily.com
@@ -8082,6 +8094,7 @@ writer.zoho.com
 ||freemorenews.com
 ||freenet-china.org
 ||freenewscn.com
+||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
 ||freeproxylists.net
@@ -8197,7 +8210,9 @@ writer.zoho.com
 ||goodtv.com.tw
 ||goodtv.tv
 ||goproxing.net
+||gospelherald.com.hk
 ||gotporn.com
+||govbooks.com.tw
 ||grandtrial.org
 ||grangorz.org
 ||greasespot.net
@@ -8352,6 +8367,7 @@ writer.zoho.com
 ||hua-yue.net
 ||huangyiyu.com
 ||huaren4us.com
+||huarenjie.com
 ||huashangnews.com
 ||huaxia-news.com
 ||huaxiabao.org
@@ -8390,7 +8406,6 @@ writer.zoho.com
 ||ieasy5.com
 ||ied2k.net
 ||ienergy1.com
-||ifanqiang.com
 ||ifjc.org
 ||ig.com
 ||igfw.tech
@@ -8614,7 +8629,6 @@ writer.zoho.com
 ||logbot.net
 ||logiqx.com
 ||londonchinese.ca
-||longhair.hk
 ||looktoronto.com
 ||loongese.com
 ||lorenzetti.com.br
@@ -8686,6 +8700,7 @@ writer.zoho.com
 ||memrijttm.org
 ||mergersandinquisitions.org
 ||meripet.biz
+||merit-times.com
 ||merlinblog.xyz
 ||meshrep.com
 ||mesotw.com
@@ -8729,6 +8744,7 @@ writer.zoho.com
 ||minzhuzhongguo.org
 ||mirrorbooks.com
 ||mirrormedia.com.tw
+||mirrormediagroup.com
 ||mist.vip
 ||mitao.com.tw
 ||mitbbsau.com
@@ -8807,6 +8823,7 @@ writer.zoho.com
 ||ndtv.com
 ||ned.org
 ||nengcard.com
+||neo.com.tw
 ||go.nesnode.com
 ||netbirds.com
 ||netsneak.com
@@ -8904,8 +8921,8 @@ writer.zoho.com
 ||okcoin.com
 ||okinawatimes.co.jp
 ||old-cat.net
+||olemovienews.com
 ||olympicwatch.org
-||cling.omy.sg
 ||onesto.re
 ||onestore.co.kr
 ||onion666.com
@@ -8959,7 +8976,6 @@ writer.zoho.com
 ||partypoker.com
 ||passiontimes.hk
 ||pastebin.com
-||video.pbs.org
 ||pbwiki.com
 ||pcdvd.com.tw
 ||pchome.com.tw
@@ -9022,6 +9038,7 @@ writer.zoho.com
 ||politiscales.net
 ||popo.tw
 ||popyard.com
+||popyard.space
 ||porn.biz
 ||porn.com
 ||porn2.com
@@ -9135,6 +9152,7 @@ writer.zoho.com
 ||v.rn*.xyz
 ||roadshow.hk
 ||roboforex.com
+||roc-taiwan.org
 ||rosechina.net
 ||rotten.com
 ||roucdn.link
@@ -9177,6 +9195,7 @@ writer.zoho.com
 ||see.xxx
 ||seehua.com
 ||seesmic.com
+||sef.org.tw
 ||sejie.com
 ||seju.life
 ||sendspace.com
@@ -9240,6 +9259,7 @@ writer.zoho.com
 ||sinonet.ca
 ||sinopitt.info
 ||sinoquebec.com
+||sinovision.net
 ||sis.xxx
 ||sis001.us
 ||site2unblock.com
@@ -9249,6 +9269,7 @@ writer.zoho.com
 ||sjum.cn
 ||skyking.com.tw
 ||skykiwi.com
+||skylinktv.us
 ||slandr.net
 ||sleazydream.com
 ||forum.slime.com.tw
@@ -9289,6 +9310,7 @@ writer.zoho.com
 ||soubory.com
 ||soul-plus.net
 ||soundofhope.kr
+||soup-dev.com
 ||soupofmedia.com
 ||sourcewadio.com
 ||wlx.sowiki.net
@@ -9366,14 +9388,18 @@ writer.zoho.com
 ||tafm.org
 ||tagesschau.de
 ||tagwa.org.au
+||taiwan.net.tw
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
 ||taiwandc.org
+||taiwanembassy.org
 ||taiwanjustice.com
 ||taiwankiss.com
 ||taiwannation.com
 ||taiwannation.com.tw
+||taiwanstay.net.tw
+||taiwantoday.tw
 ||taiwantp.net
 ||taiwanus.net
 ||taiwanyes.com
@@ -9399,6 +9425,7 @@ writer.zoho.com
 ||tccwonline.org
 ||tcewf.org
 ||tchrd.org
+||tcmm.com.tw
 ||tcnynj.org
 ||tcpspeed.com
 ||tcsofbc.org
@@ -9411,6 +9438,7 @@ writer.zoho.com
 ||teeniefuck.net
 ||teensinasia.com
 ||teepr.com
+||teldap.tw
 ||tgstat.com
 ||theage.com.au
 ||theaustralian.com.au
@@ -9479,6 +9507,7 @@ writer.zoho.com
 ||tibetoffice.eu
 ||tibetsites.com
 ||ticket.com.tw
+||tier.org.tw
 ||timdir.com
 ||time.com
 ||timsah.com
@@ -9545,9 +9574,7 @@ writer.zoho.com
 ||tw01.org
 ||twaitter.com
 ||twavi.com
-||twbbs.net.tw
 ||twbbs.org
-||twbbs.tw
 ||twcomix.com
 ||tweeplike.me
 ||tweetboner.biz
@@ -9616,6 +9643,7 @@ writer.zoho.com
 ||upwill.org
 ||ur7s.com
 ||us.to
+||usagm.gov
 ||dalailama.usc.edu
 ||usefreevpn.com
 ||iipdigital.usembassy.gov
@@ -9664,6 +9692,7 @@ writer.zoho.com
 ||vocativ.com
 ||vocn.tv
 ||voi.id
+||votetw.com
 ||vovo2000.com
 ||vox.com
 ||voy.com
@@ -9800,6 +9829,7 @@ writer.zoho.com
 ||xkiwi.tk
 ||xlfmtalk.com
 ||xlfmwz.info
+||xmart.tw
 ||xmonk.net
 ||xnxx-cdn.com
 ||xpdo.net
@@ -9820,6 +9850,7 @@ writer.zoho.com
 ||yanghengjun.com
 ||yangjianli.com
 ||yayabay.com
+||ycrc.com.tw
 ||ydy.com
 ||yes.xxx
 ||yeyeclub.com
@@ -10163,6 +10194,7 @@ writer.zoho.com
 ||ccp.ovh
 ||cdbook.info
 ||changeip.org
+||chicagoncmtv.com
 ||chinatimes.com
 ||chosun.com
 ||city365.ca
@@ -10204,6 +10236,7 @@ writer.zoho.com
 ||cuhkacs.org
 ||cz.cc
 ||d0z.net
+||danwei.org
 ||darktech.org
 ||datalabour.com
 ||dayabook.com
@@ -10240,6 +10273,7 @@ writer.zoho.com
 ||dreammask.net
 ||drift.com
 ||dronedj.com
+||drsunacademy.com
 ||drvhub.net
 ||dtdns.net
 ||dtvcdn.com
@@ -10265,6 +10299,7 @@ writer.zoho.com
 ||emanna.com
 ||embedgram.com
 ||embedrise.com
+||emilylau.org.hk
 ||emory.edu
 ||empornium.ph
 ||empornium.sx
@@ -10557,6 +10592,7 @@ writer.zoho.com
 ||idouga.com
 ||idsam.com
 ||iepl.us
+||ifanqiang.com
 ||ifconfig.co
 ||ifixit.com
 ||igoogle.ae
@@ -10723,6 +10759,7 @@ writer.zoho.com
 ||llnwi.net
 ||lncn.org
 ||logmein.com
+||longhair.hk
 ||lotsawahouse.org
 ||loved.hk
 ||lsmradio.com
@@ -11122,6 +11159,8 @@ writer.zoho.com
 ||tvb.com
 ||tw-npo.org
 ||tw.iqiyi.com
+||twbbs.net.tw
+||twbbs.tw
 ||tweepmag.com
 ||twibbon.com
 ||twilightsex.com
