@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-10-30 00:10:04
+!Last Modified: 2025-10-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7189,6 +7189,7 @@ writer.zoho.com
 ||businessmessages.google
 ||c.gle
 ||chromeenterprise.google
+||chromeos.google
 ||chromercise.com
 ||cloudpartnerservices.goog
 ||com.google
@@ -7204,6 +7205,7 @@ writer.zoho.com
 ||eurodasp.com
 ||families.google
 ||g-desktop.ru
+||gemini.google
 ||goagle.de
 ||gogle.com
 ||gogle.de
@@ -7277,15 +7279,19 @@ writer.zoho.com
 ||gvideo.de
 ||gvt0.com
 ||gwave.com
+||health.google
 ||io.google
 ||labs.google
 ||mypicasa.com
+||notebooklm.google
 ||opensource.google
+||play.google
 ||quantumai.google
 ||registry.google
 ||research.google
 ||safety.google
 ||share.google
+||sidewalklabs.com
 ||simtransfer.goog
 ||sipml5.org
 ||skintone.google
@@ -7402,6 +7408,7 @@ writer.zoho.com
 ||99cn.info
 ||a5vpn.com
 ||aamacau.com
+||aastocks.com
 ||abc.com
 ||ablwang.com
 ||aceros-de-hispania.com
@@ -8210,6 +8217,7 @@ writer.zoho.com
 ||gooddns.info
 ||goodtv.com.tw
 ||goodtv.tv
+||goody25.com
 ||goproxing.net
 ||gospelherald.com.hk
 ||gotporn.com
@@ -8328,6 +8336,7 @@ writer.zoho.com
 ||hkjc.com
 ||hkjp.org
 ||hklft.com
+||hkong.hk
 ||hkptu.org
 ||hkreadingcity.net
 ||hkusu.net
@@ -9376,6 +9385,7 @@ writer.zoho.com
 ||suprememastertv.com
 ||suyangg.com
 ||svsfx.com
+||swiffy.co.za
 ||sytes.net
 ||sz.de
 ||szbbs.net
@@ -9668,6 +9678,7 @@ writer.zoho.com
 ||van698.com
 ||vanemu.cn
 ||vanpeople.com
+||vct.news
 ||velkaepocha.sk
 ||venchina.com
 ||veoh.com
@@ -10858,7 +10869,6 @@ writer.zoho.com
 ||nodesnoop.com
 ||nofile.io
 ||nooc.ink
-||notebooklm.google
 ||notion.so
 ||now.im
 ||nowtorrents.com
@@ -10922,7 +10932,6 @@ writer.zoho.com
 ||planetscale.com
 ||play-cdn21.com
 ||play-cdn23.com
-||play.google
 ||plixi.com
 ||pokerstrategy.com
 ||pornbest.org
