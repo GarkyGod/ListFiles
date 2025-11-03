@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-03 00:10:04
+!Last Modified: 2025-11-04 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -9313,7 +9313,6 @@ writer.zoho.com
 ||solidfiles.com
 ||sonicbbs.cc
 ||sonidodelaesperanza.org
-||go.sony.com
 ||sopcast.com
 ||sopcast.org
 ||sorazone.net
@@ -9354,7 +9353,6 @@ writer.zoho.com
 ||stepchina.com
 ||ny.stgloballink.com
 ||stheadline.com
-||hd.stheadline.com
 ||stickam.com
 ||stickeraction.com
 ||stileproject.com
@@ -9373,7 +9371,6 @@ writer.zoho.com
 ||stweetly.com
 ||successfn.com
 ||sueddeutsche.de
-||panamapapers.sueddeutsche.de
 ||sugobbs.com
 ||summify.com
 ||sun1911.com
@@ -9772,6 +9769,7 @@ writer.zoho.com
 ||wexiaobo.org
 ||wezhiyong.org
 ||wforum.com
+||whcdn.net
 ||wheatseeds.org
 ||whichav.com
 ||whichav.video
