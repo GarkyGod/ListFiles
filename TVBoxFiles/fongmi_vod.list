@@ -1,5 +1,14 @@
 {
 	"urls":[
+//------------------------------=文件更新=------------------------------
+		{
+			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
+			"name":"✏️FongMiVod更新"
+		},
+		{
+			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
+			"name":"✏️FongMiVod更新|G"
+		},
 //------------------------------=網絡源=------------------------------
 		{
 			"url":"https://gh.noki.eu.org/https://github.com/qist/tvbox/raw/master/xiaosa/api.json",
