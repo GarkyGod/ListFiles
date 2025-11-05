@@ -20,15 +20,15 @@
 		},
 //------------------------------=自建源=------------------------------
 		{
-			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
+			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
 			"name":"📺️資源站"
 		},
 		{
-			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
+			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
 			"name":"📺️Backup"
 		},
 		{
-			"url":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
 			"name":"🔞NSFW"
 		},
 //------------------------------=代理=------------------------------
