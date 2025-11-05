@@ -42,7 +42,7 @@
 			"key":"key_csp_Douban",
 			"name":"🎲豆瓣",
 			"type":3,
-			"jar":"../https://github.com/zhixc/CatVodTVSpider/raw/main/jar/custom_spider.jar",
+			"jar":"https://gh.noki.eu.org/https://github.com/zhixc/CatVodTVSpider/raw/main/jar/custom_spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
