@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-06 00:10:04
+!Last Modified: 2025-11-07 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2856,6 +2856,7 @@ eyevio.jp
 ||eyny.com
 .ezpeer.com
 !--------------------FF-------------------------
+||flexclip.com
 ||freegpt.tech
 ||freegpt.es
 ||feedly.com
@@ -7593,6 +7594,7 @@ writer.zoho.com
 ||bizhat.com
 ||bjnewlife.org
 ||bjs.org
+||bktai.com
 ||blewpass.com
 ||blingblingsquad.net
 ||blinw.com
@@ -8487,6 +8489,7 @@ writer.zoho.com
 ||javhd.com
 ||javhip.com
 ||javmoo.com
+||javtiful.com
 ||javtrailers.com
 ||javzz.com
 ||jbtalks.cc
@@ -8636,6 +8639,7 @@ writer.zoho.com
 ||lmsys.org
 ||load.to
 ||lobsangwangyal.com
+||lobstertube.com
 ||localpresshk.com
 ||logbot.net
 ||logiqx.com
@@ -8757,6 +8761,8 @@ writer.zoho.com
 ||mirrormedia.com.tw
 ||mirrormediagroup.com
 ||missav.ai
+||missav.app
+||missav123.com
 ||mist.vip
 ||mitao.com.tw
 ||mitbbsau.com
@@ -8825,6 +8831,7 @@ writer.zoho.com
 ||nakuz.com
 ||namgyal.org
 ||namgyalmonastery.org
+||namu.wiki
 ||nanhuyt.com
 ||naol.ca
 ||naol.cc
@@ -8879,6 +8886,7 @@ writer.zoho.com
 ||usmgtcg.ning.com
 ||ninjacloak.com
 ||njav.tv
+||njavtv.com
 ||njuice.com
 ||no-ip.org
 ||nobodycanstop.us
@@ -9338,7 +9346,6 @@ writer.zoho.com
 ||sspanel.org
 ||sspro.ml
 ||sss.camp
-||stackoverflow.com
 ||stage64.hk
 ||starfishfx.com
 ||startuplivingchina.com
@@ -9475,6 +9482,7 @@ writer.zoho.com
 ||thywords.com.tw
 ||tiananmenmother.org
 ||tianzhu.org
+||tiava.com
 ||tibet.a.se
 ||tibet.at
 ||tibet.ca
@@ -9553,6 +9561,7 @@ writer.zoho.com
 ||tubecup.com
 ||tubegals.com
 ||tubeislam.com
+||tubepornstars.com
 ||tubestack.com
 ||tuibeitu.net
 ||tuidang.net
@@ -11067,6 +11076,7 @@ writer.zoho.com
 ||ssl443.org
 ||sstatic.net
 ||st-hatena.com
+||stackoverflow.com
 ||stanford.edu
 ||statsigapi.net
 ||steampowered.com
