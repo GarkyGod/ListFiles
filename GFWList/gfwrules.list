@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-08 00:10:05
+!Last Modified: 2025-11-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8623,6 +8623,7 @@ writer.zoho.com
 ||linksalpha.com
 ||linkuswell.com
 ||abitno.linpie.com
+||linux.do
 ||linuxtoy.org
 ||lionsroar.com
 ||lipuman.com
