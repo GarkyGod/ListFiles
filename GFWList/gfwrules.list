@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-09 00:10:04
+!Last Modified: 2025-11-10 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2558,10 +2558,6 @@ dcmilitary.com
 ||decodet.co
 .definebabe.com
 ||delcamp.net
-delicious.com/GFWbookmark
-.democrats.org
-||democrats.org
-.demosisto.hk
 ||demosisto.hk
 ||desc.se
 ||dessci.com
@@ -10272,6 +10268,7 @@ writer.zoho.com
 ||debian.org
 ||delicious.com
 ||demdex.net
+||democrats.org
 ||dianshimo.com
 ||didiao.cloud
 ||digiland.tw
