@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-15 00:10:04
+!Last Modified: 2025-11-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7399,6 +7399,7 @@ writer.zoho.com
 ||4chan.com
 ||4gtv.tv
 ||50webs.com
+||51cg1.com
 ||5299.tv
 ||55comic.com
 ||5657.com.tw
@@ -7420,6 +7421,7 @@ writer.zoho.com
 ||888.com
 ||8news.com.tw
 ||8world.com
+||91cg1.com
 ||91jinman.com
 ||991.com
 ||99cn.info
@@ -7697,7 +7699,6 @@ writer.zoho.com
 ||ccvoice.ca
 ||ccw.org.tw
 ||cdcparty.com
-||cdn-apple.com
 ||cdnews.com.tw
 ||cdns.com.tw
 ||cdp1989.org
@@ -9351,6 +9352,7 @@ writer.zoho.com
 ||spem.at
 ||spiegel.de
 ||spike.com
+||spotifycdn.com
 ||spring-plus.net
 ||sproxy.info
 ||srocket.us
@@ -11087,7 +11089,6 @@ writer.zoho.com
 ||sowiki.net
 ||soylent.com
 ||spark.adobe.com
-||spotifycdn.com
 ||sprite.page
 ||ssl443.org
 ||sstatic.net
