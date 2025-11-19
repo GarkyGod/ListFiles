@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-19 00:10:05
+!Last Modified: 2025-11-20 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -381,6 +381,7 @@ tumblrviewer
 174.142.105.153
 69.65.19.160
 !----------------------IDN----------------------
+||xn--9iqy04a7fi01l.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
@@ -840,6 +841,7 @@ bloomberg.de
 .zyns.com
 .zzux.com
 !!--Cloudflare--
+||cloudflarestatus.com
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -4071,6 +4073,7 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||library-access.sk
 ||linux.do
 ||lmarena.ai
 ||lexica.art
@@ -4237,6 +4240,8 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mij.rip
+||mji.rip
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
@@ -7188,11 +7193,11 @@ writer.zoho.com
 @@||about.fb.com
 ||fb.gg
 ||sl-reverse.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
+@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 /^https?:\/\/([^\/]+\.)*google\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*igoogle\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
 /^https?:\/\/([^\/]+\.)*youtube\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\/.*/
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
-@@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||about.google
 ||agnss.goog
 ||ai.google
@@ -7201,12 +7206,14 @@ writer.zoho.com
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org/
 @@||www.ampproject.org
+||antigravity.google
 ||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
 ||bg-call-donation-canary.goog
 ||bg-call-donation-dev.goog
 ||blog.google
 ||blogspot.com
+||built-in.google
 ||business.site
 ||businessmessages.google
 ||c.gle
@@ -7214,13 +7221,16 @@ writer.zoho.com
 ||chromeos.google
 ||chromercise.com
 ||cloudpartnerservices.goog
+||colab.google
 ||com.google
+||crisisresponse.google
 ||deepmind.google
 ||design.google
 ||diversity.google
 ||dmarcnetworks.com
 ||dns.google
 ||domains.google
+||doodles.google
 ||enterprisedemo-google.com
 ||enterprisedemogoogle.org
 ||enterprisemarketingportal.google
@@ -7304,14 +7314,18 @@ writer.zoho.com
 ||health.google
 ||io.google
 ||labs.google
+||learning.google
+||lens.google
 ||mypicasa.com
 ||notebooklm.google
 ||opensource.google
 ||play.google
+||publicpolicy.google
 ||quantumai.google
 ||registry.google
 ||research.google
 ||safety.google
+||search.google
 ||share.google
 ||sidewalklabs.com
 ||simtransfer.goog
@@ -7319,10 +7333,13 @@ writer.zoho.com
 ||skintone.google
 ||sre.google
 ||stories.google
+||sustainability.google
 ||swbusdev.com
 ||syndicatedsearch.goog
 ||telephony.goog
+||transparency.google
 ||tv.google
+||wallet.google
 ||zdns.google
 ||static01.nyt.com
 ||nytchina.com
@@ -7791,6 +7808,7 @@ writer.zoho.com
 ||clipfish.de
 ||clips4sale.com
 ||cloakpoint.com
+/^https?:\/\/cloudflarestatus\.com/
 ||cloudokyo.cloud
 ||cmoinc.org
 ||cmule.org
@@ -8419,7 +8437,6 @@ writer.zoho.com
 ||hwadzan.tw
 ||hysteria.network
 ||idv.tw
-/^https?:\/\/(?:api\.)?ipify\.org/
 ||i-cable.com
 ||i-part.com.tw
 ||i1.hk
@@ -8466,6 +8483,7 @@ writer.zoho.com
 ||innermongolia.org
 ||ipalter.com
 ||iphonehacks.com
+/^https?:\/\/(?:api\.)?ipify\.org/
 ||ipobar.com
 ||ipoock.com
 ||iptv.com.tw
@@ -10272,7 +10290,6 @@ writer.zoho.com
 ||cosco.com
 ||cosco.com.tw
 ||costco.com.tw
-||crisisresponse.google
 ||cryptographyengineering.com
 ||cuhk.edu.hk
 ||cuhkacs.org
@@ -10782,7 +10799,6 @@ writer.zoho.com
 ||law.com
 ||lbyczf.com
 ||leeao.com.cn
-||lens.google
 ||leorockwell.com
 ||lers.google
 ||lester850.info
@@ -11118,7 +11134,6 @@ writer.zoho.com
 ||superokayama.com
 ||surfeasy.com.au
 ||suroot.com
-||sustainability.google
 ||swag.live
 ||syncbak.com
 ||sysresccd.org
