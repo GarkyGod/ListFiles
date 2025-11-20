@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-20 00:10:05
+!Last Modified: 2025-11-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3152,6 +3152,7 @@ funp.com
 .fxcm-chinese.com
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||greatfirevpn.com
 ||garudalinux.org
 ||about.gitlab.com
 ||gitlab.net
@@ -6547,6 +6548,7 @@ vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||wikiunblocked.org
 ||websdr.org
 ||wikipedia.com
 ||wxw.moe
@@ -8667,6 +8669,7 @@ writer.zoho.com
 ||liu-xiaobo.org
 ||liuhanyu.com
 ||liujianshu.com
+||live-video.net
 ||livedoor.jp
 ||livestation.com
 ||livingonline.us
@@ -10814,7 +10817,6 @@ writer.zoho.com
 ||list-manage.com
 ||lithium.com
 ||liudejun.com
-||live-video.net
 ||lkcn.net
 ||llnwi.net
 ||lncn.org
