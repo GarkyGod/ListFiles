@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-21 00:10:05
+!Last Modified: 2025-11-22 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4261,7 +4261,6 @@ lvhai.org
 ||madou.club
 ||mahjongsoul.com
 ||mangabz.com
-http://*.m-team.cc
 .macrovpn.com
 ||mad-ar.ch
 ||madrau.com
@@ -9433,6 +9432,7 @@ writer.zoho.com
 ||suprememastertv.com
 ||suyangg.com
 ||svsfx.com
+||swag.live
 ||swiffy.co.za
 ||sytes.net
 ||sz.de
@@ -11136,7 +11136,6 @@ writer.zoho.com
 ||superokayama.com
 ||surfeasy.com.au
 ||suroot.com
-||swag.live
 ||syncbak.com
 ||sysresccd.org
 ||syx86.cn
