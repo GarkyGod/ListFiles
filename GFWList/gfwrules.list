@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-22 00:10:05
+!Last Modified: 2025-11-23 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3216,7 +3216,7 @@ gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
 .gekikame.com
-|http://gekikame.com
+||gekikame.com
 .gelbooru.com
 |http://gelbooru.com
 ||generated.photos
@@ -4519,6 +4519,7 @@ mysinablog.com
 .mytalkbox.com
 .mytizi.com
 !--------------------NN-------------------------
+||namu.wiki
 ||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
@@ -4819,6 +4820,7 @@ oyghan.com/wps
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||picsart.com
 ||images.prismic.io
 ||api.palworldgame.com
 ||pewresearch.org
@@ -8209,7 +8211,6 @@ writer.zoho.com
 ||gdbt.net
 ||gdzf.org
 ||geekheart.info
-||gekikame.com
 ||gelbooru.com
 ||gemini.com
 ||geocities.co.jp
@@ -8872,7 +8873,6 @@ writer.zoho.com
 ||nakuz.com
 ||namgyal.org
 ||namgyalmonastery.org
-||namu.wiki
 ||nanhuyt.com
 ||naol.ca
 ||naol.cc
