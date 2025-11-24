@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-11-24 00:10:04
+!Last Modified: 2025-11-25 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -8642,6 +8642,7 @@ writer.zoho.com
 ||latelinenews.com
 ||latibet.org
 ||legaltech.law.com
+||league-funny.com
 ||lefora.com
 ||legalporno.com
 ||legsjapan.com
