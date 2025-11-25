@@ -281,7 +281,7 @@
 		"key":"key_jinying",  // https://jinyingzy.com/  // https://jinyingzy.net/
 		"name":"📡資源站|金鷹",
 		"type":0,  // "type":1,
-		"api":"https://jinyingzy.com/provide/vod/at/xml/",  // "api":"https://jyzyapi.com/provide/vod/",
+		"api":"https://jyzyapi.com/provide/vod/at/xml/",  // "api":"https://jyzyapi.com/provide/vod/",  // "api":"https://jinyingzy.com/provide/vod/at/xml/",  // "api":"https://jyzyapi.com/provide/vod/",
 		"searchable":1,
 		"changeable":1
 //		"categories":["电视剧","韩剧","日剧","马泰剧","内地剧","欧美剧","香港剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","体育赛事"],
@@ -362,7 +362,7 @@
 		},
 
 		{
-		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/
+		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/  // https://www.moduzy.cc/
 		"name":"📡資源站|魔都",
 		"type":1,  // "type":0,
 		"api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
