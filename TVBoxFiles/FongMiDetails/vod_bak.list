@@ -10,7 +10,7 @@
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //	"spider": "https://gh.noki.eu.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 //	📢⚽⚾🏀🏈🏉🎾🎱🎳⛳🎣🎲🎭🎨🎦🎥📺💻🎬🎮📡💎🆕🆗🆖
@@ -24,17 +24,17 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 		{
@@ -52,7 +52,7 @@
 			"api":"csp_Jianpian",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
 			"key":"key_csp_NiNi",  // https://m.nbys.tv/  // https://www.nivod8.tv/
@@ -69,7 +69,7 @@
 			"api":"csp_PTT",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
 		{
 			"key":"key_csp_Star",  // https://www.histar.tv/
@@ -87,8 +87,8 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":{
-				"token":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
-				"filter":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
+				"token":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list",
+				"filter":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_wogg.json"
 			}
 		},
 		{
