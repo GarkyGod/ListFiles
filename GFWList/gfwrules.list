@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-12-22 00:10:04
+!Last Modified: 2025-12-23 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -7354,13 +7354,9 @@ writer.zoho.com
 ||tv.google
 ||wallet.google
 ||zdns.google
-||static01.nyt.com
-||nytchina.com
-||nyti.ms
 ||steambroadcast.akamaized.net
 ||login.steampowered.com
 |http://store.steampowered.com
-!!---Twitter---
 ||gov.tw
 @@||cksmh.gov.tw
 @@||tacc.cwb.gov.tw
@@ -8289,6 +8285,7 @@ writer.zoho.com
 ||greenparty.org.tw
 ||greenpeace.com.tw
 ||greenvpn.org
+||grokipedia.com
 ||grotty-monday.com
 ||gstf.org
 ||gts-vpn.com
@@ -8975,6 +8972,9 @@ writer.zoho.com
 ||nydus.ca
 ||nylon-angel.com
 ||nylonstockingsonline.com
+||static01.nyt.com
+||nytchina.com
+||nyti.ms
 ||nzchinese.com
 ||nzchinese.net.nz
 ||oaistatic.com
