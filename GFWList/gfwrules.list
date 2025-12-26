@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-12-26 00:10:05
+!Last Modified: 2025-12-27 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -963,7 +963,6 @@ blogspot.com
 ||chromecast.com
 ||chromeexperiments.com
 ||chromestatus.com
-||chromium.org
 ||cloudfunctions.net
 ||crbug.com
 ||creativelab5.com
@@ -4078,6 +4077,7 @@ kyohk.net
 .kzeng.info
 ||kzeng.info
 !--------------------LL-------------------------
+||lovart.ai
 ||library-access.sk
 ||linux.do
 ||lmarena.ai
@@ -7789,6 +7789,7 @@ writer.zoho.com
 ||chrdnet.com
 ||christianpost.com
 ||christusrex.org
+||chromium.org
 ||cht.com.tw
 ||chuang-yen.org
 ||chubold.com
