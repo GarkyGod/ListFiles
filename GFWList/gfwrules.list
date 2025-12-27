@@ -1,5 +1,5 @@
 !
-!Last Modified: 2025-12-27 00:10:05
+!Last Modified: 2025-12-28 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -917,6 +917,7 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
+||issues.chromium.org
 ||goog
 ||gle
 ||google
@@ -1507,6 +1508,7 @@ taiwannation.50webs.com
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||aljazeera.net
 ||anuneko.com
 ||ai.dev
 ||adguard-vpn.com
@@ -2484,8 +2486,6 @@ cyberghostvpn.com
 !--------------------DD-------------------------
 ||darmau.co
 ||dockerstatus.com
-||deno.dev
-||docs.deno.com
 ||doom9.org
 ||dweb.link
 ||docker.io
@@ -3153,6 +3153,7 @@ funp.com
 .fxcm-chinese.com
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
 ||about.gitlab.com
@@ -5292,6 +5293,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||steamladder.com
 ||sora.com
 ||lt.sntp.uk
 ||solscan.io
@@ -7496,7 +7498,6 @@ writer.zoho.com
 ||alhayat.com
 ||alicejapan.co.jp
 ||aliengu.com
-||aljazeera.net
 ||allervpn.com
 ||allgirlmassage.com
 ||allgirlsallowed.org
@@ -7913,6 +7914,7 @@ writer.zoho.com
 ||deepdiscount.com
 ||definebabe.com
 ||deno.com
+||deno.dev
 ||derpibooru.org
 ||destroy-china.jp
 ||detroitnews.com
