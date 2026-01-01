@@ -322,7 +322,7 @@
 
 		{
 		"key":"key_pbpan",  // https://www.pbpan.com/  // 
-		"name":"📡資源站|瀑布盤",
+		"name":"📡資源站|瀑布盤|bug",
 		"type":0,  // "type":1,
 		"api":"https://dh.ha.cn/api.php/provide/vod/at/xml/",  // "api":"https://dh.ha.cn/api.php/provide/vod/",
 		"searchable":1,
