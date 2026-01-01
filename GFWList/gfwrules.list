@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-01 00:10:05
+!Last Modified: 2026-01-02 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4826,6 +4826,7 @@ oyghan.com/wps
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||pdst.fm
 ||static.pocketcasts.com
 ||partnerstack.xyz
 ||podwise.ai
@@ -6299,6 +6300,7 @@ twurl.nl
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||up.audio
 ||udomain.hk
 ||upbit.com
 ||demo.unlock-music.dev
