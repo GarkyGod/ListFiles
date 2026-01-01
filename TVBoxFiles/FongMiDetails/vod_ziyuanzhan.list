@@ -88,12 +88,12 @@
 			"type":1,  // "type":0,
 			"api":"https://www.394tv.com/api.php/provide/vod/",  // "api":"https://www.394tv.com/api.php/provide/vod/at/xml",
 			"searchable":1,
-			"changeable":1
+			"changeable":1,
 //			"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电视","国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","资讯","公告","头条","电影资讯","电视资讯","综艺资讯","动漫资讯"],
-//			"header":{
-//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
-//				}
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+				}
 		},
 
 		{
