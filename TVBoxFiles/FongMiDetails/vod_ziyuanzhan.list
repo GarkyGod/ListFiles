@@ -58,7 +58,8 @@
 			"changeable":0,
 			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
-
+//	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
+//	////////////////////////////////////// ❓️❔️❕️❗️✔️❌️⚠️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
 //	////////////////////////////////////// 📡資源站 //////////////////////////////////////
 		{
 			"key":"key_CaiJi",
@@ -196,7 +197,7 @@
 
 		{
 		"key":"key_ikunzy",  // https://www.ikunzy.com/  // https://ikunzy.net/
-		"name":"📡資源站|ikun爱坤|bug",
+		"name":"📡資源站|ikun爱坤|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://ikunzy.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -210,7 +211,7 @@
 
 		{
 		"key":"key_inmi",  // https://www.inmi.app/
-		"name":"📡資源站|inmi映迷|Closed",
+		"name":"📡資源站|inmi映迷|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://www.inmi.app/api.php/provide/vod/",  // "api":"https://www.inmi.app/api.php/provide/vod/at/xml",
 		"searchable":1,
