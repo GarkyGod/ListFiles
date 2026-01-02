@@ -295,7 +295,7 @@
 
 		{
 		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/  // https://www.moduzy.cc/
-		"name":"📡資源站|魔都|bug",
+		"name":"📡資源站|魔都",
 		"type":1,  // "type":0,
 		"api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
 		"searchable":1,
