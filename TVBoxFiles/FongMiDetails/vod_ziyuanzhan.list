@@ -224,6 +224,20 @@
 		},
 
 		{
+		"key":"key_jinchan",  // https://zy.jinchancaiji.com/
+		"name":"📡資源站|金蟬",
+		"type":1,
+		"api":"https://zy.jinchancaiji.com/api.php/provide/vod/",
+		"searchable":1,
+		"changeable":1
+//		"categories":["电影","欧美剧","香港剧","韩剧","日剧","马泰剧","伦理片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","体育赛事","短剧","预告片"],
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
+		},
+
+		{
 		"key":"key_jinying",  // https://jinyingzy.com/  // https://jinyingzy.net/  // https://jinyingziyuan.com/  // https://jyzy1.com/ …… https://jyzy3.com/
 		"name":"📡資源站|金鷹",
 		"type":1,  // "type":0,
