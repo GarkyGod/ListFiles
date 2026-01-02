@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-02 00:10:04
+!Last Modified: 2026-01-03 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4946,8 +4946,23 @@ picturesocial.com
 ||pinimg.com
 .pinkrod.com
 ||pinoy-n.com
-||pinterest.*
-@@||pinterest.cn
+||pinterest.com
+||pinterest.com.mx
+||pinterest.com.au
+||pinterest.co.uk
+||pinterest.cl
+||pinterest.ca
+||pinterest.at
+||pinterest.de
+||pinterest.es
+||pinterest.fr
+||pinterest.ie
+||pinterest.it
+||pinterest.jp
+||pinterest.nz
+||pinterest.ph
+||pinterest.pt
+||pinterest.se
 .pipii.tv
 piraattilahti.org
 .piring.com
@@ -9084,16 +9099,8 @@ writer.zoho.com
 ||picturedip.com
 ||picturesocial.com
 ||pinkrod.com
-||pinterest.at
-||pinterest.ca
-||pinterest.co.uk
-||pinterest.com
-||pinterest.de
 ||pinterest.dk
-||pinterest.fr
-||pinterest.jp
 ||pinterest.nl
-||pinterest.se
 ||pionex.com
 ||pipii.tv
 ||piposay.com
@@ -10996,7 +11003,6 @@ writer.zoho.com
 ||phonegap.com
 ||picffzy.com
 ||pinterest.co.kr
-||pinterest.com.mx
 ||planetscale.com
 ||play-cdn21.com
 ||play-cdn23.com
