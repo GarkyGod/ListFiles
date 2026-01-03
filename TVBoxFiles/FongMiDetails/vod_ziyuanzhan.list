@@ -70,10 +70,10 @@
 			"changeable":1
 		},
 		{
-			"key":"key_360zy",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/
+			"key":"key_360",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/  // https://360zy1.com/ …… https://360zy10.com/
 			"name":"📡資源站|360",
 			"type":1,  // "type":0,
-			"api":"https://360zy.com/api.php/provide/vod/",  // "api":"https://360zy.com/api.php/provide/vod/at/xml",
+			"api":"https://360zy.com/api.php/provide/vod/",  // "api":"https://360zy.com/api.php/provide/vod/at/xml",  // "api":"https://360zyzz.com/api.php/provide/vod/",  // "api":"https://360zyzz.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"changeable":1,
 //			"categories":["电影","连续剧","综艺","动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","体育","NBA","惊悚片","家庭篇","古装片","历史片","悬疑片","犯罪片","灾难片","纪录片","短片","动画片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","足球","篮球","未分类","西部片","爽文短剧","现代都市","脑洞悬疑","年代穿越","古装仙侠","反转爽剧","女频恋爱","成长逆袭"],
@@ -126,13 +126,13 @@
 		},
 
 		{
-		"key":"key_baofeng",  // http://bfzy.tv/
+		"key":"key_baofeng",  // http://bfzy.tv/  // http://bfzy1.tv/ …… http://bfzy10.tv/
 		"name":"📡資源站|暴風",
 		"type":1,  // "type":0,
-		"api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",
+		"api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-//		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克"],
+//		"categories":["电影片","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺","动画片","电影解说","预告片","体育赛事","足球","篮球","网球","斯诺克","短剧大全","重生民国","穿越年代","现代言情","反转爽文","女恋总裁","闪婚离婚","都市脑洞","古装仙侠","福利"],
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -168,13 +168,13 @@
 		},
 
 		{
-		"key":"key_feifan",  // http://www.ffzy.tv
+		"key":"key_feifan",  // http://www.ffzy.tv/  // http://ffzy1.tv/ …… http://ffzy5.tv/
 		"name":"📡資源站|非凡",
 		"type":1,  // "type":0,
-		"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",  // older-"api":"http://cj.ffzyapi.com/api.php/provide/vod/",
+		"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://cj.ffzyapi.com/api.php/provide/vod/",  // "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1
-//		"categories":["电影片","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","伦理片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"],
+//		"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片","短剧"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -336,13 +336,13 @@
 		},
 
 		{
-		"key":"key_jisu",  // https://jisuzy.com/  // https://jisuzy.tv/  // http://www.jisuziyuan.com/
+		"key":"key_jisu",  // https://jisuzy.com/  // https://jisuzy.tv/  // http://www.jisuziyuan.com/  // http://www.jszy666.com/  // http://www.jszy333.com/
 		"name":"📡資源站|極速",
 		"type":1,  // "type":0,
 		"api":"https://jszyapi.com/api.php/provide/vod/",  // "api":"https://jszyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-//		"categories":["电视剧","日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","电影","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","奇幻片","伦理片","动漫","中国动漫","日本动漫","欧美动漫","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"],
+//		"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","伦理片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","体育赛事","大陆综艺","日韩综艺","港台综艺","欧美综艺","灾难片","悬疑片","犯罪片","奇幻片","短剧","预告片"],
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -378,13 +378,13 @@
 		},
 
 		{
-		"key":"key_niuniuzy",  // https://niuniuzy.cc/  // https://niuniuzy.info/  // https://niuniuzy.me/  // https://niuniuzy.org/
+		"key":"key_niuniu",  // https://niuniuzy.cc/  // https://niuniuzy.info/  // https://niuniuzy.me/  // https://niuniuzy.org/
 		"name":"📡資源站|牛牛",
 		"type":1,  // "type":0,
 		"api":"https://api.niuniuzy.me/api.php/provide/vod/",  // "api":"https://api.niuniuzy.me/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1
-//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"],
+//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","擦边短剧","科普学习"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -449,7 +449,7 @@
 
 		{
 		"key":"key_piaoling",  // https://www.p21000.com/
-		"name":"📡資源站|飄零|test",
+		"name":"📡資源站|飄零",
 		"type":1,  // "type":0,
 		"api":"https://p2100.net/api.php/provide/vod/",  // "api":"https://p2100.net/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -463,7 +463,7 @@
 
 		{
 		"key":"key_pbpan",  // https://www.pbpan.com/  // 
-		"name":"📡資源站|瀑布盤|bug",
+		"name":"📡資源站|瀑布盤",
 		"type":0,  // "type":1,
 		"api":"https://dh.ha.cn/api.php/provide/vod/at/xml",  // "api":"https://dh.ha.cn/api.php/provide/vod/",
 		"searchable":1,
@@ -473,6 +473,20 @@
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 			}
+		},
+
+		{
+		"key":"key_qilin",  // https://www.qilinzyz.com/
+		"name":"📡資源站|麒麟|♻️",
+		"type":1,  // "type":0,
+		"api":"https://www.qilinzyz.com/api.php/provide/vod/?uid=你的UID",  // "api":"https://www.qilinzyz.com/api.php/provide/vod/at/xml/?uid=你的UID",
+		"searchable":1,
+		"changeable":1
+//		"categories":["电影","连续剧","综艺","动漫","B站"],
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+//			}
 		},
 
 		{
@@ -546,8 +560,8 @@
 		},
 
 		{
-		"key":"key_taopian",  // https://www.taopianzy.com/
-		"name":"📡資源站|淘片|bug",
+		"key":"key_taopian",  // https://www.taopianzy.com/  // https://www.taopianzy1.com/ …… https://www.taopianzy2.com/
+		"name":"📡資源站|淘片|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://taopianapi.com/cjapi/mc/vod/json.html",  // "api":"https://taopianapi.com/cjapi/mc/vod/xml.html",
 		"searchable":1,
@@ -575,7 +589,7 @@
 
 		{
 		"key":"key_uku",  // https:ukuzy.com/  // https:ukuzy0.com/ …… https:ukuzy9.com/
-		"name":"📡資源站|U酷|test",
+		"name":"📡資源站|U酷",
 		"type":1,  // "type":0,
 		"api":"https://api.ukuapi88.com/api.php/provide/vod/",  // "api":"https://api.ukuapi88.com/api.php/provide/vod/at/xml",  // "api":"https://api.ukuapi.com/api.php/provide/vod/",  // "api":"https://api.ukuapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -602,14 +616,14 @@
 		},
 
 		{
-		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.tv/  // https://wolongzyw.tv/
+		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.cc/  // https://wolongzy.tv/  // https://wolongzyw.tv/  // https://wolongzy.tv/
 		"name":"📡資源站|臥龍",
-		"type":0,  // "type":1,
-		"api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
-		// "playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=",  // "playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
+		"type":1,  // "type":0,
+		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
+//		"playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
 		"searchable":1,
 		"changeable":1
-//		"categories":["电影片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","短片","动画片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","伦理片","连续剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","综艺片","港台综艺","韩国综艺","大陆综艺","欧美综艺","动漫片","国产动漫","欧美动漫","日本动漫","电影解说","体育","篮球","足球"],
+//		"categories":["电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","记录片","短片","动画片","国产动漫","欧美动漫","日本动漫","港台综艺","韩国综艺","大陆综艺","泰国剧","欧美综艺","电影解说","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","篮球","伦理片","足球","短剧"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -617,13 +631,13 @@
 		},
 
 		{
-		"key":"key_wujin",  // https://www.wujinzy.net/  // https://wujinzy.com/
-		"name":"📡資源站|無盡|test",
+		"key":"key_wujin",  // https://wujinzy.net/  // https://wujinzy.com/  // https://wujinzy.co/  // https://wujinzy.cc/  // https://help.wujinapi.me/
+		"name":"📡資源站|無盡",
 		"type":1,  // "type":0,
 		"api":"https://api.wujinapi.me/api.php/provide/vod/",  // "api":"https://api.wujinapi.me/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1
-//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","伦理片","纪录片","悬疑片","动画片","犯罪片","奇幻片","邵氏电影","连续剧","国产剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰剧","海外剧","短剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日韩动漫","欧美动漫","体育赛事","体育赛事","影视解说","资讯","公告","头条"],
+//		"categories":["电影","连续剧","综艺","动漫","资讯","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧","美国剧","公告","头条","伦理片","纪录片","韩国剧","日本剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","悬疑片","动画片","犯罪片","奇幻片","邵氏电影","泰剧","体育赛事","篮球","影视解说","短剧","港台动漫","海外动漫","演唱会","足球","预告片","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","有声动漫","女频恋爱","反转爽剧","脑洞悬疑","年代穿越","古装仙侠","现代都市","Netflix电影","Netflix自制剧","擦边短剧"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -645,13 +659,13 @@
 		},
 
 		{
-		"key":"key_yayazy",  // https://yayazy.com/  // https://yayazy.net/  // https://yayazy.ne/  // https://yayazy.org/  // https://yayazy.me/
-		"name":"📡資源站|鴨鴨丫丫",
+		"key":"key_yaya",  // https://yayazy.com/  // https://yayazy.net/  // https://yayazy.ne/  // https://yayazy.org/  // https://yayazy.me/
+		"name":"📡資源站|鴨鴨(丫丫)",
 		"type":1,  // "type":0,
 		"api":"https://cj.yayazy.net/api.php/provide/vod/",  // "api":"https://cj.yayazy.net/api.php/provide/vod/at/xml",  // https://cj2.yayazy.net/api.php/provide/vod/,https://cj2.yayazy.net/api.php/provide/vod/at/xml
 		"searchable":1,
 		"changeable":1
-//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影"],
+//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","擦边短剧","科普学习"],
 //		"header":{
 //			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 //			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
@@ -659,13 +673,13 @@
 		},
 
 		{
-		"key":"key_yinghua",  // https://yhzy.cc/  |原因不明電腦明顯正常 電視無顯示
+		"key":"key_yinghua",  // https://yhzy.cc/  // https://help.apiyhzy.com/
 		"name":"📡資源站|櫻花",
-		"type":0,  // "type":1,
-		"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",  // "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+		"type":1,  // "type":0,
+		"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",  // "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
-//		"categories":["电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","纪录片","动画电影","伦理片","连续剧","国产剧","香港剧","台湾剧","韩国剧","日本剧","欧美剧","海外剧","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫","资讯","公告","头条"],
+//		"categories":["电影","连续剧","综艺","动漫","资讯","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","台湾剧","韩国剧","公告","头条","犯罪片","纪录片","动画电影","日本剧","欧美剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日本动漫","欧美动漫","海外动漫","伦理片"],
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
