@@ -11,7 +11,7 @@
 			"name":"📺️Backup|com"
 		},
 		{
-			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
 			"name":"🔞NSFW|com"
 		},
 //------------------------------=自建源=------------------------------
@@ -24,7 +24,7 @@
 			"name":"📺️Backup|cc"
 		},
 		{
-			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
 			"name":"🔞NSFW|cc"
 		},
 //------------------------------=自建代理=------------------------------
@@ -37,7 +37,7 @@
 			"name":"📺️Backup|G"
 		},
 		{
-			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/nsfw.list",
+			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
 			"name":"🔞NSFW|G"
 		},
 //------------------------------=網絡源=------------------------------
@@ -49,13 +49,17 @@
 			"url":"https://gh.noki.eu.org/https://github.com/qist/tvbox/raw/master/dianshi.json",
 			"name":"📺️qist自用源API"
 		},
+		{
+			"url":"https://gh-proxy.org/https://github.com/alantang1977/X/raw/main/X.json",
+			"name":"📺️alantang1977自用源API"
+		},
 //------------------------------=文件更新=------------------------------
 		{
 			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
 			"name":"✏️FongMiVod更新|cc"
 		},
 		{
-			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
+			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
 			"name":"📖FongMiVod更新|com"
 		},
 		{
