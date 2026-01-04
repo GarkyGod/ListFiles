@@ -65,7 +65,7 @@
 			"key":"key_CaiJi",
 			"name":"📡資源站|合集",
 			"type":1,
-			"api":"http://zhangqun66.com/cjjh.php",
+			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
 			"changeable":1
 		},
