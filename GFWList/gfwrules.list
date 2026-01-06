@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-06 00:10:04
+!Last Modified: 2026-01-07 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -918,7 +918,7 @@ bloomberg.de
 ||ftchinese.com
 !!---Google---
 ||ai.studio
-||issues.chromium.org
+||chromium.org
 ||goog
 ||gle
 ||google
@@ -7812,7 +7812,6 @@ writer.zoho.com
 ||chrdnet.com
 ||christianpost.com
 ||christusrex.org
-||chromium.org
 ||cht.com.tw
 ||chuang-yen.org
 ||chubold.com
