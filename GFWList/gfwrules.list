@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-09 00:10:04
+!Last Modified: 2026-01-10 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3158,7 +3158,7 @@ funp.com
 ||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
-||about.gitlab.com
+||gitlab.com
 ||gitlab.net
 |http://gmp4.com
 ||getsession.org
@@ -8264,6 +8264,7 @@ writer.zoho.com
 ||gifree.com
 ||giganews.com
 ||gigporno.ru
+||about.gitlab.com
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globaltm.org
