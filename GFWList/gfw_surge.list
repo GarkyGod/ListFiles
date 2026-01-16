@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,abebooks.co.uk
 DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,ablwang.com
 DOMAIN-SUFFIX,aboluowang.com
+DOMAIN-SUFFIX,about.gitlab.com
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,aboutgfw.com
 DOMAIN-SUFFIX,abplive.com
@@ -1585,8 +1586,6 @@ DOMAIN-SUFFIX,delicious.com
 DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,democrats.org
 DOMAIN-SUFFIX,demosisto.hk
-DOMAIN-SUFFIX,deno.com
-DOMAIN-SUFFIX,deno.dev
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,derpibooru.org
 DOMAIN-SUFFIX,desc.se
@@ -2482,7 +2481,6 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubmemory.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitmemory.com
 DOMAIN-SUFFIX,gizlen.net
