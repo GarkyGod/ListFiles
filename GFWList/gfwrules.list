@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-17 00:10:04
+!Last Modified: 2026-01-18 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1522,6 +1522,9 @@ taiwannation.50webs.com
 ||aljazeera.com
 ||akinator.com
 ||annas-archive.org
+||annas-archive.in
+||annas-archive.li
+||annas-archive.pm
 ||av01.tv
 ||acg.rip
 ||annas-archive.se
@@ -6197,10 +6200,11 @@ tuitwit.com
 .tv.com
 |http://tv.com
 tvants.com
-||forum.tvb.com
+||mytvsuper.com
+||tvbanywhere.com
+||akamai.tvb.com
 ||inews-api.tvb.com
-news.tvbs.com.tw
-.tvboxnow.com
+||news.tvbs.com.tw
 ||tvboxnow.com
 tvider.com
 .tvmost.com.hk
@@ -9653,6 +9657,7 @@ writer.zoho.com
 ||turbotwitter.com
 ||tushycash.com
 ||tuzaijidi.com
+||forum.tvb.com
 ||tvbs.com.tw
 ||tvider.com
 ||tvmost.com.hk
