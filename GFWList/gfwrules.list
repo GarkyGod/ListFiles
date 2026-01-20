@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-20 00:10:05
+!Last Modified: 2026-01-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -6586,6 +6586,7 @@ vraiesagesse.net
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||weights.com
 ||wikiunblocked.org
 ||websdr.org
 ||wikipedia.com
@@ -6873,6 +6874,7 @@ xvideo.cc
 xys.org
 xysblogs.org
 !--------------------YY-------------------------
+||youmind.com
 ||yangzhi.org
 ||storage.yandex.net
 ||y2mate.com
@@ -9835,7 +9837,6 @@ writer.zoho.com
 ||webwarper.net
 ||us.weibo.com
 ||weiboleak.com
-||weights.com
 ||weihuo.org
 ||weiquanwang.org
 ||weisuo.ws
