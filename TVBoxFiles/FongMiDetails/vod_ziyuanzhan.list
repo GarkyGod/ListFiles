@@ -3,10 +3,12 @@
 	"logo":"https://avatars.githubusercontent.com/u/100259948",
 
 //////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
-//	"wallpaper":"https://epg.112114.xyz/bingimg",
-//	"wallpaper":"https://深色壁纸.xxooo.cf/",
-	"wallpaper":"https://picsum.photos/1920/1080/",  // ?blur=8
-//	"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",  // category=fengjing:風景,category=biying:必應,category=dongman:動漫,category=meinv:美女,更多說明https://tuapi.eees.cc/
+//	"wallpaper":"https://epg.112114.xyz/bingimg",  // 
+//	"wallpaper":"https://bing.img.run/uhd.php",  // uhd:Bing每日壁紙UHD超高清原圖,rand_uhd:隨機Bing歷史壁紙UHD超高清原圖,更多說明https://bing.img.run/api.html
+//	"wallpaper":"https://深色壁纸.xxooo.cf/",  //
+	"wallpaper":"https://picsum.photos/1920/1080/",  // ?blur=8,更多說明https://picsum.photos/
+//	"wallpaper":"https://www.dmoe.cc/random.php",  // 隨機二次元圖片,更多說明https://www.dmoe.cc/
+//	"wallpaper":"https://api.btstu.cn/sjbz/api.php?lx=fengjing",  // lx=suiji或直接為空:隨機,lx=dongman:動漫,lx=meizi:美女,lx=fengjing:風景,更多說明https://api.btstu.cn/
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
