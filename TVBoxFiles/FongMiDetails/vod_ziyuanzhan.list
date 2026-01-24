@@ -546,7 +546,7 @@
 		},
 
 		{
-		"key":"key_suoni",  // https://suonizy.com/  // https://suonizy.net/
+		"key":"key_suoni",  // https://suonizy.com/  // https://suonizy.cc/  // https://suonizy.net/  // https://t.me/suonizy
 		"name":"📡資源站|索尼",
 		"type":1,  // "type":0,
 		"api":"https://suoniapi.com/api.php/provide/vod/",  // "api":"https://suoniapi.com/api.php/provide/vod/at/xml",
