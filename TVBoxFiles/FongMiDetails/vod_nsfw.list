@@ -650,8 +650,8 @@
 		{"name":"v.recipes Adblock DNS","url":"https://v.recipes/dns-adblock","ips":[]},
 		{"name":"v.recipes ECS Optimized DNS","url":"https://v.recipes/dns-ecs","ips":[]},
 		{"name":"v.recipes CN Optimized DNS","url":"https://v.recipes/dns-cn","ips":[]},
-		{"name":"v.recipes Google Accelerator DNS","url":"https://v.recipes/dns/dns.google/dns-query","ips":[]},
 		{"name":"v.recipes Cloudflare Accelerator DNS","url":"https://v.recipes/dns/cloudflare-dns.com/dns-query","ips":[]},
+		{"name":"v.recipes Google Accelerator DNS","url":"https://v.recipes/dns/dns.google/dns-query","ips":[]},
 //		{"name":"¤Wikimedia DNS","url":"https://wikimedia-dns.org/dns-query","ips":["185.71.138.138"]},
 //		{"name":"¤Yandex DNS|bak","url":["https://common.dot.dns.yandex.net/dns-query","https://77.88.8.8/dns-query","https://secondary.dns.yandex.ru/dns-query"],"ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
 		{"name":"----------End----------","url":"#2#","ips":["",""]}
