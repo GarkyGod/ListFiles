@@ -146,6 +146,20 @@
 		},
 
 		{
+			"key":"key_dadi",  // http://dadizy.com/ | proxy  // http://help.shengapi.com/
+			"name":"🔞資源站|大地(18+)備test",
+			"type":1,  // "type":1,
+			"api":"https://ddkbo.com/feifei/",  // "api":"https://ddkbo.com/api.php",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.777},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
 			"key":"key_danaizi",  // https://danaizizy.com/  // https://danaizizy1.com/ …… https://danaizizy5.com/
 			"name":"🔞資源站|大奶子(18+)",
 			"type":1,  // "type":0,
