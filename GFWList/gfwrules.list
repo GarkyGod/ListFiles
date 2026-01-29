@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-29 00:10:05
+!Last Modified: 2026-01-30 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -315,6 +315,7 @@ tumblrviewer
 ||login.target.com
 ||rcam.target.com
 ||technews.tw
+||freeterabox.com
 ||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
@@ -8861,7 +8862,6 @@ writer.zoho.com
 ||molihua.org
 ||moomoo.com
 ||moonbbs.info
-||mooo.com
 ||morbell.com
 ||moroneta.com
 ||mosucloud.site
@@ -9343,6 +9343,7 @@ writer.zoho.com
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silkbook.com
+||simianx.ai
 ||sinchew.com.my
 ||singfortibet.com
 ||singlelogin.me
@@ -10883,6 +10884,7 @@ writer.zoho.com
 ||moneyhome.biz
 ||monitorware.com
 ||monlamit.org
+||mooo.com
 ||motiyun.com
 ||motor4ik.ru
 ||moztw.org
