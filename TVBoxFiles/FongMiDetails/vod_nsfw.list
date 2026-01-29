@@ -146,7 +146,7 @@
 		},
 
 		{
-			"key":"key_dadi",  // http://dadizy.com/ | proxy  // http://help.shengapi.com/
+			"key":"key_dadi_test",  // http://dadizy.com/ | proxy  // http://help.shengapi.com/
 			"name":"🔞資源站|大地(18+)備test",
 			"type":1,  // "type":1,
 			"api":"https://ddkbo.com/feifei/",  // "api":"https://ddkbo.com/api.php",
