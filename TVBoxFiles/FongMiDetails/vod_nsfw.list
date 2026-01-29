@@ -90,10 +90,10 @@
 		},
 
 		{
-			"key":"key_aosika",  // https://aosikazy.com/ | proxy  // https://aosikazy1.com/ …… https://aosikazy10.com/ | 4.5.8.9  // https://t.me/AsK_zy
+			"key":"key_aosika",  // https://aosikazy.com/ | proxy  // https://aosikazy1.com/ …… https://aosikazy10.com/ | 2.3  // https://t.me/AsK_zy
 			"name":"🔞資源站|奧斯卡(18+)",
 			"type":1,  // "type":0,
-			"api":"https://aosikazy8.com/api.php/provide/vod/",  // "api":"https://aosikazy8.com/api.php/provide/vod/at/xml",  // "api":"https://aosikazy.com/api.php/provide/vod/",  // "api":"https://aosikazy.com/api.php/provide/vod/at/xml",
+			"api":"https://aosikazy2.com/api.php/provide/vod/",  // "api":"https://aosikazy2.com/api.php/provide/vod/at/xml",  // "api":"https://aosikazy.com/api.php/provide/vod/",  // "api":"https://aosikazy.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"changeable":1,
 			"style":{"type":"rect","ratio":1.777},
