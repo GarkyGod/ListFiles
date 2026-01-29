@@ -134,8 +134,8 @@
 		{
 			"key":"key_dadi",  // http://dadizy.com/ | proxy  // http://help.shengapi.com/
 			"name":"🔞資源站|大地(18+)",
-			"type":1,  // "type":0,
-			"api":"https://dadiapi.com/feifei/",  // "api":"https://dadiapi.com/api.php",  // "api":"https://ddkbo.com/feifei/",  // "api":"https://ddkbo.com/api.php",
+			"type":0,  // "type":1,
+			"api":"https://dadiapi.com/api.php",  // "api":"https://dadiapi.com/feifei/",  // "api":"https://ddkbo.com/feifei/",  // "api":"https://ddkbo.com/api.php",
 			"searchable":1,
 			"changeable":1,
 			"style":{"type":"rect","ratio":1.777},
