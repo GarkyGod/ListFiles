@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-30 00:10:05
+!Last Modified: 2026-01-31 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5318,6 +5318,7 @@ rutube.ru
 .rxhj.net
 |http://rxhj.net
 !--------------------SS-------------------------
+||simianx.ai
 ||steamladder.com
 ||sora.com
 ||lt.sntp.uk
@@ -6876,6 +6877,7 @@ xvideo.cc
 xys.org
 xysblogs.org
 !--------------------YY-------------------------
+||yfsp.tv
 ||youmind.com
 ||yangzhi.org
 ||storage.yandex.net
@@ -9343,7 +9345,6 @@ writer.zoho.com
 ||sijihuisuo.club
 ||sijihuisuo.com
 ||silkbook.com
-||simianx.ai
 ||sinchew.com.my
 ||singfortibet.com
 ||singlelogin.me
