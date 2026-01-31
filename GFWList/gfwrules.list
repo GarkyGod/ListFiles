@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-01-31 00:10:05
+!Last Modified: 2026-02-01 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1788,6 +1788,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||help.byspotify.com
 ||bitbaby.com
 ||bettergpt.chat
 ||bt4gprx.com
@@ -4253,6 +4254,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
 ||mjj.rip
@@ -5773,6 +5775,7 @@ blog.syx86.com/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||bbc.pdn.tritondigital.com
 ||terobox.com
 ||temu.com
 ||trustwallet.com
@@ -7562,6 +7565,7 @@ writer.zoho.com
 ||antichristendom.com
 ||antisocial.science
 ||antiwave.net
+||anygate.vip
 ||anyporn.com
 ||anysex.com
 ||aofriend.com
@@ -7721,6 +7725,7 @@ writer.zoho.com
 ||buzzhand.com
 ||bwsj.hk
 ||bx.tl
+||byspotify.com
 ||c100tibet.org
 ||dot.ca.gov
 ||cachinese.com
@@ -7986,6 +7991,7 @@ writer.zoho.com
 ||dstk.dk
 ||dtwang.org
 ||duanzhihu.com
+||dudupro.com
 ||duga.jp
 ||dunyabulteni.net
 ||duoweitimes.com
