@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-01 00:10:04
+!Last Modified: 2026-02-02 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5775,6 +5775,7 @@ blog.syx86.com/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||tails.net
 ||bbc.pdn.tritondigital.com
 ||terobox.com
 ||temu.com
