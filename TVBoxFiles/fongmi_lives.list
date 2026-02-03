@@ -107,7 +107,8 @@
 		},
 		{
 		"name":"臺灣臺SSM0415_9453",  // https://github.com/SSM0415/apptest/
-		"url":"https://gh-proxy.com/https://github.com/SSM0415/apptest/raw/main/TVonline.txt",
+		"url":"https://github.com/GarkyGod/ListFiles/blob/main/TVBoxFiles/FongMiDetails/TVonline.txt",
+//		"url":"https://gh-proxy.com/https://github.com/SSM0415/apptest/raw/main/TVonline.txt",
 //		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
