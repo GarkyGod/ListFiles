@@ -1,0 +1,1599 @@
+測試用,#genre#
+勿營利轉售,#genre#
+勿相信,#genre#
+任何內容廣告,#genre#
+251011UP,#genre#
+
+台灣新聞YT,#genre#
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
+三立新聞網,https://www.youtube.com/watch?v=XtllcS--JCs
+三立LIVE,https://www.youtube.com/watch?v=YpnpivjRr7U
+三立INEW,https://www.youtube.com/watch?v=kMwoV2js-B4
+三立財經,https://www.youtube.com/watch?v=1mbhK0xfohY
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞1,https://www.youtube.com/watch?v=5SH3FDMyMzg
+寰宇新聞台灣,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
+公共電視,https://www.youtube.com/watch?v=C6gYqSHLRw4
+非凡財經,https://www.youtube.com/watch?v=xLqt2p6Dowo
+
+新聞,#genre#
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
+TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+中天新聞,http://211.23.114.106:8501/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+
+
+戲劇知識綜合,#genre#
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+國家地理,http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8
+緯來日本,http://211.23.114.106:8537/http/60.251.39.91:8081/hls/69/811/ch34.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+TVBS新聞,rtmp://f13h.mine.nu/sat/tv551
+TVBS歡樂,rtmp://f13h.mine.nu/sat/tv421
+東森財經新聞,rtmp://f13h.mine.nu/sat/tv571
+東森超視,rtmp://f13h.mine.nu/sat/tv521
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+MOMO綜合,rtmp://f13h.mine.nu/sat/tv761
+ELTA體育2,rtmp://f13h.mine.nu/sat/md011
+ELEVEN2,rtmp://f13h.mine.nu/sat/md021
+博斯網球,rtmp://f13h.mine.nu/sat/md031
+ELTA體育3,rtmp://f13h.mine.nu/sat/md041
+ELTA體育1,rtmp://f13h.mine.nu/sat/md051
+緯來體育,http://211.23.114.106:8528/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
+八大第一,http://211.23.114.106:8536/http/61.221.81.94:8088/hls/66/808/ch22.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+DISCOVE ASIA,http://125.227.210.55:8154/VideoInput/play.ts
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+華視,http://125.227.210.55:8163/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+RRI NET,http://125.227.210.55:8172/VideoInput/play.ts
+NTV,http://125.227.210.55:8173/VideoInput/play.ts
+CCTV4,http://125.227.210.55:8175/VideoInput/play.ts
+韓國台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+CNBC,http://125.227.210.55:8152/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+💖TV5台,http://125.227.210.55:15533/VideoInput/play.ts
+💖YTN台,http://125.227.210.55:17478/VideoInput/play.ts
+💖NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts
+💖HD台🍒,http://125.227.210.55:39004/VideoInput/play.ts
+💖DW台,http://125.227.210.55:42534/VideoInput/play.ts
+💖KOREA台,http://125.227.210.55:48553/VideoInput/play.ts
+
+
+兒童,#genre#
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+
+
+電影,#genre#
+HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+
+
+
+4GTV0623,#genre#
+港澳台,#genre#
+民視第一台,http://4gtv.korice.eu.org/4gtv-4gtv003/index.m3u8
+民視台灣台,http://4gtv.korice.eu.org/4gtv-4gtv001/index.m3u8
+民視HD,http://4gtv.korice.eu.org/4gtv-4gtv002/index.m3u8
+大愛電視,http://4gtv.korice.eu.org/4gtv-live007/index.m3u8
+中視,http://4gtv.korice.eu.org/4gtv-4gtv040/index.m3u8
+華視,http://4gtv.korice.eu.org/4gtv-4gtv041/index.m3u8
+三立綜合台,http://4gtv.korice.eu.org/4gtv-live207/index.m3u8
+客家電視,http://4gtv.korice.eu.org/4gtv-4gtv043/index.m3u8
+中視菁采台,http://4gtv.korice.eu.org/4gtv-4gtv064/index.m3u8
+靖天綜合,http://4gtv.korice.eu.org/4gtv-4gtv046/index.m3u8
+靖天日本,http://4gtv.korice.eu.org/4gtv-4gtv047/index.m3u8
+新唐人亞太台,http://4gtv.korice.eu.org/4gtv-live050/index.m3u8
+Arirang TV,http://4gtv.korice.eu.org/4gtv-4gtv079/index.m3u8
+原住民族電視台,http://4gtv.korice.eu.org/4gtv-live014/index.m3u8
+東森購物四台,http://4gtv.korice.eu.org/4gtv-live049/index.m3u8
+東森購物一台,http://4gtv.korice.eu.org/4gtv-live047/index.m3u8
+東森購物一台,http://4gtv.korice.eu.org/4gtv-4gtv102/index.m3u8
+TVBS HD,http://4gtv.korice.eu.org/4gtv-4gtv073/index.m3u8
+東森購物二台,http://4gtv.korice.eu.org/4gtv-live046/index.m3u8
+東森購物二台,http://4gtv.korice.eu.org/4gtv-4gtv103/index.m3u8
+靖天育樂,http://4gtv.korice.eu.org/4gtv-4gtv062/index.m3u8
+靖天國際,http://4gtv.korice.eu.org/4gtv-4gtv063/index.m3u8
+靖天歡樂,http://4gtv.korice.eu.org/4gtv-4gtv054/index.m3u8
+靖天資訊,http://4gtv.korice.eu.org/4gtv-4gtv065/index.m3u8
+韓國娛樂台,http://4gtv.korice.eu.org/4gtv-4gtv016/index.m3u8
+東森購物三台,http://4gtv.korice.eu.org/4gtv-live048/index.m3u8
+好消息,http://4gtv.korice.eu.org/litv-ftv16/index.m3u8
+好消息2台,http://4gtv.korice.eu.org/litv-ftv17/index.m3u8
+大愛二台,http://4gtv.korice.eu.org/4gtv-live106/index.m3u8
+人間衛視,http://4gtv.korice.eu.org/4gtv-live008/index.m3u8
+國會頻道1,http://4gtv.korice.eu.org/4gtv-4gtv084/index.m3u8
+國會頻道2,http://4gtv.korice.eu.org/4gtv-4gtv085/index.m3u8
+民視第一台,http://4gtv.korice.eu.org/li-4gtv-4gtv003/index.m3u8
+民視台灣台,http://4gtv.korice.eu.org/li-4gtv-4gtv001/index.m3u8
+民視HD,http://4gtv.korice.eu.org/4gtv-4gtv155/index.m3u8
+中視,http://4gtv.korice.eu.org/li-4gtv-4gtv040/index.m3u8
+中視經典台,http://4gtv.korice.eu.org/li-4gtv-4gtv080/index.m3u8
+華視,http://4gtv.korice.eu.org/li-4gtv-4gtv041/index.m3u8
+中天亞洲台,http://4gtv.korice.eu.org/4gtv-4gtv109/index.m3u8
+客家電視,http://4gtv.korice.eu.org/li-4gtv-4gtv043/index.m3u8
+中視菁采台,http://4gtv.korice.eu.org/li-4gtv-4gtv064/index.m3u8
+靖天綜合,http://4gtv.korice.eu.org/li-4gtv-4gtv046/index.m3u8
+靖天日本,http://4gtv.korice.eu.org/li-4gtv-4gtv047/index.m3u8
+Arirang TV,http://4gtv.korice.eu.org/li-4gtv-4gtv079/index.m3u8
+TVBS HD,http://4gtv.korice.eu.org/li-4gtv-4gtv073/index.m3u8
+靖天育樂,http://4gtv.korice.eu.org/li-4gtv-4gtv062/index.m3u8
+靖天國際,http://4gtv.korice.eu.org/li-4gtv-4gtv063/index.m3u8
+靖天歡樂,http://4gtv.korice.eu.org/li-4gtv-4gtv054/index.m3u8
+靖天資訊,http://4gtv.korice.eu.org/li-4gtv-4gtv065/index.m3u8
+韓國娛樂台,http://4gtv.korice.eu.org/li-4gtv-4gtv016/index.m3u8
+好消息,http://4gtv.korice.eu.org/li-litv-ftv16/index.m3u8
+好消息2台,http://4gtv.korice.eu.org/li-litv-ftv17/index.m3u8
+國會頻道1,http://4gtv.korice.eu.org/li-4gtv-4gtv084/index.m3u8
+國會頻道2,http://4gtv.korice.eu.org/li-4gtv-4gtv085/index.m3u8
+台視HD,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
+中視,http://4gtv.korice.eu.org/of-4gtv-4gtv040/index.m3u8
+華視,http://4gtv.korice.eu.org/of-4gtv-4gtv041/index.m3u8
+好消息,http://4gtv.korice.eu.org/of-litv-ftv16/index.m3u8
+好消息2台,http://4gtv.korice.eu.org/of-litv-ftv17/index.m3u8
+東森購物一台,http://4gtv.korice.eu.org/of-4gtv-4gtv102/index.m3u8
+東森購物二台,http://4gtv.korice.eu.org/of-4gtv-4gtv103/index.m3u8
+TVBS HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv073
+台視HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv066
+中視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv040
+華視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv041
+民視HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv002
+民視HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv155
+民視台灣台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv001
+民視第一台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv003
+中天亞洲台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv109
+靖天綜合,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv046
+靖天國際,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv063
+靖天資訊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv065
+客家電視,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv043
+阿里郎(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv079
+國會頻道1,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv084
+國會頻道2,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv085
+好消息,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv16
+好消息2台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv17
+生活英語台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn20
+MUCH TV,http://220.134.196.147:8530/http/61.219.99.20:8081/hls/72/814/ch45.m3u8
+TVBS HD,http://220.134.196.147:8570/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+八大第一HD,http://220.134.196.147:8505/http/61.219.99.20:8081/hls/66/808/ch22.m3u8
+八大綜合HD,http://220.134.196.147:8518/http/61.219.99.20:8081/hls/66/808/ch21.m3u8
+八大戲劇HD,http://220.134.196.147:8552/http/61.219.99.20:8081/hls/66/808/ch23.m3u8
+三立台灣HD,http://220.134.196.147:8513/http/61.219.99.20:8081/hls/65/807/ch20.m3u8
+三立都會HD,http://220.134.196.147:8503/http/61.219.99.20:8081/hls/65/807/ch19.m3u8
+中天娛樂HD,http://220.134.196.147:8567/http/61.219.99.20:8081/hls/78/80/ch63max.m3u8
+中天綜合HD,http://220.134.196.147:8502/http/61.219.99.20:8081/hls/67/809/ch25.m3u8
+東風衛視,http://220.134.196.147:8537/http/61.219.99.20:8081/hls/68/810/ch31.m3u8
+旅遊生活,http://220.134.196.147:8557/http/61.219.99.20:8081/hls/70/812/ch38.m3u8
+動物星球,http://220.134.196.147:8540/http/61.219.99.20:8081/hls/70/812/ch37.m3u8
+超視HD,http://220.134.196.147:8508/http/61.219.99.20:8081/hls/64/806/ch14.m3u8
+緯來育樂HD,http://220.134.196.147:8547/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
+緯來綜合HD,http://220.134.196.147:8533/http/61.219.99.20:8081/hls/68/810/ch32.m3u8
+緯來戲劇,http://220.134.196.147:8504/http/61.219.99.20:8081/hls/69/811/ch33.m3u8
+寵物頻道,http://220.134.196.147:8532/http/59.120.8.187:8078/hls/40/80/pettv.m3u8
+中天新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv009
+TVBS新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv072
+東森新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv152
+民視新聞,http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
+民視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
+鏡電視新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv075
+非凡新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv010
+台視新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv051
+華視新聞台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv052
+中視新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv074
+寰宇新聞,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn14
+三立新聞HD,http://220.134.196.147:8541/http/61.219.99.20:8081/hls/65/807/ch18.m3u8
+壹新聞,http://220.134.196.147:8501/http/61.219.99.20:8081/hls/66/808/ch24.m3u8
+年代新聞台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=niandainews_twn&token=ffmking
+寰宇新聞台灣台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv156
+半島國際新聞台,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv10
+東森財經新聞,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv153
+非凡商業,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv048
+台視財經台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv056
+鏡電視新聞台,http://4gtv.korice.eu.org/4gtv-4gtv075/index.m3u8
+東森新聞台,http://4gtv.korice.eu.org/4gtv-4gtv152/index.m3u8
+華視新聞台,http://4gtv.korice.eu.org/4gtv-4gtv052/index.m3u8
+民視新聞,http://4gtv.korice.eu.org/litv-ftv13/index.m3u8
+三立新聞iNEWS,http://4gtv.korice.eu.org/4gtv-live089/index.m3u8
+三立新聞iNEWS,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
+東森財經新聞,http://4gtv.korice.eu.org/4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.korice.eu.org/4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.korice.eu.org/4gtv-4gtv009/index.m3u8
+BLOOMBERG TV,http://4gtv.korice.eu.org/4gtv-live059/index.m3u8
+寰宇新聞,http://4gtv.korice.eu.org/litv-longturn14/index.m3u8
+寰宇新聞,http://220.134.196.147:8548/http/61.219.99.20:8081/hls/76/818/ch62.m3u8
+寰宇新聞台灣台,http://4gtv.korice.eu.org/4gtv-4gtv156/index.m3u8
+SBN 全球財經台,http://4gtv.korice.eu.org/4gtv-live060/index.m3u8
+ NHK 新聞資訊台,http://4gtv.korice.eu.org/4gtv-live168/index.m3u8
+FRANCE24 英文台,http://4gtv.korice.eu.org/4gtv-live146/index.m3u8
+半島國際新聞台,http://4gtv.korice.eu.org/4gtv-live157/index.m3u8
+CNBC Asia 財經台,http://4gtv.korice.eu.org/4gtv-live130/index.m3u8
+DW德國之聲,http://4gtv.korice.eu.org/4gtv-live071/index.m3u8
+華視新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv052/index.m3u8
+非凡新聞,http://4gtv.korice.eu.org/4gtv-4gtv010/index.m3u8
+非凡商業,http://4gtv.korice.eu.org/4gtv-4gtv048/index.m3u8
+台視財經台,http://4gtv.korice.eu.org/4gtv-4gtv056/index.m3u8
+東森新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv152/index.m3u8
+民視新聞,http://4gtv.korice.eu.org/li-litv-ftv13/index.m3u8
+TVBS新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv072/index.m3u8
+東森財經新聞,http://4gtv.korice.eu.org/li-4gtv-4gtv153/index.m3u8
+中視新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv074/index.m3u8
+中天新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://4gtv.korice.eu.org/li-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.korice.eu.org/li-4gtv-4gtv156/index.m3u8
+寰宇財經,http://4gtv.korice.eu.org/li-4gtv-4gtv158/index.m3u8
+台視新聞台,http://4gtv.korice.eu.org/li-4gtv-4gtv051/index.m3u8
+第1商業台,http://4gtv.korice.eu.org/li-4gtv-4gtv104/index.m3u8
+台視新聞台,http://4gtv.korice.eu.org/4gtv-4gtv051/index.m3u8
+中視新聞台,http://4gtv.korice.eu.org/of-4gtv-4gtv074/index.m3u8
+華視新聞台,http://4gtv.korice.eu.org/of-4gtv-4gtv052/index.m3u8
+中天新聞台,http://4gtv.korice.eu.org/of-4gtv-4gtv009/index.m3u8
+寰宇新聞,http://4gtv.korice.eu.org/of-litv-longturn14/index.m3u8
+寰宇新聞台灣台,http://4gtv.korice.eu.org/of-4gtv-4gtv156/index.m3u8
+寰宇財經,http://4gtv.korice.eu.org/of-4gtv-4gtv158/index.m3u8
+第1商業台,http://4gtv.korice.eu.org/4gtv-4gtv104/index.m3u8
+三立新聞iNEWS,http://4gtv.korice.eu.org/iNEWS/index.m3u8
+中天新聞台,http://smtp.tcxlife.com:8080/live/yifatv-ztxw02.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亞太電視綜合台,http://play2.one-tv.com/live/onetv.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+TVBS新聞台,http://220.134.196.147:8542/http/61.219.99.20:8081/hls/75/817/ch59.m3u8
+TRACE Sport Stars,http://4gtv.korice.eu.org/4gtv-4gtv077/index.m3u8
+智林體育,http://4gtv.korice.eu.org/4gtv-4gtv101/index.m3u8
+時尚運動X,http://4gtv.korice.eu.org/4gtv-4gtv014/index.m3u8
+智林體育,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv101
+緯來體育,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+緯來體育,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=videolandsport&token=ffmking
+緯來體育,http://220.134.196.147:8553/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
+momo綜合台,http://220.134.196.147:8575/http/59.120.8.187:8081/hls/76/818/momo_max.m3u8
+愛爾達體育1台,https://tzh911.qzz.io/play-smt.php?id=eltasport1_twn
+愛爾達體育2台,https://tzh911.qzz.io/play-smt.php?id=eltasport2_twn
+愛爾達體育2台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport2_twn&token=ffmking
+愛爾達體育3台,https://tzh911.qzz.io/play-smt.php?id=eltasport3_twn
+愛爾達體育3台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=eltasport3_twn&token=ffmking
+愛爾達體育4台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=natgeowild_twn&token=ffmking
+DAZN 1,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=dazn1_twn&token=ffmking
+DAZN 1,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=golfchannel_twn&token=ffmking
+DAZN 1,http://220.134.196.147:9120/http/59.120.8.187:8078/hls/25/80/esport.m3u8
+DAZN 2,http://220.134.196.147:9119/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
+DAZN 2,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=dazn2_twn&token=ffmking
+博斯高球I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn05
+博斯高球II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn06
+博斯運動I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn07
+博斯運動II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn08
+博斯網球,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn09
+博斯無限I,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn10
+博斯無限II,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn13
+TRACE Sport Stars,http://4gtv.korice.eu.org/li-4gtv-4gtv077/index.m3u8
+智林體育,http://4gtv.korice.eu.org/li-4gtv-4gtv101/index.m3u8
+時尚運動X,http://4gtv.korice.eu.org/li-4gtv-4gtv014/index.m3u8
+ GINX Esports TV,http://4gtv.korice.eu.org/li-4gtv-4gtv053/index.m3u8
+車迷 TV,http://4gtv.korice.eu.org/4gtv-live201/index.m3u8
+ GINX Esports TV,http://4gtv.korice.eu.org/4gtv-4gtv053/index.m3u8
+中視經典台,http://4gtv.korice.eu.org/4gtv-4gtv080/index.m3u8
+ROCK Entertainment,http://4gtv.korice.eu.org/4gtv-live080/index.m3u8
+公視戲劇,http://4gtv.korice.eu.org/4gtv-4gtv042/index.m3u8
+民視影劇,http://4gtv.korice.eu.org/litv-ftv09/index.m3u8
+HITS頻道,http://4gtv.korice.eu.org/4gtv-live620/index.m3u8
+霹靂布袋戲,http://4gtv.korice.eu.org/4gtv-live145/index.m3u8
+靖天戲劇,http://4gtv.korice.eu.org/4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://4gtv.korice.eu.org/4gtv-4gtv045/index.m3u8
+金光布袋戲,http://4gtv.korice.eu.org/4gtv-live144/index.m3u8
+ROCK Action,http://4gtv.korice.eu.org/4gtv-live138/index.m3u8
+采昌影劇,http://4gtv.korice.eu.org/4gtv-4gtv049/index.m3u8
+靖天映畫,http://4gtv.korice.eu.org/4gtv-4gtv055/index.m3u8
+靖天電影,http://4gtv.korice.eu.org/4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://4gtv.korice.eu.org/4gtv-4gtv011/index.m3u8
+amc 電影台,http://4gtv.korice.eu.org/4gtv-4gtv017/index.m3u8
+Cinema World,http://4gtv.korice.eu.org/4gtv-live069/index.m3u8
+歐洲光影,http://4gtv.korice.eu.org/litv-ftv10/index.m3u8
+TVBS台劇台,http://4gtv.korice.eu.org/4gtv-live088/index.m3u8
+經典電影台,http://4gtv.korice.eu.org/4gtv-live021/index.m3u8
+戲劇免費看1台,http://4gtv.korice.eu.org/4gtv-live010/index.m3u8
+龍華洋片,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
+龍華電影,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
+龍華日韓,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
+龍華偶像,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
+龍華戲劇,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+龍華經典,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+博斯魅力,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn04
+公視戲劇,http://4gtv.korice.eu.org/li-4gtv-4gtv042/index.m3u8
+民視影劇,http://4gtv.korice.eu.org/li-litv-ftv09/index.m3u8
+靖天戲劇,http://4gtv.korice.eu.org/li-4gtv-4gtv058/index.m3u8
+靖洋戲劇,http://4gtv.korice.eu.org/li-4gtv-4gtv045/index.m3u8
+采昌影劇,http://4gtv.korice.eu.org/li-4gtv-4gtv049/index.m3u8
+靖天映畫,http://4gtv.korice.eu.org/li-4gtv-4gtv055/index.m3u8
+靖天電影,http://4gtv.korice.eu.org/li-4gtv-4gtv061/index.m3u8
+影迷數位電影台,http://4gtv.korice.eu.org/li-4gtv-4gtv011/index.m3u8
+amc 電影台,http://4gtv.korice.eu.org/li-4gtv-4gtv017/index.m3u8
+台灣戲劇台,http://4gtv.korice.eu.org/li-litv-longturn22/index.m3u8
+台灣戲劇台,http://4gtv.korice.eu.org/litv-longturn22/index.m3u8
+龍華洋片,http://4gtv.korice.eu.org/litv-longturn02/index.m3u8
+龍華電影,http://4gtv.korice.eu.org/litv-longturn03/index.m3u8
+龍華日韓,http://4gtv.korice.eu.org/litv-longturn11/index.m3u8
+龍華偶像,http://4gtv.korice.eu.org/litv-longturn12/index.m3u8
+龍華戲劇,http://4gtv.korice.eu.org/litv-longturn18/index.m3u8
+龍華經典,http://4gtv.korice.eu.org/litv-longturn21/index.m3u8
+TVBS歡樂台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv068
+TVBS精采台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv067
+愛爾達娛樂(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv070
+民視綜藝台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv004
+八大綜藝台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv039
+八大精彩台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv034
+靖天歡樂台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv054
+靖天育樂台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv062
+中視菁采台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv064
+豬哥亮歌廳秀(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv006
+影迷數位電影台,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv011
+amc電影台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv017
+靖天電影台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv061
+靖天映畫(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv055
+采昌影劇台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv049
+民視影劇(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-ftv09
+龍華電影(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn03
+龍華洋片(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn02
+公視戲劇(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv042
+靖洋戲劇台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv045
+靖天戲劇台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv058
+中視經典台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv080
+靖天日本台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv047
+龍華戲劇(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn18
+龍華日韓(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn11
+龍華偶像(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn12
+龍華經典(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn21
+台灣戲劇台(LiTV),http://tv543.cc/litv.php?token=leifeng&id=litv-longturn22
+龍祥時代電影台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=lungxiangtime_twn&token=ffmking
+台灣美亞電影台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=meiyamovie_twn&token=ffmking
+CINEMAX,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=cinemax_twn&token=ffmking
+好萊塢電影台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hollywoodmovies_twn&token=ffmking
+東森電影台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvmovie&token=ffmking
+東森洋片台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=ettvwestern&token=ffmking
+Catchplay電影台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=catchplay_twn&token=ffmking
+AXN台灣台,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=axn_twn&token=ffmking
+HBO亞洲,http://jlyzzgfhyeao.ap-northeast-1.clawcloudrun.com/smart.php?id=hbohd_twn&token=ffmking
+八大綜藝,http://4gtv.korice.eu.org/4gtv-4gtv039/index.m3u8
+TVBS精采台,http://4gtv.korice.eu.org/4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://4gtv.korice.eu.org/4gtv-4gtv070/index.m3u8
+民視綜藝,http://4gtv.korice.eu.org/4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://4gtv.korice.eu.org/4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://4gtv.korice.eu.org/4gtv-4gtv068/index.m3u8
+電影原聲台 CMusic,http://4gtv.korice.eu.org/4gtv-live031/index.m3u8
+TRACE Urban,http://4gtv.korice.eu.org/4gtv-4gtv082/index.m3u8
+MTV Live,http://4gtv.korice.eu.org/4gtv-live025/index.m3u8
+Mezzo Live HD,http://4gtv.korice.eu.org/4gtv-4gtv083/index.m3u8
+CLASSICA古典樂,http://4gtv.korice.eu.org/4gtv-4gtv059/index.m3u8
+八大精彩,http://4gtv.korice.eu.org/4gtv-4gtv034/index.m3u8
+TVBS綜藝台,http://4gtv.korice.eu.org/4gtv-live087/index.m3u8
+八大綜藝,http://4gtv.korice.eu.org/li-4gtv-4gtv039/index.m3u8
+TVBS精采台,http://4gtv.korice.eu.org/li-4gtv-4gtv067/index.m3u8
+ELTA娛樂,http://4gtv.korice.eu.org/li-4gtv-4gtv070/index.m3u8
+民視綜藝,http://4gtv.korice.eu.org/li-4gtv-4gtv004/index.m3u8
+豬哥亮歌廳秀,http://4gtv.korice.eu.org/li-4gtv-4gtv006/index.m3u8
+TVBS歡樂台,http://4gtv.korice.eu.org/li-4gtv-4gtv068/index.m3u8
+TRACE Urban,http://4gtv.korice.eu.org/li-4gtv-4gtv082/index.m3u8
+Mezzo Live HD,http://4gtv.korice.eu.org/li-4gtv-4gtv083/index.m3u8
+CLASSICA古典樂,http://4gtv.korice.eu.org/li-4gtv-4gtv059/index.m3u8
+八大精彩,http://4gtv.korice.eu.org/li-4gtv-4gtv034/index.m3u8
+CLASSICA古典樂,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv059
+TRACE Urban,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv082
+Mezzo Live HD,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv083
+Global Trekker,http://4gtv.korice.eu.org/4gtv-live112/index.m3u8
+ Lifetime,http://4gtv.korice.eu.org/4gtv-live029/index.m3u8
+INULTRA,http://4gtv.korice.eu.org/4gtv-live096/index.m3u8
+民視旅遊,http://4gtv.korice.eu.org/litv-ftv07/index.m3u8
+滾動力 Rollor,http://4gtv.korice.eu.org/4gtv-live012/index.m3u8
+亞洲旅遊,http://4gtv.korice.eu.org/4gtv-4gtv076/index.m3u8
+fun探索娛樂台,http://4gtv.korice.eu.org/4gtv-live011/index.m3u8
+幸福空間居家台,http://4gtv.korice.eu.org/4gtv-live206/index.m3u8
+LOVE NATURE,http://4gtv.korice.eu.org/4gtv-live208/index.m3u8
+ELTA生活旅遊,http://4gtv.korice.eu.org/4gtv-live120/index.m3u8
+LUXE TV,http://4gtv.korice.eu.org/4gtv-live121/index.m3u8
+TV5MONDE Style,http://4gtv.korice.eu.org/4gtv-live122/index.m3u8
+MagellanTV頻道,http://4gtv.korice.eu.org/4gtv-live123/index.m3u8
+民視旅遊,http://4gtv.korice.eu.org/li-litv-ftv07/index.m3u8
+亞洲旅遊,http://4gtv.korice.eu.org/li-4gtv-4gtv076/index.m3u8
+Smart知識台,http://4gtv.korice.eu.org/li-litv-longturn19/index.m3u8
+亞洲旅遊,http://4gtv.korice.eu.org/of-4gtv-4gtv076/index.m3u8
+Smart知識台,http://4gtv.korice.eu.org/litv-longturn19/index.m3u8
+Global Trekker,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv016
+亞洲旅遊,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv076
+民視旅遊,http://tv543.cc/litv.php?token=leifeng&id=litv-ftv07
+Smart知識台,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn19
+LiveABC互動英語頻道,http://4gtv.korice.eu.org/4gtv-live030/index.m3u8
+達文西,http://4gtv.korice.eu.org/4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://4gtv.korice.eu.org/litv-longturn20/index.m3u8
+Nick Jr.,http://4gtv.korice.eu.org/4gtv-live032/index.m3u8
+Nickelodeon,http://4gtv.korice.eu.org/4gtv-live105/index.m3u8
+DreamWorks,http://4gtv.korice.eu.org/4gtv-live017/index.m3u8
+靖天卡通,http://4gtv.korice.eu.org/4gtv-4gtv044/index.m3u8
+靖洋卡通,http://4gtv.korice.eu.org/4gtv-4gtv057/index.m3u8
+MOMO親子,http://4gtv.korice.eu.org/4gtv-live107/index.m3u8
+經典卡通台,http://4gtv.korice.eu.org/4gtv-live022/index.m3u8
+精選動漫台,http://4gtv.korice.eu.org/4gtv-live024/index.m3u8
+龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
+達文西,http://4gtv.korice.eu.org/li-4gtv-4gtv018/index.m3u8
+ELTV生活英語台,http://4gtv.korice.eu.org/li-litv-longturn20/index.m3u8
+靖天卡通,http://4gtv.korice.eu.org/li-4gtv-4gtv044/index.m3u8
+靖洋卡通,http://4gtv.korice.eu.org/li-4gtv-4gtv057/index.m3u8
+ELTV生活英語台,http://4gtv.korice.eu.org/of-litv-longturn20/index.m3u8
+龍華卡通,http://4gtv.korice.eu.org/litv-longturn01/index.m3u8
+達文西,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv018
+靖天卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv044
+靖洋卡通,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv057
+龍華卡通,http://tv543.cc/litv.php?token=leifeng&id=litv-longturn01
+視納華仁紀實頻道,http://tv543.cc/litv.php?token=leifeng&id=4gtv-4gtv013
+歷史頻道,http://4gtv.korice.eu.org/4gtv-live026/index.m3u8
+視納華仁紀實頻道,http://4gtv.korice.eu.org/li-4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://4gtv.korice.eu.org/li-litv-ftv15/index.m3u8
+CI 罪案偵查頻道,http://4gtv.korice.eu.org/4gtv-live027/index.m3u8
+視納華仁紀實頻道,http://4gtv.korice.eu.org/4gtv-4gtv013/index.m3u8
+影迷數位紀實台,http://4gtv.korice.eu.org/litv-ftv15/index.m3u8
+台視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv066
+中視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv040
+華視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv041
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv002
+民視,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv155
+中視經典台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv080
+中視菁采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv064
+民視台灣台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv001
+民視第一台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv003
+中天新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv009
+TVBS新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv072
+東森新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv152
+民視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv13
+鏡電視新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv075
+非凡新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv010
+台視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv051
+華視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv052
+中視新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv074
+寰宇新聞台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
+寰宇新聞台灣台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv156
+東森財經新聞,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv153
+非凡商業台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv048
+台視財經,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv056
+第1商業台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv104
+TVBS,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv073
+中天亞洲台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv109
+客家電視台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv043
+阿里郎,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv079
+國會頻道1,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv084
+國會頻道2,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv085
+TVBS歡樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv068
+TVBS精采台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
+愛爾達娛樂,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv070
+影迷數位電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv011
+采昌影劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv049
+amc電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
+My Cinema Europe HD 我的歐洲電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv10
+公視戲劇,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv042
+龍華電影,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn03
+龍華洋片,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn02
+龍華戲劇,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn18
+龍華日韓,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn11
+龍華偶像,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn12
+龍華經典,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn21
+龍華卡通,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn01
+靖洋戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv045
+靖天綜合台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv046
+靖天國際台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv063
+靖天資訊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
+靖天戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天日本台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv047
+靖天卡通台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv044
+靖洋卡通台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv057
+靖天歡樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv054
+靖天育樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv062
+靖天電影台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv061
+靖天映畫,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+Smart知識台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn19
+台灣戲劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn22
+視納華仁紀實,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv013
+韓國娛樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv016
+達文西頻道,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv018
+亞洲旅遊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv076
+生活英語台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn20
+美國之音,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv03
+民視影劇台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv09
+民視綜藝台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv004
+民視旅遊台,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv07
+八大綜藝台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv039
+八大精彩台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv034
+豬哥亮歌廳秀,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv006
+時尚運動X,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv014
+GinxTV,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv053
+智林體育台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv101
+博斯魅力,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn04
+博斯高球,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn05
+博斯高球二,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn06
+博斯運動一,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn07
+博斯運動二,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn08
+博斯網球,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn09
+博斯無限,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn10
+博斯無限二,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn13
+古典音樂台,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv059
+TRACE URBAN,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv082
+MEZZO LIVE,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv083
+好消息1,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv16
+好消息2,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv17
+中天新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv009
+TVBS新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv072
+東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv152
+民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv13
+鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv075
+非凡新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv010
+台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv051
+華視新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv052
+中視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv074
+寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn14
+寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv156
+半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv10
+美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv03
+東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv153
+非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv048
+台視財經台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv056
+第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv104
+TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv073
+台視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv066
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv040
+華視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv041
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv002
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv155
+民視台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv001
+民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv003
+中天亞洲,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv109
+靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv046
+靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv063
+靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv065
+客家電視台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv043
+ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv079
+國會頻道1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv084
+國會頻道2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv085
+TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv068
+TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv067
+ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv070
+民視綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv004
+八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv039
+八大精彩,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv034
+靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv054
+靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv062
+中視菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv064
+豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv006
+影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv011
+amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv017
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv061
+靖天映畫,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv055
+采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv049
+民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv09
+龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn03
+龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn02
+公視戲劇,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv042
+靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv045
+靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv058
+中視經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv080
+靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv047
+龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn18
+龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn11
+龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn12
+龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn21
+台灣戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn22
+時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv014
+GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv053
+智林體育台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv101
+博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn04
+博斯高球1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn05
+博斯高球2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn06
+博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn07
+博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn08
+博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn09
+博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn10
+博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn13
+視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv013
+Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv016
+達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv018
+亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv076
+民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv07
+Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn19
+靖天卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv044
+靖洋卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv057
+龍華卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn01
+CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv059
+TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv082
+MezzoLiveHD,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=4gtv-4gtv083
+好消息1,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv16
+好消息2,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-ftv17
+ELTV生活英語台,http://breezy-audrie-zspace-7524863c.koyeb.app/sub?token=leifeng&id=litv-longturn20
+民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+民視第一台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+民視綜藝台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
+豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
+中天新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+非凡新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+視納華仁紀實頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv013
+時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
+Globetrotter 環遊旅行家,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv016
+AMC 最愛電影,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv017
+達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
+八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
+八大綜藝台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+公視戲劇,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
+客家電視台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv043
+靖天卡通台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
+靖洋戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
+靖天綜合台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
+靖天日本台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
+非凡商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv048
+采昌影劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
+台視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+華視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+GINX Esports TV,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv053
+靖天歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
+靖天映畫,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+台視財經,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv056
+靖洋卡通台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
+靖天戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+CLASSICA古典樂,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv059
+靖天電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
+靖天育樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv062
+靖天國際台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
+中視菁采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
+靖天資訊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
+台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
+TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
+TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
+ELTA娛樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv070
+TVBS新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
+TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+中視新聞,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv074
+鏡電視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
+亞洲旅遊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
+TRACE Sport Stars,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv077
+ARIRANG阿里郎頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv079
+中視經典台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
+TRACE Urban,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv082
+Mezzo Live,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv083
+國會頻道1台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv084
+國會頻道2台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv085
+智林體育台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
+東森購物1台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv102
+東森購物2台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv103
+第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
+中天亞洲台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+東森新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+東森財經新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+VOA美國之音,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv03
+民視旅遊台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
+民視影劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+半島國際新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv10
+民視新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+i-Fun動漫台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv15
+好消息,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv16
+好消息2台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv17
+龍華卡通台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
+龍華電影台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
+博斯魅力台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn04
+博斯高球台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn05
+博斯高球二台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
+博斯運動一台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
+博斯運動二台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
+博斯網球台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn09
+博斯無限台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn10
+龍華日韓台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
+龍華偶像台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
+博斯無限二台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
+寰宇新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+龍華戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
+Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
+ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
+龍華經典台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
+台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
+寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+台視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+台視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+中視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+中視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false
+華視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+三立新聞iNEWS,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=iNEWS&sd=1080&proxy=false
+中天新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+寰宇新聞台灣台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+寰宇新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+寰宇財經台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+倪珍播新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-zh&sd=1080&proxy=false
+倪珍英語新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-en&sd=1080&proxy=false
+倪珍越南語新聞,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=nnews-vn&sd=1080&proxy=false
+好消息,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false
+好消息2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false
+第1商業台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+國會頻道1台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false
+國會頻道2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false
+ELTV生活英語台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+Smart知識台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+亞洲旅遊台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+台灣戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+龍華卡通台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+龍華戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+龍華偶像台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+龍華日韓台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+龍華經典台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+龍華電影台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+龍華洋片台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+東森購物1台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=false
+東森購物2台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=false
+台視,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false&token=Doubebly
+台視新聞,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false&token=Doubebly
+中視,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false&token=Doubebly
+中視新聞,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=false&token=Doubebly
+華視,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false&token=Doubebly
+華視新聞,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false&token=Doubebly
+三立新聞iNEWS,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=iNEWS&sd=1080&proxy=false&token=Doubebly
+中天新聞台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false&token=Doubebly
+寰宇新聞台灣台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false&token=Doubebly
+寰宇新聞台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false&token=Doubebly
+寰宇財經台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false&token=Doubebly
+好消息,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv16&sd=1080&proxy=false&token=Doubebly
+好消息2台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-ftv17&sd=1080&proxy=false&token=Doubebly
+第1商業台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false&token=Doubebly
+國會頻道1台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=false&token=Doubebly
+國會頻道2台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=false&token=Doubebly
+ELTV生活英語台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false&token=Doubebly
+Smart知識台,https://limited-annissa-ohjuste-free-120abbc3.koyeb.app/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false&token=Doubebly
+NHK G,https://nl.utako.moe/NHK_G/index.m3u8
+NHK E,https://nl.utako.moe/NHK_E/index.m3u8
+NTV,https://nl.utako.moe/Nippon_TV/index.m3u8
+TBS,https://nl.utako.moe/TBS/index.m3u8
+Fuji TV,https://nl.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,https://nl.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://nl.utako.moe/TV_Tokyo/index.m3u8
+Tokyo MX1,https://nl.utako.moe/Tokyo_MX1/index.m3u8
+Tokyo MX2,https://nl.utako.moe/Tokyo_MX2/index.m3u8
+NHK BS,https://nl.utako.moe/NHK_BS/index.m3u8
+BS NTV,https://nl.utako.moe/bsntv/index.m3u8
+BS Asahi,https://nl.utako.moe/bsasahi/index.m3u8
+BS TBS,https://nl.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://nl.utako.moe/bstvtokyo/index.m3u8
+BS Fuji,https://nl.utako.moe/bsfuji/index.m3u8
+BS10,https://nl.utako.moe/bs10/index.m3u8
+BS11,https://nl.utako.moe/BS11/index.m3u8
+BS12,https://nl.utako.moe/bs12/index.m3u8
+NHK BS4K,https://nl.utako.moe/bsp4k/index.m3u8
+WOWOW Prime,https://nl.utako.moe/wprime/index.m3u8
+WOWOW Cinema,https://nl.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://nl.utako.moe/wlive/index.m3u8
+BS 10 Premium,https://nl.utako.moe/bs10_star/index.m3u8
+JSport 1,https://nl.utako.moe/js1/index.m3u8
+JSport 2,https://nl.utako.moe/js2/index.m3u8
+JSport 3,https://nl.utako.moe/js3/index.m3u8
+JSport 4,https://nl.utako.moe/js4/index.m3u8
+Green Channel,https://nl.utako.moe/green/index.m3u8
+Animax,https://nl.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://nl.utako.moe/nihoneiga/index.m3u8
+Sky A,https://nl.utako.moe/skya/index.m3u8
+Gaora Sports,https://nl.utako.moe/gaora/index.m3u8
+AT-X,https://nl.utako.moe/AT-X/index.m3u8
+Space Shower TV,https://nl.utako.moe/spaceshower/index.m3u8
+MTV,https://nl.utako.moe/mtv/index.m3u8
+Kayo Pops,https://nl.utako.moe/kayopops/index.m3u8
+Kids Station,https://nl.utako.moe/kids_station/index.m3u8
+Disney Channel,https://nl.utako.moe/disneychan/index.m3u8
+Cartoon Network Japan,https://nl.utako.moe/cartoon_network/index.m3u8
+NTV G+,https://nl.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://nl.utako.moe/familygeki/index.m3u8
+Mondo TV,https://nl.utako.moe/mondo/index.m3u8
+Music On TV,https://nl.utako.moe/musicon/index.m3u8
+Mnet,https://nl.utako.moe/mnet/index.m3u8
+TBS Channel 1,https://nl.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://nl.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://nl.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://nl.utako.moe/ex_ch2/index.m3u8
+Fuji TV One,https://nl.utako.moe/fuji_one/index.m3u8
+Fuji TV Two,https://nl.utako.moe/fuji_two/index.m3u8
+Fuji TV Next,https://nl.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://nl.utako.moe/neco/index.m3u8
+Dlife,https://nl.utako.moe/dlife/index.m3u8
+Toei Channel,https://nl.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://nl.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://nl.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://nl.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://nl.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
+Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
+Pigoo (NSFW),https://nl.utako.moe/pigoo/index.m3u8
+V Paradise (NSFW),https://nl.utako.moe/v_paradise/index.m3u8
+tvN 꽃보다할배,https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8
+tvN 나의 아저씨,https://dp9vqmqe1b62.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqup1fpzurgqx-ssai-prd/dc942d76_e776_4c34_8e0c_f09008912455/hls/playlist.m3u8
+tvN 도깨비,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8
+tvN 라켓보이즈,https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8
+tvN 마인,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8
+tvN 멜랑꼴리아,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
+tvN 철인왕후,https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
+tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
+Arirang 阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+KBS 1,https://tv.iill.top/kbs/11&p=0
+KBS 2,https://tv.iill.top/kbs/12&p=0
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+TV조선,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+TV조선 2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+MBC 综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS 农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS 清州放送,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+MBC,http://mytv.dothome.co.kr/ch/public/5.php
+MBC-목포,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC-춘천,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC-대구,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+MBC-제주,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC-여수,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+
+
+
+香港台,#genre#
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+華麗翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+無線新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娛樂新聞台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧經典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亞電影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映頻道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映經典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+鳳凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+鳳凰資訊,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+鳳凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空間,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+愛奇藝,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro歡喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+
+
+4GTV備,#genre#
+台視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
+台視,http://220.132.15.209:5008/4gtv-4gtv066/index.m3u8
+台視,http://bvm.808848.xyz:50007/4gtv-4gtv066/index.m3u8
+台視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=false
+台視,http://220.132.15.209:5008/li-4gtv-4gtv066/index.m3u8
+台視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv066
+中視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
+中視,http://220.132.15.209:5008/li-4gtv-4gtv040/index.m3u8
+中視,http://220.132.15.209:5008/of-4gtv-4gtv040/index.m3u8
+中視,http://bvm.808848.xyz:50007/4gtv-4gtv040/index.m3u8
+中視,http://220.132.15.209:5008/4gtv-4gtv040/index.m3u8
+中視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=false
+中視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv040
+華視,http://220.132.15.209:5008/li-4gtv-4gtv041/index.m3u8
+華視,http://220.132.15.209:5008/4gtv-4gtv041/index.m3u8
+華視,http://bvm.808848.xyz:50007/4gtv-4gtv041/index.m3u8
+華視,http://220.132.15.209:5008/of-4gtv-4gtv041/index.m3u8
+華視,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=false
+華視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
+華視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv041
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
+民視,http://220.132.15.209:5008/4gtv-4gtv155/index.m3u8
+民視,http://220.132.15.209:5008/4gtv-4gtv002/index.m3u8
+民視,http://bvm.808848.xyz:50007/4gtv-4gtv002/index.m3u8
+民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+TVBS,http://220.132.15.209:5008/li-4gtv-4gtv073/index.m3u8
+TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
+TVBS,http://220.132.15.209:5008/4gtv-4gtv073/index.m3u8
+TVBS,http://bvm.808848.xyz:50007/4gtv-4gtv073/index.m3u8
+TVBS,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv073
+TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
+TVBS精采台,http://220.132.15.209:5008/4gtv-4gtv067/index.m3u8
+TVBS精采台,http://220.132.15.209:5008/li-4gtv-4gtv067/index.m3u8
+TVBS精采台,http://bvm.808848.xyz:50007/4gtv-4gtv067/index.m3u8
+TVBS精采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv067
+TVBS歡樂台,http://220.132.15.209:5008/li-4gtv-4gtv068/index.m3u8
+TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
+TVBS歡樂台,http://bvm.808848.xyz:50007/4gtv-4gtv068/index.m3u8
+TVBS歡樂台,http://220.132.15.209:5008/4gtv-4gtv068/index.m3u8
+TVBS歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv068
+TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
+TVBS新聞台,http://220.132.15.209:5008/li-4gtv-4gtv072/index.m3u8
+TVBS新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv072/index.m3u8
+TVBS新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv072
+TVBS台劇台,http://220.132.15.209:5008/4gtv-live088/index.m3u8
+TVBS台劇台,http://bvm.808848.xyz:50007/4gtv-live088/index.m3u8
+TVBS綜藝台,http://bvm.808848.xyz:50007/4gtv-live087/index.m3u8
+TVBS綜藝台,http://220.132.15.209:5008/4gtv-live087/index.m3u8
+民視新聞台,http://220.132.15.209:5008/li-litv-ftv13/index.m3u8
+民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
+民視新聞台,http://220.132.15.209:5008/litv-ftv13/index.m3u8
+民視新聞台,http://bvm.808848.xyz:50007/litv-ftv13/index.m3u8
+民視新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+民視台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
+民視台灣台,http://220.132.15.209:5008/li-4gtv-4gtv001/index.m3u8
+民視台灣台,http://bvm.808848.xyz:50007/4gtv-4gtv001/index.m3u8
+民視台灣台,http://220.132.15.209:5008/4gtv-4gtv001/index.m3u8
+民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+民視第一台,http://220.132.15.209:5008/4gtv-4gtv003/index.m3u8
+民視第一台,http://220.132.15.209:5008/li-4gtv-4gtv003/index.m3u8
+民視第一台,http://bvm.808848.xyz:50007/4gtv-4gtv003/index.m3u8
+民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv003
+民視第一台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv003
+民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
+民視旅遊台,http://bvm.808848.xyz:50007/litv-ftv07/index.m3u8
+民視旅遊台,http://220.132.15.209:5008/li-litv-ftv07/index.m3u8
+民視旅遊台,http://220.132.15.209:5008/litv-ftv07/index.m3u8
+民視旅遊台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv07
+民視綜藝台,http://220.132.15.209:5008/li-4gtv-4gtv004/index.m3u8
+民視綜藝台,http://220.132.15.209:5008/4gtv-4gtv004/index.m3u8
+民視綜藝台,http://bvm.808848.xyz:50007/4gtv-4gtv004/index.m3u8
+民視綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
+民視綜藝台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv004
+民視影劇台,http://bvm.808848.xyz:50007/litv-ftv09/index.m3u8
+民視影劇台,http://220.132.15.209:5008/litv-ftv09/index.m3u8
+民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
+民視影劇台,http://220.132.15.209:5008/li-litv-ftv09/index.m3u8
+民視影劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-ftv09
+中視菁采台,http://220.132.15.209:5008/li-4gtv-4gtv064/index.m3u8
+中視菁采台,http://bvm.808848.xyz:50007/4gtv-4gtv064/index.m3u8
+中視菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv064
+中視菁采台,http://220.132.15.209:5008/4gtv-4gtv064/index.m3u8
+中視菁采台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv064
+中視經典台,http://bvm.808848.xyz:50007/4gtv-4gtv080/index.m3u8
+中視經典台,http://220.132.15.209:5008/4gtv-4gtv080/index.m3u8
+中視經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv080
+中視經典台,http://220.132.15.209:5008/li-4gtv-4gtv080/index.m3u8
+中視經典台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv080
+中視新聞台,http://220.132.15.209:5008/li-4gtv-4gtv074/index.m3u8
+中視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
+中視新聞台,http://220.132.15.209:5008/4gtv-4gtv074/index.m3u8
+中視新聞台,http://220.132.15.209:5008/of-4gtv-4gtv074/index.m3u8
+中天亞洲台,http://220.132.15.209:5008/4gtv-4gtv109/index.m3u8
+中天亞洲台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
+中天亞洲台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+中天新聞台,http://220.132.15.209:5008/4gtv-4gtv009/index.m3u8
+中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
+中天新聞台,http://220.132.15.209:5008/li-4gtv-4gtv009/index.m3u8
+中天新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv009/index.m3u8
+中天新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=false
+中天新聞台,http://220.132.15.209:5008/of-4gtv-4gtv009/index.m3u8
+中天新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+東森新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv152/index.m3u8
+東森新聞台,http://220.132.15.209:5008/li-4gtv-4gtv152/index.m3u8
+東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+東森新聞台,http://220.132.15.209:5008/4gtv-4gtv152/index.m3u8
+東森新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+東森財經新聞台,http://220.132.15.209:5008/li-4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://220.132.15.209:5008/4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv153
+東森財經新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv153/index.m3u8
+東森財經新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv153
+鏡電視新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv075/index.m3u8
+鏡電視新聞台,http://220.132.15.209:5008/4gtv-4gtv075/index.m3u8
+鏡電視新聞台,http://220.134.196.147:8561/http/61.219.99.20:8092/upload/114/MNEWS_TS-1111_1.m3u8
+鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
+鏡電視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv075
+非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
+非凡新聞台,http://220.132.15.209:5008/4gtv-4gtv010/index.m3u8
+非凡新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv010/index.m3u8
+非凡新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+台視新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=false
+台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
+台視新聞台,http://220.132.15.209:5008/li-4gtv-4gtv051/index.m3u8
+台視新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv051/index.m3u8
+台視新聞台,http://220.132.15.209:5008/4gtv-4gtv051/index.m3u8
+台視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+華視新聞台,http://220.132.15.209:5008/li-4gtv-4gtv052/index.m3u8
+華視新聞台,http://220.132.15.209:5008/4gtv-4gtv052/index.m3u8
+華視新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=false
+華視新聞台,http://220.132.15.209:5008/of-4gtv-4gtv052/index.m3u8
+華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
+華視新聞台,http://bvm.808848.xyz:50007/4gtv-4gtv052/index.m3u8
+華視新聞台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+三立綜合台,http://220.132.15.209:5008/4gtv-live207/index.m3u8
+三立綜合台,http://bvm.808848.xyz:50007/4gtv-live207/index.m3u8
+三立inews,http://220.132.15.209:5008/4gtv-live089/index.m3u8
+三立inews,http://220.132.15.209:5008/iNEWS/index.m3u8
+寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+寰宇新聞台,http://220.132.15.209:5008/of-litv-longturn14/index.m3u8
+寰宇新聞台,http://220.132.15.209:5008/litv-longturn14/index.m3u8
+寰宇新聞台,http://bvm.808848.xyz:50007/litv-longturn14/index.m3u8
+寰宇新聞台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
+寰宇新聞台,http://220.132.15.209:5008/li-litv-longturn14/index.m3u8
+寰宇新聞台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
+寰宇新聞台灣台,http://220.132.15.209:5008/4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=false
+寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv156
+寰宇新聞台灣台,http://220.132.15.209:5008/of-4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,http://bvm.808848.xyz:50007/4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,http://220.132.15.209:5008/li-4gtv-4gtv156/index.m3u8
+寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
+寰宇財經台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=false
+寰宇財經台,http://220.132.15.209:5008/li-4gtv-4gtv158/index.m3u8
+寰宇財經台,http://220.132.15.209:5008/of-4gtv-4gtv158/index.m3u8
+寰宇財經台,http://bvm.808848.xyz:50007/4gtv-4gtv158/index.m3u8
+寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
+半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv10
+非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv048
+台視財經台,http://220.132.15.209:5008/4gtv-4gtv056/index.m3u8
+台視財經台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv056
+第1商業台,http://220.132.15.209:5008/li-4gtv-4gtv104/index.m3u8
+第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
+第1商業台,http://bvm.808848.xyz:50007/4gtv-4gtv104/index.m3u8
+第1商業台,http://220.132.15.209:5008/4gtv-4gtv104/index.m3u8
+第1商業台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=false
+第1商業台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv104
+靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv046
+靖天綜合台,http://220.132.15.209:5008/li-4gtv-4gtv046/index.m3u8
+靖天綜合台,http://bvm.808848.xyz:50007/4gtv-4gtv046/index.m3u8
+靖天綜合台,http://220.132.15.209:5008/4gtv-4gtv046/index.m3u8
+靖天綜合台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv046
+靖天國際台,http://220.132.15.209:5008/4gtv-4gtv063/index.m3u8
+靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
+靖天國際台,http://220.132.15.209:5008/li-4gtv-4gtv063/index.m3u8
+靖天國際台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv063
+靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
+靖天資訊台,http://bvm.808848.xyz:50007/4gtv-4gtv065/index.m3u8
+靖天資訊台,http://220.132.15.209:5008/li-4gtv-4gtv065/index.m3u8
+靖天資訊台,http://220.132.15.209:5008/4gtv-4gtv065/index.m3u8
+靖天資訊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
+靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv054
+靖天歡樂台,http://220.132.15.209:5008/li-4gtv-4gtv054/index.m3u8
+靖天歡樂台,http://220.132.15.209:5008/4gtv-4gtv054/index.m3u8
+靖天歡樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv054
+靖天育樂台,http://bvm.808848.xyz:50007/4gtv-4gtv062/index.m3u8
+靖天育樂台,http://220.132.15.209:5008/li-4gtv-4gtv062/index.m3u8
+靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
+靖天育樂台,http://220.132.15.209:5008/4gtv-4gtv062/index.m3u8
+靖天育樂台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv062
+靖天電影台,http://220.132.15.209:5008/li-4gtv-4gtv061/index.m3u8
+靖天電影台,http://bvm.808848.xyz:50007/4gtv-4gtv061/index.m3u8
+靖天電影台,http://220.132.15.209:5008/4gtv-4gtv061/index.m3u8
+靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
+靖天電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv061
+靖天映畫台,http://220.132.15.209:5008/li-4gtv-4gtv055/index.m3u8
+靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天映畫台,http://bvm.808848.xyz:50007/4gtv-4gtv055/index.m3u8
+靖天映畫台,http://220.132.15.209:5008/4gtv-4gtv055/index.m3u8
+靖天映畫台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+靖天日本台,http://bvm.808848.xyz:50007/4gtv-4gtv047/index.m3u8
+靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv047
+靖天日本台,http://220.132.15.209:5008/li-4gtv-4gtv047/index.m3u8
+靖天日本台,http://220.132.15.209:5008/4gtv-4gtv047/index.m3u8
+靖天日本台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv047
+靖天戲劇台,http://bvm.808848.xyz:50007/4gtv-4gtv058/index.m3u8
+靖天戲劇台,http://220.132.15.209:5008/4gtv-4gtv058/index.m3u8
+靖天戲劇台,http://220.132.15.209:5008/li-4gtv-4gtv058/index.m3u8
+靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+靖天卡通台,http://bvm.808848.xyz:50007/4gtv-4gtv044/index.m3u8
+靖天卡通台,http://220.132.15.209:5008/4gtv-4gtv044/index.m3u8
+靖天卡通台,http://220.132.15.209:5008/li-4gtv-4gtv044/index.m3u8
+靖天卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv044
+靖天卡通台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv044
+靖洋戲劇台,http://bvm.808848.xyz:50007/4gtv-4gtv045/index.m3u8
+靖洋戲劇台,http://220.132.15.209:5008/li-4gtv-4gtv045/index.m3u8
+靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
+靖洋戲劇台,http://220.132.15.209:5008/4gtv-4gtv045/index.m3u8
+靖洋戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv045
+靖洋卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
+靖洋卡通台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv057
+龍華卡通台,http://220.132.15.209:5008/li-litv-longturn01/index.m3u8
+龍華卡通台,http://bvm.808848.xyz:50007/litv-longturn01/index.m3u8
+龍華卡通台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn01&sd=1080&proxy=false
+龍華卡通台,http://220.132.15.209:5008/litv-longturn01/index.m3u8
+龍華卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn01
+龍華卡通台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn01
+龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
+龍華戲劇台,http://220.132.15.209:5008/litv-longturn18/index.m3u8
+龍華戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn18&sd=1080&proxy=false
+龍華戲劇台,http://bvm.808848.xyz:50007/litv-longturn18/index.m3u8
+龍華戲劇台,http://220.132.15.209:5008/li-litv-longturn18/index.m3u8
+龍華戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn18
+龍華日韓台,http://220.132.15.209:5008/litv-longturn11/index.m3u8
+龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn11
+龍華日韓台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn11&sd=1080&proxy=false
+龍華日韓台,http://220.132.15.209:5008/li-litv-longturn11/index.m3u8
+龍華日韓台,http://bvm.808848.xyz:50007/litv-longturn11/index.m3u8
+龍華日韓台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn11
+龍華偶像台,http://bvm.808848.xyz:50007/litv-longturn12/index.m3u8
+龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn12
+龍華偶像台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn12&sd=1080&proxy=false
+龍華偶像台,http://220.132.15.209:5008/li-litv-longturn12/index.m3u8
+龍華偶像台,http://220.132.15.209:5008/litv-longturn12/index.m3u8
+龍華偶像台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn12
+龍華經典台,http://bvm.808848.xyz:50007/litv-longturn21/index.m3u8
+龍華經典台,http://220.132.15.209:5008/li-litv-longturn21/index.m3u8
+龍華經典台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn21&sd=1080&proxy=false
+龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn21
+龍華經典台,http://220.132.15.209:5008/litv-longturn21/index.m3u8
+龍華經典台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn21
+龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
+龍華電影台,http://220.132.15.209:5008/litv-longturn03/index.m3u8
+龍華電影台,http://bvm.808848.xyz:50007/litv-longturn03/index.m3u8
+龍華電影台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn03&sd=1080&proxy=false
+龍華電影台,http://220.132.15.209:5008/li-litv-longturn03/index.m3u8
+龍華電影台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn03
+龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
+龍華洋片台,http://220.132.15.209:5008/litv-longturn02/index.m3u8
+龍華洋片台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn02&sd=1080&proxy=false
+龍華洋片台,http://220.132.15.209:5008/li-litv-longturn02/index.m3u8
+龍華洋片台,http://bvm.808848.xyz:50007/litv-longturn02/index.m3u8
+影迷數位電影台,http://220.132.15.209:5008/li-4gtv-4gtv011/index.m3u8
+影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
+影迷數位電影台,http://220.132.15.209:5008/4gtv-4gtv011/index.m3u8
+影迷數位電影台,http://bvm.808848.xyz:50007/4gtv-4gtv011/index.m3u8
+影迷數位電影台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv011
+影迷數位紀實台,http://220.132.15.209:5008/li-litv-ftv15/index.m3u8
+影迷數位紀實台,http://220.132.15.209:5008/litv-ftv15/index.m3u8
+影迷數位紀實台,http://bvm.808848.xyz:50007/litv-ftv15/index.m3u8
+amc電影台,http://bvm.808848.xyz:50007/4gtv-4gtv017/index.m3u8
+amc電影台,http://220.132.15.209:5008/4gtv-4gtv017/index.m3u8
+amc電影台,http://220.132.15.209:5008/li-4gtv-4gtv017/index.m3u8
+amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
+八大精彩台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
+八大精彩台,http://220.132.15.209:5008/li-4gtv-4gtv034/index.m3u8
+八大精彩台,http://bvm.808848.xyz:50007/4gtv-4gtv034/index.m3u8
+八大精彩台,http://220.132.15.209:5008/4gtv-4gtv034/index.m3u8
+八大精彩台,http://udinlaw.sytes.net:8000/scripts/4gtv/index.php?id=4gtv-4gtv034
+八大精彩台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv034
+八大精彩台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv034
+八大綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv039
+八大綜藝台,http://220.132.15.209:5008/li-4gtv-4gtv039/index.m3u8
+八大綜藝台,http://220.132.15.209:5008/4gtv-4gtv039/index.m3u8
+八大綜藝台,http://bvm.808848.xyz:50007/4gtv-4gtv039/index.m3u8
+八大綜藝台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv039
+公視戲劇台,http://bvm.808848.xyz:50007/4gtv-4gtv042/index.m3u8
+公視戲劇台,http://220.132.15.209:5008/4gtv-4gtv042/index.m3u8
+公視戲劇台,http://220.132.15.209:5008/li-4gtv-4gtv042/index.m3u8
+公視戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv042
+公視戲劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv042
+台灣戲劇台,http://220.132.15.209:5008/li-litv-longturn22/index.m3u8
+台灣戲劇台,http://220.132.15.209:5008/litv-longturn22/index.m3u8
+台灣戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn22
+台灣戲劇台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn22&sd=1080&proxy=false
+台灣戲劇台,http://bvm.808848.xyz:50007/litv-longturn22/index.m3u8
+台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
+采昌影劇台,http://220.132.15.209:5008/li-4gtv-4gtv049/index.m3u8
+采昌影劇台,http://220.132.15.209:5008/4gtv-4gtv049/index.m3u8
+采昌影劇台,http://bvm.808848.xyz:50007/4gtv-4gtv049/index.m3u8
+采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
+采昌影劇台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv049
+ELTV娛樂,http://220.132.15.209:5008/4gtv-4gtv070/index.m3u8
+ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv070
+ELTV娛樂,http://bvm.808848.xyz:50007/4gtv-4gtv070/index.m3u8
+ELTV娛樂,http://220.132.15.209:5008/li-4gtv-4gtv070/index.m3u8
+ELTV生活英語台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn20&sd=1080&proxy=false
+ELTV生活英語台,http://220.132.15.209:5008/of-litv-longturn20/index.m3u8
+ELTV生活英語台,http://bvm.808848.xyz:50007/litv-longturn20/index.m3u8
+ELTV生活英語台,http://220.132.15.209:5008/litv-longturn20/index.m3u8
+ELTV生活英語台,http://220.132.15.209:5008/li-litv-longturn20/index.m3u8
+視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv013
+亞洲旅遊台,http://220.132.15.209:5008/of-4gtv-4gtv076/index.m3u8
+亞洲旅遊台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=false
+亞洲旅遊台,http://220.132.15.209:5008/4gtv-4gtv076/index.m3u8
+亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
+亞洲旅遊台,http://220.132.15.209:5008/li-4gtv-4gtv076/index.m3u8
+亞洲旅遊台,http://bvm.808848.xyz:50007/4gtv-4gtv076/index.m3u8
+亞洲旅遊台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv076
+達文西頻道,http://220.132.15.209:5008/li-4gtv-4gtv018/index.m3u8
+達文西頻道,http://220.132.15.209:5008/4gtv-4gtv018/index.m3u8
+達文西頻道,http://bvm.808848.xyz:50007/4gtv-4gtv018/index.m3u8
+達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv018
+達文西頻道,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv018
+Smart知識台,http://bvm.808848.xyz:50007/litv-longturn19/index.m3u8
+Smart知識台,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn19&sd=1080&proxy=false
+Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn19
+Smart知識台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn19
+豬哥亮歌廳秀,http://220.132.15.209:5008/4gtv-4gtv006/index.m3u8
+豬哥亮歌廳秀,http://bvm.808848.xyz:50007/4gtv-4gtv006/index.m3u8
+豬哥亮歌廳秀,http://220.132.15.209:5008/li-4gtv-4gtv006/index.m3u8
+豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
+豬哥亮歌廳秀,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv006
+美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
+時尚運動X,http://bvm.808848.xyz:50007/4gtv-4gtv014/index.m3u8
+時尚運動X,http://220.132.15.209:5008/li-4gtv-4gtv014/index.m3u8
+時尚運動X,http://220.132.15.209:5008/4gtv-4gtv014/index.m3u8
+時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
+時尚運動X,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv014
+GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv053
+GINXEsportsTV,http://bvm.808848.xyz:50007/4gtv-4gtv053/index.m3u8
+智林體育台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv101
+智林體育台,http://220.132.15.209:5008/li-4gtv-4gtv101/index.m3u8
+智林體育台,http://220.132.15.209:5008/4gtv-4gtv101/index.m3u8
+智林體育台,http://bvm.808848.xyz:50007/4gtv-4gtv101/index.m3u8
+智林體育台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv101
+博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn04
+博斯魅力,http://220.132.15.209:5008/litv-longturn04/index.m3u8
+博斯高球1,http://220.132.15.209:5008/litv-longturn05/index.m3u8
+博斯高球1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn05
+博斯高球2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn06
+博斯高球2,http://bvm.808848.xyz:50007/litv-longturn06/index.m3u8
+博斯高球2,http://220.132.15.209:5008/litv-longturn06/index.m3u8
+博斯高球2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn06
+博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn07
+博斯運動1,http://220.132.15.209:5008/litv-longturn07/index.m3u8
+博斯運動1,http://bvm.808848.xyz:50007/litv-longturn07/index.m3u8
+博斯運動1,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn07
+博斯運動2,http://220.132.15.209:5008/litv-longturn08/index.m3u8
+博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn08
+博斯運動2,http://bvm.808848.xyz:50007/litv-longturn08/index.m3u8
+博斯運動2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn08
+博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn09
+博斯無限1,http://220.132.15.209:5008/litv-longturn10/index.m3u8
+博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn10
+博斯無限2,http://220.132.15.209:5008/litv-longturn13/index.m3u8
+博斯無限2,http://bvm.808848.xyz:50007/litv-longturn13/index.m3u8
+博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn13
+博斯無限2,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn13
+
+
+港澳頻道,#genre#
+鳳凰中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gSRcPD&tk=mec0e8WhzYig
+鳳凰資訊,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ryEXAx&tk=mec0e8WhzYig
+鳳凰香港,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=w6Ywyw&tk=mec0e8WhzYig
+星空衛視,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OftHad&tk=mec0e8WhzYig
+香港衛視,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6UFPU6&tk=mec0e8WhzYig
+十方法界,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jDPm7K&tk=mec0e8WhzYig
+TVB翡翠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KqkFQj&tk=mec0e8WhzYig
+TVB明珠,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Stt5Kz&tk=mec0e8WhzYig
+無線新聞,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hxsOwX&tk=mec0e8WhzYig
+TVBPLUS,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7kMXUG&tk=mec0e8WhzYig
+NOW新聞,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i32mUD&tk=mec0e8WhzYig
+Now爆谷台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3ZIi6k&tk=mec0e8WhzYig
+Now星影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gsTrWB&tk=mec0e8WhzYig
+VIUTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YIvvNe&tk=mec0e8WhzYig
+PopC電影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qXioYX&tk=mec0e8WhzYig
+TVB千禧經典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u5yxLI&tk=mec0e8WhzYig
+TVB1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=aTdBVX&tk=mec0e8WhzYig
+TVBJ1,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zYjABm&tk=mec0e8WhzYig
+中天新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=W317c0&tk=mec0e8WhzYig
+中天CTI+,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wmWZz9&tk=mec0e8WhzYig
+TVBS HD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ogXvSc&tk=mec0e8WhzYig
+TVBS(備),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uQ2KBN&tk=mec0e8WhzYig
+寰宇新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=t9iYv5&tk=mec0e8WhzYig
+美亞電影(台灣),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LwBCmj&tk=mec0e8WhzYig
+TVB生活台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ukw7NT&tk=mec0e8WhzYig
+TVB功夫(國),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MUmQsM&tk=mec0e8WhzYig
+天映CM+,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=sjagJR&tk=mec0e8WhzYig
+HUB娛家台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qNlVNd&tk=mec0e8WhzYig
+HUB都會台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sn99wh&tk=mec0e8WhzYig
+中天新聞(備),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V8JH4C&tk=mec0e8WhzYig
+重溫經典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=latRB0&tk=mec0e8WhzYig
+八度空間,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DFNkMf&tk=mec0e8WhzYig
+綜藝玩很大,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=54GHTu&tk=mec0e8WhzYig
+愛奇藝,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LPGiwf&tk=mec0e8WhzYig
+TVBS台劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Boxlhr&tk=mec0e8WhzYig
+緯來戲劇,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4AiscP&tk=mec0e8WhzYig
+
+
+台彩虹頻道,#genre#
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+
+
+輪播,#genre#
+輪播電影3,http://epg.112114.xyz/douyu/122402
+輪播電影4,http://epg.112114.xyz/douyu/85894
+輪播電影6,http://epg.112114.xyz/douyu/747764
+輪播電影28,http://epg.112114.xyz/douyu/4332
+星爺影院✔原,https://www.goodiptv.club/douyu/508118
+凌兒影院✔原,https://www.goodiptv.club/douyu/1377142
+麓山迷蹤✔原,https://www.goodiptv.club/douyu/4505431
+瑤瑤恐怖✔原,https://www.goodiptv.club/douyu/2935323
+怡寶影院✔原,hhttps://www.goodiptv.club/douyu/434971
+萌小鬼片✔原,https://www.goodiptv.club/douyu/3928
+神樂影劇✔原,https://www.goodiptv.club/douyu/122402
+可樂影院✔原,https://www.goodiptv.club/douyu/20415
+小宇60幀✔原,https://www.goodiptv.club/douyu/323876
+恐怖驚悚✔原,https://www.goodiptv.club/douyu/96577
+花捲陪看✔原,https://www.goodiptv.club/douyu/52787
+漫威劇情✔原,https://www.goodiptv.club/douyu/6140589
+霍格華茲✔原,https://www.goodiptv.club/douyu/8814650
+魚寶恐怖✔原,https://www.goodiptv.club/douyu/1165374
+鬼片恐怖✔原,https://www.goodiptv.club/douyu/2935323
+小u*鬼片✔原,https://www.goodiptv.club/douyu/96577
+吃奶滴蟲✔原,https://www.goodiptv.club/douyu/263824
+變種人片✔原,hhttps://www.goodiptv.club/douyu/9651304
+喜劇電影✔原,https://www.goodiptv.club/douyu/9292492
+女神電影✔原,https://www.goodiptv.club/douyu/747764
+華文經典✔原,https://www.goodiptv.club/douyu/434971
+避風影院✔原,https://www.goodiptv.club/douyu/9826611
+歐美大片✔原,https://www.goodiptv.club/douyu/2793084
+貝爺max ✔原,https://www.goodiptv.club/douyu/4332
+貝爺影廳✔原,https://www.goodiptv.club/douyu/252802
+小豬優版劇院,https://www.goodiptv.club/douyu/10297898
+趙本山經小品,https://www.goodiptv.club/douyu/9817716
+開心麻花小品,https://www.goodiptv.club/douyu/10153463
+粵語集輪播台,https://www.goodiptv.club/douyu/10338873
+粵語港劇輪播,https://www.goodiptv.club/douyu/6478650
+粵語輪播港劇,https://www.goodiptv.club/douyu/9019945
+粵語輪播集,https://www.goodiptv.club/douyu/10567318
+粵語經典綜藝,https://www.goodiptv.club/douyu/7919720
+粵語版電影一,https://www.goodiptv.club/douyu/5033502
+粵語版電影二,https://www.goodiptv.club/douyu/6566671
+粵語版電影三,https://www.goodiptv.club/douyu/1226741
+
+
+韓國,#genre#
+SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+MBC綜藝頻道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+NBS農業廣播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+EBS第一頻道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+EBS第二頻道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS加一頻道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS加二頻道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韓國EBS兒童頻道,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+朝鮮中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韓國阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韓國KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/definst/dokdo_300.stream/playlist.m3u8
+BBS불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+ArirangTVKoreaEN,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+中國衛視,#genre#
+浙江衛視,http://61.219.170.95:18534/.m3u8
+湖南衛視,http://61.219.170.95:18536/.m3u8
+廈門衛視,http://61.219.170.95:18631/.m3u8
+CCTV4,http://61.219.170.95:18633/.m3u8
+
+
+
+MOVIE簡中,#genre#
+扶桑花女孩,https://vip.lz-cdn7.com/20230223/14473_34758120/index.m3u8
+醜女大翻身,https://vip.lz-cdn7.com/20230223/14471_0a1ee6d8/index.m3u8
+聊齋畫壁,https://vip.lz-cdn7.com/20230226/14577_538d24e5/index.m3u8
+
+
+GOOD系列,#genre#
+GOOD好消息,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD2真理台,http://live.streamingfast.net/osmflivech2.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD經典音樂,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD禱告大軍,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD孫叔唱副歌,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD真情之夜,http://live.streamingfast.net/osmflivech15.m3u8
+GOOD葉光明,http://live.streamingfast.net/osmflivech16.m3u8
+GOOD大衛鮑森,http://live.streamingfast.net/osmflivech17.m3u8
+GOOD國際講員,http://live.streamingfast.net/osmflivech18.m3u8
+GOOD共享觀點,http://live.streamingfast.net/osmflivech19.m3u8
+GOOD恩典時分,http://live.streamingfast.net/osmflivech20.m3u8
+GOOD華語講員,http://live.streamingfast.net/osmflivech21.m3u8
+GOOD職場新視野,http://live.streamingfast.net/osmflivech22.m3u8
+GOOD空中主日學生活,http://live.streamingfast.net/osmflivech23.m3u8
+GOOD劉三講古,http://live.streamingfast.net/osmflivech24.m3u8
+GOOD福氣人生,http://live.streamingfast.net/osmflivech25.m3u8
+GOOD空中主日學查經,http://live.streamingfast.net/osmflivech26.m3u8
+GOOD空中聖經學院,http://live.streamingfast.net/osmflivech27.m3u8
+GOOD詩歌精選,http://live.streamingfast.net/osmflivech28.m3u8
+GOOD經典音樂河,http://live.streamingfast.net/osmflivech29.m3u8
+GOOD敬拜讚美音樂,http://live.streamingfast.net/osmflivech30.m3u8
+GOOD福音佈道音樂會,http://live.streamingfast.net/osmflivech31.m3u8
+GOOD特會系列：禱告與轉化,http://live.streamingfast.net/osmflivech32.m3u8
+GOOD特會系列：研經培靈,http://live.streamingfast.net/osmflivech33.m3u8
+GOOD天國文化特會,http://live.streamingfast.net/osmflivech34.m3u8
+GOOD天父的心,http://live.streamingfast.net/osmflivech35.m3u8
+GOOD特會系列：醫治釋放,http://live.streamingfast.net/osmflivech36.m3u8
+GOOD特會系列：以色列專題,http://live.streamingfast.net/osmflivech37.m3u8
+GOOD特會系列：末世信息,http://live.streamingfast.net/osmflivech38.m3u8
+GOOD全家歸主有良方,http://live.streamingfast.net/osmflivech39.m3u8
+GOOD轉轉發現愛,http://live.streamingfast.net/osmflivech40.m3u8
+GOOD幸福學堂,http://live.streamingfast.net/osmflivech41.m3u8
+GOOD愛+醫生,http://live.streamingfast.net/osmflivech42.m3u8
+GOOD我們EYE旅行,http://live.streamingfast.net/osmflivech43.m3u8
+GOOD烤箱讀書會,http://live.streamingfast.net/osmflivech44.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
+GOOD少年體驗隊,http://live.streamingfast.net/osmflivech46.m3u8
+GOOD蒙福人生,http://live.streamingfast.net/osmflivech47.m3u8
+GOOD小小遊學生,http://live.streamingfast.net/osmflivech48.m3u8
+
+
+歐美深夜,#genre#
+直播teen,http://live.mycamtv.com/teen.m3u8
+直播anal,http://live.mycamtv.com/anal.m3u8
+直播arab,http://live.mycamtv.com/arab.m3u8
+直播asian,http://live.mycamtv.com/asian.m3u8
+直播blonde,http://live.mycamtv.com/blonde.m3u8
+直播blowjob,http://live.mycamtv.com/blowjob.m3u8
+直播brunette,http://live.mycamtv.com/brunette.m3u8
+直播ebony,http://live.mycamtv.com/ebony.m3u8
+直播squirt,http://live.mycamtv.com/squirt.m3u8
+直播latina,http://live.mycamtv.com/latina.m3u8
+直播bigtits,http://live.mycamtv.com/bigtits.m3u8
+直播medium,http://live.mycamtv.com/medium.m3u8
+直播milf,http://live.mycamtv.com/milf.m3u8
+直播skinny,http://live.mycamtv.com/skinny.m3u8
+直播white,http://live.mycamtv.com/white.m3u8
+直播young,http://live.mycamtv.com/young.m3u8
+
+
+
+Porno,#genre#
+A teen with a mature,http://ovhv39.twincdn.com/videos/5/5912/5912_720p.mp4
+Adriana Malao,http://ovhv39.twincdn.com/videos/12/12570/12570_720p.mp4
+Amateur Teen,http://ovhv39.twincdn.com/videos/6/6858/6858_720p.mp4
+Anal creampie,http://ovhv39.twincdn.com/videos/18/18326/18326_720p.mp4
+Anal fucked,http://ovhv40.twincdn.com/videos/1/1167/1167_720p.mp4
+Anal taboos,http://ovhv39.twincdn.com/videos/18/18666/18666_720p.mp4
+Ass fucked in her room,http://ovhv39.twincdn.com/videos/9/9514/9514_720p.mp4
+Badezimmerfick,http://ovhv39.twincdn.com/videos/29/29272/29272_720p.mp4
+Black mare's asshole is banged,http://ovhv39.twincdn.com/videos/37/37530/37530_720p.mp4
+Blonde teenie does anal,http://ovhv39.twincdn.com/videos/5/5893/5893_720p.mp4
+Blonde Ungarin,http://ovhv39.twincdn.com/videos/8/8630/8630_720p.mp4
+Brazilian anal experience,http://ovhv40.twincdn.com/videos/prime/00/01/93/70.mp4
+brazilian booty screams for sex,http://ovhv39.twincdn.com/videos/prime/00/01/82/54.mp4
+Brazilian is penetrated,http://ovhv40.twincdn.com/videos/prime/00/01/89/45.mp4
+Brazilian likes firm bell ends,http://ovhv40.twincdn.com/videos/1/1190/1190_720p.mp4
+Brazilianische Dreilochstute,http://ovhv39.twincdn.com/videos/35/35651/35651_720p.mp4
+Butt sex with young teen,http://ovhv39.twincdn.com/videos/7/7450/7450_720p.mp4
+Casting ohne Kondom,http://ovhv39.twincdn.com/videos/6/6837/6837_720p.mp4
+Cock in all holes,http://ovhv39.twincdn.com/videos/6/6695/6695_720p.mp4
+Cock in their assholes,http://ovhv39.twincdn.com/videos/35/35540/35540_720p.mp4
+Cute teenie must squirt,http://ovhv39.twincdn.com/videos/5/5845/5845_720p.mp4
+Fickt mein Arschloch,http://ovhv39.twincdn.com/videos/34/34229/34229_720p.mp4
+Finevids 1,http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+Finevids 2,http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+Finevids 3,http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+Fuck with a strap-on,http://ovhv39.twincdn.com/videos/4/4557/4557_720p.mp4
+Gangbang party,http://ovhv39.twincdn.com/videos/prime/00/01/85/80.mp4
+Girls lecken sich die Sahnefotze,http://ovhv39.twincdn.com/videos/6/6857/6857_720p.mp4
+Hardcore sex for the black asshole,http://ovhv39.twincdn.com/videos/0/69/69_720p.mp4
+He rams his white cock into her black asshole,http://ovhv39.twincdn.com/videos/29/29661/29661_360p.mp4
+Horny teen's ass,http://ovhv39.twincdn.com/videos/9/9358/9358_720p.mp4
+Hot pussy tattoo,http://ovhv39.twincdn.com/videos/4/4369/4369_720p.mp4
+Japanese teen ass has,http://ovhv40.twincdn.com/videos/prime/00/01/89/73.mp4
+Licking and doing anal,http://ovhv39.twincdn.com/videos/24/24028/24028_720p.mp4
+Michelly Cinturinha,http://ovhv39.twincdn.com/videos/19/19855/19855_720p.mp4
+old for the chubby teen,http://ovhv39.twincdn.com/videos/4/4582/4582_720p.mp4
+Pronhub 22,https://xporn.in/view/720/1.mp4
+Rarely seen such hot tits,http://ovhv39.twincdn.com/videos/4/4634/4634_720p.mp4
+Russian Teen first anal,http://ovhv39.twincdn.com/videos/prime/00/01/84/44.mp4
+Sexy teen is fucked,http://ovhv39.twincdn.com/videos/9/9077/9077_720p.mp4
+Strayed teenie,http://ovhv39.twincdn.com/videos/4/4172/4172_720p.mp4
+Teen Amirah Adara (Woodman),http://ovhv39.twincdn.com/videos/17/17964/17964_720p.mp4
+Teen enjoys a rimfuck,http://ovhv39.twincdn.com/videos/prime/00/01/85/34.mp4
+Teen offers her asshole,http://ovhv39.twincdn.com/videos/1/1147/1147_720p.mp4
+Teen sucks a cock,http://ovhv39.twincdn.com/videos/5/5026/5026_720p.mp4
+Teenage asshole,http://ovhv39.twincdn.com/videos/5/5921/5921_720p.mp4
+Teengirl ubt Blowjob,http://ovhv39.twincdn.com/videos/8/8870/8870_720p.mp4
+Teens anal threesome,http://ovhv39.twincdn.com/videos/8/8502/8502_720p.mp4
+Teen's ass is fucked,http://ovhv39.twincdn.com/videos/6/6911/6911_720p.mp4
+Teen's asshole,http://ovhv39.twincdn.com/videos/5/5907/5907_720p.mp4
+Teen's butthole,http://ovhv39.twincdn.com/videos/5/5923/5923_720p.mp4
+Two beauties,http://ovhv40.twincdn.com/videos/prime/00/01/94/69.mp4
+
+PornoPROS,#genre#
+Adult : FANTHD1,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+Adult : FANTHD2,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+Adult : FANTHD3,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+Adult : FANTHD4,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+Adult : FANTHD5,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_alicemarch/content/vid01.mp4
+Adult : FANTHD6,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_hollymichaels/content/vid01.mp4
+Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_conniecarter051514/content/vid01.mp4
+Adult : FANTHD7,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
+Casting1,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
+Casting2,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sageevans/content/vid01.mp4
+Casting3,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_sierraday/content/vid01.mp4
+Casting4,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_jasminerain/content/vid01.mp4
+Casting5,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_roxanne/content/vid01.mp4
+Casting6,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_ashleyadams121014/content/vid01.mp4
+Casting7,http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
+Povd1,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
+Povd2,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sarai091714/content/vid01.mp4
+Povd3,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_veronicaradke/content/vid01.mp4
+Povd4,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte040714/content/vid01.mp4
+Povd5,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_sierranevadah080814/content/vid01.mp4
+Povd6,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alicegreen082014/content/vid01.mp4
+Povd7,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_alexisadams/content/vid01.mp4
+Povd8,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorwhyte121713/content/vid01.mp4
+Povd9,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
+Tiny 4k 1,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+Tiny 4k 10,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+Tiny 4k 11,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+Tiny 4k 2,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+Tiny 4k 3,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+Tiny 4k 4,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+Tiny 4k 5,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+Tiny 4k 6,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+Tiny 4k 7,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+Tiny 4k 8,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+Tiny 4k 9,http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
