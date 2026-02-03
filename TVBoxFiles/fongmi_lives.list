@@ -27,109 +27,109 @@
 		{
 		"name":"k84307195",
 		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"aktv",
 		"url":"http://aktv.top/live.m3u",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"mytvsuper综合",
 		"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"mytvsuper体育",
 		"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"mytvsuper央视",
 		"url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"yang-1989電視直播",
 		"url":"https://tv.iill.top/m3u/Gather",
 		"ua":"okhttp/3.15",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"yang-1989網絡直播",
 		"url":"https://tv.iill.top/m3u/Live",
 		"ua":"okhttp/3.15",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"yang-1989體育直播",
 		"url":"https://tv.iill.top/m3u/Sport",
 		"ua":"okhttp/3.15",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"yang-1989 MyTV直播",
 		"url":"https://tv.iill.top/m3u/MyTV",
 		"ua":"okhttp/3.15",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"365直播*",
 		"url":"https://live.iptv365.org/live.m3u",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"52sw mytvsuper",
 		"url":"http://www.52sw.top:678/play/mytvsuper/",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"jundie",
 		"url":"http://home.jundie.top:81/Cat/tv/live.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"liucn",
 		"url":"https://raw.liucn.cc/box/libs/tv/tvlive.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"XingHuo",
 		"url":"https://json.doube.eu.org/XingHuo.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png",
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png",
 		"header": {"Referer": "https://www.kds.tw/"}
 		},
 		{
 		"name":"cqbf live",
 		"url":"https://ghp.garkygod.dpdns.org/https://github.com/cqbf/tv/raw/main/live.m3u",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"CR",
 		"url":"https://ghp.garkygod.dpdns.org/https://github.com/koashe/zby/raw/refs/heads/main/cr.m3u",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png",
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png",
 		"playerType":1
 		},
 		{
