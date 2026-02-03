@@ -31,33 +31,10 @@
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"aktv",
-		"url":"http://aktv.top/live.m3u",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"mytvsuper综合",
-		"url":"https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=395626593195248",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"mytvsuper体育",
-		"url":"https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=395626593195248",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"mytvsuper央视",
-		"url":"https://video.mytvsuper.xyz/playlist/yang-shi-wei-shi.m3u?token=395626593195248",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"yang-1989電視直播",
-		"url":"https://tv.iill.top/m3u/Gather",
-		"ua":"okhttp/3.15",
+		"name":"yang-1989電視直播",  // https://tv.iill.top/m3u/MyTV
+		"url":"https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
+//		"url":"https://tv.iill.top/m3u/Gather",
+//		"ua":"okhttp/3.15",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
@@ -78,31 +55,20 @@
 		{
 		"name":"yang-1989 MyTV直播",
 		"url":"https://tv.iill.top/m3u/MyTV",
-		"ua":"okhttp/3.15",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
 		"name":"365直播*",
-		"url":"https://live.iptv365.org/live.m3u",
+		"url":"https://live.iptv365.org/live.m3u",  // "https://play.iptv365.org/tvbox.txt",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
-		{
-		"name":"52sw mytvsuper",
-		"url":"http://www.52sw.top:678/play/mytvsuper/",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"jundie",
-		"url":"http://home.jundie.top:81/Cat/tv/live.txt",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
+
 		{
 		"name":"liucn",
 		"url":"https://raw.liucn.cc/box/libs/tv/tvlive.txt",
+		"ua":"okhttp/3.15",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
