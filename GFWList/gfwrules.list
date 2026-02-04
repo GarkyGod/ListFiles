@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-04 00:10:05
+!Last Modified: 2026-02-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -843,6 +843,7 @@ bloomberg.de
 .zzux.com
 !!--Cloudflare--
 ||cloudflarestatus.com
+||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -1209,6 +1210,7 @@ cn.nytstyle.com
 ||vine.co
 ||x.com
 !!---Taiwan---
+||sef.org.tw
 ||moj.gov.tw
 ||gov.taipei
 .gov.tw
@@ -3408,6 +3410,7 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||www.hoyolab.com
 ||hbomax.com
 ||hicairo.com
 ||herominers.com
@@ -9070,7 +9073,6 @@ writer.zoho.com
 ||padmanet.com
 ||tbskkinabalu.page.tl
 ||page2rss.com
-||pages.dev
 ||pagodabox.com
 ||palacemoon.com
 ||paldengyal.com
@@ -9298,7 +9300,6 @@ writer.zoho.com
 ||see.xxx
 ||seehua.com
 ||seesmic.com
-||sef.org.tw
 ||sejie.com
 ||seju.life
 ||sendspace.com
