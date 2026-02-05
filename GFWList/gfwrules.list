@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-05 00:10:05
+!Last Modified: 2026-02-06 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3163,6 +3163,7 @@ funp.com
 .fxcm-chinese.com
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||grokipedia.com
 ||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
@@ -8328,7 +8329,6 @@ writer.zoho.com
 ||greenparty.org.tw
 ||greenpeace.com.tw
 ||greenvpn.org
-||grokipedia.com
 ||grotty-monday.com
 ||gstf.org
 ||gts-vpn.com
