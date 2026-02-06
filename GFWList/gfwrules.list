@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-06 00:10:05
+!Last Modified: 2026-02-07 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1790,6 +1790,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bittorrent.com
 ||help.byspotify.com
 ||bitbaby.com
 ||bettergpt.chat
@@ -3411,6 +3412,8 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||v2.hysteria.network
+||hembed.com
 ||www.hoyolab.com
 ||hbomax.com
 ||hicairo.com
@@ -7570,7 +7573,6 @@ writer.zoho.com
 ||antichristendom.com
 ||antisocial.science
 ||antiwave.net
-||anygate.vip
 ||anyporn.com
 ||anysex.com
 ||aofriend.com
@@ -8457,7 +8459,6 @@ writer.zoho.com
 ||hotshame.com
 ||hougaige.com
 ||house.gov
-||hoyolab.com
 ||hqmovies.com
 ||hrcchina.org
 ||hrcir.com
@@ -10676,6 +10677,7 @@ writer.zoho.com
 ||hotcool.tw
 ||hotpot.hk
 ||how-did-i-get-here.net
+||hoyolab.com
 ||https443.net
 ||https443.org
 ||huaibinmall.com
