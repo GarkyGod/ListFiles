@@ -625,7 +625,6 @@ DOMAIN-SUFFIX,bbnradio.org
 DOMAIN-SUFFIX,bbppics.com
 DOMAIN-SUFFIX,bbs-tw.com
 DOMAIN-SUFFIX,bbs.naixi.net
-DOMAIN-SUFFIX,bbs.sina.com
 DOMAIN-SUFFIX,bbsdigest.com
 DOMAIN-SUFFIX,bbsfeed.com
 DOMAIN-SUFFIX,bbsland.com
@@ -1508,7 +1507,6 @@ DOMAIN-SUFFIX,daidostup.ru
 DOMAIN-SUFFIX,dailidaili.com
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com
-DOMAIN-SUFFIX,dailynews.sina.com
 DOMAIN-SUFFIX,dailysabah.com
 DOMAIN-SUFFIX,dailyview.tw
 DOMAIN-SUFFIX,daiphapinfo.net
@@ -2582,8 +2580,11 @@ DOMAIN-SUFFIX,googel.de
 DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-base.de
+DOMAIN-SUFFIX,google.ac
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
+DOMAIN-SUFFIX,google.af
+DOMAIN-SUFFIX,google.ai
 DOMAIN-SUFFIX,google.al
 DOMAIN-SUFFIX,google.am
 DOMAIN-SUFFIX,google.as
@@ -2703,6 +2704,7 @@ DOMAIN-SUFFIX,google.dm
 DOMAIN-SUFFIX,google.dz
 DOMAIN-SUFFIX,google.ee
 DOMAIN-SUFFIX,google.es
+DOMAIN-SUFFIX,google.eu
 DOMAIN-SUFFIX,google.fi
 DOMAIN-SUFFIX,google.fm
 DOMAIN-SUFFIX,google.fr
@@ -2714,6 +2716,7 @@ DOMAIN-SUFFIX,google.gm
 DOMAIN-SUFFIX,google.gp
 DOMAIN-SUFFIX,google.gr
 DOMAIN-SUFFIX,google.gy
+DOMAIN-SUFFIX,google.hk
 DOMAIN-SUFFIX,google.hn
 DOMAIN-SUFFIX,google.hr
 DOMAIN-SUFFIX,google.ht
@@ -2723,6 +2726,7 @@ DOMAIN-SUFFIX,google.im
 DOMAIN-SUFFIX,google.iq
 DOMAIN-SUFFIX,google.is
 DOMAIN-SUFFIX,google.it
+DOMAIN-SUFFIX,google.it.ao
 DOMAIN-SUFFIX,google.je
 DOMAIN-SUFFIX,google.jo
 DOMAIN-SUFFIX,google.kg
@@ -2744,11 +2748,13 @@ DOMAIN-SUFFIX,google.ms
 DOMAIN-SUFFIX,google.mu
 DOMAIN-SUFFIX,google.mv
 DOMAIN-SUFFIX,google.mw
+DOMAIN-SUFFIX,google.mx
 DOMAIN-SUFFIX,google.ne
 DOMAIN-SUFFIX,google.nl
 DOMAIN-SUFFIX,google.no
 DOMAIN-SUFFIX,google.nr
 DOMAIN-SUFFIX,google.nu
+DOMAIN-SUFFIX,google.org
 DOMAIN-SUFFIX,google.pl
 DOMAIN-SUFFIX,google.pn
 DOMAIN-SUFFIX,google.ps
@@ -2775,7 +2781,9 @@ DOMAIN-SUFFIX,google.tm
 DOMAIN-SUFFIX,google.tn
 DOMAIN-SUFFIX,google.to
 DOMAIN-SUFFIX,google.tt
+DOMAIN-SUFFIX,google.us
 DOMAIN-SUFFIX,google.vg
+DOMAIN-SUFFIX,google.vn
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
 DOMAIN-SUFFIX,googleanalytics.com
@@ -3107,7 +3115,6 @@ DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,holymountaincn.com
 DOMAIN-SUFFIX,holyspiritspeaks.org
 DOMAIN-SUFFIX,home.saxo
-DOMAIN-SUFFIX,home.sina.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,homeip.net
 DOMAIN-SUFFIX,homeperversion.com
@@ -5143,6 +5150,7 @@ DOMAIN-SUFFIX,procopytips.com
 DOMAIN-SUFFIX,proex.io
 DOMAIN-SUFFIX,prohashing.com
 DOMAIN-SUFFIX,project-syndicate.org
+DOMAIN-SUFFIX,prompthero.com
 DOMAIN-SUFFIX,prosciana.com
 DOMAIN-SUFFIX,prosiben.de
 DOMAIN-SUFFIX,proton.me
@@ -5188,6 +5196,7 @@ DOMAIN-SUFFIX,pubu.com.tw
 DOMAIN-SUFFIX,puffin.com
 DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,puffstore.com
+DOMAIN-SUFFIX,pullfolio.co
 DOMAIN-SUFFIX,pullfolio.com
 DOMAIN-SUFFIX,punjab.gov.in
 DOMAIN-SUFFIX,punjab.gov.pk
@@ -7190,8 +7199,6 @@ DOMAIN-SUFFIX,wuyanblog.com
 DOMAIN-SUFFIX,wwe.com
 DOMAIN-SUFFIX,wwitv.com
 DOMAIN-SUFFIX,www1.biz
-DOMAIN-SUFFIX,www2.ohchr.org
-DOMAIN-SUFFIX,www2.rocketbbs.com
 DOMAIN-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,wxw.cat
 DOMAIN-SUFFIX,wxw.moe
@@ -7558,5 +7565,4 @@ IP-CIDR,67.220.91.15
 IP-CIDR,67.220.91.18
 IP-CIDR,67.220.91.23
 IP-CIDR,69.65.19.160
-IP-CIDR,72.52.81.22
 IP-CIDR,85.17.73.31
