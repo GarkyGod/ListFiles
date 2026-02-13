@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-13 00:10:05
+!Last Modified: 2026-02-14 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -726,7 +726,6 @@ www.aolnews.com
 ||agoogleaday.com
 ||ampproject.org
 ||android.com
-@@||ci.android.com
 ||androidify.com
 ||androidtv.com
 ||api.ai
@@ -3891,8 +3890,6 @@ iipdigital.usembassy.gov
 ||twreporter.org
 ||tycool.com
 ||typepad.com
-@@||www.typepad.com
-@@||static.typepad.com
 ||blog.expofutures.com
 ||contests.twilio.com
 ||typora.io
@@ -4314,12 +4311,23 @@ iipdigital.usembassy.gov
 ||zuola.com
 ||zvereff.com
 ||zyxel.com
+@@||www.typepad.com
+@@||static.typepad.com
+@@||ci.android.com
+@@||crl.pki.goog
+@@||g2.gstatic.com
+@@||g1.gstatic.com
+@@||g0.gstatic.com
+@@||checkin.gstatic.com
 @@||*.ipify.org
 @@||i.pki.goog
+@@||c.pki.goog
+@@||o.pki.goog
 @@||adservice.google.com
 @@||dl.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
+@@||imasdk.googleapis.com
 @@||fonts.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
@@ -4331,6 +4339,7 @@ iipdigital.usembassy.gov
 @@||ocsp.pki.goog
 @@||www.ampproject.org
 @@||cdn.ampproject.org
+@@||cdn-china.ampproject.org
 @@||redirector.gvt1.com
 !---------------------EOF-----------------------
 ||aiv-cdn.net
@@ -6788,15 +6797,10 @@ iipdigital.usembassy.gov
 @@||crashlyticsreports-pa.googleapis.com
 @@||emmapplecodevice.googleapis.com
 @@||fontfiles.googleapis.com
-@@||imasdk.googleapis.com
 @@||performanceparameters.googleapis.com
 @@||storage.googleapis.com
 @@||tac.googleapis.com
 @@||wear.googleapis.com
-@@||checkin.gstatic.com
-@@||c.pki.goog
-@@||crl.pki.goog
-@@||o.pki.goog
 !-------------------Other--------------------
 !--------------------tiktok---------------------
 ||byteoversea.com
