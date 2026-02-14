@@ -16,7 +16,7 @@
 		"name":"caca3559823437 wsg",
 		"url":"https://ghp.garkygod.dpdns.org/https://github.com/caca3559823437/2022/raw/main/wsg.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"https://epg.51zmt.top:8001/tb1/sheng/{name}.png"
+		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
 		"name":"caca3559823437 2023",
