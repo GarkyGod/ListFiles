@@ -55,7 +55,7 @@
 //	////////////////////////////////////// 📡資源站 //////////////////////////////////////
 		{
 			"key":"key_CaiJi",
-			"name":"📡資源站|合集",
+			"name":"📡資源站|合輯",
 			"type":1,
 			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
@@ -740,7 +740,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -749,7 +749,7 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
 		},
 //////////////////////////////////////////////////  🎲End  //////////////////////////////////////////////////
 		{
@@ -768,8 +768,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
-//			"ext":[{"name":"TVBox","list":[{"name":"TVBox_takagen99","url":"https://gh.noki.eu.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20240709-2109/TVBox_takagen99_20240709-2109-armeabi-generic.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20240709-2109"},{"name":"TVBox_q215613905","url":"https://gh.noki.eu.org/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20231105-0923/TVBox_q215613905_20231105-0923.apk","icon":"https://img0.baidu.com/it/u=3645190398,4043071434&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500","version":"20231105-0923"}]}]
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
 		}
 	],
 	
