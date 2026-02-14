@@ -2582,7 +2582,6 @@ DOMAIN-SUFFIX,goody25.com
 DOMAIN-SUFFIX,goofind.com
 DOMAIN-SUFFIX,googel.de
 DOMAIN-SUFFIX,googl.com
-DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,google-base.de
 DOMAIN-SUFFIX,google.ac
 DOMAIN-SUFFIX,google.ad
@@ -2790,7 +2789,6 @@ DOMAIN-SUFFIX,google.vg
 DOMAIN-SUFFIX,google.vn
 DOMAIN-SUFFIX,google.vu
 DOMAIN-SUFFIX,google.ws
-DOMAIN-SUFFIX,googleanalytics.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapps.com
@@ -2816,12 +2814,12 @@ DOMAIN-SUFFIX,googlemail.com
 DOMAIN-SUFFIX,googlemaps.sv
 DOMAIN-SUFFIX,googlemashups.com
 DOMAIN-SUFFIX,googlepagecreator.com
+DOMAIN-SUFFIX,googlepages.com
 DOMAIN-SUFFIX,googleplay.com
 DOMAIN-SUFFIX,googleplus.com
 DOMAIN-SUFFIX,googlescholar.com
 DOMAIN-SUFFIX,googlesile.com
 DOMAIN-SUFFIX,googlesource.com
-DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -4572,6 +4570,7 @@ DOMAIN-SUFFIX,ngodupdongchung.com
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nhk-ondemand.jp
 DOMAIN-SUFFIX,nic.gov
+DOMAIN-SUFFIX,nic.youtube
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com
@@ -4678,6 +4677,7 @@ DOMAIN-SUFFIX,nutsvpn.work
 DOMAIN-SUFFIX,nuuvem.com
 DOMAIN-SUFFIX,nuvid.com
 DOMAIN-SUFFIX,nuzcom.com
+DOMAIN-SUFFIX,nuzzel.com
 DOMAIN-SUFFIX,nvdst.com
 DOMAIN-SUFFIX,nvquan.org
 DOMAIN-SUFFIX,nvtongzhisheng.org
@@ -6974,6 +6974,7 @@ DOMAIN-SUFFIX,wallornot.org
 DOMAIN-SUFFIX,wallpapercasa.com
 DOMAIN-SUFFIX,wallproxy.com
 DOMAIN-SUFFIX,wallsttv.com
+DOMAIN-SUFFIX,wallzhihu.com
 DOMAIN-SUFFIX,waltermartin.com
 DOMAIN-SUFFIX,waltermartin.org
 DOMAIN-SUFFIX,wan-press.org
@@ -7562,14 +7563,4 @@ DOMAIN-SUFFIX,zyzc9.com
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
-IP-CIDR,14.102.250.18
-IP-CIDR,14.102.250.19
-IP-CIDR,163.29.207.130
-IP-CIDR,174.142.105.153
-IP-CIDR,213.186.33.19
-IP-CIDR,213.186.33.87
-IP-CIDR,67.220.91.15
-IP-CIDR,67.220.91.18
-IP-CIDR,67.220.91.23
-IP-CIDR,69.65.19.160
 IP-CIDR,85.17.73.31

@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-14 00:10:05
+!Last Modified: 2026-02-15 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2972,7 +2972,6 @@ iipdigital.usembassy.gov
 ||nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
-|http://nhentai.net
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
@@ -4032,6 +4031,7 @@ iipdigital.usembassy.gov
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||wallzhihu.com
 ||wikis.tw
 ||weights.com
 ||wikiunblocked.org
@@ -4354,18 +4354,6 @@ iipdigital.usembassy.gov
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-!-------------------Pure IP---------------------
-14.102.250.18
-14.102.250.19
-163.29.207.130
-174.142.105.153
-213.186.33.19
-213.186.33.87
-50.7.31.230:8898
-69.65.19.160
-67.220.91.15
-67.220.91.18
-67.220.91.23
 ||avmoo.com
 ||avmoo.net
 ||javmoo.xyz
@@ -4522,7 +4510,6 @@ iipdigital.usembassy.gov
 ||chromercise.com
 ||cloudpartnerservices.goog
 ||colab.google
-||com.google
 ||crisisresponse.google
 ||deepmind.google
 ||design.google
@@ -4550,16 +4537,14 @@ iipdigital.usembassy.gov
 ||google.co
 ||google.dev
 ||google.dj
-||google-analytics.com
-@@||*.google-analytics.com
+/^https?:\/\/google-analytics\.com/
 ||google-base.de
-||googleanalytics.com
-@@||*.googleanalytics.com
+/^https?:\/\/googleanalytics\.com/
 ||googlee.com
 ||googlelocal.nl
 ||googlemaps.sv
-||googlesyndication.com
-@@||*.googlesyndication.com
+||googlepages.com
+/^https?:\/\/googlesyndication\.com/
 ||googlr.com
 ||gooogle.com
 ||grow.google
@@ -4573,6 +4558,7 @@ iipdigital.usembassy.gov
 ||lens.google
 ||localhost.com
 ||mypicasa.com
+||nic.youtube
 ||notebooklm.google
 ||opensource.google
 ||picasa.com
@@ -4759,7 +4745,7 @@ iipdigital.usembassy.gov
 ||alljackpotscasino.com
 ||almasdarnews.com
 ||alphaporno.com
-||s3*.amazonaws.com
+/^https?:\/\/s3([.-][a-z0-9-]+)?\.amazonaws\.com/
 ||ameba.jp
 ||amigobbs.net
 ||amitabhafoundation.us
@@ -5133,6 +5119,7 @@ iipdigital.usembassy.gov
 ||notify.dropboxapi.com
 ||drtuber.com
 ||dstk.dk
+||duckdns.org
 ||dudupro.com
 ||duga.jp
 ||dunyabulteni.net
@@ -5699,7 +5686,6 @@ iipdigital.usembassy.gov
 ||laoyang.info
 ||lastcombat.com
 ||latelinenews.com
-||latibet.org
 ||league-funny.com
 ||lefora.com
 ||legalporno.com
@@ -5948,6 +5934,7 @@ iipdigital.usembassy.gov
 ||nudezz.com
 ||nukistream.com
 ||nuvid.com
+||nuzzel.com
 ||nvquan.org
 ||nvtongzhisheng.org
 ||nwtca.org
@@ -6507,7 +6494,6 @@ iipdigital.usembassy.gov
 ||forum.tvb.com
 ||tvbs.com.tw
 ||tvider.com
-||tvmost.com.hk
 ||tvplayvideos.com
 ||tvr.ro
 ||tw-blog.com
@@ -7145,6 +7131,7 @@ iipdigital.usembassy.gov
 ||codeplex.com
 ||coin2co.in
 ||coincarp.com
+||com.google
 ||comedycentral.com
 ||comico.tw
 ||compython.net
@@ -7222,7 +7209,6 @@ iipdigital.usembassy.gov
 ||dtwang.org
 ||duanzhihu.com
 ||duboku.tv
-||duckdns.org
 ||duckload.com
 ||dumb1.com
 ||duoweitimes.com
@@ -7669,6 +7655,7 @@ iipdigital.usembassy.gov
 ||lanterncn.cn
 ||laod.cn
 ||laptoplockdown.com
+||latibet.org
 ||law.com
 ||lbyczf.com
 ||leeao.com.cn
@@ -8244,6 +8231,7 @@ iipdigital.usembassy.gov
 ||tv.com
 ||tvants.com
 ||tvb.com
+||tvmost.com.hk
 ||tw-npo.org
 ||tw.iqiyi.com
 ||twbbs.net.tw
