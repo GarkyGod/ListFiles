@@ -250,7 +250,7 @@
 
 		{
 		"key":"key_ikun",  // http://ikunzy.com/  // https://ikunzy.com/ | proxy  // https://ikunzy.net/ | proxy  // https://ikunzy.org/ | proxy  // https://ikunzy.vip/ | proxy  // https://ikzy1.com/ …… https://ikzy9.com/ | proxy  // https://t.me/ikunzyz
-		"name":"📡資源站|ikun",
+		"name":"📡資源站|ikun|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://ikunzy.com/api.php/provide/vod/",  // "api":"http://ikunzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -460,7 +460,7 @@
 
 		{
 		"key":"key_pbpan",  // https://www.pbpan.com/  // https://t.me/pbpancom
-		"name":"📡資源站|瀑布盤",
+		"name":"📡資源站|瀑布盤|⚠️",
 		"type":0,  // "type":1,
 		"api":"https://dh.ha.cn/api.php/provide/vod/at/xml",  // "api":"https://dh.ha.cn/api.php/provide/vod/",
 		"searchable":1,
