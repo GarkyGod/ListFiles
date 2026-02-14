@@ -59,7 +59,8 @@
 			"type":1,
 			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
-			"changeable":1
+			"changeable":1,
+			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/filter_CaiJi.json"
 		},
 		{
 			"key":"key_360",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/  // https://360zy1.com/ …… https://360zy10.com/  // https://t.me/sllzyz
