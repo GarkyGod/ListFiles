@@ -60,7 +60,10 @@
 			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
 			"changeable":1,
-			"categories":["OK资源采集站","华为吧采集","360采集站","电影天堂采集","金鹰采集","快车采集资源","卧龙采集资源","暴风采集资源"]
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+				}
 		},
 		{
 			"key":"key_360",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/  // https://360zy1.com/ …… https://360zy10.com/  // https://t.me/sllzyz
