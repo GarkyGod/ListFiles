@@ -249,7 +249,7 @@
 		},
 
 		{
-		"key":"key_ikun",  // http://ikunzy.com/  // https://ikunzy.com/ | proxy  // https://ikunzy.net/ | proxy  // https://ikunzy.org/ | proxy  // https://ikunzy.vip/ | proxy  // https://ikzy1.com/ …… https://ikzy9.com/ | proxy
+		"key":"key_ikun",  // http://ikunzy.com/  // https://ikunzy.com/ | proxy  // https://ikunzy.net/ | proxy  // https://ikunzy.org/ | proxy  // https://ikunzy.vip/ | proxy  // https://ikzy1.com/ …… https://ikzy9.com/ | proxy  // https://t.me/ikunzyz
 		"name":"📡資源站|ikun",
 		"type":1,  // "type":0,
 		"api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://ikunzy.com/api.php/provide/vod/",  // "api":"http://ikunzy.com/api.php/provide/vod/at/xml",
