@@ -1,16 +1,16 @@
 {
 //////////////////////////////////////////////////  Logo  //////////////////////////////////////////////////
-	"logo":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/logo/logo_tvbox_api.gif",
+	"logo":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/logo/logo_tvbox_api.gif",
 
 //////////////////////////////////////////////////  Wallpaper  //////////////////////////////////////////////////
 	"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Lives  //////////////////////////////////////////////////
-//	"lives":[{"name":"直播","type":0,"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
-	"lives":[{"name":"直播","type":0,"url":"https://gh.noki.eu.org/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
+//	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/caca3559823437/2022/main/2020.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
@@ -43,17 +43,17 @@
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 		{
 			"key":"key_csp_AliYunPan",
 			"name":"🎲阿里設置",
 			"type":3,
-			"jar":"https://gh.noki.eu.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
+			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/jar/yueer521_spider.jar",
 			"api":"csp_AliYunPan",
 			"searchable":0,
 			"changeable":0,
-			"ext": "https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
+			"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/token.list"
 		},
 //	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 		{
@@ -63,7 +63,7 @@
 			"api":"csp_Jianpian",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
 		},
 		{
 			"key":"key_csp_PTT",  // https://ptt.red/
@@ -72,7 +72,7 @@
 			"api":"csp_PTT",
 			"searchable":1,
 			"changeable":1,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
 		{
 			"key":"key_csp_Xb6v",  //http://www.xb6v.com
@@ -192,7 +192,7 @@
 //				"ratio":1.433
 //			},
 //			"ext":{
-//				"json":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
+//				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
 //				"type":"",
 //				"cookie":""
 //			}
@@ -297,7 +297,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -306,7 +306,7 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
 		},
 //	////////////////////////////////////// END //////////////////////////////////////
 		{
@@ -325,7 +325,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh.noki.eu.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
 		}
 	],
 
