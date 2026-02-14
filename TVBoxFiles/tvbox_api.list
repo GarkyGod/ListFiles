@@ -35,7 +35,7 @@
 //		type0,MacCMS,api_file end with_/at/xml/
 
 	"sites":[
-//	////////////////////////////////////// 🎲HOME //////////////////////////////////////
+//////////////////////////////////////////////////  🎲HOME  //////////////////////////////////////////////////
 		{
 			"key":"key_csp_Douban",
 			"name":"🎲豆瓣",
@@ -46,9 +46,8 @@
 			"changeable":0,
 			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
-//	////////////////////////////////////// 🎥🎦Jar影視 //////////////////////////////////////
 
-//	////////////////////////////////////// 🎦資源站 //////////////////////////////////////
+//////////////////////////////////////////////////  📡資源站  //////////////////////////////////////////////////
 		{
 			"key":"key_CaiJi",
 			"name":"📡資源站|合集",
@@ -133,134 +132,7 @@
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 			}
 		},
-//	////////////////////////////////////// Jar動漫 //////////////////////////////////////
-//		{
-//			"key":"key_csp_Dm84",  // https://dm84.tv/
-//			"name":"🎨動漫|動漫巴士",
-//			"type":3,
-//			"api":"csp_Dm84",
-//			"searchable":1,
-//			"changeable":1
-//		},
-//		{
-//			"key":"key_csp_Ying",  // https://www.iyhdmm.com
-//			"name":"🎨動漫|櫻花動漫",
-//			"type":3,
-//			"api":"csp_Ying",
-//			"searchable":1,
-//			"changeable":1
-//		},
-//		{
-//			"key":"key_csp_Ysj",  // https://www.dmmiku.com  // https://www.lldm.net/
-//			"name":"🎨動漫|異世界動漫",
-//			"type":3,
-//			"api":"csp_Ysj",
-//			"searchable":1,
-//			"changeable":1
-//		},
-//	////////////////////////////////////// 雜項 //////////////////////////////////////
-//		{
-//			"key":"key_csp_Bili",  // https://www.bilibili.com
-//			"name":"🎭雜項|嗶哩嗶哩",
-//			"type":3,
-//			"api":"csp_Bili",
-//			"searchable":1,
-//			"changeable":0,
-//			"style":{
-//				"type":"rect",
-//				"ratio":1.433
-//			},
-//			"ext":{
-//				"json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
-//				"type":"",
-//				"cookie":""
-//			}
-//		},
-//		{
-//			"key":"key_csp_FirstAid",  // https://m.youlai.cn
-//			"name":"🎭雜項|有來醫生",
-//			"type":3,
-//			"api":"csp_FirstAid",
-//			"searchable":0,
-//			"changeable":0
-//		},
-//		{
-//			"key":"key_csp_Kugou",  // https://www.kugou.com/
-//			"name":"🎭雜項|酷狗音樂",
-//			"type":3,
-//			"api":"csp_Kugou",
-//			"searchable":0,
-//			"changeable":0
-//		},
-//		{
-//			"key":"key_csp_JustLive",  // http://live.yj1211.work
-//			"name":"🎭直播|JustLive",
-//			"type":3,
-//			"api":"csp_JustLive",
-//			"searchable":1,
-//			"changeable":0
-//		},
-//		{
-//			"key":"key_csp_Kanqiu",  // http://www.88kanqiu.one
-//			"name":"🎭競賽|88看球",
-//			"type":3,
-//			"api":"csp_Kanqiu",
-//			"searchable":1,
-//			"changeable":0,
-//			"style":{"type":"list"}
-//		},
-
-//	////////////////////////////////////// 📡搜索服務 //////////////////////////////////////
-		{
-			"key":"key_csp_PanSearch",  // https://www.pansearch.me/
-			"name":"📡搜索|PanSearch",
-			"type":3,
-			"api":"csp_PanSearch",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_PanSou",  // https://www.alipansou.com/
-			"name":"📡搜索|猫狸盘搜",
-			"type":3,
-			"api":"csp_PanSou",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_UpYun",
-			"name":"📡搜索|雲搜",
-			"type":3,
-			"api":"csp_UpYun",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_XiaoZhiTiao",
-			"name":"📡搜索|紙條搜",
-			"type":3,
-			"api":"csp_XiaoZhiTiao",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_YiSo",  // https://yiso.fun/
-			"name":"📡搜索|易搜",
-			"type":3,
-			"api":"csp_YiSo",
-			"searchable":1,
-			"changeable":0
-		},
-		{
-			"key":"key_csp_Zhaozy",  //https://zhaoziyuan1.cc/
-			"name":"📡搜索|找資源",
-			"type":3,
-			"api":"csp_Zhaozy",
-			"searchable":1,
-			"changeable":0,
-			"ext":"影視天下第一$$$test2$$$test2"
-		},
-//	////////////////////////////////////// 本地&網盤 //////////////////////////////////////
+//////////////////////////////////////////////////  🎲本地&網盤  //////////////////////////////////////////////////
 		{
 			"key":"key_csp_Local",
 			"name":"🆗本地磁盤",
@@ -276,7 +148,7 @@
 			"api":"csp_AList",
 			"searchable":1,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -285,9 +157,9 @@
 			"api":"csp_WebDAV",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/webdav.json"
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
 		},
-//	////////////////////////////////////// END //////////////////////////////////////
+//////////////////////////////////////////////////  🎲End  //////////////////////////////////////////////////
 		{
 			"key":"key_csp_Push",
 			"name":"📢推送",
@@ -304,7 +176,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
+			"ext":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
 		}
 	],
 
