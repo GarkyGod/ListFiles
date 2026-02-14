@@ -74,15 +74,6 @@
 			"changeable":1,
 			"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/GarkyGod/ListFiles/main/TVBoxFiles/json/filter_PTT.json"
 		},
-		{
-			"key":"key_csp_Xb6v",  //http://www.xb6v.com
-			"name":"🧲影視|新版6V",
-			"type":3,
-			"api":"csp_Xb6v",
-			"searchable":1,
-			"changeable":0,
-			"timeout":60
-		},
 //	////////////////////////////////////// 🎦資源站 //////////////////////////////////////
 		{
 			"key":"key_360zy",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/
