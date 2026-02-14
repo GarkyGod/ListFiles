@@ -82,7 +82,7 @@
 
 		{
 			"key":"key_394tv",  // https://www.394tv.com/
-			"name":"📡資源站|394TV",
+			"name":"📡資源站|394TV|⚠️",
 			"type":1,  // "type":0,
 			"api":"https://www.394tv.com/api.php/provide/vod/",  // "api":"https://www.394tv.com/api.php/provide/vod/at/xml",
 			"searchable":1,
