@@ -797,7 +797,7 @@
 
 
 	"doh":[
-		{"name":"-★-系統-★-","url":"","ips":["#0#",""]},
+		{"name":"-★-系統-★-","url":"#0#","ips":["",""]},
 //		{"name":"GarkyGod Cloudflare","url":"https://cdoh.garkygod.dpdns.org","ips":[]},
 //		{"name":"GarkyGod Google","url":"https://gdoh.garkygod.dpdns.org","ips":[]},
 		{"name":"★☆360 Safe DNS","url":"https://doh.360.cn/dns-query","ips":["123.125.81.6","140.207.198.6","101.226.4.6","218.30.118.6"]},
@@ -812,7 +812,7 @@
 //		{"name":"¤TWNIC DNS Quad 101","url":"https://dns.twnic.tw/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤TWNIC DNS Quad 101 (IP版)","url":"https://101.101.101.101/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤HiNet 中华电信 DNS","url":"https://dns.hinet.net/dns-query","ips":["168.95.1.1","168.95.192.1","2001:b000:168::1","2001:b000:168::2"]},
-		{"name":"----------分隔線----------","url":"","ips":["#1#",""]},
+		{"name":"----------分隔線----------","url":"#1#","ips":["",""]},
 //		{"name":"¤0ms DNS","url":"https://0ms.dev/dns-query","ips":["172.67.153.195","104.21.88.221"]},
 //		{"name":"¤AdGuard Default DNS","url":"https://dns.adguard-dns.com/dns-query","ips":["94.140.14.14","94.140.15.15","2a10:50c0::ad1:ff","2a10:50c0::ad2:ff"]},
 //		{"name":"¤AdGuard Unfiltered DNS","url":"https://unfiltered.adguard-dns.com/dns-query","ips":["94.140.14.140","94.140.14.141","2a10:50c0::1:ff","2a10:50c0::2:ff"]},
