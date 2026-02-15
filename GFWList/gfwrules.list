@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-15 00:10:04
+!Last Modified: 2026-02-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2182,6 +2182,7 @@ iipdigital.usembassy.gov
 ||fw.cm
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||gmgn.ai
 ||grokipedia.com
 ||gfwbao.com
 ||greatfirevpn.com
@@ -3367,6 +3368,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||spacex.com
 ||stephaniered.com
 ||simianx.ai
 ||steamladder.com
@@ -4031,6 +4033,7 @@ iipdigital.usembassy.gov
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||walletconnect.org
 ||wallzhihu.com
 ||wikis.tw
 ||weights.com
@@ -4493,8 +4496,9 @@ iipdigital.usembassy.gov
 |http://ampproject.org
 |https://ampproject.org
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
-@@|https://cdn.ampproject.org/
+@@|https://cdn.ampproject.org
 ||antigravity.google
+||static.bevylabs.com
 ||bg-call-donation.goog
 ||bg-call-donation-alpha.goog
 ||bg-call-donation-canary.goog
@@ -4508,9 +4512,13 @@ iipdigital.usembassy.gov
 ||chromeenterprise.google
 ||chromeos.google
 ||chromercise.com
+/^https?:\/\/chronicle\.security/
+||cloud.run
 ||cloudpartnerservices.goog
+||cloudskillsboost.google
 ||colab.google
 ||crisisresponse.google
+||datacenters.google
 ||deepmind.google
 ||design.google
 ||diversity.google
@@ -4540,6 +4548,7 @@ iipdigital.usembassy.gov
 /^https?:\/\/google-analytics\.com/
 ||google-base.de
 /^https?:\/\/googleanalytics\.com/
+/^https?:\/\/googlecloudcommunity\.com/
 ||googlee.com
 ||googlelocal.nl
 ||googlemaps.sv
@@ -4562,6 +4571,7 @@ iipdigital.usembassy.gov
 ||notebooklm.google
 ||opensource.google
 ||picasa.com
+||pittpatt.com
 ||play.google
 ||publicpolicy.google
 ||quantumai.google
@@ -4800,6 +4810,7 @@ iipdigital.usembassy.gov
 ||atvnewsonline.com
 ||av.com
 ||av-e-body.com
+||av28.com
 ||avcool.com
 ||avfantasy.com
 ||avple.tv
@@ -5029,7 +5040,6 @@ iipdigital.usembassy.gov
 ||coolncute.com
 ||corumcollege.com
 ||cos-moe.com
-||cosplayjav.pl
 ||cq99.us
 ||crazys.cc
 ||crd-net.org
@@ -5428,6 +5438,7 @@ iipdigital.usembassy.gov
 ||hdzog.com
 ||heavy-r.com
 ||hec.su
+||hegre.com
 ||hegre-art.com
 ||helloavgirls.com
 ||hellotxt.com
@@ -6624,7 +6635,6 @@ iipdigital.usembassy.gov
 ||wangruoshui.net
 ||wapedia.mobi
 ||washeng.net
-||watch8x.com
 ||wdf5.com
 ||wearehairy.com
 ||webbang.net
@@ -7142,6 +7152,7 @@ iipdigital.usembassy.gov
 ||cosco.co.uk
 ||cosco.com
 ||cosco.com.tw
+||cosplayjav.pl
 ||costco.com.tw
 ||crossthewall.net
 ||cryptographyengineering.com
@@ -8337,6 +8348,7 @@ iipdigital.usembassy.gov
 ||wan-press.org
 ||wangruowang.org
 ||warehouse333.com
+||watch8x.com
 ||waze.com
 ||wdubo.com
 ||weather.com.hk
