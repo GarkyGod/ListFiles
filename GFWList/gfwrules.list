@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-18 00:10:05
+!Last Modified: 2026-02-19 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -995,7 +995,7 @@ www.aolnews.com
 ||googlevideo.com
 ||googleweblight.com
 ||googlezip.net
-||gvt1.com]
+||gvt1.com
 ||gvt3.com
 ||gwtproject.org
 ||html5rocks.com
@@ -2719,6 +2719,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
@@ -7368,7 +7369,6 @@ iipdigital.usembassy.gov
 ||gun-world.net
 ||gunsandammo.com
 ||gvlib.com
-||gvt1.com
 ||gvt2.com
 ||gzm.tv
 ||h5galgame.me
