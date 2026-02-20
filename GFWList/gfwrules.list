@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-20 00:10:04
+!Last Modified: 2026-02-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5331,6 +5331,7 @@ iipdigital.usembassy.gov
 ||gerefoundation.org
 ||getchu.com
 ||getiton.com
+||getliner.com
 ||getsocialscope.com
 ||gfbv.de
 ||ggjav.com
@@ -5370,6 +5371,7 @@ iipdigital.usembassy.gov
 ||greenpeace.com.tw
 ||greenvpn.org
 ||grotty-monday.com
+||gstc.com.tw
 ||gstf.org
 ||gts-vpn.com
 ||guaguass.com
@@ -5537,6 +5539,7 @@ iipdigital.usembassy.gov
 ||indsr.org.tw
 ||inlang.com
 ||innermongolia.org
+||iopenmall.tw
 ||iphonehacks.com
 ||api.ipify.org
 ||ipobar.com
@@ -5705,6 +5708,7 @@ iipdigital.usembassy.gov
 ||lotuslight.org.tw
 ||loukky.com
 ||lsforum.net
+||lshosp.com.tw
 ||lsmwebcast.com
 ||luke54.com
 ||luke54.org
