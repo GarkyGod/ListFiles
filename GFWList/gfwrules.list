@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-21 00:10:05
+!Last Modified: 2026-02-22 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1250,6 +1250,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||akile.io
 ||aljazeera.net
 ||anuneko.com
 ||ai.dev
@@ -1575,6 +1576,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -2719,6 +2721,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||meee.com.tw
 ||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
@@ -2877,6 +2880,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||assets.nxtrace.org
 ||nephobox.com
 ||namu.wiki
 ||nirsoft.net
@@ -2979,6 +2983,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||opencritic.com
 ||ooni.io
 ||ooni.org
 ||files.oaiusercontent.com
@@ -5232,6 +5237,7 @@ iipdigital.usembassy.gov
 ||firearmsworld.net
 ||send.firefox.com
 ||firstfivefollowers.com
+||firstory.io
 ||flagsonline.it
 ||fleshbot.com
 ||fleursdeslettres.com
@@ -6015,6 +6021,7 @@ iipdigital.usembassy.gov
 ||picturesocial.com
 ||access.pikpak.me
 ||access.pikpakdrive.com
+||pinkoi.com
 ||pinkrod.com
 ||pinterest.dk
 ||pinterest.nl
