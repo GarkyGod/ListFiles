@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-22 00:10:04
+!Last Modified: 2026-02-23 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -3575,6 +3575,7 @@ iipdigital.usembassy.gov
 ||sylfoundation.org
 ||syncback.com
 !--------------------TT-------------------------
+||tor.eff.org
 ||tails.net
 ||bbc.pdn.tritondigital.com
 ||terobox.com
@@ -3869,6 +3870,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||uniswap.org
 ||up.audio
 ||udomain.hk
 ||upbit.com
@@ -5261,7 +5263,6 @@ iipdigital.usembassy.gov
 ||freebearblog.org
 ||freechina.net
 ||freechina.news
-||freechinaforum.org
 ||freedl.org
 ||freedomhongkong.org
 ||freefq.com
@@ -5362,7 +5363,6 @@ iipdigital.usembassy.gov
 ||gokbayrak.com
 ||goldbet.com
 ||goldjizz.com
-||goldstep.net
 ||goodtv.com.tw
 ||goodtv.tv
 ||goody25.com
@@ -5512,7 +5512,6 @@ iipdigital.usembassy.gov
 ||i-cable.com
 ||i-part.com.tw
 ||i1.hk
-||iamtopone.com
 ||iav19.com
 ||iblist.com
 ||ibtimes.com
@@ -5684,6 +5683,7 @@ iipdigital.usembassy.gov
 ||lhasocialwork.org
 ||lianyue.net
 ||lidecheng.com
+||likr.tw
 ||limelight.moe
 ||linglingfa.com
 ||link-o-rama.com
@@ -5708,7 +5708,6 @@ iipdigital.usembassy.gov
 ||localpresshk.com
 ||logiqx.com
 ||londonchinese.ca
-||looktoronto.com
 ||loongese.com
 ||lorenzetti.com.br
 ||lotuslight.org.tw
@@ -7295,6 +7294,7 @@ iipdigital.usembassy.gov
 ||free-ssh.com
 ||free4u.com.ar
 ||freechal.com
+||freechinaforum.org
 ||freedomchina.info
 ||freedomcollection.org
 ||freeforums.org
@@ -7344,6 +7344,7 @@ iipdigital.usembassy.gov
 ||godns.work
 ||godsdirectcontact.co.uk
 ||gogotunnel.com
+||goldstep.net
 ||goliathguitartutorials.com
 ||gongmeng.info
 ||gongminliliang.com
@@ -7453,6 +7454,7 @@ iipdigital.usembassy.gov
 ||hyread.com.tw
 ||i-scmp.com
 ||i2runner.com
+||iamtopone.com
 ||iask.bz
 ||ibb.co
 ||ibiblio.org
@@ -7676,6 +7678,7 @@ iipdigital.usembassy.gov
 ||logbot.net
 ||logmein.com
 ||longhair.hk
+||looktoronto.com
 ||lotsawahouse.org
 ||lotuslight.org.hk
 ||loved.hk
@@ -8265,7 +8268,6 @@ iipdigital.usembassy.gov
 ||uncyclomedia.org
 ||uni.cc
 ||unicode.org
-||uniswap.org
 ||unitedsocialpress.com
 ||unlock-music.dev
 ||unogs.com
