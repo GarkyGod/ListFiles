@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-23 00:10:05
+!Last Modified: 2026-02-24 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4464,9 +4464,12 @@ iipdigital.usembassy.gov
 @@||about.fb.com
 ||fb.gg
 ||sl-reverse.com
+||wa.me
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
 ||about.google
+@@||c.admob.com
+@@||adtrafficquality.google
 ||agnss.goog
 ||ai.google
 |http://ampproject.org
@@ -4493,6 +4496,9 @@ iipdigital.usembassy.gov
 ||cloudpartnerservices.goog
 ||cloudskillsboost.google
 ||colab.google
+||crashlytics.com
+@@||firebase-settings.crashlytics.com
+@@||update.crashlytics.com
 ||crisisresponse.google
 ||datacenters.google
 ||deepmind.google
@@ -4515,15 +4521,34 @@ iipdigital.usembassy.gov
 ||gogle.com
 ||gogle.de
 ||gogole.com
+@@||http2.golang.org
 ||goo.gle
 ||googel.de
 ||googl.com
 ||google.co
+@@||cache-management-prod.google.com
+@@||cache.pack.google.com
+@@||dg-meta.video.google.com
+@@||download.mlcc.google.com
+@@||download.tensorflow.google.com
+@@||redirector.c.chat.google.com
+@@||redirector.c.mail.google.com
+@@||redirector.c.pack.google.com
+@@||redirector.c.play.google.com
+@@||safebrowsing-cache.google.com
 ||google.dev
 ||google.dj
 /^https?:\/\/google-analytics\.com/
+@@||www.google-analytics.com
 ||google-base.de
 /^https?:\/\/googleanalytics\.com/
+@@||crashlyticsreports-pa.googleapis.com
+@@||emmapplecodevice.googleapis.com
+@@||fontfiles.googleapis.com
+@@||performanceparameters.googleapis.com
+@@||storage.googleapis.com
+@@||tac.googleapis.com
+@@||wear.googleapis.com
 /^https?:\/\/googlecloudcommunity\.com/
 ||googlee.com
 ||googlelocal.nl
@@ -4779,6 +4804,7 @@ iipdigital.usembassy.gov
 ||asiatgp.com
 ||asiatimes.com
 ||asrockind.com
+||assembly.go.kr
 ||atchinese.com
 ||atgfw.org
 ||atvnewsonline.com
@@ -5092,6 +5118,7 @@ iipdigital.usembassy.gov
 ||domain.glass
 ||domaintoday.com.au
 ||chinese.donga.com
+||dongjak.go.kr
 ||dongyangjing.com
 ||donmai.us
 ||dontfilter.us
@@ -5624,6 +5651,7 @@ iipdigital.usembassy.gov
 ||kagyu.org
 ||kagyumonlam.org
 ||kagyunews.com.hk
+||kakaocdn.net
 ||kanzhongguo.com
 ||kanzhongguo.eu
 ||kards.com
@@ -5847,6 +5875,7 @@ iipdigital.usembassy.gov
 ||mysinablog.com
 ||mytalkbox.com
 ||n-tv.de
+||nabo.go.kr
 ||nakuz.com
 ||namgyal.org
 ||namgyalmonastery.org
@@ -5854,6 +5883,7 @@ iipdigital.usembassy.gov
 ||naol.ca
 ||naol.cc
 ||narod.ru
+||nars.go.kr
 ||my.navy.mil
 ||naweeklytimes.com
 ||ndr.de
@@ -5950,6 +5980,7 @@ iipdigital.usembassy.gov
 ||onesto.re
 ||onestore.co.kr
 ||onion666.com
+||onkakao.net
 ||onlinecha.com
 ||onlytweets.com
 ||onmoon.com
@@ -6755,27 +6786,6 @@ iipdigital.usembassy.gov
 ||zomobo.net
 ||zsrhao.com
 ||zzcartoon.com
-@@||c.admob.com
-@@||adtrafficquality.google
-||crashlytics.com
-@@||firebase-settings.crashlytics.com
-@@||http2.golang.org
-@@||cache.pack.google.com
-@@||dl.l.google.com
-@@||pagead-googlehosted.l.google.com
-@@||safebrowsing-cache.google.com
-@@||ssl-google-analytics.l.google.com
-@@||tools.l.google.com
-@@||www-googletagmanager.l.google.com
-@@||www.google-analytics.com
-@@||crashlyticsreports-pa.googleapis.com
-@@||emmapplecodevice.googleapis.com
-@@||fontfiles.googleapis.com
-@@||performanceparameters.googleapis.com
-@@||storage.googleapis.com
-@@||tac.googleapis.com
-@@||wear.googleapis.com
-!-------------------Other--------------------
 !--------------------tiktok---------------------
 ||byteoversea.com
 ||ibytedtos.com
