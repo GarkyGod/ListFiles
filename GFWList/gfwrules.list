@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-24 00:10:05
+!Last Modified: 2026-02-25 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -2002,6 +2002,7 @@ iipdigital.usembassy.gov
 ||eyevio.jp
 ||eyny.com
 !--------------------FF-------------------------
+||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
 ||forefront.ai
@@ -4730,7 +4731,6 @@ iipdigital.usembassy.gov
 ||ae.org
 ||agemys.net
 ||ai.ls
-||airasia.com
 ||aisex.com
 ||aiweiwei.com
 ||ajunews.com
@@ -4909,6 +4909,7 @@ iipdigital.usembassy.gov
 ||btsynckeys.com
 ||buddhistchannel.tv
 ||busayari.com
+||businesstimes.com.sg
 ||businessweek.com
 ||businessweekly.com.tw
 ||busytrade.com
@@ -5012,6 +5013,7 @@ iipdigital.usembassy.gov
 ||city9x.com
 ||civiliangunner.com
 ||clarionproject.org
+||claude.com
 ||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
@@ -5432,6 +5434,7 @@ iipdigital.usembassy.gov
 ||hao.news
 ||happy-vpn.com
 ||haproxy.org
+||hardwarezone.com.sg
 ||harunyahya.com
 ||have8.com
 ||hcaptcha.com
@@ -5522,6 +5525,7 @@ iipdigital.usembassy.gov
 ||huaren4us.com
 ||huarenjie.com
 ||huashangnews.com
+||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
 ||huigui.tw
@@ -5611,7 +5615,6 @@ iipdigital.usembassy.gov
 ||javmoo.com
 ||javtiful.com
 ||javtrailers.com
-||javzz.com
 ||jbtalks.cc
 ||jdwsy.com
 ||jiehua.cz
@@ -5879,6 +5882,7 @@ iipdigital.usembassy.gov
 ||nakuz.com
 ||namgyal.org
 ||namgyalmonastery.org
+||nandazhan.com
 ||nanhuyt.com
 ||naol.ca
 ||naol.cc
@@ -6475,6 +6479,7 @@ iipdigital.usembassy.gov
 ||timsah.com
 ||tmpp.org
 ||tnp.org
+||tnp.sg
 ||tokyo-247.com
 ||tokyo-hot.com
 ||tonyyan.net
@@ -6490,6 +6495,7 @@ iipdigital.usembassy.gov
 ||tparents.org
 ||traffichaus.com
 ||tron.network
+||tronlink.org
 ||trulyergonomic.com
 ||truveo.com
 ||tsctv.net
@@ -6723,6 +6729,7 @@ iipdigital.usembassy.gov
 ||xmart.tw
 ||xmonk.net
 ||xnxx-cdn.com
+||xp1024.com
 ||xpdo.net
 ||xrentdvd.com
 ||xsden.org
@@ -6861,6 +6868,7 @@ iipdigital.usembassy.gov
 ||ai-kan.net
 ||ai-wen.net
 ||ai.com
+||airasia.com
 ||aircrack-ng.org
 ||ais86.com
 ||ais96.com
@@ -7453,7 +7461,6 @@ iipdigital.usembassy.gov
 ||hua-yue.net
 ||huaibinmall.com
 ||huanggua11.com
-||huasing.org
 ||huaxia-news.com
 ||humanrightsbriefing.org
 ||hungerstrikeforaids.org
@@ -7594,6 +7601,7 @@ iipdigital.usembassy.gov
 ||javhay.net
 ||javmost.com
 ||javstore.net
+||javzz.com
 ||jbtalks.com
 ||jbtalks.my
 ||jeanyim.com
