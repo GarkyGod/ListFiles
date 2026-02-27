@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-27 00:10:04
+!Last Modified: 2026-02-28 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4615,6 +4615,7 @@ iipdigital.usembassy.gov
 @@||moda.gov.tw
 @@||moe.gov.tw
 @@||gsn.nat.gov.tw
+@@||moica.nat.gov.tw
 @@||nici.nat.gov.tw
 @@||scitechvista.nat.gov.tw
 @@||tax.nat.gov.tw
@@ -4624,12 +4625,14 @@ iipdigital.usembassy.gov
 @@||nmp.gov.tw
 @@||nstm.gov.tw
 @@||library.ntpc.gov.tw
+@@||ntpclib.gov.tw
 @@||ntsec.gov.tw
 @@||ntuh.gov.tw
 @@||nvri.gov.tw
 @@||post.gov.tw
 ||service.taipei
 @@||stdtime.gov.tw
+@@||tphcc.gov.tw
 @@||vghtc.gov.tw
 @@||vghtpe.gov.tw
 @@||yatsen.gov.tw
@@ -4637,6 +4640,7 @@ iipdigital.usembassy.gov
 !!---edu.tw----
 ||eq.ccu.edu.tw
 ||mbct.mlc.edu.tw
+||nmns.edu.tw
 ||npm.edu.tw
 ||nqu.edu.tw
 ||gcc.ntu.edu.tw
@@ -4644,6 +4648,7 @@ iipdigital.usembassy.gov
 ||chardb.iis.sinica.edu.tw
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
+||tyc.edu.tw
 ||flurry.com
 ||yahoo.co.jp
 ||yahoo.net
@@ -5023,6 +5028,7 @@ iipdigital.usembassy.gov
 ||cloakpoint.com
 /^https?:\/\/cloudflarestatus\.com/
 ||cloudokyo.cloud
+||cltv.com.tw
 ||cmoinc.org
 ||cmoney.tw
 ||cn-proxy.com
@@ -5031,6 +5037,7 @@ iipdigital.usembassy.gov
 ||cnex.org.cn
 ||cnineu.com
 ||cnproxy.com
+||cnt.com.tw
 ||cnyes.com
 ||cochina.co
 ||coinegg.com
@@ -5248,6 +5255,7 @@ iipdigital.usembassy.gov
 ||feer.com
 ||feitian-california.org
 ||feitianacademy.org
+||fetc.net.tw
 ||fevernet.com
 ||ff.im
 ||fffff.at
@@ -5500,6 +5508,7 @@ iipdigital.usembassy.gov
 ||holymountaincn.com
 ||homeperversion.com
 ||old.honeynet.org
+||hongkongwatch.org
 ||hopto.org
 ||hornygamer.com
 ||hornytrip.com
@@ -5696,6 +5705,7 @@ iipdigital.usembassy.gov
 ||ladbrokes.com
 ||lalulalu.com
 ||lamrim.com
+||landbank.com.tw
 ||lantern.io
 ||lantosfoundation.org
 ||laomiu.com
@@ -6378,6 +6388,7 @@ iipdigital.usembassy.gov
 ||taiwanstay.net.tw
 ||taiwantoday.tw
 ||taiwantp.net
+||taiwantrip.com.tw
 ||taiwanus.net
 ||taiwanyes.com
 ||talk853.com
@@ -6400,6 +6411,7 @@ iipdigital.usembassy.gov
 ||tcnynj.org
 ||tcsofbc.org
 ||tdm.com.mo
+||tdtv.com.tw
 ||teamamericany.com
 ||techcrunch.com
 ||technorati.com
@@ -6477,6 +6489,7 @@ iipdigital.usembassy.gov
 ||timdir.com
 ||time.com
 ||timsah.com
+||tinp.net.tw
 ||tmpp.org
 ||tnp.org
 ||tnp.sg
@@ -6486,6 +6499,7 @@ iipdigital.usembassy.gov
 ||toodoc.com
 ||toonel.net
 ||top81.ws
+||topmso.com.tw
 ||toppornsites.com
 ||torrentz.eu
 ||toutiaoabc.com
@@ -6527,6 +6541,7 @@ iipdigital.usembassy.gov
 ||twaitter.com
 ||twavi.com
 ||twbbs.org
+||twcert.org.tw
 ||twcomix.com
 ||tweetcs.com
 ||tweetmylast.fm
@@ -6705,6 +6720,7 @@ iipdigital.usembassy.gov
 ||wsjhk.com
 ||wtbn.org
 ||wtfpeople.com
+||wufc.com.tw
 ||wujie.net
 ||x365x.com
 ||xaislam.com
