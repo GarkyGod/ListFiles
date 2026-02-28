@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-02-28 00:10:04
+!Last Modified: 2026-03-01 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -5443,6 +5443,7 @@ iipdigital.usembassy.gov
 ||happy-vpn.com
 ||haproxy.org
 ||hardwarezone.com.sg
+||harpersbazaar.com.hk
 ||harunyahya.com
 ||have8.com
 ||hcaptcha.com
@@ -5835,6 +5836,7 @@ iipdigital.usembassy.gov
 ||mirrormediagroup.com
 ||missav.ai
 ||missav.app
+||missav.live
 ||missav123.com
 ||mist.vip
 ||mixpod.com
