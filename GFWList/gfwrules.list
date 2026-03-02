@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-02 00:10:04
+!Last Modified: 2026-03-03 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1576,6 +1576,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||claude.com
 ||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
@@ -2470,7 +2471,6 @@ iipdigital.usembassy.gov
 ||imagevenue.com
 ||imagezilla.net
 |http://imb.org
-|http://www.imdb.com/name/nm0482730
 ||img.ly
 ||imgasd.com
 ||imgur.com
@@ -2722,6 +2722,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||manus.im
 ||meee.com.tw
 ||mosavi.io
 ||dcs-spotify.megaphone.fm
@@ -4818,6 +4819,7 @@ iipdigital.usembassy.gov
 ||av28.com
 ||avcool.com
 ||avfantasy.com
+||avjb.com
 ||avple.tv
 ||avyahoo.com
 ||azerbaycan.tv
@@ -5018,7 +5020,6 @@ iipdigital.usembassy.gov
 ||city9x.com
 ||civiliangunner.com
 ||clarionproject.org
-||claude.com
 ||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
@@ -5945,6 +5946,7 @@ iipdigital.usembassy.gov
 ||njav.tv
 ||njavtv.com
 ||njuice.com
+||nnyy.in
 ||no-ip.org
 ||fourface.nodesnoop.com
 ||noodlevpn.com
