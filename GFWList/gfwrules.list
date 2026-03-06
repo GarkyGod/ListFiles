@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-06 00:10:05
+!Last Modified: 2026-03-07 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -659,6 +659,7 @@ www.aolnews.com
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
+||dns.cloudflare.com
 !!---Dynu---
 ||dynu.com
 !!---Facebook---
@@ -699,6 +700,7 @@ www.aolnews.com
 !!---FTChinese---
 ||ftchinese.com
 !!---Google---
+||google.dev
 ||ai.studio
 ||chromium.org
 ||goog
@@ -2422,6 +2424,7 @@ iipdigital.usembassy.gov
 ||hypothes.is
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||investing.com
 ||idcflare.com
 ||interseclab.org
 ||ipify.org
@@ -4296,6 +4299,7 @@ iipdigital.usembassy.gov
 ||zuola.com
 ||zvereff.com
 ||zyxel.com
+@@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
 @@||ci.android.com
@@ -4542,7 +4546,6 @@ iipdigital.usembassy.gov
 @@||redirector.c.pack.google.com
 @@||redirector.c.play.google.com
 @@||safebrowsing-cache.google.com
-||google.dev
 ||google.dj
 /^https?:\/\/google-analytics\.com/
 @@||www.google-analytics.com
