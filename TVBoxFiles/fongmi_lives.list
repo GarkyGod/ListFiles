@@ -122,7 +122,7 @@
 		},
 		{
 		"name":"smart",  // https://github.com/judy-gotv/
-		"url":"https://gh-proxy.com/https://github.com/judy-gotv/iptv/raw/main/smart.m3u",
+		"url":"https://gh-proxy.com/https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper-Ts.m3u",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
