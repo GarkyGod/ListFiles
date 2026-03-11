@@ -121,6 +121,18 @@
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
+		"name":"smart",  // https://github.com/judy-gotv/
+		"url":"https://gh-proxy.com/https://github.com/judy-gotv/iptv/raw/main/smart.m3u",
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
+		},
+		{
+		"name":"v2hcdn",  // https://github.com/judy-gotv/
+		"url":"https://gh-proxy.com/https://github.com/judy-gotv/iptv/raw/main/v2hcdn.m3u",
+		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
+		},
+		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
