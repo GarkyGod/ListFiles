@@ -121,11 +121,18 @@
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"Jsnzkpg",  // 
+		"name":"裤佬TV直播_Jsnzkpg",  // https://t.me/pyapk  // https://t.me/stymei  // https://github.com/Jsnzkpg/Jsnzkpg
 		"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
+    {
+      "name": "JackTV直播{翻}",
+      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
+      "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+      "type": 10,
+      "remark": "✈️TG频道@stymei1"
+},
 		{
 		"name":"yihad168",  // 
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
