@@ -133,8 +133,20 @@
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
-		"name":"18+直播",  // 
-		"url":"http://lzo.xh.sd/lives/18TV.txt",
+		"name":"FGBLH_4GTV",  // 
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/4gtv",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{logo}"
+		},
+		{
+		"name":"FGBLH_安博",  // 
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/安博",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{logo}"
+		},
+		{
+		"name":"FGBLH_港台大陆",  // 
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/港台大陆",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
