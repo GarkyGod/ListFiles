@@ -133,6 +133,12 @@
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
+		"name":"18+直播",  // 
+		"url":"http://lzo.xh.sd/lives/18TV.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{logo}"
+		},
+		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
