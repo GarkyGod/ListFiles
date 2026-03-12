@@ -123,7 +123,7 @@
 		{
 		"name":"裤佬TV直播_Jsnzkpg",  // https://t.me/pyapk  // https://t.me/stymei  // https://github.com/Jsnzkpg/Jsnzkpg
 		"url":"https://gh-proxy.com/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
-		"playerType":0,
+//		"playerType":0,
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
@@ -136,7 +136,7 @@
 		{
 		"name":"yihad168",  // 
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
-		"playerType":0,
+//		"playerType":0,
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
