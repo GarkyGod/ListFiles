@@ -135,7 +135,13 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"FGBLH_4GTV",  // 
+		"name":"FainTV_臺灣歡樂看🪜",  // 
+		"url":"http://ezc.xtvantsc.xyz/欢乐看.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{logo}"
+		},
+		{
+		"name":"FGBLH_4GTV🪜",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/4gtv",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
@@ -147,19 +153,19 @@
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
-		"name":"FGBLH_港台大陆",  // 
+		"name":"FGBLH_港臺大陸",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/港台大陆无18内容",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"FGBLH_港台大陆|🔞",  // 
+		"name":"FGBLH_港臺大陸|🔞",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/港台大陆",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"FGBLH_xxx视频资源|🔞",  // 
+		"name":"FGBLH_xxx視頻資源|🔞",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/xxx视频资源",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
@@ -171,7 +177,7 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"FreeEPG_台湾频道🪜",  // https://epg.pw/
+		"name":"FreeEPG_臺灣頻道🪜",  // https://epg.pw/
 		"url":"https://epg.pw/test_channels_taiwan.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
@@ -180,6 +186,13 @@
 		"name":"FreeTV_All",  // https://freetv.fun/
 		"url":"https://t.freetv.fun/m3u/playlist_all.m3u",
 //		"url":"https://t.freetv.fun/m3u/playlist_all.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"FreeTV_中港臺頻道",  // https://freetv.fun/
+		"url":"https://t.freetv.fun/m3u/playlist.txt",
+//		"url":"https://t.freetv.fun/m3u/playlist.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
