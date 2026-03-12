@@ -108,13 +108,20 @@
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
+		"name":"Develop202_地方直播",  // https://github.com/develop202/migu_video
+		"url":"https://gh-proxy.com/https://github.com/develop202/migu_video/raw/main/interface.txt",
+//		"url":"https://gh-proxy.com/https://github.com/develop202/migu_video/raw/main/interfaceTXT.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
 		"name":"FainTV_臺灣歡樂看🪜",  // 
 		"url":"http://ezc.xtvantsc.xyz/欢乐看.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
-		"name":"FGBLH_4GTV🪜",
+		"name":"FGBLH_4GTV🪜",  // https://github.com/FGBLH/  // https://t.me/usfgrjk
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/4gtv",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
@@ -144,7 +151,13 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"Fleung49_MIT",  // 
+		"name":"FGBLH_xxx視頻海角|🔞",
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/fgrjk2/raw/main/haijiao669",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"Fleung49_MIT",  // https://github.com/fleung49/star/
 		"url":"https://gh-proxy.com/https://github.com/fleung49/star/raw/main/mit",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
@@ -166,6 +179,13 @@
 		"name":"FreeTV_中港臺頻道",  // https://freetv.fun/
 		"url":"https://t.freetv.fun/m3u/playlist.txt",
 //		"url":"https://t.freetv.fun/m3u/playlist.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"Guovin_地方直播",  // https://github.com/Guovin/iptv-api/tree/gd  // https://github.com/Guovin/iptv-api/
+		"url":"https://gh-proxy.com/https://github.com/Guovin/iptv-api/raw/gd/output/result.m3u",
+//		"url":"https://gh-proxy.com/https://github.com/Guovin/iptv-api/raw/gd/output/result.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
