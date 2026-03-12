@@ -128,13 +128,7 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"JackTV直播",  // 
-		"url":"https://php.946985.filegear-sg.me/jackTV.m3u",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{logo}"
-		},
-		{
-		"name":"yihad168",  // 
+		"name":"yihad168|🔞",  // 
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
 //		"playerType":0,
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -147,16 +141,59 @@
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
-		"name":"FGBLH_安博",  // 
+		"name":"FGBLH_安博🪜|🚫",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/安博",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}"
 		},
 		{
 		"name":"FGBLH_港台大陆",  // 
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/港台大陆无18内容",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"FGBLH_港台大陆|🔞",  // 
 		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/港台大陆",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{logo}"
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"FGBLH_xxx视频资源|🔞",  // 
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/xxx视频资源",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"fleung49_MIT",  // 
+		"url":"https://gh-proxy.com/https://github.com/fleung49/star/raw/main/mit",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"FreeEPG_台湾频道🪜",  // https://epg.pw/
+		"url":"https://epg.pw/test_channels_taiwan.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"FreeTV_All",  // https://freetv.fun/
+		"url":"https://t.freetv.fun/m3u/playlist_all.m3u",
+//		"url":"https://t.freetv.fun/m3u/playlist_all.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"JackTV🪜",  // https://php.946985.filegear-sg.me/  // https://t.me/jacktvb
+		"url":"https://php.946985.filegear-sg.me/jackTV.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"海豚iptvpro|🔞",  // 
+		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
 		"name":"IJK",
