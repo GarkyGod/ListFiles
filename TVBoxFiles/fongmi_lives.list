@@ -31,34 +31,6 @@
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 		{
-		"name":"yang-1989電視直播",  // https://tv.iill.top/m3u/MyTV
-		"url":"https://github.com/YanG-1989/m3u/blob/main/Gather.m3u",
-//		"url":"https://tv.iill.top/m3u/Gather",
-//		"ua":"okhttp/3.15",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"yang-1989網絡直播",
-		"url":"https://tv.iill.top/m3u/Live",
-		"ua":"okhttp/3.15",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"yang-1989體育直播",
-		"url":"https://tv.iill.top/m3u/Sport",
-		"ua":"okhttp/3.15",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"yang-1989 MyTV直播",
-		"url":"https://tv.iill.top/m3u/MyTV",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
 		"name":"365直播*",
 		"url":"https://live.iptv365.org/live.m3u",  // "https://play.iptv365.org/tvbox.txt",
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -134,6 +106,13 @@
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
+
+		{
+		"name":"74源",  // 
+		"url":"https://im5k.fun/vip.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{logo}"
+		},
 		{
 		"name":"FainTV_臺灣歡樂看🪜",  // 
 		"url":"http://ezc.xtvantsc.xyz/欢乐看.txt",
@@ -203,11 +182,24 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
+		"name":"港澳臺國際1",  // 
+		"url":"https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"港澳臺國際2",  // 
+		"url":"http://tv123.vvvv.ee/tv.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
 		"name":"海豚iptvpro|🔞",  // 
 		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
+
 		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
