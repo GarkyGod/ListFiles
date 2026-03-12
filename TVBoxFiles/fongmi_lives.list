@@ -93,13 +93,7 @@
 		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
-		{
-		"name":"yihad168|🔞",  // 
-		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
-//		"playerType":0,
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}"
-		},
+
 //------------------------------=整理=------------------------------
 		{
 		"name":"74源",  // 
@@ -254,6 +248,19 @@
 		"url":"https://tv.iill.top/m3u/Live",
 //		"url":"https://m.iill.top/Live.m3u",
 		"ua":"okhttp/3.7.5",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"Yihad168_Live|🔞",  // https://github.com/yihad168/tv/
+		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/live.m3u,
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"Yihad168_TV|🔞",
+		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
+//		"playerType":0,
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
