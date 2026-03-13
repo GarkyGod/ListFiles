@@ -219,7 +219,7 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
-		"name":"Wujiangliu_海燕直播源",  // https://github.com/wujiangliu/live-sources
+		"name":"Wujiangliu_海燕直播源",
 		"url":"https://gh-proxy.com/https://github.com/wujiangliu/live-sources/raw/main/haiyan.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
@@ -276,7 +276,7 @@
 		},
 		{
 		"name":"Yihad168_Live|🔞",  // https://github.com/yihad168/tv/
-		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/live.m3u,
+		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/live.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
