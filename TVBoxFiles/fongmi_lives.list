@@ -274,9 +274,8 @@
 		"name":"Jsnzkpg_裤佬TV.TXT",
 		"url":"https://gh-proxy.com/https://github.com/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1",
 //		"playerType":0,
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo":"https://epg.v1.mk/logo/{name}.png",
-//		"logo":"http://epg.51zmt.top:8000/{logo}",
+		"epg":"https://epg.v1.mk/json?ch={name}&date={date}",
+		"logo":"https://epg.v1.mk/logo/{name}.png",
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
