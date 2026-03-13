@@ -279,6 +279,27 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Lalifeier_IPTV",  // https://github.com/lalifeier/IPTV/
+		"url":"https://gh-proxy.com/https://github.com/lalifeier/IPTV/raw/main/txt/IPTV.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Lalifeier_Hotel酒店",
+		"url":"https://gh-proxy.com/https://github.com/lalifeier/IPTV/raw/main/txt/hotel/全国.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Lalifeier_Udpxy組播",
+		"url":"https://gh-proxy.com/https://github.com/lalifeier/IPTV/raw/main/txt/udpxy/全国.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"Mursor1985_嗶哩嗶哩",  // https://github.com/mursor1985/LIVE  // https://t.me/feiyangofficalchannel  // https://t.me/feiyangdigital  // https://t.me/mursorottiptv_bot
 		"url":"https://sub.ottiptv.cc/bililive.m3u",
 //		"url":"https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/bililive.m3u",
@@ -315,6 +336,13 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"SCvip_IPTV",
+		"url":"http://gm.scvip.net.cn/iptv/iptv.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"SMARTV",  // https://tmxk.pp.ua/
 		"url":"https://tmxk.pp.ua/smart-cn.m3u",
 		"ua":"Goiptv/8.8.8",
@@ -344,14 +372,14 @@
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
 		},
-		{
-		"name":"YanG-1989_LiveTV_電視直播|🚫",  // https://yang-1989.eu.org/  // https://epg-1.iill.top/  // https://github.com/YanG-1989  // https://t.me/Y_anGGGGGG
-		"url":"https://tv.iill.top/m3u/Gather",
-		"ua":"okhttp/3.15",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
+//		{
+//		"name":"YanG-1989_LiveTV_電視直播|🚫",  // https://yang-1989.eu.org/  // https://epg-1.iill.top/  // https://github.com/YanG-1989  // https://t.me/Y_anGGGGGG
+//		"url":"https://tv.iill.top/m3u/Gather",
+//		"ua":"okhttp/3.15",
+//		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
 //		{
 //		"name":"YanG-1989_LiveTV.Lite_電視直播Lite|🚫",  // 
 //		"url":"https://gh-proxy.com/https://github.com/YanG-1989/m3u/raw/main/Gather.m3u",
@@ -470,6 +498,15 @@
 		"url":"https://ds65.tv1288.xyz",
 //		"url":"https://t.tv12.xyz",  // TXT
 //		"url":"https://m.tv12.xyz",  // M3U
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"星火直播",
+		"url":"http://xg.52sw.top/play/hxds/",
+		"ua":"okhttp/3.15",
+		"header":{"Referer":"https://www.kds.tw/"},
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
