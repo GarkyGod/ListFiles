@@ -291,6 +291,13 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"風雲TV",  // 
+		"url":"http://iptv.4666888.xyz/FYTV.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"港澳臺國際1",  // 
 		"url":"https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -300,6 +307,13 @@
 		{
 		"name":"港澳臺國際2",  // 
 		"url":"http://tv123.vvvv.ee/tv.m3u",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"宮殿TV",  // https://www.gongdian.top/
+		"url":"https://gongdian.top/tv/iptv",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -320,8 +334,32 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"日後TV",  // 
+		"url":"http://rihou.cc:555/gggg.nzk",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"瀟雨萌萌TV",  // 
+		"url":"https://ds65.tv1288.xyz",
+//		"url":"https://t.tv12.xyz",  // TXT
+//		"url":"https://m.tv12.xyz",  // M3U
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"亞麻蝶|🔞",  // 
 		"url":"https://xoxo.cn.mt/Lonely.m3u",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"易發TV|🔞",  // https://github.com/fafa002/yf2025/
+		"url":"https://gh-proxy.com/https://github.com/fafa002/yf2025/raw/main/yiyifafa.txt",
+		"pass":"true",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
