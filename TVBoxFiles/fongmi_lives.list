@@ -88,6 +88,14 @@
 		},
 //------------------------------= Start =------------------------------
 		{
+		"name":"4GTV",  // 
+		"url":"http://nmk.ioapk.com:5050/?type=m3u&proxy=true",
+		"ua":"Goiptv/8.8.8",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"74源",  // 
 		"url":"https://im5k.fun/vip.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -97,6 +105,14 @@
 		{
 		"name":"Alenin-zhang_IPTV",  // https://github.com/alenin-zhang/IPTV
 		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"CATVOD",  // https://catvod.com/
+		"url":"https://live.catvod.com/tv.m3u",
+		"ua":"Goiptv/8.8.8",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -197,6 +213,21 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"IPTVPRO.php|🔞",  // http://hufa.zabc.net:8080/
+		"url":"http://hufa.zabc.net:8080/iptvpro.php",
+		"ua":"okhttp/3.7.5",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"IPTVPRO.txt|🔞",
+		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"JackTV🪜",  // https://php.946985.filegear-sg.me/  // https://t.me/jacktvb
 		"url":"https://php.946985.filegear-sg.me/jackTV.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -215,6 +246,14 @@
 		"name":"Jsnzkpg_裤佬TV.TXT",
 		"url":"https://gh-proxy.com/https://github.com/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1",
 //		"playerType":0,
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"SMARTV",  // https://tmxk.pp.ua/
+		"url":"https://tmxk.pp.ua/smart-cn.m3u",
+		"ua":"Goiptv/8.8.8",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -321,21 +360,6 @@
 		{
 		"name":"宮殿TV",  // https://www.gongdian.top/
 		"url":"https://gongdian.top/tv/iptv",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"海豚iptvpro.php|🔞",  // 
-		"url":"http://hufa.zabc.net:8080/iptvpro.php",
-		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"海豚iptvpro.txt|🔞",  // 
-		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
