@@ -110,6 +110,21 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Alenin-zhang_AV|🔞",
+//		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/AV",  // DownloadsOnly
+		"url":"https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/av",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Alenin-zhang_海角社區|🔞",
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/haijiao888.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"CATVOD",  // https://catvod.com/
 		"url":"https://live.catvod.com/tv.m3u",
 		"ua":"Goiptv/8.8.8",
@@ -161,15 +176,15 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
-		"name":"FGBLH_xxx視頻資源|🔞",
-		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/xxx视频资源",
+		"name":"FGBLH_海角社區|🔞",
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/fgrjk2/raw/main/haijiao669",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
-		"name":"FGBLH_xxx視頻海角|🔞",
-		"url":"https://gh-proxy.com/https://github.com/FGBLH/fgrjk2/raw/main/haijiao669",
+		"name":"FGBLH_xxx視頻資源|🔞",
+		"url":"https://gh-proxy.com/https://github.com/FGBLH/FG/raw/main/xxx视频资源",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -332,6 +347,14 @@
 		"name":"Yihad168_TV|🔞",
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
 //		"playerType":0,
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"冰苶TV",  //
+		"url":"https://bc.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true",
+		"ua":"bingcha/1.1 (mianfeifenxiang)",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
