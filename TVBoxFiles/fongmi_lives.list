@@ -266,6 +266,42 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Mursor1985_嗶哩嗶哩",  // https://github.com/mursor1985/LIVE  // https://t.me/feiyangofficalchannel  // https://t.me/feiyangdigital  // https://t.me/mursorottiptv_bot
+		"url":"https://sub.ottiptv.cc/bililive.m3u",
+//		"url":"https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/bililive.m3u",
+		"ua":"okHttp/Mod-1.5.0.0",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Mursor1985_鬥魚",  
+		"url":"https://sub.ottiptv.cc/douyuyqk.m3u",
+//		"url":"https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/douyuyqk.m3u",
+		"ua":"okHttp/Mod-1.5.0.0",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Mursor1985_虎牙",
+		"url":"https://sub.ottiptv.cc/huyayqk.m3u",
+//		"url":"https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/huyayqk.m3u",
+		"ua":"okHttp/Mod-1.5.0.0",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Mursor1985_YY",
+		"url":"https://sub.ottiptv.cc/yylunbo.m3u",
+//		"url":"https://gh-proxy.com/https://github.com/mursor1985/LIVE/raw/main/yylunbo.m3u",
+		"ua":"okHttp/Mod-1.5.0.0",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"SMARTV",  // https://tmxk.pp.ua/
 		"url":"https://tmxk.pp.ua/smart-cn.m3u",
 		"ua":"Goiptv/8.8.8",
