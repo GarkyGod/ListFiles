@@ -162,7 +162,7 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"FreeTV_中港臺頻道",  // https://freetv.fun/
+		"name":"FreeTV_中港臺頻道",
 		"url":"https://t.freetv.fun/m3u/playlist.txt",
 //		"url":"https://t.freetv.fun/m3u/playlist.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -338,16 +338,8 @@
 //				"url":"https://github.com/live.txt",
 //				"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai",
 //				"logo":"https://epg.112114.xyz/logo/{name}.png",
-//				"header":{
-//				"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
-//				"Referer":"https://github.com/"
-//				},
-//				"catchup":{
-//				"days":"7",
-//				"type":"append",
-//				"regex":"/PLTV/",
-//				"source":"?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-//				}
+//				"header":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","Referer":"https://github.com/"},
+//				"catchup":{"days":"7","type":"append","regex":"/PLTV/","source":"?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}
 //				},
 //				{
 //				"name":"JSON",
