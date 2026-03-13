@@ -111,8 +111,21 @@
 		},
 		{
 		"name":"Alenin-zhang_AV|🔞",
-//		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/AV",  // DownloadsOnly
-		"url":"https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/av",
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/av",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Alenin-zhang_電影集1W",
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/10000.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Alenin-zhang_電影集3W",
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/30000.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -310,6 +323,14 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Stream-Link🪜",  // 
+		"url":"https://www.stream-link.org/playlist.m3u?token=eb7c5a18-d1f8-4749-84a2-9e9c8937c24e&hmac=75369073948ee6f9ef1aa65dbcd754f1",
+		"ua":"SYTV/1.6",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"Wujiangliu_电视家",  // https://github.com/wujiangliu/live-sources
 		"url":"https://gh-proxy.com/https://github.com/wujiangliu/live-sources/raw/main/电视家.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -419,6 +440,13 @@
 		{
 		"name":"宮殿TV",  // https://www.gongdian.top/
 		"url":"https://gongdian.top/tv/iptv",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"极速台湾",  // 
+		"url":"http://gc.gt.tc/c/极速台湾.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
