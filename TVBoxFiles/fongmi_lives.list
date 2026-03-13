@@ -275,7 +275,7 @@
 		"url":"https://gh-proxy.com/https://github.com/Jsnzkpg/Jsnzkpg/raw/Jsnzkpg/Jsnzkpg1",
 //		"playerType":0,
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo":"hhttps://epg.v1.mk/logo/{name}.png",
+"logo":"https://epg.v1.mk/logo/{name}.png",
 //		"logo":"http://epg.51zmt.top:8000/{logo}",
 		"timeZone":"Asia/Hong_Kong"
 		},
