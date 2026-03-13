@@ -103,6 +103,24 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Alenin-zhang_345IPTV",
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/345IPTV.txt",
+		"header":{
+			"User-Agent":"Mozilla/5.0(Linux;Android15;V2405A;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/123.0.6312.118MobileSafari/537.36",
+			"Connection":"keep-alive",
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+			"Accept-Encoding":"deflate",
+			"origin":"https://iptv807.com/",
+			"referer":"https://iptv807.com/",
+			"accept-language":"zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+			"X-FORWARDED-FOR":"127.0.0.1"
+		},
+		"timeout":30,
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"Alenin-zhang_IPTV",  // https://github.com/alenin-zhang/IPTV
 		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
