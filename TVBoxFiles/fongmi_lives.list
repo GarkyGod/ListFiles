@@ -1,91 +1,5 @@
 {
 	"lives":[
-//------------------------------=未整理=------------------------------
-		{
-		"name":"iptv-org_海外TV🪜",
-		"url":"https://ghp.garkygod.dpdns.org/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u"
-//		"url":"https://down.nigx.cn/iptv-org.github.io/iptv/index.m3u"
-		},
-		{
-		"name":"caca3559823437 wsg",
-		"url":"https://ghp.garkygod.dpdns.org/https://github.com/caca3559823437/2022/raw/main/wsg.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{logo}"
-		},
-		{
-		"name":"caca3559823437 2023",
-		"url":"https://ghp.garkygod.dpdns.org/https://github.com/caca3559823437/2022/raw/main/2023.txt",
-		"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://epg.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"k84307195",
-		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/k84307195/k84307195.github.io/main/tv.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"365直播*",
-		"url":"https://live.iptv365.org/live.m3u",  // "https://play.iptv365.org/tvbox.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-
-		{
-		"name":"liucn",
-		"url":"https://raw.liucn.cc/box/libs/tv/tvlive.txt",
-		"ua":"okhttp/3.15",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"XingHuo",
-		"url":"https://json.doube.eu.org/XingHuo.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png",
-		"header": {"Referer": "https://www.kds.tw/"}
-		},
-		{
-		"name":"cnmake",  // https://github.com/cnmake/tv  // https://github.com/cnmake/tv/blob/live/readme.md
-		"url":"https://gh-proxy.com/https://github.com/cnmake/tv/raw/live/playlist.m3u",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"koashe",  // https://github.com/koashe/zby/
-		"url":"https://ghp.garkygod.dpdns.org/https://github.com/koashe/zby/raw/main/gt.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"臺灣臺HIEIHIEI",  // https://github.com/HIEIHIEI/TVBOX
-		"url":"https://gh-proxy.com/https://github.com/HIEIHIEI/TVBOX/raw/main/Tlive.txt",
-//		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/HIEIHIEI/TVBOX/main/Tlive.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"臺灣臺j67001",  // https://github.com/j67001/test
-		"url":"https://gh-proxy.com/https://github.com/j67001/test/raw/main/tt.swf",
-//		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/j67001/test/80947719f2f943c168c4e6807b436b9f59a60bf3/tt.swf",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"臺灣臺SSM0415",  // https://github.com/SSM0415/apptest/  //_9453
-		"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/TVonline.txt",
-//		"url":"https://gh-proxy.com/https://github.com/SSM0415/apptest/raw/main/TVonline.txt",
-//		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
-		{
-		"name":"zhangfdzr",  // https://github.com/zhangfdzr/se/
-		"url":"https://gh-proxy.com/https://github.com/zhangfdzr/se/raw/main/seqiu.txt",
-//		"url":"https://ghp.garkygod.dpdns.org/https://raw.githubusercontent.com/zhangfdzr/se/main/seqiu.txt",
-		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
-		},
 //------------------------------= Start =------------------------------
 		{
 		"name":"4GTV",  // 
@@ -138,9 +52,26 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"Caca3559823437_Wsg|🔞",  // https://github.com/caca3559823437/2022/
+		"url":"https://gh-proxy.com/https://github.com/caca3559823437/2022/raw/main/wsg.txt",
+//		"url":"https://gh-proxy.com/https://github.com/caca3559823437/2022/raw/main/2023.txt",
+//		"url":"https://gh-proxy.com/https://github.com/caca3559823437/2022/raw/main/2025.txt",
+		"pass":"true",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"CATVOD",  // https://catvod.com/
 		"url":"https://live.catvod.com/tv.m3u",
 		"ua":"Goiptv/8.8.8",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Cnmake_TV",  // https://github.com/cnmake/tv  // https://github.com/cnmake/tv/blob/live/readme.md
+		"url":"https://gh-proxy.com/https://github.com/cnmake/tv/raw/live/playlist.m3u",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -241,6 +172,30 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"HIEIHIEI_Tlive",  // https://github.com/HIEIHIEI/TVBOX
+		"url":"https://gh-proxy.com/https://github.com/HIEIHIEI/TVBOX/raw/main/Tlive.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"IPTV365_Live2025",
+		"url":"https://vip.iptv365.org/live2025.txt",
+//		"url":"https://live.iptv365.org/live.m3u",
+//		"url":"https://play.iptv365.org/tvbox.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Iptv-Org_海外TV🪜",  // https://github.com/iptv-org/iptv/
+		"url":"https://gh-proxy.com/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u",
+//		"url":"https://down.nigx.cn/iptv-org.github.io/iptv/index.m3u",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"IPTVPRO.php|🔞",  // http://hufa.zabc.net:8080/
 		"url":"http://hufa.zabc.net:8080/iptvpro.php",
 		"ua":"okhttp/3.15",
@@ -251,6 +206,13 @@
 		{
 		"name":"IPTVPRO.txt|🔞",
 		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"J67001_TT",  // https://github.com/j67001/test
+		"url":"https://gh-proxy.com/https://github.com/j67001/test/raw/main/tt.swf",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -279,6 +241,20 @@
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
+		"name":"K84307195_TV",
+		"url":"https://gh-proxy.com/https://github.com/k84307195/k84307195.github.io/raw/main/tv.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Koashe_GT",  // https://github.com/koashe/zby/
+		"url":"https://gh-proxy.com/https://github.com/koashe/zby/raw/main/gt.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
 		"name":"Lalifeier_IPTV",  // https://github.com/lalifeier/IPTV/
 		"url":"https://gh-proxy.com/https://github.com/lalifeier/IPTV/raw/main/txt/IPTV.txt",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
@@ -295,6 +271,14 @@
 		{
 		"name":"Lalifeier_Udpxy組播",
 		"url":"https://gh-proxy.com/https://github.com/lalifeier/IPTV/raw/main/txt/udpxy/全国.txt",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Liucn_TVLive",
+		"url":"https://raw.liucn.cc/box/libs/tv/tvlive.txt",
+		"ua":"okhttp/3.15",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -346,6 +330,14 @@
 		"name":"SMARTV",  // https://tmxk.pp.ua/
 		"url":"https://tmxk.pp.ua/smart-cn.m3u",
 		"ua":"Goiptv/8.8.8",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"SSM0415_TVonline|🔞",  // https://github.com/SSM0415/apptest/
+		"url":"https://gh-proxy.com/https://github.com/SSM0415/apptest/raw/main/TVonline.txt",
+		"pass":"true",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
@@ -432,6 +424,13 @@
 		"name":"Yihad168_TV|🔞",
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/tv.m3u",
 //		"playerType":0,
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Zhangfdzr_Seqiu|🔞",  // https://github.com/zhangfdzr/se/
+		"url":"https://gh-proxy.com/https://github.com/zhangfdzr/se/raw/main/seqiu.txt",
 		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
