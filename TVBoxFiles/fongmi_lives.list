@@ -86,7 +86,82 @@
 		"logo":"https://diyp2.112114.xyz/logo/{name}.png"
 		},
 
+		{
+		"name":"易發TV|🔞",  // https://github.com/fafa002/yf2025/
+		"url":"https://gh-proxy.com/https://github.com/fafa002/yf2025/raw/main/yiyifafa.txt",
+		"pass":"true",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
 
+//------------------------------= Directions & Demo =------------------------------
+//			https://github.com/FongMi/TV/blob/release/docs/CONFIG.md
+//			https://github.com/FongMi/TV/blob/release/docs/LIVE.md
+//------------------------------=====================------------------------------
+//		{
+//			"lives":[
+//				{
+//				"name":"M3U",
+//				"url":"https://github.com/live.m3u"
+//				},
+//				{
+//				"name":"TXT",
+//				"url":"https://github.com/live.txt",
+//				"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+//				"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+//				"logo":"https://diyp2.112114.xyz/logo/{name}.png",
+//				"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//				"logo":"http://epg.51zmt.top:8000/{name}",
+//				"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//				"logo":"https://epg.112114.xyz/logo/{name}.png",
+//				"timeZone":"Asia/Hong_Kong"  // https://timezonedb.com/time-zones  // Asia/Shanghai  // 
+//				},
+//				{
+//				"name":"IJK",
+//				"url":"https://github.com/live.txt",
+//				"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//				"logo":"https://epg.112114.xyz/logo/{name}.png",
+//				"playerType":1
+//				},
+//				{
+//				"name":"EXO",
+//				"url":"https://github.com/live.txt",
+//				"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//				"logo":"https://epg.112114.xyz/logo/{name}.png",
+//				"playerType":2
+//				},
+//				{
+//				"name":"PRO",
+//				"boot":false,
+//				"url":"https://github.com/live.txt",
+//				"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
+//				"logo":"https://epg.112114.xyz/logo/{name}.png",
+//				"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36",
+//				"referer":"https://github.com/"
+//				},
+//				{
+//				"name":"Custom",
+//				"boot":false,
+//				"pass":true,
+//				"url":"https://github.com/live.txt",
+//				"epg":"https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Shanghai",
+//				"logo":"https://epg.112114.xyz/logo/{name}.png",
+//				"header":{"User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36","Referer":"https://github.com/"},
+//				"catchup":{"days":"7","type":"append","regex":"/PLTV/","source":"?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"}
+//				},
+//				{
+//				"name":"JSON",
+//				"type":1,
+//				"url":"https://github.com/live.json"
+//				},
+//				{
+//				"name":"Proxy",
+//				"type":2,
+//				"url":"proxy://do=live&type=today"
+//				}
+//			]
+//		}
 //------------------------------= End =------------------------------
 		{
 		"name":"End",
