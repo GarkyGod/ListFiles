@@ -2,8 +2,9 @@
 	"lives":[
 //------------------------------=未整理=------------------------------
 		{
-		"name":"iptv-org",
+		"name":"iptv-org_海外TV🪜",
 		"url":"https://ghp.garkygod.dpdns.org/https://github.com/iptv-org/iptv/raw/gh-pages/index.m3u"
+//		"url":"https://down.nigx.cn/iptv-org.github.io/iptv/index.m3u"
 		},
 		{
 		"name":"caca3559823437 wsg",
@@ -91,6 +92,13 @@
 		"url":"https://im5k.fun/vip.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{logo}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"Alenin-zhang_IPTV",  // https://github.com/alenin-zhang/IPTV
+		"url":"https://gh-proxy.com/https://github.com/alenin-zhang/IPTV/raw/main/lenin.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
 		},
 		{
@@ -225,55 +233,55 @@
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
 		},
-		{
-		"name":"YanG-1989_LiveTV_電視直播|🚫",  // https://yang-1989.eu.org/  // https://epg-1.iill.top/  // https://github.com/YanG-1989  // https://t.me/Y_anGGGGGG
-		"url":"https://tv.iill.top/m3u/Gather",
-		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"YanG-1989_LiveTV.Lite_電視直播Lite|🚫",  // 
-		"url":"https://gh-proxy.com/https://github.com/YanG-1989/m3u/raw/main/Gather.m3u",
+//		{
+//		"name":"YanG-1989_LiveTV_電視直播|🚫",  // https://yang-1989.eu.org/  // https://epg-1.iill.top/  // https://github.com/YanG-1989  // https://t.me/Y_anGGGGGG
+//		"url":"https://tv.iill.top/m3u/Gather",
 //		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"YanG-1989_LiveSports_體育直播|🚫",
-		"url":"https://tv.iill.top/m3u/Sport",
-		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"YanG-1989_LiveSports.Lite_體育直播Lite|🚫",
-		"url":"https://gh-proxy.com/https://github.com/YanG-1989/m3u/raw/main/Migu.m3u",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
+//		{
+//		"name":"YanG-1989_LiveTV.Lite_電視直播Lite|🚫",  // 
+//		"url":"https://gh-proxy.com/https://github.com/YanG-1989/m3u/raw/main/Gather.m3u",
+////		"ua":"okhttp/3.7.5",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
+//		{
+//		"name":"YanG-1989_LiveSports_體育直播|🚫",
+//		"url":"https://tv.iill.top/m3u/Sport",
 //		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"YanG-1989_myTV.Livestream_myTV直播|🚫",
-		"url":"https://tv.iill.top/m3u/MyTV",
-		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
-		{
-		"name":"YanG-1989_Webcast_網絡直播|🚫",
-		"url":"https://tv.iill.top/m3u/Live",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
+//		{
+//		"name":"YanG-1989_LiveSports.Lite_體育直播Lite|🚫",
+//		"url":"https://gh-proxy.com/https://github.com/YanG-1989/m3u/raw/main/Migu.m3u",
+////		"ua":"okhttp/3.7.5",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
+//		{
+//		"name":"YanG-1989_myTV.Livestream_myTV直播|🚫",
+//		"url":"https://tv.iill.top/m3u/MyTV",
+//		"ua":"okhttp/3.7.5",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
+//		{
+//		"name":"YanG-1989_Webcast_網絡直播|🚫",
+//		"url":"https://tv.iill.top/m3u/Live",
 //		"url":"https://m.iill.top/Live.m3u",
-		"ua":"okhttp/3.7.5",
-		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo":"http://epg.51zmt.top:8000/{name}",
-		"timeZone":"Asia/Hong_Kong"
-		},
+//		"ua":"okhttp/3.7.5",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}",
+//		"timeZone":"Asia/Hong_Kong"
+//		},
 		{
 		"name":"Yihad168_Live|🔞",  // https://github.com/yihad168/tv/
 		"url":"https://gh-proxy.com/https://github.com/yihad168/tv/raw/main/live.m3u",
@@ -328,6 +336,13 @@
 		{
 		"name":"海豚iptvpro.txt|🔞",  // 
 		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}",
+		"timeZone":"Asia/Hong_Kong"
+		},
+		{
+		"name":"日本TV🪜",  // https://web.utako.moe/
+		"url":"https://web.utako.moe/jp.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}",
 		"timeZone":"Asia/Hong_Kong"
