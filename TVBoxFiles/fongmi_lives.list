@@ -277,8 +277,21 @@
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
 		{
-		"name":"海豚iptvpro|🔞",  // 
+		"name":"海豚iptvpro.php|🔞",  // 
+		"url":"http://hufa.zabc.net:8080/iptvpro.php",
+		"ua":"okhttp/3.7.5",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"海豚iptvpro.txt|🔞",  // 
 		"url":"http://hufa.zabc.net:8080/iptvpro.txt",
+		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+		"logo":"http://epg.51zmt.top:8000/{name}"
+		},
+		{
+		"name":"亞麻蝶|🔞",  // 
+		"url":"https://xoxo.cn.mt/Lonely.m3u",
 		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo":"http://epg.51zmt.top:8000/{name}"
 		},
@@ -286,8 +299,11 @@
 		{
 		"name":"IJK",
 		"url":"https://github.com/live.txt",
-		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
-		"logo":"https://diyp2.112114.xyz/logo/{name}.png",
+		"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+//		"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
+//		"logo":"https://diyp2.112114.xyz/logo/{name}.png",
+//		"epg":"https://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+//		"logo":"http://epg.51zmt.top:8000/{name}"
 		"playerType":1
 		},
 		{
