@@ -797,7 +797,7 @@
 
 
 	"doh":[
-		{"name":"-★-系統-★-","url":"#0#","ips":["",""]},
+		{"name":"-★-系統-★-","url":"","ips":[]},
 //		{"name":"GarkyGod Cloudflare","url":"https://cdoh.garkygod.dpdns.org","ips":[]},
 //		{"name":"GarkyGod Google","url":"https://gdoh.garkygod.dpdns.org","ips":[]},
 		{"name":"★☆360 Safe DNS","url":"https://doh.360.cn/dns-query","ips":["123.125.81.6","140.207.198.6","101.226.4.6","218.30.118.6"]},
