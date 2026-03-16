@@ -8,7 +8,7 @@
 !-- 7、分隔符"^"，表示除了字母、数字或者_-.%外的任何字符。如"http://example.com^"，"http://example.com/"和"http://example.com:8000/"均滿足條件，而"http://example.com.ar/"不滿足條件 --
 !-- Pac規則語法 --
 !-- https://www.jianshu.com/p/2edfc10be62a --
-!-- http://blog.lixx.vip/%E4%BA%86%E8%A7%A3-pac-%E8%A7%84%E5%88%99/ --
+!-- http://blog.lixx.vip/了解-pac-规则/ --
 
 !------------------------- Keywords -------------------------
 linetv
