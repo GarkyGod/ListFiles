@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-18 00:10:05
+!Last Modified: 2026-03-19 00:10:06
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1252,6 +1252,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||aave.com
 ||arweave.org
 ||arena.ai
 ||akile.io
@@ -6877,7 +6878,6 @@ iipdigital.usembassy.gov
 ||9to5toys.com
 ||Cjb.net
 ||a.se
-||aave.com
 ||ab.co
 ||abchinese.com
 ||abclite.net
