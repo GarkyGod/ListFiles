@@ -540,10 +540,13 @@
 //				"name":"TXT",
 //				"url":"https://github.com/live.txt",
 //				"epg":"https://epg.cdn.loc.cc?ch={name}&date={date}",
+//				"epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
 //				"epg":"https://diyp2.112114.xyz/?ch={name}&date={date}",
 //				"logo":"https://diyp2.112114.xyz/logo/{name}.png",
 //				"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 //				"logo":"http://epg.51zmt.top:8000/{name}",
+//				"epg":"https://epg.v1.mk/json?ch={name}&date={date}",
+//				"logo":"https://epg.v1.mk/logo/{name}.png",
 //				"epg":"https://epg.112114.xyz/?ch={name}&date={date}",
 //				"logo":"https://epg.112114.xyz/logo/{name}.png",
 //				"timeZone":"Asia/Hong_Kong"  // https://timezonedb.com/time-zones  // Asia/Shanghai  // 
