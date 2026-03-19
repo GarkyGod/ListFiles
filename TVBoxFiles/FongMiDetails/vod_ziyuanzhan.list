@@ -202,7 +202,7 @@
 //		"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","伦理片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","灾难片","悬疑片","犯罪片","奇幻片","短剧","预告片","体育赛事"],
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
 			}
 		},
 
