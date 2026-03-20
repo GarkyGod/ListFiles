@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-20 00:10:05
+!Last Modified: 2026-03-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1581,6 +1581,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cia.gov
 ||claude.com
 ||www.clashverge.dev
 ||clementine-player.org
@@ -5021,7 +5022,6 @@ iipdigital.usembassy.gov
 ||chuizi.net
 ||churchinhongkong.org
 ||chushigangdrug.ch
-||cia.gov
 ||ciciaicdn.com
 ||cienen.com
 ||cineastentreff.de
@@ -5451,6 +5451,7 @@ iipdigital.usembassy.gov
 ||haiwaiwai.com
 ||handcraftedsoftware.org
 ||handelsblatt.com
+||hanime1.com
 ||hao.news
 ||happy-vpn.com
 ||haproxy.org
