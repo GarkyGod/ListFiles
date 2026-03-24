@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-24 00:10:05
+!Last Modified: 2026-03-25 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -365,6 +365,7 @@ tumblrviewer
 ||r-pool.net
 ||w-pool.com
 !----------------------IDN----------------------
+||xn--1jqvh729avzfcy2d8ummib.com
 ||xn--9iqy04a7fi01l.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
@@ -5634,6 +5635,7 @@ iipdigital.usembassy.gov
 ||jav777.cc
 ||javbus.co
 ||javbus.sbs
+||javchu.com
 ||javfree.me
 ||javhd.com
 ||javhip.com
