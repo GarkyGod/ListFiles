@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-25 00:10:05
+!Last Modified: 2026-03-26 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4353,7 +4353,6 @@ iipdigital.usembassy.gov
 ||stacksocial.com
 ||avmoo.com
 ||avmoo.net
-||javmoo.xyz
 ||javtag.com
 ||javzoo.com
 ||tellme.pw
@@ -4935,6 +4934,7 @@ iipdigital.usembassy.gov
 ||businessweek.com
 ||businessweekly.com.tw
 ||busytrade.com
+||buzzfeed.com
 ||buzzhand.com
 ||byspotify.com
 ||c100tibet.org
@@ -4991,7 +4991,6 @@ iipdigital.usembassy.gov
 ||chinachristiantimes.com
 ||chinagate.com
 ||chinageeks.org
-||chinagonet.com
 ||chinahrc.org
 ||chinahush.com
 ||chinainperspective.com
@@ -5044,6 +5043,7 @@ iipdigital.usembassy.gov
 /^https?:\/\/cloudflarestatus\.com/
 ||cloudokyo.cloud
 ||cltv.com.tw
+||clubhouse.com
 ||cmoinc.org
 ||cmoney.tw
 ||cn-proxy.com
@@ -5094,7 +5094,6 @@ iipdigital.usembassy.gov
 ||daftporn.com
 ||dagelijksestandaard.nl
 ||daidostup.ru
-||dailidaili.com
 ||dajiyuan.com
 ||dajiyuan.eu
 ||dalailama.com
@@ -5267,7 +5266,6 @@ iipdigital.usembassy.gov
 ||fdc64.jp
 ||fdc64.org
 ||feer.com
-||feitian-california.org
 ||feitianacademy.org
 ||fetc.net.tw
 ||fevernet.com
@@ -5293,7 +5291,6 @@ iipdigital.usembassy.gov
 ||firstory.io
 ||flagsonline.it
 ||fleshbot.com
-||fleursdeslettres.com
 ||flickriver.com
 ||fling.com
 ||cn.fmnnow.com
@@ -5321,7 +5318,6 @@ iipdigital.usembassy.gov
 ||freeilhamtohti.org
 ||freeman2.com
 ||freemoren.com
-||freemorenews.com
 ||freenet-china.org
 ||freenewscn.com
 ||freenuts.com
@@ -5346,7 +5342,6 @@ iipdigital.usembassy.gov
 ||fuckgfw.org
 ||fulione.com
 ||fulue.com
-||funf.tw
 ||funp.com
 ||fuq.com
 ||furhhdl.org
@@ -5441,7 +5436,6 @@ iipdigital.usembassy.gov
 ||gyatsostudio.com
 ||h-comic.com
 ||h-moe.com
-||h1n1china.org
 ||h528.com
 ||h5dm.com
 ||hacg.club
@@ -5494,7 +5488,6 @@ iipdigital.usembassy.gov
 ||hizb-ut-tahrir.org
 ||hizbuttahrir.org
 ||hjclub.info
-||hjd.tw
 ||hjd2048.com
 ||hk-pub.com
 ||hkatvnews.com
@@ -5554,7 +5547,6 @@ iipdigital.usembassy.gov
 ||huaxiabao.org
 ||huaxin.ph
 ||huigui.tw
-||huiyi.in
 ||hulkshare.com
 ||huobi.vc
 ||hurgokbayrak.com
@@ -5616,7 +5608,6 @@ iipdigital.usembassy.gov
 ||islamicpluralism.org
 ||islamtoday.net
 ||ismalltits.com
-||istars.co.nz
 ||istef.info
 ||istiqlalhewer.com
 ||istockphoto.com
@@ -5624,7 +5615,6 @@ iipdigital.usembassy.gov
 ||isuntv.com
 ||itweet.net
 ||iu45.com
-||iuksky.com
 ||ixxx.com
 ||izaobao.us
 ||izihost.org
@@ -5645,7 +5635,6 @@ iipdigital.usembassy.gov
 ||jbtalks.cc
 ||jdwsy.com
 ||jiehua.cz
-||jieshibaobao.com
 ||jigglegifs.com
 ||jigsy.com
 ||jihadology.net
@@ -5889,7 +5878,6 @@ iipdigital.usembassy.gov
 ||my-proxy.com
 ||mybbs.us
 ||mycanadanow.com
-||mychinamyhome.com
 ||mychinanet.com
 ||mychinese.news
 ||mycould.com
@@ -6223,7 +6211,6 @@ iipdigital.usembassy.gov
 ||samair.ru
 ||sambhota.org
 ||sapikachu.net
-||saveliuxiaobo.com
 ||savemedia.com
 ||savetibet.nl
 ||savetibet.ru
@@ -6297,7 +6284,6 @@ iipdigital.usembassy.gov
 ||site2unblock.com
 ||site90.net
 ||sitebro.tw
-||sjum.cn
 ||skyking.com.tw
 ||skykiwi.com
 ||skylinktv.us
@@ -6758,7 +6744,6 @@ iipdigital.usembassy.gov
 ||xihua.es
 ||xinbao.de
 ||xing.com
-||xinhuanet.org
 ||xinsheng.net
 ||xinshijue.com
 ||xiongpian.com
@@ -6796,7 +6781,6 @@ iipdigital.usembassy.gov
 ||yorkbbs.ca
 ||youlucky.com
 ||youngpornvideos.com
-||youngspiration.hk
 ||your-freedom.net
 ||yourprivatevpn.com
 ||ytht.net
@@ -7137,6 +7121,7 @@ iipdigital.usembassy.gov
 ||chinacitynews.be
 ||chinacomments.org
 ||chinaeweekly.com
+||chinagonet.com
 ||chinagreenparty.org
 ||chinainterimgov.org
 ||chinatimes.com
@@ -7195,6 +7180,7 @@ iipdigital.usembassy.gov
 ||cytode.us
 ||cz.cc
 ||d0z.net
+||dailidaili.com
 ||daiphapinfo.net
 ||dalailama80.org
 ||danwei.org
@@ -7319,6 +7305,7 @@ iipdigital.usembassy.gov
 ||featuregates.org
 ||feifeiss.com
 ||feijichang.xyz
+||feitian-california.org
 ||ff-01.com
 ||ff-02.com
 ||ff-03.com
@@ -7330,6 +7317,7 @@ iipdigital.usembassy.gov
 ||firefly-iii.org
 ||firstory.me
 ||fizzik.com
+||fleursdeslettres.com
 ||flgg.us
 ||flickrhivemind.net
 ||fmnnow.com
@@ -7354,6 +7342,7 @@ iipdigital.usembassy.gov
 ||freedomcollection.org
 ||freeforums.org
 ||freekwonpyong.org
+||freemorenews.com
 ||freemuse.org
 ||freerk.com
 ||freewww.info
@@ -7363,6 +7352,7 @@ iipdigital.usembassy.gov
 ||fuckcnnic.net
 ||fuckgfw233.org
 ||funami.tech
+||funf.tw
 ||furl.net
 ||fvs.io
 ||fzh999.com
@@ -7438,6 +7428,7 @@ iipdigital.usembassy.gov
 ||gvlib.com
 ||gvt2.com
 ||gzm.tv
+||h1n1china.org
 ||h5galgame.me
 ||hacg.in
 ||hacg.red
@@ -7467,6 +7458,7 @@ iipdigital.usembassy.gov
 ||himemix.net
 ||histar.tv
 ||hiwifi.com
+||hjd.tw
 ||hk32168.com
 ||hkchurch.org
 ||hkctu.org.hk
@@ -7499,6 +7491,7 @@ iipdigital.usembassy.gov
 ||huaibinmall.com
 ||huanggua11.com
 ||huaxia-news.com
+||huiyi.in
 ||humanrightsbriefing.org
 ||hungerstrikeforaids.org
 ||hustler.com
@@ -7614,11 +7607,13 @@ iipdigital.usembassy.gov
 ||islamawareness.net
 ||isnssdk.com
 ||isohunt.com
+||istars.co.nz
 ||istarshine.com
 ||itaboo.info
 ||ithome.com.tw
 ||itorrents.com
 ||itsky.it
+||iuksky.com
 ||iverycd.com
 ||iz8qkg.com
 ||izles.net
@@ -7636,6 +7631,7 @@ iipdigital.usembassy.gov
 ||javcloud.com
 ||javdb4.com
 ||javhay.net
+||javmoo.xyz
 ||javmost.com
 ||javstore.net
 ||javzz.com
@@ -7647,6 +7643,7 @@ iipdigital.usembassy.gov
 ||jhb.ovh
 ||jichangtj.com
 ||jiepang.com
+||jieshibaobao.com
 ||jigong1024.com
 ||jinhai.de
 ||jisuts.com
@@ -7811,6 +7808,7 @@ iipdigital.usembassy.gov
 ||myavlive.com
 ||myca168.com
 ||mychat.to
+||mychinamyhome.com
 ||myforum.com.hk
 ||myforum.com.uk
 ||myftp.name
@@ -8051,6 +8049,7 @@ iipdigital.usembassy.gov
 ||saiq.me
 ||samurai-jeans.com
 ||sandscotaicentral.com
+||saveliuxiaobo.com
 ||savetibet.fr
 ||say2.info
 ||sbcdnvid.com
@@ -8102,6 +8101,7 @@ iipdigital.usembassy.gov
 ||sinopitt.info
 ||sixth.biz
 ||sjrt.org
+||sjum.cn
 ||skimresources.com
 ||skk.moe
 ||skrt.best
@@ -8440,6 +8440,7 @@ iipdigital.usembassy.gov
 ||xianjian.tw
 ||xianqiao.net
 ||xiaod.in
+||xinhuanet.org
 ||xinyubbs.net
 ||xixicui.icu
 ||xkiwi.tk
@@ -8465,6 +8466,7 @@ iipdigital.usembassy.gov
 ||ymp4.download
 ||yottaa.net
 ||youdontcare.com
+||youngspiration.hk
 ||youshun12.com
 ||youthforfreechina.org
 ||youthnetradio.org
