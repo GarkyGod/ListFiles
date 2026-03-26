@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-03-26 00:10:05
+!Last Modified: 2026-03-27 00:10:08
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -365,6 +365,7 @@ tumblrviewer
 ||r-pool.net
 ||w-pool.com
 !----------------------IDN----------------------
+||xn--kcrv3utim32hx9f6qe.com
 ||xn--1jqvh729avzfcy2d8ummib.com
 ||xn--9iqy04a7fi01l.com
 ||xn--u2u927b.com
@@ -5671,6 +5672,7 @@ iipdigital.usembassy.gov
 ||kagyumonlam.org
 ||kagyunews.com.hk
 ||kakaocdn.net
+||kakaocorp.com
 ||kanzhongguo.com
 ||kanzhongguo.eu
 ||kards.com
@@ -6223,6 +6225,7 @@ iipdigital.usembassy.gov
 ||domainhelp.search.com
 ||search.xxx
 ||searchtruth.com
+||searx.space
 ||securityinabox.org
 ||see.xxx
 ||seehua.com
