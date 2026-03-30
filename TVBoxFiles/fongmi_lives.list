@@ -541,6 +541,7 @@
 //				"url":"https://github.com/live.txt",
 //				"epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
 //				"epg":"https://api.erw.cc/?ch={channel}&date={date}",
+//				"logo":"https://pic.erw.cc/epglogo/cctv/CCTV1.png",
 //				"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",  // 提供國內節目表
 //				"epg":"https://epg.v1.mk/json?ch={name}&date={date}",  // Host error
 //				"logo":"https://epg.v1.mk/logo/{name}.png",
