@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-01 00:10:05
+!Last Modified: 2026-04-02 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -4351,11 +4351,6 @@ iipdigital.usembassy.gov
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-||avmoo.com
-||avmoo.net
-||javtag.com
-||javzoo.com
-||tellme.pw
 ||bbc.in
 !!---ChangeIP---
 ||25u.com
@@ -4484,13 +4479,13 @@ iipdigital.usembassy.gov
 ||wa.me
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com
+@@/^https?:\/\/[^\/]+\.adtrafficquality\.google/
 ||about.google
 @@||c.admob.com
-@@||adtrafficquality.google
+/^https?:\/\/adtrafficquality\.google/
 ||agnss.goog
 ||ai.google
-|http://ampproject.org
-|https://ampproject.org
+/^https?:\/\/ampproject\.org/
 /^[\w.:/-]+.cdn.ampproject.org+[\s\S]*/
 @@|https://cdn.ampproject.org
 ||antigravity.google
@@ -4538,7 +4533,6 @@ iipdigital.usembassy.gov
 ||gogle.com
 ||gogle.de
 ||gogole.com
-@@||http2.golang.org
 ||goo.gle
 ||googel.de
 ||googl.com
@@ -4723,6 +4717,7 @@ iipdigital.usembassy.gov
 ||69shu.com
 ||69shuba.com
 ||7cow.com
+||7mmtv.sx
 ||7mmtv.tv
 ||8-d.com
 ||85cc.net
@@ -4834,7 +4829,9 @@ iipdigital.usembassy.gov
 ||avcool.com
 ||avfantasy.com
 ||avjb.com
+||avmoo.com
 ||avple.tv
+||avsox.click
 ||avyahoo.com
 ||azerbaycan.tv
 ||azurewebsites.net
@@ -5877,6 +5874,7 @@ iipdigital.usembassy.gov
 ||muslimvideo.com
 ||my-formosa.com
 ||my-proxy.com
+||creative.myavlive.com
 ||mybbs.us
 ||mycanadanow.com
 ||mychinanet.com
@@ -6428,6 +6426,7 @@ iipdigital.usembassy.gov
 ||teensinasia.com
 ||teepr.com
 ||teldap.tw
+||tellme.pw
 ||tgstat.com
 ||theage.com.au
 ||theaustralian.com.au
@@ -6947,6 +6946,7 @@ iipdigital.usembassy.gov
 ||avbody.tv
 ||avcity.tv
 ||avfile.info
+||avmoo.net
 ||avple.video
 ||avtb388.com
 ||avtby.com
@@ -7636,6 +7636,8 @@ iipdigital.usembassy.gov
 ||javmoo.xyz
 ||javmost.com
 ||javstore.net
+||javtag.com
+||javzoo.com
 ||javzz.com
 ||jbtalks.com
 ||jbtalks.my
