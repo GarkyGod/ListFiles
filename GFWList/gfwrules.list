@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-02 00:10:05
+!Last Modified: 2026-04-03 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -10,6 +10,7 @@
 !-- 6、注釋"!"。如"! Explanation content" --
 !-- 7、分隔符"^"，表示除了字母、数字或者_-.%外的任何字符。如"http://example.com^"，"http://example.com/"和"http://example.com:8000/"均滿足條件，而"http://example.com.ar/"不滿足條件 --
 !-- Pac規則語法 --
+!-- https://adblockplus.org/en/filter-cheatsheet --
 !-- https://www.jianshu.com/p/2edfc10be62a --
 !-- http://blog.lixx.vip/了解-pac-规则/ --
 !------------------------- Keywords -------------------------
@@ -4692,6 +4693,7 @@ iipdigital.usembassy.gov
 ||21sextury.com
 ||228.net.tw
 ||233v2.com
+||24av.net
 ||2du5.com
 ||2lipstube.com
 ||2shared.com
@@ -6235,6 +6237,7 @@ iipdigital.usembassy.gov
 ||sexandsubmission.com
 ||sexbot.com
 ||sexhu.com
+||sextb.net
 ||sextvx.com
 ||sf.net
 ||sfileydy.com
