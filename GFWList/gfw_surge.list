@@ -788,11 +788,19 @@ DOMAIN-SUFFIX,blogspot.am
 DOMAIN-SUFFIX,blogspot.ba
 DOMAIN-SUFFIX,blogspot.be
 DOMAIN-SUFFIX,blogspot.bg
+DOMAIN-SUFFIX,blogspot.bj
 DOMAIN-SUFFIX,blogspot.ca
 DOMAIN-SUFFIX,blogspot.cat
+DOMAIN-SUFFIX,blogspot.cf
 DOMAIN-SUFFIX,blogspot.ch
 DOMAIN-SUFFIX,blogspot.cl
+DOMAIN-SUFFIX,blogspot.co.at
+DOMAIN-SUFFIX,blogspot.co.id
+DOMAIN-SUFFIX,blogspot.co.il
+DOMAIN-SUFFIX,blogspot.co.ke
+DOMAIN-SUFFIX,blogspot.co.nz
 DOMAIN-SUFFIX,blogspot.co.uk
+DOMAIN-SUFFIX,blogspot.co.za
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogspot.com.ar
 DOMAIN-SUFFIX,blogspot.com.au
@@ -807,6 +815,7 @@ DOMAIN-SUFFIX,blogspot.com.mt
 DOMAIN-SUFFIX,blogspot.com.ng
 DOMAIN-SUFFIX,blogspot.com.tr
 DOMAIN-SUFFIX,blogspot.com.uy
+DOMAIN-SUFFIX,blogspot.cv
 DOMAIN-SUFFIX,blogspot.cz
 DOMAIN-SUFFIX,blogspot.de
 DOMAIN-SUFFIX,blogspot.dk
@@ -834,15 +843,19 @@ DOMAIN-SUFFIX,blogspot.no
 DOMAIN-SUFFIX,blogspot.pe
 DOMAIN-SUFFIX,blogspot.pt
 DOMAIN-SUFFIX,blogspot.qa
+DOMAIN-SUFFIX,blogspot.re
 DOMAIN-SUFFIX,blogspot.ro
+DOMAIN-SUFFIX,blogspot.rs
 DOMAIN-SUFFIX,blogspot.ru
 DOMAIN-SUFFIX,blogspot.se
 DOMAIN-SUFFIX,blogspot.sg
 DOMAIN-SUFFIX,blogspot.si
 DOMAIN-SUFFIX,blogspot.sk
 DOMAIN-SUFFIX,blogspot.sn
+DOMAIN-SUFFIX,blogspot.td
 DOMAIN-SUFFIX,blogspot.tw
 DOMAIN-SUFFIX,blogspot.ug
+DOMAIN-SUFFIX,blogspot.vn
 DOMAIN-SUFFIX,blogtd.net
 DOMAIN-SUFFIX,blogtd.org
 DOMAIN-SUFFIX,bloodshed.net
@@ -1206,6 +1219,7 @@ DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,chinaelections.org
 DOMAIN-SUFFIX,chinaeweekly.com
 DOMAIN-SUFFIX,chinafile.com
+DOMAIN-SUFFIX,chinafirewalltest.com
 DOMAIN-SUFFIX,chinafreepress.org
 DOMAIN-SUFFIX,chinagate.com
 DOMAIN-SUFFIX,chinageeks.org
@@ -1398,6 +1412,7 @@ DOMAIN-SUFFIX,coinrail.co.kr
 DOMAIN-SUFFIX,cointiger.com
 DOMAIN-SUFFIX,cointobe.com
 DOMAIN-SUFFIX,coinut.com
+DOMAIN-SUFFIX,coinw.com
 DOMAIN-SUFFIX,colacloud.net
 DOMAIN-SUFFIX,collateralmurder.com
 DOMAIN-SUFFIX,collateralmurder.org
@@ -1948,6 +1963,7 @@ DOMAIN-SUFFIX,erights.net
 DOMAIN-SUFFIX,eriversoft.com
 DOMAIN-SUFFIX,erktv.com
 DOMAIN-SUFFIX,ernestmandel.org
+DOMAIN-SUFFIX,ero-video.net
 DOMAIN-SUFFIX,erodaizensyu.com
 DOMAIN-SUFFIX,erodoujinlog.com
 DOMAIN-SUFFIX,erodoujinworld.com
@@ -2991,6 +3007,7 @@ DOMAIN-SUFFIX,hatena.ne.jp
 DOMAIN-SUFFIX,hautelook.com
 DOMAIN-SUFFIX,hautelookcdn.com
 DOMAIN-SUFFIX,have8.com
+DOMAIN-SUFFIX,hayav.com
 DOMAIN-SUFFIX,hbg.com
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
@@ -3618,6 +3635,7 @@ DOMAIN-SUFFIX,javbus.sbs
 DOMAIN-SUFFIX,javcdn.vip
 DOMAIN-SUFFIX,javchu.com
 DOMAIN-SUFFIX,javcloud.com
+DOMAIN-SUFFIX,javdatabase.com
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javdb4.com
 DOMAIN-SUFFIX,javfinder.ai
@@ -4677,6 +4695,7 @@ DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,nos.nl
 DOMAIN-SUFFIX,note.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,nottinghampost.com
@@ -7404,6 +7423,7 @@ DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xvideos.es
 DOMAIN-SUFFIX,xvideos2.com
+DOMAIN-SUFFIX,xvideos3.com
 DOMAIN-SUFFIX,xvinlink.com
 DOMAIN-SUFFIX,xxbbx.com
 DOMAIN-SUFFIX,xxlmovies.com
