@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-08 00:10:05
+!Last Modified: 2026-04-09 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -279,7 +279,6 @@ tumblrviewer
 ||primevideo.com
 ||proyectoclubes.com
 ||pure18.com
-||pytorch.org
 ||qq.co.za
 ||r18.com
 |http://radiko.jp
@@ -2739,6 +2738,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mistral.ai
 ||manus.im
 ||meee.com.tw
 ||mosavi.io
@@ -2786,7 +2786,6 @@ iipdigital.usembassy.gov
 ||mediachinese.com
 ||mediafreakcity.com
 ||medium.com
-||meetup.com
 ||mega.co.nz
 ||mega.io
 ||mega.nz
@@ -7791,6 +7790,7 @@ iipdigital.usembassy.gov
 ||mcreasite.com
 ||me.uk
 ||mediafire.com
+||meetup.com
 ||meirifuli.org
 ||meirixiaochao.com
 ||memorybbs.com
@@ -8017,6 +8017,7 @@ iipdigital.usembassy.gov
 ||putlocker.com
 ||pwned.com
 ||pythonic.life
+||pytorch.org
 ||qboku.com
 ||qienkuen.org
 ||qixianglu.cn
