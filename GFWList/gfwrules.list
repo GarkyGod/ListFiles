@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-09 00:10:05
+!Last Modified: 2026-04-10 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1255,6 +1255,9 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||annas-archive.gd
+||annas-archive.gl
+||annas-archive.pk
 ||archive-it.org
 ||aave.com
 ||arweave.org
@@ -1272,13 +1275,8 @@ iipdigital.usembassy.gov
 ||aomedia.org
 ||aljazeera.com
 ||akinator.com
-||annas-archive.org
-||annas-archive.in
-||annas-archive.li
-||annas-archive.pm
 ||av01.tv
 ||acg.rip
-||annas-archive.se
 ||a-normal-day.com
 |http://aamacau.com
 ||abc.net.au
@@ -3656,11 +3654,9 @@ iipdigital.usembassy.gov
 ||tbsec.org
 ||tbsn.org
 |http://tbssqh.org
-||techspot.com
 ||techviz.net
 ||teck.in
 ||tehrantimes.com
-||telegraph.co.uk
 ||tenor.com
 ||tenzinpalmo.com
 ||tew.org
@@ -7001,6 +6997,8 @@ iipdigital.usembassy.gov
 ||amplitude.com
 ||amung.us
 ||androidplus.co
+||annas-archive.org
+||annas-archive.se
 ||annatam.com
 ||antd.org
 ||anti1984.com
@@ -8234,9 +8232,11 @@ iipdigital.usembassy.gov
 ||tdesktop.com
 ||tdubo.com
 ||techlab-cdn.com
+||techspot.com
 ||telecomspace.com
 ||telegram-cdn.org
 ||telegram-store.com
+||telegraph.co.uk
 ||tenacy.com
 ||tgfcer.com
 ||thaicn.com
