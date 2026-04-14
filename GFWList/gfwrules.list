@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-14 00:10:05
+!Last Modified: 2026-04-15 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -629,15 +629,7 @@ tumblrviewer
 !!---Amazon---
 ||payments-jp.amazon.com
 ||amazon.co.jp
-||s3-ap-*.amazonaws.com
-||s3.eu-central-1.amazonaws.com
-||s3-eu-central-1.amazonaws.com
-||s3.us-east-1.amazonaws.com
-||s3-ap-northeast-2.amazonaws.com
-||s3.ap-northeast-2.amazonaws.com
 ||s3-ap-northeast-1.amazonaws.com
-||s3-ap-southeast-1.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
 !!---AOL---
 ||video.aol.com
 ||search.aol.com
@@ -1305,7 +1297,6 @@ iipdigital.usembassy.gov
 ||aiosearch.com
 ||aiph.net
 ||airconsole.com
-|http://download.aircrack-ng.org
 ||airvpn.org
 ||ait.org.tw
 ||aiweiweiblog.com
@@ -2360,8 +2351,6 @@ iipdigital.usembassy.gov
 |http://hitomi.la
 |http://hk-pub.com
 ||hk01.com
-||hkacg.com
-||hkacg.net
 ||hkbookcity.com
 ||hkchronicles.com
 ||hkcnews.com
@@ -2882,7 +2871,6 @@ iipdigital.usembassy.gov
 ||mullvad.net
 ||muzi.com
 ||muzi.net
-||mx981.com
 ||my-private-network.co.uk
 ||myaudiocast.com
 ||bbs.mychat.to
@@ -2999,6 +2987,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||openart.ai
 ||osmand.net
 ||oklink.com
 ||okcoin.com
@@ -4026,7 +4015,6 @@ iipdigital.usembassy.gov
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
-||vuku.cc
 !--------------------WW-------------------------
 ||wispbyte.com
 ||walletconnect.org
@@ -4190,7 +4178,6 @@ iipdigital.usembassy.gov
 |http://xing.com
 ||xinjiangpolicefiles.org
 ||xinmiao.com.hk
-||xjp.cc
 ||xjtravelguide.com
 ||xml-training-guide.com
 ||xnxx.com
@@ -6829,6 +6816,7 @@ iipdigital.usembassy.gov
 ||xiongpian.com
 ||xiuren.org
 ||xizang-zhiye.org
+||xjp.cc
 ||xmart.tw
 ||xmonk.net
 ||xnxx-cdn.com
@@ -7487,6 +7475,8 @@ iipdigital.usembassy.gov
 ||hiwifi.com
 ||hjd.tw
 ||hk32168.com
+||hkacg.com
+||hkacg.net
 ||hkchurch.org
 ||hkctu.org.hk
 ||hkdailynews.com.hk
@@ -7832,6 +7822,7 @@ iipdigital.usembassy.gov
 ||mtvnservices.com
 ||mtw.tl
 ||musescore.com
+||mx981.com
 ||mxc.com
 ||mxpnl.com
 ||my903.com
@@ -8411,6 +8402,7 @@ iipdigital.usembassy.gov
 ||vpnintouch.net
 ||vpser.net
 ||vs.com
+||vuku.cc
 ||vzw.com
 ||w3.org
 ||w3schools.com
