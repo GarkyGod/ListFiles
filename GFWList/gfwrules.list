@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-16 00:10:08
+!Last Modified: 2026-04-17 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -1247,6 +1247,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||avistaz.to
 ||annas-archive.gd
 ||annas-archive.gl
 ||annas-archive.pk
@@ -4590,6 +4591,7 @@ iipdigital.usembassy.gov
 ||froogle.com
 ||g-desktop.ru
 ||gemini.google
+||go.dev
 ||goagle.de
 ||gogle.com
 ||gogle.de
@@ -5046,6 +5048,7 @@ iipdigital.usembassy.gov
 ||cftfc.com
 ||cgdepot.org
 ||cgst.edu
+||cgw666.com
 ||channel8news.sg
 ||china-review.com.ua
 ||chinachristiantimes.com
@@ -5250,6 +5253,7 @@ iipdigital.usembassy.gov
 ||efukt.com
 ||electionsmeter.com
 ||eltondisney.com
+||emorpm.com
 ||bitc.bme.emory.edu
 ||empfil.com
 ||emule-ed2k.com
