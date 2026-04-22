@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-22 00:10:05
+!Last Modified: 2026-04-23 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
@@ -292,7 +292,6 @@ tumblrviewer
 ||shiksha.com
 ||slacker.com
 ||sm-miracle.com
-||soylentnews.org
 ||spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
@@ -696,7 +695,7 @@ www.aolnews.com
 !!---Google---
 ||google.dev
 ||ai.studio
-||chromium.org
+||issues.chromium.org
 ||goog
 ||gle
 ||google
@@ -1247,6 +1246,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||asiasociety.org
 ||avistaz.to
 ||annas-archive.gd
 ||annas-archive.gl
@@ -1415,6 +1415,7 @@ iipdigital.usembassy.gov
 ||azirevpn.com
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bellingcat.com
 ||bittorrent.com
 ||help.byspotify.com
 ||bitbaby.com
@@ -1927,6 +1928,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||app.element.io
 ||economist.com
 ||e621.net
 ||edx-cdn.org
@@ -2642,6 +2644,7 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||lantern.io
 ||lovart.ai
 ||library-access.sk
 ||linux.do
@@ -3262,6 +3265,9 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||rawstory.com
+||recordedfuture.com
+||roblox.com
 ||radiojar.com
 ||radio.co
 ||rustdesk.com
@@ -3585,6 +3591,7 @@ iipdigital.usembassy.gov
 ||sylfoundation.org
 ||syncback.com
 !--------------------TT-------------------------
+||thinkchina.sg
 ||tor.eff.org
 ||tails.net
 ||bbc.pdn.tritondigital.com
@@ -5081,6 +5088,7 @@ iipdigital.usembassy.gov
 ||chrdnet.com
 ||christianpost.com
 ||christusrex.org
+||chromium.org
 ||cht.com.tw
 ||chubold.com
 ||chubun.com
@@ -5283,7 +5291,6 @@ iipdigital.usembassy.gov
 ||wiki.esu.im
 ||etaa.org.au
 ||etadult.com
-||etaiwannews.com
 ||ettoday.net
 ||eucasino.com
 ||eulam.com
@@ -5780,7 +5787,6 @@ iipdigital.usembassy.gov
 ||lalulalu.com
 ||lamrim.com
 ||landbank.com.tw
-||lantern.io
 ||lantosfoundation.org
 ||laomiu.com
 ||laowang.vip
@@ -5983,7 +5989,6 @@ iipdigital.usembassy.gov
 ||neo.com.tw
 ||go.nesnode.com
 ||netbirds.com
-||netsneak.com
 ||network54.com
 ||networkedblogs.com
 ||networktunnel.net
@@ -5995,7 +6000,6 @@ iipdigital.usembassy.gov
 ||newgrounds.com
 ||newipnow.com
 ||newlandmagazine.com.au
-||newnews.ca
 ||news.com.au
 ||news100.com.tw
 ||newsdetox.ca
@@ -6052,7 +6056,6 @@ iipdigital.usembassy.gov
 ||sukebei.nyaa.si
 ||nydailynews.com
 ||nylon-angel.com
-||nylonstockingsonline.com
 ||static01.nyt.com
 ||nytchina.com
 ||nyti.ms
@@ -6234,7 +6237,6 @@ iipdigital.usembassy.gov
 ||ranyunfei.com
 ||rapbull.net
 ||ratx.com
-||rawstory.com
 ||razyboard.com
 ||rb.gy
 ||readydown.com
@@ -6466,7 +6468,6 @@ iipdigital.usembassy.gov
 ||taiwantp.net
 ||taiwantrip.com.tw
 ||taiwanus.net
-||taiwanyes.com
 ||talk853.com
 ||tampabay.com
 ||tangben.com
@@ -6505,7 +6506,6 @@ iipdigital.usembassy.gov
 ||thechinabeat.org
 ||thechinaproject.com
 ||thechinastory.org
-||thedalailamamovie.com
 ||thegly.com
 ||thehousenews.com
 ||thepiratebay.ee
@@ -7294,6 +7294,7 @@ iipdigital.usembassy.gov
 ||esl.gg
 ||esu.dog
 ||esu.im
+||etaiwannews.com
 ||etowns.net
 ||etvonline.hk
 ||eu.org
@@ -7875,8 +7876,10 @@ iipdigital.usembassy.gov
 ||netcdn.space
 ||netcolony.com
 ||netfirms.com
+||netsneak.com
 ||neverforget8964.org
 ||newimg.net
+||newnews.ca
 ||newrelic.com
 ||newschinacomment.org
 ||newscn.org
@@ -7912,6 +7915,7 @@ iipdigital.usembassy.gov
 ||nuzcom.com
 ||nydus.ca
 ||nyinfor.com
+||nylonstockingsonline.com
 ||nytlog.com
 ||nzchinese.net.nz
 ||o0-1.com
@@ -8161,6 +8165,7 @@ iipdigital.usembassy.gov
 ||sourceforge.net
 ||sowiki.net
 ||soylent.com
+||soylentnews.org
 ||spark.adobe.com
 ||spem.at
 ||sprite.org
@@ -8209,6 +8214,7 @@ iipdigital.usembassy.gov
 ||tagwa.org.au
 ||tahr.org.tw
 ||taiwanonline.cc
+||taiwanyes.com
 ||tamiaode.tk
 ||tangren.us
 ||taolun.info
@@ -8237,6 +8243,7 @@ iipdigital.usembassy.gov
 ||tgfcer.com
 ||thaicn.com
 ||theblemish.com
+||thedalailamamovie.com
 ||thedayweplay.lol
 ||thefreeland.club
 ||thefrontier.hk
