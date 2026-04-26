@@ -1,4 +1,5 @@
 !------------------------- illustrate -------------------------
+!-- Adblock Plus (ABP) 過濾規則語法 --
 !-- 1、通配符支持。如"*.example.com*"實際可省略"*"，"*.example.com*"與".example.com"效果一样 --
 !-- 2、正则表达式支持。以"\"開始和結束，如"\[\w]+:\/\/example.com\" --
 !-- 3、例外規則"@@"。如"@@*.example.com*"滿足"@@"後規則的地址不使用代理 --
@@ -6,7 +7,7 @@
 !-- 5、"||"標記。如"||example.com"則"http://example.com"、"https://example.com"、"ftp://example.com"等地址均滿足條件 --
 !-- 6、注釋"!"。如"! Explanation content" --
 !-- 7、分隔符"^"，表示除了字母、数字或者_-.%外的任何字符。如"http://example.com^"，"http://example.com/"和"http://example.com:8000/"均滿足條件，而"http://example.com.ar/"不滿足條件 --
-!-- Pac規則語法 --
+!-- 規則資料 --
 !-- https://adblockplus.org/en/filter-cheatsheet --
 !-- https://www.jianshu.com/p/2edfc10be62a --
 !-- http://blog.lixx.vip/了解-pac-规则/ --
