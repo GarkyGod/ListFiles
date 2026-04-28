@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-28 00:10:05
+!Last Modified: 2026-04-29 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3887,6 +3887,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||upsangel.com
 ||sbti.unun.dev
 ||uniswap.org
 ||up.audio
@@ -4479,6 +4480,7 @@ iipdigital.usembassy.gov
 ||wa.me
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com/$
 @@/r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com/$
+@@/(pek|sha)\d{2}s\d{2}-in-f\d{1,2}\.1e100\.net/$
 @@/^https?:\/\/[^\/]+\.adtrafficquality\.google/$
 ||about.google
 @@||c.admob.com
