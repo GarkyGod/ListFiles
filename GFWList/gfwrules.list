@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-04-29 00:10:05
+!Last Modified: 2026-04-30 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -6878,6 +6878,7 @@ iipdigital.usembassy.gov
 ||zannel.com
 ||zaozon.com
 ||zapto.org
+||zendesk.com
 ||zengjinyan.org
 ||zergpool.com
 ||zeutch.com
