@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-02 00:10:04
+!Last Modified: 2026-05-03 00:10:14
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3358,6 +3358,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||softether.co.jp
 ||shitjournal.org
 ||spacex.com
 ||stephaniered.com
@@ -6385,7 +6386,6 @@ iipdigital.usembassy.gov
 ||sockscap64.com
 ||socrec.org
 ||sod.co.jp
-||softether.co.jp
 ||softonic.cn
 ||softonic.com
 ||blog.sogoo.org
