@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-07 00:10:06
+!Last Modified: 2026-05-08 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3006,6 +3006,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
 ||osmand.net
