@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-10 00:10:05
+!Last Modified: 2026-05-11 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1812,6 +1812,8 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||data18.com
+||dt18.com
 ||dns.sb
 ||doh.sb
 ||dot.sb
