@@ -378,7 +378,7 @@
 		"key":"key_maotai",  // https://maotaiziyuan.com/  // https://maotaizy.com/  // https://maotaizy.cc/  // https://mtzy.tv/  // https://mtzy.me/  // https://mtzy1.com/ …… https://mtzy6.com/
 		"name":"📡資源站|茅臺",
 		"type":1,  // "type":0,
-		"api":"http://caiji.maotaizy.cc/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/at/xml",
+		"api":"https://caiji.maotaizy.cc/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","连续剧","综艺片","动漫","纪录片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩剧","动漫电影","泰国剧","日本剧","台湾剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","国产动漫","日本动漫","欧美动漫","海外动漫","伦理片","新闻资讯","体育赛事","短剧大全","篮球","足球","网球","斯诺克","LPL","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","惊悚片","电影资讯","娱乐新闻"],
