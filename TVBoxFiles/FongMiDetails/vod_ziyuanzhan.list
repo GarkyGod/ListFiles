@@ -54,8 +54,8 @@
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
 //////////////////////////////////////////////////  📡資源站  //////////////////////////////////////////////////
 		{
-			"key":"key_CaiJi",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
-			"name":"📡資源站|合輯",
+			"key":"key_ZQ_CaiJi",  // https://zhangqun66.xyz/wyys.php  // http://zhangqun1818.serv00.net/wyys.php  // https://zhangqun66.xyz/zq/api.json  // http://zhangqun1818.serv00.net/api.json
+			"name":"📡資源站|ZQ採集合輯",
 			"type":1,
 			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun1818.serv00.net/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
@@ -66,8 +66,8 @@
 				}
 		},
 		{
-			"key":"key_aigua",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
-			"name":"📡資源站|愛瓜TV",
+			"key":"key_ZQ_aigua",  // 
+			"name":"📡資源站|ZQ愛瓜TV",
 			"type":4,
 			"api":"http://zhangqun66.xyz/aigua1.php",
 			"searchable":1,
@@ -78,10 +78,130 @@
 				}
 		},
 		{
-			"key":"key_ww",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
-			"name":"📡資源站|旺旺短劇",
+			"key":"key_ZQ_wangwang",  // 
+			"name":"📡資源站|ZQ旺旺短劇",
 			"type":1,
-			"api":"http://zhangqun66.xyz/ww.php",
+			"api":"http://zhangqun1818.serv00.net/ww.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_js",  // 
+			"name":"📡資源站|ZQ集合js",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/js.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_php",  // 
+			"name":"📡資源站|ZQ集合php",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/php.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_py",  // 
+			"name":"📡資源站|ZQ集合py",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/py.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_yt",  // 
+			"name":"📡資源站|ZQ油管服務器",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/yt/yt0021.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_ytlb",  // 
+			"name":"📡資源站|ZQ油管播放列表1",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/ytlb.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_ytlb1",  // 
+			"name":"📡資源站|ZQ油管播放列表2",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/ytlb1.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_cctv",  // 
+			"name":"📡資源站|ZQ低分辨CNTV",
+			"type":1,
+			"api":"http://zhangqun1818.serv00.net/cctv.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_zh2242",  // 
+			"name":"📡資源站|ZQ影視文件播放",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/zh/2242.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_zh2243",  // 
+			"name":"📡資源站|ZQ影視清單播放",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/zh/2243.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_zhyt2243",  // 
+			"name":"📡資源站|ZQ油管清單播放",
+			"type":4,
+			"api":"http://zhangqun1818.serv00.net/zh/yt/2243.php",
 			"searchable":1,
 			"changeable":1,
 			"header":{
