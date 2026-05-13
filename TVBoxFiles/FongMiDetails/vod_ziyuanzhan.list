@@ -291,7 +291,7 @@
 		},
 
 		{
-		"key":"key_jianan",  // http://154.219.117.232:9981/
+		"key":"key_jianan",  // http://154.219.117.232:9981/  // https://t.me/jacloud_xyz
 		"name":"📡資源站|建安",
 		"type":1,  // "type":0,
 		"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",  // "api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/xml",
