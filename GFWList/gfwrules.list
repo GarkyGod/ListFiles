@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-13 00:10:05
+!Last Modified: 2026-05-14 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1577,6 +1577,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||chonglangtv.org
 ||ctinsider.com
 ||cnbc.com
 ||cia.gov
