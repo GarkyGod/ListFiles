@@ -57,7 +57,7 @@
 			"key":"key_CaiJi",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
 			"name":"📡資源站|合輯",
 			"type":1,
-			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
+			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun1818.serv00.net/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
 			"changeable":1,
 			"header":{
@@ -82,18 +82,6 @@
 			"name":"📡資源站|旺旺短劇",
 			"type":1,
 			"api":"http://zhangqun66.xyz/ww.php",
-			"searchable":1,
-			"changeable":1,
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-				}
-		},
-		{
-			"key":"key_採集合輯",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
-			"name":"📡資源站|採集合輯",
-			"type":4,
-			"api":"http://zhangqun1818.serv00.net/cj/cjjh.php",
 			"searchable":1,
 			"changeable":1,
 			"header":{
