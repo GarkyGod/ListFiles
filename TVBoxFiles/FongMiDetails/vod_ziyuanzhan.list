@@ -69,7 +69,7 @@
 			"key":"key_aigua",  // https://zhangqun66.xyz/wyys.php  // https://zhangqun66.xyz/zq/api.json
 			"name":"📡資源站|愛瓜TV",
 			"type":4,
-			"api":"http://zhangqun66.xyz/aigua.php",
+			"api":"http://zhangqun66.xyz/aigua1.php",
 			"searchable":1,
 			"changeable":1,
 			"header":{
