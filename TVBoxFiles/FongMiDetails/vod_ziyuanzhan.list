@@ -80,7 +80,7 @@
 		{
 			"key":"key_ZQ_aigua",  // 
 			"name":"📡資源站|ZQ愛瓜TV",
-			"type":4,
+			"type":1,
 			"api":"http://zhangqun66.xyz/aigua1.php",
 			"searchable":1,
 			"changeable":1,
@@ -91,7 +91,7 @@
 		},
 		{
 			"key":"key_ZQ_bilibili",  // 
-			"name":"📡資源站|ZQ低分辨CNTV",
+			"name":"📡資源站|ZQBiliBili",
 			"type":1,
 			"api":"http://zhangqun1818.serv00.net/bilibili.php",
 			"searchable":1,
@@ -106,6 +106,30 @@
 			"name":"📡資源站|ZQ低分辨CNTV",
 			"type":1,
 			"api":"http://zhangqun1818.serv00.net/cctv.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_haose",  // 
+			"name":"📡資源站|ZQHaose",
+			"type":1,
+			"api":"http://zhangqun1818.serv00.net/haose.php",
+			"searchable":1,
+			"changeable":1,
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+				}
+		},
+		{
+			"key":"key_ZQ_pingguo",  // 
+			"name":"📡資源站|ZQPingguo",
+			"type":1,
+			"api":"http://zhangqun1818.serv00.net/pingguo.php",
 			"searchable":1,
 			"changeable":1,
 			"header":{
