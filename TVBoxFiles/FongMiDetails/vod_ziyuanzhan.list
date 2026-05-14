@@ -55,7 +55,7 @@
 //////////////////////////////////////////////////  📡資源站  //////////////////////////////////////////////////
 		{
 			"key":"key_ZQ_CaiJi",  // https://zhangqun66.xyz/wyys.php  // http://zhangqun1818.serv00.net/wyys.php  // https://zhangqun66.xyz/zq/api.json  // http://zhangqun1818.serv00.net/zq/api.json
-			"name":"📡資源站|ZQ採集合輯",
+			"name":"📡老張觀影|採集合輯",
 			"type":1,
 			"api":"http://zhangqun66.xyz/cjjh.php",  // "api":"http://zhangqun1818.serv00.net/cjjh.php",  // "api":"http://zhangqun66.com/cjjh.php",
 			"searchable":1,
@@ -66,8 +66,8 @@
 				}
 		},
 		{
-			"key":"key_ZQ_cjjh",  // 
-			"name":"📡資源站|ZQ集合採集",
+			"key":"key_ZQ_cjjh",  // 󠁚󠁚
+			"name":"📡老張觀影|集合採集",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/cj/cjjh.php",
 			"searchable":1,
@@ -79,7 +79,7 @@
 		},
 		{
 			"key":"key_ZQ_aigua",  // 
-			"name":"📡資源站|ZQ愛瓜TV",
+			"name":"📡老張觀影|愛瓜TV",
 			"type":1,
 			"api":"http://zhangqun66.xyz/aigua1.php",
 			"searchable":1,
@@ -91,7 +91,7 @@
 		},
 		{
 			"key":"key_ZQ_bilibili",  // 
-			"name":"📡資源站|ZQBiliBili",
+			"name":"📡老張觀影|BiliBili",
 			"type":1,
 			"api":"http://zhangqun1818.serv00.net/bilibili.php",
 			"searchable":1,
@@ -103,7 +103,7 @@
 		},
 		{
 			"key":"key_ZQ_cctv",  // 
-			"name":"📡資源站|ZQ低分辨CNTV",
+			"name":"📡老張觀影|低分辨CNTV",
 			"type":1,
 			"api":"http://zhangqun1818.serv00.net/cctv.php",
 			"searchable":1,
@@ -114,32 +114,8 @@
 				}
 		},
 		{
-			"key":"key_ZQ_haose",  // 
-			"name":"📡資源站|ZQHaose",
-			"type":1,
-			"api":"http://zhangqun1818.serv00.net/haose.php",
-			"searchable":1,
-			"changeable":1,
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-				}
-		},
-		{
-			"key":"key_ZQ_pingguo",  // 
-			"name":"📡資源站|ZQPingguo",
-			"type":1,
-			"api":"http://zhangqun1818.serv00.net/pingguo.php",
-			"searchable":1,
-			"changeable":1,
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-				}
-		},
-		{
 			"key":"key_ZQ_wangwang",  // 
-			"name":"📡資源站|ZQ旺旺短劇",
+			"name":"📡老張觀影|旺旺短劇",
 			"type":1,
 			"api":"http://zhangqun1818.serv00.net/ww.php",
 			"searchable":1,
@@ -151,7 +127,7 @@
 		},
 		{
 			"key":"key_ZQ_js",  // 
-			"name":"📡資源站|ZQ集合js",
+			"name":"📡老張觀影|集合js",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/js.php",
 			"searchable":1,
@@ -163,7 +139,7 @@
 		},
 		{
 			"key":"key_ZQ_php",  // 
-			"name":"📡資源站|ZQ集合php",
+			"name":"📡老張觀影|集合php",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/php.php",
 			"searchable":1,
@@ -175,7 +151,7 @@
 		},
 		{
 			"key":"key_ZQ_py",  // 
-			"name":"📡資源站|ZQ集合py",
+			"name":"📡老張觀影|集合py",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/py.php",
 			"searchable":1,
@@ -186,8 +162,8 @@
 				}
 		},
 //		{
-//			"key":"key_ZQ_yt",  // 
-//			"name":"📡資源站|ZQ油管服務器",
+//			"key":"key_ZQ_yt",  // Proxy
+//			"name":"📡老張觀影|油管服務器",
 //			"type":4,
 //			"api":"http://zhangqun1818.serv00.net/yt/yt0021.php",
 //			"searchable":1,
@@ -198,8 +174,8 @@
 //				}
 //		},
 //		{
-//			"key":"key_ZQ_ytlb",  // 
-//			"name":"📡資源站|ZQ油管播放列表1",
+//			"key":"key_ZQ_ytlb",  // Proxy
+//			"name":"📡老張觀影|油管播放列表1",
 //			"type":4,
 //			"api":"http://zhangqun1818.serv00.net/ytlb.php",
 //			"searchable":1,
@@ -210,8 +186,8 @@
 //				}
 //		},
 //		{
-//			"key":"key_ZQ_ytlb1",  // 
-//			"name":"📡資源站|ZQ油管播放列表2",
+//			"key":"key_ZQ_ytlb1",  // Proxy
+//			"name":"📡老張觀影|油管播放列表2",
 //			"type":4,
 //			"api":"http://zhangqun1818.serv00.net/ytlb1.php",
 //			"searchable":1,
@@ -223,7 +199,7 @@
 //		},
 		{
 			"key":"key_ZQ_zh2242",  // 
-			"name":"📡資源站|ZQ影視文件播放",
+			"name":"📡老張觀影|影視文件播放",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/zh/2242.php",
 			"searchable":1,
@@ -235,7 +211,7 @@
 		},
 		{
 			"key":"key_ZQ_zh2243",  // 
-			"name":"📡資源站|ZQ影視清單播放",
+			"name":"📡老張觀影|影視清單播放",
 			"type":4,
 			"api":"http://zhangqun1818.serv00.net/zh/2243.php",
 			"searchable":1,
@@ -246,8 +222,8 @@
 				}
 		},
 //		{
-//			"key":"key_ZQ_zhyt2243",  // 
-//			"name":"📡資源站|ZQ油管清單播放",
+//			"key":"key_ZQ_zhyt2243",  // Proxy
+//			"name":"📡老張觀影|油管清單播放",
 //			"type":4,
 //			"api":"http://zhangqun1818.serv00.net/zh/yt/2243.php",
 //			"searchable":1,
