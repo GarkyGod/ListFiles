@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-17 00:10:04
+!Last Modified: 2026-05-18 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3379,6 +3379,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||sider.ai
 ||sinchew.com.my
 ||softether.co.jp
 ||shitjournal.org
@@ -4291,6 +4292,7 @@ iipdigital.usembassy.gov
 ||yysub.net
 ||yzzk.com
 !--------------------ZZ-------------------------
+||zhangzhehan.net
 ||zaochenbao.com
 ||z-library.ec
 ||z-library.sk
@@ -4882,7 +4884,6 @@ iipdigital.usembassy.gov
 ||amnesty.tw
 ||amtb-taipei.org
 ||androidcombo.com
-||andygod.com
 ||angelfire.com
 ||animecrazy.net
 ||animeshippuuden.com
@@ -5004,7 +5005,6 @@ iipdigital.usembassy.gov
 ||bktai.com
 ||blewpass.com
 ||blogimg.jp
-||blogtd.org
 ||blueangellive.com
 ||bntrace.com
 ||bodog88.com
@@ -5133,7 +5133,6 @@ iipdigital.usembassy.gov
 ||cienen.com
 ||cineastentreff.de
 ||cipfg.org
-||circle19.org
 ||citizenpowerforchina.org
 ||citizensradio.org
 ||city9x.com
@@ -5145,7 +5144,6 @@ iipdigital.usembassy.gov
 ||clickme.net
 ||clipfish.de
 ||clips4sale.com
-||cloakpoint.com
 /^https?:\/\/cloudflarestatus\.com/
 ||cloudokyo.cloud
 ||cltv.com.tw
@@ -5160,7 +5158,6 @@ iipdigital.usembassy.gov
 ||cnproxy.com
 ||cnt.com.tw
 ||cnyes.com
-||cochina.co
 ||coinegg.com
 ||coinw.com
 ||comic-mega.me
@@ -5169,7 +5166,6 @@ iipdigital.usembassy.gov
 ||contactmagazine.net
 ||coobay.com
 ||coolncute.com
-||corumcollege.com
 ||cos-moe.com
 ||cq99.us
 ||crazys.cc
@@ -5355,7 +5351,6 @@ iipdigital.usembassy.gov
 ||fandom.com
 ||fangeming.com
 ||fangongheike.com
-||fanhaodang.com
 ||fanqiangdang.org
 ||fapdu.com
 ||faproxy.com
@@ -5428,7 +5423,6 @@ iipdigital.usembassy.gov
 ||freeman2.com
 ||freemoren.com
 ||freenet-china.org
-||freenewscn.com
 ||freenuts.com
 ||freeones.com
 ||freeopenvpn.com
@@ -5473,6 +5467,8 @@ iipdigital.usembassy.gov
 ||ganges.com
 ||ganjing.world
 ||gardennetworks.com
+||omt.garmin.com
+||garminmap.com
 ||gate-project.com
 ||gatherproxy.com
 ||gaybubble.com
@@ -6147,7 +6143,6 @@ iipdigital.usembassy.gov
 ||paltalk.com
 ||pandapow.net
 ||pandora.tv
-||paperb.us
 ||paradisehill.cc
 ||paradisepoker.com
 ||partycasino.com
@@ -6165,7 +6160,6 @@ iipdigital.usembassy.gov
 ||peeasian.com
 ||pemulihan.or.id
 ||penchinese.com
-||penchinese.net
 ||penthouse.com
 ||peoplebookcafe.com
 ||percy.in
@@ -6469,7 +6463,6 @@ iipdigital.usembassy.gov
 ||sugobbs.com
 ||summify.com
 ||sun1911.com
-||sunskyforum.com
 ||sunta.com.tw
 ||sunvpn.net
 ||superfreevpn.com
@@ -6486,7 +6479,6 @@ iipdigital.usembassy.gov
 ||t35.com
 ||t35hosting.com
 ||taa-usa.org
-||tabtter.jp
 ||tafm.org
 ||tagesschau.de
 ||taiwan.net.tw
@@ -6658,7 +6650,6 @@ iipdigital.usembassy.gov
 ||twcomix.com
 ||tweetcs.com
 ||tweetmylast.fm
-||tweetrans.com
 ||tweetymail.com
 ||tweez.net
 ||twicsy.com
@@ -7024,6 +7015,7 @@ iipdigital.usembassy.gov
 ||amplitude.com
 ||amung.us
 ||androidplus.co
+||andygod.com
 ||annas-archive.org
 ||annas-archive.se
 ||annatam.com
@@ -7092,6 +7084,7 @@ iipdigital.usembassy.gov
 ||blogs.com
 ||blogspot.cat
 ||blogtd.net
+||blogtd.org
 ||bmfinn.com
 ||bnews.co
 ||bngpt.com
@@ -7193,6 +7186,7 @@ iipdigital.usembassy.gov
 ||claudeusercontent.com
 ||cleansite.info
 ||cleansite.us
+||cloakpoint.com
 ||cloudcone.com
 ||cloudflare.com
 ||cloudflareinsights.com
@@ -7205,6 +7199,7 @@ iipdigital.usembassy.gov
 ||cnews.com.tw
 ||cnitter.com
 ||cnn.com
+||cochina.co
 ||code1984.com
 ||codeplex.com
 ||coin2co.in
@@ -7216,6 +7211,7 @@ iipdigital.usembassy.gov
 ||conair.me
 ||convio.net
 ||conviva.com
+||corumcollege.com
 ||cosco.co.jp
 ||cosco.co.uk
 ||cosco.com
@@ -7345,6 +7341,7 @@ iipdigital.usembassy.gov
 ||falunworld.net
 ||fangbinxing.com
 ||fangmincn.org
+||fanhaodang.com
 ||fanqiang.tk
 ||fanqiangyakexi.net
 ||fanyue.info
@@ -7396,6 +7393,7 @@ iipdigital.usembassy.gov
 ||freekwonpyong.org
 ||freemorenews.com
 ||freemuse.org
+||freenewscn.com
 ||freerk.com
 ||freewww.info
 ||freeyoutubeproxy.net
@@ -7996,6 +7994,7 @@ iipdigital.usembassy.gov
 ||panluan.net
 ||paofuyun.me
 ||paper.li
+||paperb.us
 ||paperclip.tk
 ||paramount.com
 ||paramountplus.com
@@ -8004,6 +8003,7 @@ iipdigital.usembassy.gov
 ||pcloud.com
 ||pdetails.com
 ||pearlher.org
+||penchinese.net
 ||pengyulong.com
 ||penisbot.com
 ||pentalogic.net
@@ -8229,6 +8229,7 @@ iipdigital.usembassy.gov
 ||striek.com
 ||strpst.com
 ||sulian.me
+||sunskyforum.com
 ||suoluo.org
 ||superchat.live
 ||superokayama.com
@@ -8242,6 +8243,7 @@ iipdigital.usembassy.gov
 ||szbbs.net
 ||t91y.com
 ||tablesgenerator.com
+||tabtter.jp
 ||tacem.org
 ||taconet.com.tw
 ||tagwa.org.au
@@ -8358,6 +8360,7 @@ iipdigital.usembassy.gov
 ||tweeplike.me
 ||tweepmag.com
 ||tweetboner.biz
+||tweetrans.com
 ||twibase.com
 ||twibbon.com
 ||twicountry.org
