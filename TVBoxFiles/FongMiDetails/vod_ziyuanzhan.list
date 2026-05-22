@@ -1029,6 +1029,7 @@
 //		{"name":"¤Quad9 DNS (IP版1)","url":"https://9.9.9.9/dns-query","ips":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"]},
 //		{"name":"¤Quad9 DNS (IP版2)","url":"https://149.112.112.112/dns-query","ips":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"]},
 		{"name":"SWITCH DNS","url":"https://dns.switch.ch/dns-query","ips":["130.59.31.251","130.59.31.248"]},
+		{"name":"v.recipes Mq Mix","url":"https://v.recipes/mq/cloudflare-dns.com/dns-query/mq/dns.alidns.com/dns-query","ips":[]},
 		{"name":"v.recipes Unfiltered DNS","url":"https://v.recipes/dns-query","ips":[]},
 		{"name":"v.recipes Security DNS","url":"https://v.recipes/dns-security","ips":[]},
 		{"name":"v.recipes Adblock DNS","url":"https://v.recipes/dns-adblock","ips":[]},
