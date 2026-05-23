@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-22 00:10:05
+!Last Modified: 2026-05-24 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1176,6 +1176,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||24hbook.com
 ||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
@@ -2746,6 +2747,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||mas.to
 ||mjj.today
 ||mediamatters.org
 ||mistral.ai
@@ -2907,6 +2909,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||neodb.social
 ||nfscofficial.com
 ||nfsc.press
 ||newstimes.com
