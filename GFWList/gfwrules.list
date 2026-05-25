@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-25 00:10:04
+!Last Modified: 2026-05-26 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -2884,6 +2884,7 @@ iipdigital.usembassy.gov
 |http://motherless.com
 ||movements.org
 ||moviefap.com
+||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
@@ -4996,7 +4997,6 @@ iipdigital.usembassy.gov
 ||betfair.com
 ||beyondfirewall.com
 ||biantailajiao.com
-||biantailajiao.in
 ||bidswitch.net
 ||bigfools.com
 ||biggo.com.tw
@@ -5310,7 +5310,6 @@ iipdigital.usembassy.gov
 ||emuparadise.me
 ||enanyang.my
 ||enca.com
-||enfal.de
 ||engadget.com
 ||englishforeveryone.org
 ||englishpen.org
@@ -5899,7 +5898,6 @@ iipdigital.usembassy.gov
 ||maizhong.org
 ||makkahnewspaper.com
 ||malaysiakini.com
-||manchukuo.net
 ||manchustate.org
 ||manhuabika.com
 ||manhuache.com
@@ -6264,7 +6262,6 @@ iipdigital.usembassy.gov
 ||pythonhackers.com
 ||ss.pythonic.life
 ||qanote.com
-||qidian.ca
 ||qkshare.com
 ||qwant.com
 ||qx.net
@@ -7078,6 +7075,7 @@ iipdigital.usembassy.gov
 ||bestforchina.org
 ||bewww.net
 ||bianlei.com
+||biantailajiao.in
 ||bibliocommons.com
 ||bic2011.org
 ||bigmoney.biz
@@ -7327,6 +7325,7 @@ iipdigital.usembassy.gov
 ||emory.edu
 ||empornium.ph
 ||empornium.sx
+||enfal.de
 ||engagedaily.org
 ||environment.google
 ||epochtimes.ie
@@ -7812,6 +7811,7 @@ iipdigital.usembassy.gov
 ||mailchimp.com
 ||maildns.xyz
 ||mamingzhe.com
+||manchukuo.net
 ||manicur4ik.ru
 ||maplew.com
 ||martincartoons.com
@@ -8060,6 +8060,7 @@ iipdigital.usembassy.gov
 ||pythonic.life
 ||pytorch.org
 ||qboku.com
+||qidian.ca
 ||qienkuen.org
 ||qixianglu.cn
 ||qmp4.com
