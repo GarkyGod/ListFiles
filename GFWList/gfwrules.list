@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-05-29 00:10:05
+!Last Modified: 2026-05-30 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1386,6 +1386,7 @@ iipdigital.usembassy.gov
 ||areca-backup.org
 ||arethusa.su
 ||arlingtoncemetery.mil
+||as.mr
 ||asacp.org
 ||asiaharvest.org
 ||asianage.com
@@ -1456,6 +1457,7 @@ iipdigital.usembassy.gov
 ||bandwagonhost.com
 |http://bangchen.net
 ||bangkokpost.com
+||bangumi.tv
 ||bangyoulater.com
 ||bannedbook.org
 |http://baramangaonline.com
@@ -1486,6 +1488,7 @@ iipdigital.usembassy.gov
 ||betvictor.com
 ||bfnn.org
 ||bfsh.hk
+||bgm.tv
 ||bgvpn.com
 ||biblesforamerica.org
 ||vpl.bibliocommons.com
@@ -1582,7 +1585,6 @@ iipdigital.usembassy.gov
 !--------------------CC-------------------------
 ||chonglangtv.org
 ||ctinsider.com
-||cnbc.com
 ||cia.gov
 ||claude.com
 ||www.clashverge.dev
@@ -1684,6 +1686,7 @@ iipdigital.usembassy.gov
 ||chenpokongvip.com
 ||cherrysave.com
 ||chhongbi.org
+||chii.in
 ||china-week.com
 ||china101.com
 ||china18.org
@@ -2214,6 +2217,7 @@ iipdigital.usembassy.gov
 ||geek-art.net
 ||gekikame.com
 |http://gelbooru.com
+||gencraft.com
 ||generated.photos
 ||genius.com
 ||geph.io
@@ -2354,6 +2358,7 @@ iipdigital.usembassy.gov
 ||heyuedi.com
 ||hiccears.com
 ||hidden-advent.org
+||hiddify.com
 ||hide.me
 ||hideipvpn.com
 ||hideman.net
@@ -3534,7 +3539,6 @@ iipdigital.usembassy.gov
 ||sockslist.net
 |http://socrec.org
 ||softether.org
-||softether-download.com
 ||cdn.softlayer.net
 ||sogclub.com
 ||sohcradio.com
@@ -3998,6 +4002,7 @@ iipdigital.usembassy.gov
 ||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
+||veed.io
 ||vewas.net
 ||v2.help
 ||vocaroo.com
@@ -4278,7 +4283,6 @@ iipdigital.usembassy.gov
 |http://yeyeclub.com
 ||yhcw.net
 ||yibaochina.com
-||yidio.com
 ||s.yimg.com
 ||yipub.com
 ||yizhihongxing.com
@@ -4932,7 +4936,6 @@ iipdigital.usembassy.gov
 ||art4tibet1998.org
 ||artofpeacefoundation.org
 ||arunachalforests.gov.in
-||as.mr
 ||asdfg.jp
 ||asg.to
 ||asia-gaming.com
@@ -5164,6 +5167,7 @@ iipdigital.usembassy.gov
 ||cmoney.tw
 ||cn-proxy.com
 ||cn6.eu
+||cnbc.com
 ||download.cnet.com
 ||cnex.org.cn
 ||cnineu.com
@@ -6878,6 +6882,7 @@ iipdigital.usembassy.gov
 ||ydy.com
 ||yes.xxx
 ||yeyeclub.com
+||yidio.com
 ||yilubbs.com
 ||yobt.com
 ||yodobashi.com
@@ -8196,6 +8201,7 @@ iipdigital.usembassy.gov
 ||sneakme.net
 ||so-net.net.tw
 ||socialwhale.com
+||softether-download.com
 ||softlayer.net
 ||softnology.biz
 ||softsmirror.cf
