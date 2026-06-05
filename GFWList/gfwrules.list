@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-05 00:10:05
+!Last Modified: 2026-06-06 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -648,7 +648,6 @@ www.aolnews.com
 ||bloombergview.com
 !!--Cloudflare--
 ||cloudflarestatus.com
-||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -3625,6 +3624,7 @@ iipdigital.usembassy.gov
 |http://surfeasy.com.au
 ||surfshark.com
 ||surrenderat20.net
+||suyingtv.com
 ||swissinfo.ch
 ||swissvpn.net
 ||switchvpn.net
@@ -4197,6 +4197,7 @@ iipdigital.usembassy.gov
 ||xijie.wordpress.com
 ||ifreechina.wordpress.com
 ||wp.com
+||wplace.live
 ||wowporn.com
 ||wowgirls.com
 |http://woyaolian.org
@@ -5558,7 +5559,6 @@ iipdigital.usembassy.gov
 ||h-moe.com
 ||h528.com
 ||h5dm.com
-||hacg.club
 ||hacg.li
 ||hacg.me
 ||hacken.cc
@@ -6153,6 +6153,7 @@ iipdigital.usembassy.gov
 ||padmanet.com
 ||tbskkinabalu.page.tl
 ||page2rss.com
+||pages.dev
 ||pagodabox.com
 ||palacemoon.com
 ||paljorpublications.com
@@ -6232,7 +6233,6 @@ iipdigital.usembassy.gov
 ||porntube.com
 ||porntubenews.com
 ||pornvisit.com
-||post01.com
 ||powerphoto.org
 ||pp.ru
 ||premeforwindows7.com
@@ -7501,6 +7501,7 @@ iipdigital.usembassy.gov
 ||gzm.tv
 ||h1n1china.org
 ||h5galgame.me
+||hacg.club
 ||hacg.in
 ||hacg.red
 ||hanminzu.org
@@ -8047,6 +8048,7 @@ iipdigital.usembassy.gov
 ||pornimg.xyz
 ||pornmm.net
 ||portablevpn.nl
+||post01.com
 ||postadult.com
 ||postimg.org
 ||powerpointninja.com
