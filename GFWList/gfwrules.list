@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-08 00:10:07
+!Last Modified: 2026-06-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5257,6 +5257,7 @@ iipdigital.usembassy.gov
 ||doctorvoice.org
 ||dogfartnetwork.com
 ||dojin.com
+||dola.com
 ||domain.glass
 ||domaintoday.com.au
 ||chinese.donga.com
@@ -5311,7 +5312,6 @@ iipdigital.usembassy.gov
 ||emorpm.com
 ||bitc.bme.emory.edu
 ||empfil.com
-||emule-ed2k.com
 ||emulefans.com
 ||emuparadise.me
 ||enanyang.my
@@ -5431,7 +5431,6 @@ iipdigital.usembassy.gov
 ||freebearblog.org
 ||freechina.net
 ||freechina.news
-||freedl.org
 ||freedomhongkong.org
 ||freefq.com
 ||freefuckvids.com
@@ -5543,7 +5542,6 @@ iipdigital.usembassy.gov
 ||greatfirewall.biz
 ||greenparty.org.tw
 ||greenpeace.com.tw
-||greenvpn.org
 ||grotty-monday.com
 ||gstc.com.tw
 ||gstf.org
@@ -5663,7 +5661,6 @@ iipdigital.usembassy.gov
 ||huangyiyu.com
 ||huaren4us.com
 ||huarenjie.com
-||huashangnews.com
 ||huasing.org
 ||huaxiabao.org
 ||huaxin.ph
@@ -5715,6 +5712,7 @@ iipdigital.usembassy.gov
 ||inlang.com
 ||innermongolia.org
 ||innovarad.tw
+||invade.tw
 ||iopenmall.tw
 ||iphonehacks.com
 ||api.ipify.org
@@ -5816,7 +5814,6 @@ iipdigital.usembassy.gov
 ||kir.jp
 ||kissbbao.cn
 ||kissjav.com
-||kiwi.kz
 ||kmuh.org.tw
 ||knowledgerush.com
 ||ko-fi.com
@@ -6496,7 +6493,6 @@ iipdigital.usembassy.gov
 ||taa-usa.org
 ||tafm.org
 ||tagesschau.de
-||taiwan.net.tw
 ||taiwan-sex.com
 ||taiwanbible.com
 ||taiwancon.com
@@ -6716,6 +6712,7 @@ iipdigital.usembassy.gov
 ||usagm.gov
 ||dalailama.usc.edu
 ||usefreevpn.com
+||usmart.hk
 ||usmc.mil
 ||usocctn.com
 ||usus.cc
@@ -6894,7 +6891,6 @@ iipdigital.usembassy.gov
 ||yong.hu
 ||yorkbbs.ca
 ||youlucky.com
-||youngpornvideos.com
 ||your-freedom.net
 ||yourprivatevpn.com
 ||ytht.net
@@ -6920,7 +6916,6 @@ iipdigital.usembassy.gov
 ||zhenxiang.biz
 ||zhongguo.ca
 ||zhongguorenquan.org
-||zhoushuguang.com
 ||zhujiget.com
 ||zi5.me
 ||ziporn.com
@@ -7336,6 +7331,7 @@ iipdigital.usembassy.gov
 ||emory.edu
 ||empornium.ph
 ||empornium.sx
+||emule-ed2k.com
 ||enfal.de
 ||engagedaily.org
 ||environment.google
@@ -7407,6 +7403,7 @@ iipdigital.usembassy.gov
 ||free4u.com.ar
 ||freechal.com
 ||freechinaforum.org
+||freedl.org
 ||freedomchina.info
 ||freedomcollection.org
 ||freeforums.org
@@ -7485,6 +7482,7 @@ iipdigital.usembassy.gov
 ||greatzhonghua.org
 ||greenfieldbookstore.com.hk
 ||greenreadings.com
+||greenvpn.org
 ||groueta.cc
 ||groups.google.cn
 ||gs-discuss.com
@@ -7566,6 +7564,7 @@ iipdigital.usembassy.gov
 ||hua-yue.net
 ||huaibinmall.com
 ||huanggua11.com
+||huashangnews.com
 ||huaxia-news.com
 ||huiyi.in
 ||humanrightsbriefing.org
@@ -7761,6 +7760,7 @@ iipdigital.usembassy.gov
 ||kfd.me
 ||khmusic.com.tw
 ||kimy.com.tw
+||kiwi.kz
 ||klip.me
 ||kodingen.com
 ||ktkjmp.com
@@ -8565,6 +8565,7 @@ iipdigital.usembassy.gov
 ||ymp4.download
 ||yottaa.net
 ||youdontcare.com
+||youngpornvideos.com
 ||youngspiration.hk
 ||youshun12.com
 ||youthforfreechina.org
@@ -8587,6 +8588,7 @@ iipdigital.usembassy.gov
 ||zhenlibu1984.com
 ||zhinengluyou.com
 ||zhongmeng.org
+||zhoushuguang.com
 ||zhreader.com
 ||zhuangbi.me
 ||zhuanxing.cn
