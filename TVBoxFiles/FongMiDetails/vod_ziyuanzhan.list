@@ -1066,6 +1066,7 @@
 	{"name":"非凡廣告","hosts":["ffzy"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXTINF:(6.000|5.266667|5.800000|6.000000|6.033333),\\s+.*?\\s+#EXTINF:(3.867|2.500000|2.766667|3.333333|3.866667),[\\s\\S]*?#EXTINF:(2.733|2.000000|2.133333|1.666667|2.733333),\\s+.*?\\s+#EXT-X-DISCONTINUITY"]},
 	{"name":"黑木耳廣告","hosts":["heimuertv"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXTINF:3.366667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"ikunzy廣告","hosts":["ikzybf","bfikuncdn"],"regex":["#EXTINF.*?\\s+.*?K415bkJG.*?\\.ts\\s+","(#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE)\\s+#EXTINF:3.333,[\\s\\S]*?#EXTINF:3.2,[\\s\\S]*?\\.ts\\s+"]},
+	{"name":"愛奇異廣告","hosts":["ly166"],"regex":["#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"快看廣告","hosts":["vip.kuaikan"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"量子廣告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 //	{"name":"魔都廣告","hosts":["modujx"],"regex":["#EXTINF.*?\\s+.*?(oJmA4Uib|9929kb|2GqcxYdg|9892kb|OcWGU49t|10112kb|64xZ0rhm|9776kb).*?\\.ts\\s+","(#EXT-X-DISCONTINUITY|#EXT-X-KEY:METHOD=NONE)\\s+#EXTINF:3.333,\\s+.*?\\.(ts|jpg)\\s+#EXTINF:(1.433|1.667),[\\s\\S]*?#EXTINF:(0.667|3.2),[\\s\\S]*?\\.(ts|jpg)\\s+"]},
