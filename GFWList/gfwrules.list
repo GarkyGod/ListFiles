@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-15 00:10:04
+!Last Modified: 2026-06-16 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4682,6 +4682,7 @@ iipdigital.usembassy.gov
 @@||storage.googleapis.com
 @@||tac.googleapis.com
 @@||wear.googleapis.com
+||googlebook.google
 /^https?:\/\/googlecloudcommunity\.com/$
 ||googlee.com
 ||googlelocal.nl
@@ -4704,6 +4705,7 @@ iipdigital.usembassy.gov
 ||nic.youtube
 ||notebooklm.google
 ||opensource.google
+||passwords.google
 ||picasa.com
 ||pittpatt.com
 ||play.google
@@ -6150,7 +6152,6 @@ iipdigital.usembassy.gov
 ||padmanet.com
 ||tbskkinabalu.page.tl
 ||page2rss.com
-||pages.dev
 ||pagodabox.com
 ||palacemoon.com
 ||paljorpublications.com
@@ -6937,7 +6938,6 @@ iipdigital.usembassy.gov
 ||ttwstatic.com
 !------------------IDN----------------------
 ||xn--90wwvt03e.com
-||xn--dgtr4ppoz.com
 ||030buy.com
 ||10.tt
 ||100ke.org
@@ -8011,6 +8011,7 @@ iipdigital.usembassy.gov
 ||ovi.com
 ||oyghan.com
 ||page.tl
+||pages.dev
 ||paldengyal.com
 ||palmislife.com
 ||panluan.net
@@ -8020,7 +8021,6 @@ iipdigital.usembassy.gov
 ||paperclip.tk
 ||paramount.com
 ||paramountplus.com
-||passwords.google
 ||pathtosharepoint.com
 ||pcloud.com
 ||pdetails.com
