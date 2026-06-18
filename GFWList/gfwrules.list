@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-18 00:10:04
+!Last Modified: 2026-06-19 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -381,6 +381,7 @@ tumblrviewer
 ||xn--9pr62r24a.com
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
 ||xn--ngstr-lra8j.com
+||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 ||music.amazon.com
@@ -1246,6 +1247,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||accountboy.com
 ||acg.mn
 ||asiasociety.org
 ||avistaz.to
@@ -2752,6 +2754,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||moomoo.com
 ||mas.to
 ||mjj.today
 ||mediamatters.org
@@ -5979,7 +5982,6 @@ iipdigital.usembassy.gov
 ||mobypicture.com
 ||mofos.com
 ||molihua.org
-||moomoo.com
 ||moonbbs.info
 ||motherless.com
 ||mousebreaker.com
