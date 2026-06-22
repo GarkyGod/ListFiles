@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-22 00:10:05
+!Last Modified: 2026-06-23 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4943,6 +4943,7 @@ iipdigital.usembassy.gov
 ||85st.com
 ||888.com
 ||8news.com.tw
+||8tvnews.my
 ||8world.com
 ||91cg1.com
 ||91jinman.com
@@ -4957,7 +4958,6 @@ iipdigital.usembassy.gov
 ||acgbox.link
 ||acnw.com.au
 ||actfortibet.org
-||actimes.com.au
 ||adelaidebbs.com
 ||adpl.org.hk
 ||adultfriendfinder.com
@@ -5084,7 +5084,6 @@ iipdigital.usembassy.gov
 ||beanfun.com
 ||behindkink.com
 ||belamionline.com
-||bell.wiki
 ||bemywife.cc
 ||beric.me
 ||berm.co.nz
@@ -6062,13 +6061,13 @@ iipdigital.usembassy.gov
 ||mlcool.com
 ||mm-cg.com
 ||mmmca.com
+||mnews.tw
 ||mnewstv.com
 ||moby.to
 ||mobypicture.com
 ||mofos.com
 ||molihua.org
 ||moonbbs.info
-||motherless.com
 ||mousebreaker.com
 ||mp3buscador.com
 ||mp3ye.eu
@@ -6599,6 +6598,7 @@ iipdigital.usembassy.gov
 ||talk853.com
 ||tampabay.com
 ||tangben.com
+||tantannews.com
 ||taoism.net
 ||tbi.org.hk
 ||tbjyt.org
@@ -6954,6 +6954,7 @@ iipdigital.usembassy.gov
 ||xpdo.net
 ||xrentdvd.com
 ||xsden.org
+||xuan.com.my
 ||xuite.net
 ||xvideo.cc
 ||xvideos2.com
@@ -7076,6 +7077,7 @@ iipdigital.usembassy.gov
 ||acg18.me
 ||acloudvideos.com
 ||acmedia365.com
+||actimes.com.au
 ||addresseepaper.com
 ||addthis.com
 ||adobe.com
@@ -7166,6 +7168,7 @@ iipdigital.usembassy.gov
 ||bbsmo.com
 ||bcast.co.nz
 ||beijingzx.org
+||bell.wiki
 ||bestforchina.org
 ||bewww.net
 ||bianlei.com
@@ -7957,6 +7960,7 @@ iipdigital.usembassy.gov
 ||morbell.com
 ||moroneta.com
 ||mosucloud.site
+||motherless.com
 ||motiyun.com
 ||motor4ik.ru
 ||moztw.org
