@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-06-29 00:10:04
+!Last Modified: 2026-06-30 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -157,6 +157,7 @@ tumblrviewer
 ||eesti.ee
 ||esurance.com
 ||expekt.com
+||expressnews.com
 ||extmatrix.com
 ||fakku.net
 ||fastpic.ru
@@ -5289,7 +5290,6 @@ iipdigital.usembassy.gov
 ||comic-mega.me
 ||commandarms.com
 ||congyu.moe
-||contactmagazine.net
 ||coobay.com
 ||coolncute.com
 ||cos-moe.com
@@ -5297,6 +5297,7 @@ iipdigital.usembassy.gov
 ||crazys.cc
 ||crd-net.org
 ||creadersnet.com
+||crixet.com
 ||crocotube.com
 ||crwdcntrl.net
 ||crypto.com
@@ -5472,7 +5473,6 @@ iipdigital.usembassy.gov
 ||faluninfo.net
 ||falunpilipinas.net
 ||familyfed.org
-||fan-qiang.com
 ||fandom.com
 ||fangeming.com
 ||fangongheike.com
@@ -5964,7 +5964,6 @@ iipdigital.usembassy.gov
 ||limelight.moe
 ||linglingfa.com
 ||link-o-rama.com
-||linkideo.com
 ||linksalpha.com
 ||linkuswell.com
 ||abitno.linpie.com
@@ -6643,6 +6642,7 @@ iipdigital.usembassy.gov
 ||teepr.com
 ||teldap.tw
 ||tellme.pw
+||terminus2049.xyz
 ||theage.com.au
 ||theaustralian.com.au
 ||theb.ai
@@ -6748,7 +6748,6 @@ iipdigital.usembassy.gov
 ||tuidang.se
 ||tuitwit.com
 ||tumutanzi.com
-||tuo8.cc
 ||turansam.org
 ||tushycash.com
 ||tuzaijidi.com
@@ -6791,7 +6790,6 @@ iipdigital.usembassy.gov
 ||ucanews.com
 ||udnbkk.com
 ||udndata.com
-||ufreevpn.com
 ||ugo.com
 ||uighurbiz.net
 ||ukcdp.co.uk
@@ -6886,6 +6884,7 @@ iipdigital.usembassy.gov
 ||wangruoshui.net
 ||wapedia.mobi
 ||washeng.net
+||watchpeopledie.tv
 ||wdf5.com
 ||wearehairy.com
 ||webbang.net
@@ -7329,6 +7328,7 @@ iipdigital.usembassy.gov
 ||comico.tw
 ||compython.net
 ||conair.me
+||contactmagazine.net
 ||convio.net
 ||conviva.com
 ||corumcollege.com
@@ -7461,6 +7461,7 @@ iipdigital.usembassy.gov
 ||fail.hk
 ||falundafa-sacramento.org
 ||falunworld.net
+||fan-qiang.com
 ||fangbinxing.com
 ||fangmincn.org
 ||fanhaodang.com
@@ -7900,6 +7901,7 @@ iipdigital.usembassy.gov
 ||lightiptv.cc
 ||limbopro.xyz
 ||limiao.net
+||linkideo.com
 ||linpie.com
 ||list-manage.com
 ||lithium.com
@@ -8471,6 +8473,7 @@ iipdigital.usembassy.gov
 ||tuitui.info
 ||tunein.com
 ||tuo8.blue
+||tuo8.cc
 ||tuo8.club
 ||tuo8.fit
 ||tuo8.hk
@@ -8519,6 +8522,7 @@ iipdigital.usembassy.gov
 ||ucdc1998.org
 ||uchicago.edu
 ||uderzo.it
+||ufreevpn.com
 ||uk.to
 ||ukliferadio.co.uk
 ||ulike.net
