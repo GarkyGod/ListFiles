@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-02 00:10:04
+!Last Modified: 2026-07-03 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4190,6 +4190,7 @@ iipdigital.usembassy.gov
 ||weights.com
 ||wikiunblocked.org
 ||websdr.org
+||webshare.io
 ||wikipedia.com
 ||wxw.moe
 ||wxw.cat
@@ -5305,6 +5306,7 @@ iipdigital.usembassy.gov
 ||crypto.com
 ||ctao.org
 ||ctee.com.tw
+||ctv.com.tw
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
 ||searchapi.culture.tw
