@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-04 00:10:05
+!Last Modified: 2026-07-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5320,6 +5320,7 @@ iipdigital.usembassy.gov
 ||d-fukyu.com
 ||d2bay.com
 ||dabr.eu
+||dadabroadband.com
 ||dadi360.com
 ||dafabet.com
 ||dafagood.com
@@ -6316,6 +6317,7 @@ iipdigital.usembassy.gov
 ||piraattilahti.org
 ||piring.com
 ||pixnet.in
+||tw.pixtastock.com
 ||pk.com
 ||playbeasts.com
 ||plm.org.hk
