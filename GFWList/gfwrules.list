@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-05 00:10:05
+!Last Modified: 2026-07-06 00:10:06
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4590,7 +4590,6 @@ iipdigital.usembassy.gov
 ||onmypc.org
 ||otzo.com
 ||ourhobby.com
-||pcanywhere.net
 ||port25.biz
 ||proxydns.com
 ||qhigh.com
@@ -5296,6 +5295,7 @@ iipdigital.usembassy.gov
 ||coobay.com
 ||coolncute.com
 ||cos-moe.com
+||courrier.jp
 ||cq99.us
 ||crazys.cc
 ||crd-net.org
@@ -5355,7 +5355,6 @@ iipdigital.usembassy.gov
 ||deepdiscount.com
 ||definebabe.com
 ||derpibooru.org
-||destroy-china.jp
 ||detroitnews.com
 ||dfas.mil
 ||dfn.org
@@ -5629,6 +5628,7 @@ iipdigital.usembassy.gov
 ||giganews.com
 ||gigporno.ru
 ||gjtaiwan.com
+||globalexchange.org
 ||globalmediaoutreach.com
 ||globalmuseumoncommunism.org
 ||globalnewstv.com.tw
@@ -5638,6 +5638,7 @@ iipdigital.usembassy.gov
 ||gmiddle.com
 ||gmiddle.net
 ||gmll.org
+||c.go-mpulse.net
 ||goagentplus.com
 ||gobet.cc
 ||godsdirectcontact.org
@@ -6550,7 +6551,6 @@ iipdigital.usembassy.gov
 ||sopcast.com
 ||sopcast.org
 ||bbs.sou-tong.org
-||soubory.com
 ||soul-plus.net
 ||soundofhope.kr
 ||soup-dev.com
@@ -6820,6 +6820,7 @@ iipdigital.usembassy.gov
 ||unpo.org
 ||tor.updatestar.com
 ||upholdjustice.org
+||upi.com
 ||uploaded.net
 ||uploaded.to
 ||upornia.com
@@ -7383,6 +7384,7 @@ iipdigital.usembassy.gov
 ||delicious.com
 ||demdex.net
 ||democrats.org
+||destroy-china.jp
 ||dianshimo.com
 ||didiao.cloud
 ||digiland.tw
@@ -8148,6 +8150,7 @@ iipdigital.usembassy.gov
 ||paramount.com
 ||paramountplus.com
 ||pathtosharepoint.com
+||pcanywhere.net
 ||pcloud.com
 ||pdetails.com
 ||pearlher.org
@@ -8344,6 +8347,7 @@ iipdigital.usembassy.gov
 ||sorazone.net
 ||sostibet.org
 ||sou-tong.org
+||soubory.com
 ||soumo.info
 ||soupofmedia.com
 ||sourceforge.net
