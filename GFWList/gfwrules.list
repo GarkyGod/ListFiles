@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-08 00:10:06
+!Last Modified: 2026-07-09 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4511,7 +4511,6 @@ iipdigital.usembassy.gov
 ||disneyplus.com.ssl.sc.omtrdc.net
 ||stackcommerce.net
 ||stacksocial.com
-||bbc.in
 !!---ChangeIP---
 ||25u.com
 ||2waky.com
@@ -4894,13 +4893,7 @@ iipdigital.usembassy.gov
 ||xiaoxue.iis.sinica.edu.tw
 ||class.tn.edu.tw
 ||tyc.edu.tw
-||flurry.com
-||yahoo.co.jp
-||yahoo.net
-||yahooinc.com
-||yahoosandbox.com
-||yimg.com
-||ylive.jp
+||000aa.com
 ||0rz.tw
 ||10conditionsoflove.com
 ||123rf.com
@@ -5093,6 +5086,7 @@ iipdigital.usembassy.gov
 ||barenakedislam.com
 ||bartvpn.com
 ||battlemetrics.com
+||bbc.in
 ||bbg.gov
 ||bbnradio.org
 ||bbs-tw.com
@@ -5546,6 +5540,7 @@ iipdigital.usembassy.gov
 ||fleshbot.com
 ||flickriver.com
 ||fling.com
+||flurry.com
 ||cn.fmnnow.com
 ||focusvpn.com
 ||forum4hk.com
@@ -5809,7 +5804,6 @@ iipdigital.usembassy.gov
 ||huigui.tw
 ||hulkshare.com
 ||huobi.vc
-||hurgokbayrak.com
 ||hurriyet.com.tr
 ||hut2.ru
 ||hutong9.net
@@ -6126,7 +6120,6 @@ iipdigital.usembassy.gov
 ||molihua.org
 ||moonbbs.info
 ||mousebreaker.com
-||mp3buscador.com
 ||mp3ye.eu
 ||mrds66.com
 ||msguancha.com
@@ -6431,6 +6424,7 @@ iipdigital.usembassy.gov
 ||qx.net
 ||qxbbs.org
 ||qycz.org
+||r-art.com
 ||radicalparty.org
 ||opml.radiotime.com
 ||rainbowplan.org
@@ -7046,6 +7040,10 @@ iipdigital.usembassy.gov
 ||xxxymovies.com
 ||xys.org
 ||xysblogs.org
+||yahoo.co.jp
+||yahoo.net
+||yahooinc.com
+||yahoosandbox.com
 ||mc.yandex.ru
 ||yanghengjun.com
 ||yangjianli.com
@@ -7056,6 +7054,8 @@ iipdigital.usembassy.gov
 ||yeyeclub.com
 ||yidio.com
 ||yilubbs.com
+||yimg.com
+||ylive.jp
 ||yobt.com
 ||yodobashi.com
 ||yolasite.com
@@ -7747,6 +7747,7 @@ iipdigital.usembassy.gov
 ||huiyi.in
 ||humanrightsbriefing.org
 ||hungerstrikeforaids.org
+||hurgokbayrak.com
 ||hustler.com
 ||hustlercash.com
 ||hwinfo.com
@@ -8052,6 +8053,7 @@ iipdigital.usembassy.gov
 ||motiyun.com
 ||motor4ik.ru
 ||moztw.org
+||mp3buscador.com
 ||mponline.hk
 ||mqxd.org
 ||msn.com
