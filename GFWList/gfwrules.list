@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-18 00:10:04
+!Last Modified: 2026-07-19 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1267,6 +1267,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||18comic.vip
 ||18mh.net
 ||24hbook.com
 ||996.icu
@@ -4903,7 +4904,6 @@ iipdigital.usembassy.gov
 ||17.live
 ||177pic.info
 ||17t17p.com
-||18comic.vip
 ||18hmanga.click
 ||18jav.tv
 ||18onlygirls.com
