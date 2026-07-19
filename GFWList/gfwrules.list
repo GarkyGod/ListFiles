@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-19 00:10:04
+!Last Modified: 2026-07-20 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5875,7 +5875,6 @@ iipdigital.usembassy.gov
 ||iu45.com
 ||ixxx.com
 ||izaobao.us
-||izihost.org
 ||izlesem.org
 ||jackjia.com
 ||jamaat.org
@@ -5979,7 +5978,6 @@ iipdigital.usembassy.gov
 ||lantosfoundation.org
 ||laomiu.com
 ||laowang.vip
-||laoyang.info
 ||lastcombat.com
 ||latelinenews.com
 ||league-funny.com
@@ -6136,7 +6134,6 @@ iipdigital.usembassy.gov
 ||my-formosa.com
 ||my-proxy.com
 ||creative.myavlive.com
-||mybbs.us
 ||mycanadanow.com
 ||mychinanet.com
 ||mychinese.news
@@ -6418,7 +6415,6 @@ iipdigital.usembassy.gov
 ||python.com
 ||pythonhackers.com
 ||ss.pythonic.life
-||qanote.com
 ||qkshare.com
 ||qwant.com
 ||qx.net
@@ -6433,7 +6429,6 @@ iipdigital.usembassy.gov
 ||rangzen.com
 ||rangzen.net
 ||rangzen.org
-||ranyunfei.com
 ||rapbull.net
 ||ratx.com
 ||razyboard.com
@@ -6644,6 +6639,7 @@ iipdigital.usembassy.gov
 ||svsfx.com
 ||swag.live
 ||swiffy.co.za
+||sysub.com
 ||sytes.net
 ||sz.de
 ||szetowah.org.hk
@@ -7870,6 +7866,7 @@ iipdigital.usembassy.gov
 ||iuksky.com
 ||iverycd.com
 ||iz8qkg.com
+||izihost.org
 ||izles.net
 ||jads.co
 ||jandyx.com
@@ -7954,6 +7951,7 @@ iipdigital.usembassy.gov
 ||lamenhu.com
 ||lanterncn.cn
 ||laod.cn
+||laoyang.info
 ||laptoplockdown.com
 ||latibet.org
 ||law.com
@@ -8071,6 +8069,7 @@ iipdigital.usembassy.gov
 ||myanniu.com
 ||myav.com.tw
 ||myavlive.com
+||mybbs.us
 ||myca168.com
 ||mychat.to
 ||mychinamyhome.com
@@ -8256,6 +8255,7 @@ iipdigital.usembassy.gov
 ||pwned.com
 ||pythonic.life
 ||pytorch.org
+||qanote.com
 ||qboku.com
 ||qidian.ca
 ||qienkuen.org
@@ -8280,6 +8280,7 @@ iipdigital.usembassy.gov
 ||raindrop.io
 ||rangwang.biz
 ||ranxiang.com
+||ranyunfei.com
 ||rapidgator.net
 ||raremovie.cc
 ||raremovie.net
