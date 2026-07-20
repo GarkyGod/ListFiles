@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-20 00:10:05
+!Last Modified: 2026-07-21 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1678,6 +1678,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
 ||cia.gov
@@ -3499,6 +3500,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||sysub.com
 ||sider.ai
 ||sinchew.com.my
 ||softether.co.jp
@@ -6639,7 +6641,6 @@ iipdigital.usembassy.gov
 ||svsfx.com
 ||swag.live
 ||swiffy.co.za
-||sysub.com
 ||sytes.net
 ||sz.de
 ||szetowah.org.hk
