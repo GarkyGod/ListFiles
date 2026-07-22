@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-22 00:10:05
+!Last Modified: 2026-07-23 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3771,6 +3771,8 @@ iipdigital.usembassy.gov
 ||textnow.com
 ||token.im
 ||tokenlon.im
+||tokenplus.app
+@@||*.tokenplus.app
 ||tardigrade.io
 ||torrentgalaxy.to
 ||tomp3.cc
@@ -6947,6 +6949,7 @@ iipdigital.usembassy.gov
 ||watchpeopledie.tv
 ||wdf5.com
 ||wearehairy.com
+||weavai.app
 ||webbang.net
 ||webevader.org
 ||webfreer.com
