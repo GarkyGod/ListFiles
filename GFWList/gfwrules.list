@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-24 00:10:04
+!Last Modified: 2026-07-25 00:10:11
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1678,6 +1678,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||circle19.org
 ||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
@@ -2712,6 +2713,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kards.com
 ||kfor.com
 ||kathmandupost.com
 ||kingkong.com.tw
@@ -5939,7 +5941,6 @@ iipdigital.usembassy.gov
 ||kakaocorp.com
 ||kanzhongguo.com
 ||kanzhongguo.eu
-||kards.com
 ||karmapa.org
 ||karmapa-teachings.org
 ||kba-tx.org
