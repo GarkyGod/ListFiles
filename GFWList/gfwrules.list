@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-07-30 00:10:05
+!Last Modified: 2026-07-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -2767,6 +2767,7 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||level-plus.net
 ||libgen.is
 ||lemonde.fr
 ||lantern.io
@@ -4113,6 +4114,7 @@ iipdigital.usembassy.gov
 ||uyghurtribunal.com
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||v.recipes
 ||vox.com
 ||vimeocdn.com
 ||vpsxb.net
