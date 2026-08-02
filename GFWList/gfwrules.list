@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-02 00:10:04
+!Last Modified: 2026-08-03 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1678,13 +1678,14 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cht.com.tw
+||cerebras.ai
 ||circle19.org
 ||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
 ||cia.gov
 ||claude.com
-||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -2994,7 +2995,6 @@ iipdigital.usembassy.gov
 |http://motherless.com
 ||movements.org
 ||moviefap.com
-||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
@@ -3216,7 +3216,6 @@ iipdigital.usembassy.gov
 ||pancakeswap.finance
 ||img.picgo.net
 ||pornmate.com
-||puredns.org
 ||polymarket.com
 ||pandafan.pub
 ||proxz.com
@@ -3413,7 +3412,6 @@ iipdigital.usembassy.gov
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
-||radiojar.com
 ||radio.co
 ||rustdesk.com
 ||rentry.co
@@ -3520,7 +3518,6 @@ iipdigital.usembassy.gov
 ||swapspace.co
 ||storry.tv
 ||standard.co.uk
-||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com
@@ -5267,7 +5264,6 @@ iipdigital.usembassy.gov
 ||christianpost.com
 ||christusrex.org
 ||chromium.org
-||cht.com.tw
 ||chubold.com
 ||chubun.com
 ||chuizi.net
@@ -5282,6 +5278,7 @@ iipdigital.usembassy.gov
 ||city9x.com
 ||civiliangunner.com
 ||clarionproject.org
+||www.clashverge.dev
 ||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
@@ -6432,6 +6429,7 @@ iipdigital.usembassy.gov
 ||qycz.org
 ||r-art.com
 ||radicalparty.org
+||radiojar.com
 ||opml.radiotime.com
 ||rainbowplan.org
 ||raizoji.or.jp
@@ -6480,6 +6478,7 @@ iipdigital.usembassy.gov
 ||cdn1.lp.saboom.com
 ||sadistic.pl
 ||saeima.lv
+||sagernet.org
 ||saintyculture.com
 ||sakura-paris.org
 ||sakya.org
@@ -8260,6 +8259,7 @@ iipdigital.usembassy.gov
 ||pstorage.space
 ||pttyes.com
 ||pureapk.com
+||puredns.org
 ||puritan.com
 ||pushchinawall.com
 ||pussthecat.org
