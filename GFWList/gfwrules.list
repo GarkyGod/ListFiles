@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-06 00:10:05
+!Last Modified: 2026-08-07 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -776,8 +776,7 @@ www.aolnews.com
 ||whatsapp.com
 ||whatsapp.net
 !!---Fandom---
-||auntology.fandom.com
-||hongkong.fandom.com
+||fandom.com
 !!---FTChinese---
 ||ftchinese.com
 !!---Google---
@@ -5500,7 +5499,6 @@ iipdigital.usembassy.gov
 ||faluninfo.net
 ||falunpilipinas.net
 ||familyfed.org
-||fandom.com
 ||fangeming.com
 ||fangongheike.com
 ||fanqiangdang.org
