@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-10 00:10:04
+!Last Modified: 2026-08-11 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1920,6 +1920,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||divdyn.com
 ||data18.com
 ||dt18.com
 ||dns.sb
@@ -5277,12 +5278,10 @@ iipdigital.usembassy.gov
 ||cineastentreff.de
 ||cipfg.org
 ||citizenpowerforchina.org
-||citizensradio.org
 ||city9x.com
 ||civiliangunner.com
 ||clarionproject.org
 ||www.clashverge.dev
-||clb.org.hk
 ||clearharmony.net
 ||clearwisdom.net
 ||cli.re
@@ -5408,7 +5407,6 @@ iipdigital.usembassy.gov
 ||api.dropboxapi.com
 ||notify.dropboxapi.com
 ||drtuber.com
-||dstk.dk
 ||dtku41.xyz
 ||duckdns.org
 ||dudupro.com
@@ -5627,7 +5625,6 @@ iipdigital.usembassy.gov
 ||gate-project.com
 ||gatherproxy.com
 ||gaybubble.com
-||gaycn.net
 ||gayhub.com
 ||gaymenring.com
 ||gaytube.com
@@ -5769,7 +5766,6 @@ iipdigital.usembassy.gov
 ||hkday.net
 ||hkdf.org
 ||hkej.com
-||hkfreezone.com
 ||hkfront.org
 ||hkheadline.com
 ||hkhkhk.com
@@ -6287,7 +6283,6 @@ iipdigital.usembassy.gov
 ||open.com.hk
 ||open-assistant.io
 ||opendesktop.org
-||opendn.xyz
 ||opensocietyfoundations.org
 ||organcare.org.tw
 ||organharvestinvestigation.net
@@ -6423,7 +6418,6 @@ iipdigital.usembassy.gov
 ||puuko.com
 ||python.com
 ||pythonhackers.com
-||ss.pythonic.life
 ||qkshare.com
 ||qwant.com
 ||qx.net
@@ -6828,7 +6822,6 @@ iipdigital.usembassy.gov
 ||twcert.org.tw
 ||twcomix.com
 ||tweetcs.com
-||tweetmylast.fm
 ||tweetymail.com
 ||tweez.net
 ||twicsy.com
@@ -7373,12 +7366,14 @@ iipdigital.usembassy.gov
 ||chuang-yen.org
 ||circlethebayfortibet.org
 ||citizenscommission.hk
+||citizensradio.org
 ||city365.ca
 ||citytalk.tw
 ||civildisobediencemovement.org
 ||civisec.org
 ||cjkypo.com
 ||claudeusercontent.com
+||clb.org.hk
 ||cleansite.info
 ||cleansite.us
 ||cloakpoint.com
@@ -7477,6 +7472,7 @@ iipdigital.usembassy.gov
 ||drsunacademy.com
 ||drvhub.net
 ||dscn.info
+||dstk.dk
 ||dtdns.net
 ||dtvcdn.com
 ||dtvce.com
@@ -7615,6 +7611,7 @@ iipdigital.usembassy.gov
 ||gaozhisheng.org
 ||gardennetworks.org
 ||gati.org.tw
+||gaycn.net
 ||geekerhome.com
 ||geekheart.info
 ||getfreedur.com
@@ -7720,6 +7717,7 @@ iipdigital.usembassy.gov
 ||hkctu.org.hk
 ||hkdailynews.com.hk
 ||hkepc.com
+||hkfreezone.com
 ||hkgreenradio.org
 ||hkhrc.org.hk
 ||hkhrm.org.hk
@@ -8185,6 +8183,7 @@ iipdigital.usembassy.gov
 ||oopsforum.com
 ||openallweb.com
 ||openbase.com
+||opendn.xyz
 ||opendns.com
 ||openervpn.in
 ||opengw.net
@@ -8586,6 +8585,7 @@ iipdigital.usembassy.gov
 ||tweeplike.me
 ||tweepmag.com
 ||tweetboner.biz
+||tweetmylast.fm
 ||tweetrans.com
 ||twibase.com
 ||twibbon.com
