@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-17 00:10:04
+!Last Modified: 2026-08-18 00:10:13
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1339,6 +1339,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||livingatlas.arcgis.com
 ||basemaps.arcgis.com
 ||experience.arcgis.com
 ||aihub.top
