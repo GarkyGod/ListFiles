@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-18 00:10:13
+!Last Modified: 2026-08-19 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -386,6 +386,7 @@ tumblrviewer
 ||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||s3.dualstack.us-west-2.amazonaws.com
 ||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
@@ -4194,6 +4195,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||windy.com
 ||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
@@ -8713,7 +8715,6 @@ iipdigital.usembassy.gov
 ||wikilivres.info
 ||wikiwiki.jp
 ||windowsphoneme.com
-||windy.com
 ||winwhispers.info
 ||wistia.com
 ||woesermiddle-way.net
