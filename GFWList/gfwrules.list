@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-20 00:10:04
+!Last Modified: 2026-08-21 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5578,6 +5578,7 @@ iipdigital.usembassy.gov
 ||freefuckvids.com
 ||freeilhamtohti.org
 ||freeman2.com
+||freemdict.com
 ||freemoren.com
 ||freenet-china.org
 ||freenuts.com
@@ -6130,6 +6131,7 @@ iipdigital.usembassy.gov
 ||moonbbs.info
 ||mousebreaker.com
 ||mp3ye.eu
+||mphonline.com
 ||mrds66.com
 ||msguancha.com
 ||mswe1.org
@@ -6287,6 +6289,7 @@ iipdigital.usembassy.gov
 ||open.com.hk
 ||open-assistant.io
 ||opendesktop.org
+||openlibrary.org
 ||opensocietyfoundations.org
 ||organcare.org.tw
 ||organharvestinvestigation.net
@@ -6886,7 +6889,6 @@ iipdigital.usembassy.gov
 ||uyghur-archive.com
 ||uyghurensemble.co.uk
 ||uyghurpress.com
-||uygur.org
 ||uymaarip.com
 ||v2board.com
 ||v2raya.org
@@ -7087,7 +7089,6 @@ iipdigital.usembassy.gov
 ||zengjinyan.org
 ||zergpool.com
 ||zeutch.com
-||zhangboli.net
 ||zhenghui.org
 ||zhenxiang.biz
 ||zhongguo.ca
@@ -8650,6 +8651,7 @@ iipdigital.usembassy.gov
 ||uu-gg.com
 ||uyghurcanadian.ca
 ||uyghurcanadiansociety.org
+||uygur.org
 ||v2mm.tech
 ||v2ray.cool
 ||v2rayssr.com
@@ -8790,6 +8792,7 @@ iipdigital.usembassy.gov
 ||zgsddh.com
 ||zgzcjj.net
 ||zhanbin.net
+||zhangboli.net
 ||zhenlibu.info
 ||zhenlibu1984.com
 ||zhinengluyou.com
