@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-21 00:10:04
+!Last Modified: 2026-08-22 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1516,6 +1516,7 @@ iipdigital.usembassy.gov
 ||azirevpn.com
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||briarproject.org
 ||bilinovel.com
 ||boomplay.com
 ||bleepingcomputer.com
@@ -1682,6 +1683,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||chatgpt.site
 ||cht.com.tw
 ||cerebras.ai
 ||circle19.org
