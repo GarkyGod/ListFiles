@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-22 00:10:04
+!Last Modified: 2026-08-23 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -2864,6 +2864,9 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||historylines.net
+||kiwix.org
+||mceindex.com
 ||mhwindow.org
 ||mas.to
 ||mjj.today
@@ -3511,6 +3514,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||sb.sb
 ||sysub.com
 ||sider.ai
 ||sinchew.com.my
