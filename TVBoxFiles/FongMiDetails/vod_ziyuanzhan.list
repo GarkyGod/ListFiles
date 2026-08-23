@@ -262,19 +262,19 @@
 //				}
 //		},
 
-		{
-			"key":"key_789",  // https://www.caiji.cyou/
-			"name":"📡資源站|789",
-			"type":1,  // "type":0,
-			"api":"https://www.caiji.cyou/api.php/provide/vod/",  // "api":"https://www.caiji.cyou/api.php/provide/vod/at/xml",
-			"searchable":1,
-			"changeable":1,
+//		{
+//			"key":"key_789",  // https://www.caiji.cyou/
+//			"name":"📡資源站|789|🚫",
+//			"type":1,  // "type":0,
+//			"api":"https://www.caiji.cyou/api.php/provide/vod/",  // "api":"https://www.caiji.cyou/api.php/provide/vod/at/xml",
+//			"searchable":1,
+//			"changeable":1,
 //			"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","剧情片","战争片","犯罪片","国产剧","港台剧","欧美剧","日韩剧","惊悚片","冒险片","悬疑片","奇幻片","纪录片","其他片","其他剧","bilibili","bilibili番剧","bilibili国创","bilibili电影","bilibili电视剧","动画片"],
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-				}
-		},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+//				}
+//		},
 
 		{
 		"key":"key_baidu",  // https://bdzy.com/  // https://api.apibdzy.com/  // https://bdzy1.com/ …… https://bdzy8.com/
@@ -322,7 +322,7 @@
 		"key":"key_douban",  // https://dbzy.tv/  // https://doubanzy.net/  // https://doubanzy.cc/  // https://doubanziyuan.net/  // https://doubanziyuan.com/  // https://dbzy1.com/
 		"name":"📡資源站|豆瓣",
 		"type":1,  // "type":0,
-		"api":"https://caiji.doubanzy.cc/api.php/provide/vod/",  // "api":"https://caiji.dbzy.tv/api.php/provide/vod/",  // "api":"https://caiji.dbzy5.com/api.php/provide/vod/",  // "api":"https://caiji.dbzy5.com/api.php/provide/vod/at/xml",
+		"api":"https://caiji.dbzy5.com/api.php/provide/vod/",  // "api":"https://caiji.dbzy5.com/api.php/provide/vod/at/xml",  // "api":"https://caiji.doubanzy.cc/api.php/provide/vod/",  // "api":"https://caiji.dbzy.tv/api.php/provide/vod/",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","连续剧","综艺片","动漫","纪录片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩剧","动漫电影","泰国剧","日本剧","台湾剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","国产动漫","日本动漫","欧美动漫","海外动漫","伦理片","新闻资讯","体育赛事","短剧大全","篮球","足球","网球","斯诺克","LPL","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","惊悚片","电影资讯","娱乐新闻"],
@@ -374,19 +374,19 @@
 			}
 		},
 
-		{
-		"key":"key_huohua",  // https://cj.huohua.live/  // http://cj.huohua.vip/
-		"name":"📡資源站|火花|💱",
-		"type":1,  // "type":0,
-		"api":"https://cj.huohua.live/api.php/provide/vod/?uid=你的UID",  // "api":"https://cj.huohua.live/api.php/provide/vod/at/xml/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/at/xml/?uid=你的UID",
-		"searchable":1,
-		"changeable":1,
+//		{
+//		"key":"key_huohua",  // https://cj.huohua.live/  // http://cj.huohua.vip/
+//		"name":"📡資源站|火花|💱",
+//		"type":1,  // "type":0,
+//		"api":"https://cj.huohua.live/api.php/provide/vod/?uid=你的UID",  // "api":"https://cj.huohua.live/api.php/provide/vod/at/xml/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/at/xml/?uid=你的UID",
+//		"searchable":1,
+//		"changeable":1,
 //		"categories":["电影","连续剧","综艺","动漫"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+//			}
+//		},
 
 		{
 		"key":"key_huya",  // https://huyazy.com/  // http://huyazy.net/
@@ -420,7 +420,7 @@
 		"key":"key_ikun",  // https://ikunzy.com/ | proxy  // https://ikunzy.net/ | proxy  // https://ikunzy.org/ | proxy  // https://ikunzy.vip/ | proxy  // https://ikzy1.com/ …… https://ikzy9.com/ | proxy  // https://t.me/ikunzyz
 		"name":"📡資源站|ikun|⚠️",
 		"type":1,  // "type":0,
-		"api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://ikunzy.com/api.php/provide/vod/",  // "api":"http://ikunzy.com/api.php/provide/vod/at/xml",
+		"api":"http://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://ikunzy.com/api.php/provide/vod/",  // "api":"http://ikunzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","连续剧","综艺","动漫","伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫","体育","足球","内地明星","港台明星","爽文短剧","德甲","意甲","英超","西甲","法甲","NBA","CBA","LPL","WCBA","篮球","里番动漫"],
@@ -546,7 +546,7 @@
 		"key":"key_maotai",  // https://maotaiziyuan.com/  // https://maotaizy.com/  // https://maotaizy.cc/  // https://mtzy.tv/  // https://mtzy.me/  // https://mtzy1.com/ …… https://mtzy6.com/  // https://t.me/mtzyme
 		"name":"📡資源站|茅臺|⚠️",
 		"type":1,  // "type":0,
-		"api":"https://caiji.maotaizy.cc/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/at/xml",
+		"api":"https://caiji.maotai999.vip/api.php/provide/vod/",  // "api":"https://caiji.maotai999.vip/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","连续剧","综艺片","动漫","纪录片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩剧","动漫电影","泰国剧","日本剧","台湾剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","演唱会","国产动漫","日本动漫","欧美动漫","海外动漫","伦理片","新闻资讯","体育赛事","短剧大全","篮球","足球","网球","斯诺克","LPL","重生民国","穿越现代","反转爽剧","言情总裁","现代都市","古装仙侠","悬疑烧脑","惊悚片","电影资讯","娱乐新闻"],
