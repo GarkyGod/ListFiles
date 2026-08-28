@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-28 00:10:05
+!Last Modified: 2026-08-29 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4203,6 +4203,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||write.as
 ||windy.com
 ||washingtontimes.com
 ||worldjournal.com
