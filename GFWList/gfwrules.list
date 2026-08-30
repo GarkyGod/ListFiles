@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-08-30 00:10:04
+!Last Modified: 2026-08-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -2282,6 +2282,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||getmonero.org
 ||gate.com
 ||guangming.com.my
 ||g.ai
@@ -3102,6 +3103,7 @@ iipdigital.usembassy.gov
 ||nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
+||nicoseiga.jp
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
