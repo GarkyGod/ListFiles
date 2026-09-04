@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-04 00:10:05
+!Last Modified: 2026-09-05 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1683,6 +1683,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
 ||cerebras.ai
@@ -2420,6 +2421,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkej.com
 ||hkong.hk
 ||hive.blog
 ||v2.hysteria.network
@@ -2776,6 +2778,7 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||linux.sb
 ||level-plus.net
 ||libgen.is
 ||lemonde.fr
@@ -4910,6 +4913,7 @@ iipdigital.usembassy.gov
 @@||yda.gov.tw
 !!---edu.tw----
 ||eq.ccu.edu.tw
+||ksml.edu.tw
 ||mbct.mlc.edu.tw
 ||nmns.edu.tw
 ||npm.edu.tw
@@ -5050,7 +5054,6 @@ iipdigital.usembassy.gov
 ||anonymizer.com
 ||anpopo.com
 ||answering-islam.org
-||antichristendom.com
 ||antisocial.science
 ||antiwave.net
 ||anyporn.com
@@ -5261,7 +5264,6 @@ iipdigital.usembassy.gov
 ||chinalaborwatch.org
 ||chinalawandpolicy.com
 ||chinalawtranslate.com
-||chinamz.org
 ||chinanewscenter.com
 ||chinapost.com.tw
 ||chinarightsia.org
@@ -5336,7 +5338,6 @@ iipdigital.usembassy.gov
 ||crwdcntrl.net
 ||crypto.com
 ||ctao.org
-||ctee.com.tw
 ||ctv.com.tw
 ||mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
@@ -5781,7 +5782,6 @@ iipdigital.usembassy.gov
 ||hkcmi.edu
 ||hkday.net
 ||hkdf.org
-||hkej.com
 ||hkfront.org
 ||hkheadline.com
 ||hkhkhk.com
@@ -5974,7 +5974,6 @@ iipdigital.usembassy.gov
 ||kinghost.com
 ||kink.com
 ||kir.jp
-||kissbbao.cn
 ||kissjav.com
 ||kmuh.org.tw
 ||knowledgerush.com
@@ -6129,7 +6128,6 @@ iipdigital.usembassy.gov
 ||missav123.com
 ||mist.vip
 ||mixpod.com
-||mk5000.com
 ||mlcool.com
 ||mm-cg.com
 ||mmmca.com
@@ -6237,7 +6235,6 @@ iipdigital.usembassy.gov
 ||no-ip.org
 ||fourface.nodesnoop.com
 ||nodle.com
-||noodlevpn.com
 ||norbulingka.org
 ||nordcdn.com
 ||nordstrommedia.com
@@ -6245,6 +6242,7 @@ iipdigital.usembassy.gov
 ||nostr.land
 ||nostr.wine
 ||note.com
+||note.ms
 ||notion.com
 ||notion.site
 ||notion.so
@@ -6642,7 +6640,6 @@ iipdigital.usembassy.gov
 ||streema.com
 ||strikingly.com
 ||stripchat.cam
-||strongwindpress.com
 ||student.tw
 ||studybuddhism.com
 ||stupidvideos.com
@@ -6730,7 +6727,6 @@ iipdigital.usembassy.gov
 ||thestandard.com.hk
 ||thestar.com
 ||thetibetcenter.org
-||thetibetconnection.org
 ||thetibetmuseum.org
 ||theync.com
 ||thinkhk.com
@@ -6994,7 +6990,6 @@ iipdigital.usembassy.gov
 ||who.is
 ||whotalking.com
 ||whylover.com
-||wikileaks-forum.com
 ||wikipedia-on-ipfs.org
 ||wikiquote.org
 ||wildammo.com
@@ -7223,6 +7218,7 @@ iipdigital.usembassy.gov
 ||annatam.com
 ||antd.org
 ||anti1984.com
+||antichristendom.com
 ||aofriend.com.au
 ||ap.org
 ||apilayer.com
@@ -7372,6 +7368,7 @@ iipdigital.usembassy.gov
 ||chinagonet.com
 ||chinagreenparty.org
 ||chinainterimgov.org
+||chinamz.org
 ||chinatimes.com
 ||chinatweeps.com
 ||chinaxchina.com
@@ -7960,6 +7957,7 @@ iipdigital.usembassy.gov
 ||kfd.me
 ||khmusic.com.tw
 ||kimy.com.tw
+||kissbbao.cn
 ||kiwi.kz
 ||klip.me
 ||kodingen.com
@@ -8060,6 +8058,7 @@ iipdigital.usembassy.gov
 ||mit.edu
 ||mitao.com.tw
 ||mitbbsau.com
+||mk5000.com
 ||moegirl.org
 ||mofaxiehui.com
 ||mohu.ml
@@ -8162,6 +8161,7 @@ iipdigital.usembassy.gov
 ||nodesnoop.com
 ||nofile.io
 ||nooc.ink
+||noodlevpn.com
 ||now.im
 ||nowtorrents.com
 ||noypf.com
@@ -8467,6 +8467,7 @@ iipdigital.usembassy.gov
 ||streamtape.com
 ||streetvoice.com
 ||striek.com
+||strongwindpress.com
 ||strpst.com
 ||sulian.me
 ||sunskyforum.com
@@ -8529,6 +8530,7 @@ iipdigital.usembassy.gov
 ||thereallove.kr
 ||therock.net.nz
 ||thespeeder.com
+||thetibetconnection.org
 ||thetinhat.com
 ||thetrotskymovie.com
 ||thevivekspot.com
@@ -8726,6 +8728,7 @@ iipdigital.usembassy.gov
 ||whodns.xyz
 ||wikia.com
 ||wikia.org
+||wikileaks-forum.com
 ||wikilivres.info
 ||wikiwiki.jp
 ||windowsphoneme.com
