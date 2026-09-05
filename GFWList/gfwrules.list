@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-05 00:10:05
+!Last Modified: 2026-09-06 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1197,6 +1197,8 @@ www.aolnews.com
 ||vine.co
 ||x.com
 !!---Taiwan---
+||taiwanembassy.org
+||roc-taiwan.org
 ||twgov.tw
 ||gov.tw
 @@||www.gov.tw
@@ -1267,6 +1269,8 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.me
+||123av.com
 ||18comic.vip
 ||18mh.net
 ||24hbook.com
@@ -2421,6 +2425,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentai.tv
 ||hkej.com
 ||hkong.hk
 ||hive.blog
@@ -3423,6 +3428,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
 ||rts.ch
@@ -3519,6 +3525,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||supjav.com
 ||api.shuaiapi.com
 ||sb.sb
 ||sysub.com
@@ -3760,6 +3767,7 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||taiav.com
 ||tryai.dev
 ||theintercept.com
 ||trtworld.com
@@ -4208,6 +4216,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wtfpass.com
 ||write.as
 ||windy.com
 ||washingtontimes.com
@@ -6477,7 +6486,6 @@ iipdigital.usembassy.gov
 /^https?:\/\/v\.rn\d{3}\.xyz/
 ||roadshow.hk
 ||roboforex.com
-||roc-taiwan.org
 ||rotten.com
 ||rri.ro
 ||rukor.org
@@ -6653,7 +6661,6 @@ iipdigital.usembassy.gov
 ||sunvpn.net
 ||superfreevpn.com
 ||superzooi.com
-||supjav.com
 ||suppig.net
 ||suprememastertv.com
 ||svsfx.com
@@ -6672,7 +6679,6 @@ iipdigital.usembassy.gov
 ||taiwancon.com
 ||taiwandaily.net
 ||taiwandc.org
-||taiwanembassy.org
 ||taiwanjustice.com
 ||taiwankiss.com
 ||taiwannation.com
