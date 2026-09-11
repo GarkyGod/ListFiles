@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-11 00:10:05
+!Last Modified: 2026-09-12 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -507,7 +507,6 @@ tumblrviewer
 ||tubepornclassic.com
 ||uku.im
 ||unseen.is
-||cn.uptodown.com
 ||uraban.me
 ||vrsmash.com
 ||vultryhw.com
@@ -666,37 +665,22 @@ tumblrviewer
 ||futuhkapp.com
 ||fututrade.com
 ||fututrustee.com
-||cdn.futustatic.com
 ||api.moomoobull.com
 ||moomooequity.com
 ||moomootrustee.com
 ||9oju31.launches.appsflyersdk.com
 ||sgqt0j.launches.appsflyersdk.com
 ||shortconn.im.qcloud.com
-||api.lbkrs.com
-||api-gl.lbkrs.com
 ||longbridge.cloud
 ||longbridge.sg
 ||tigerbrokers.com
 ||tigerbrokers.net
 ||tigerbrokers.nz
 ||quote.longbridge.global
-||trade.longportapp.com
-||openapi.longbridge.com
-||openapi-quote.longbridge.com
-||openapi-trade.longbridge.com
 ||openapi.longbridge.cn
 ||openapi-quote.longbridge.cn
 ||openapi-trade.longbridge.cn
 ||cg.play-analytics.com
-||qtcard.futunn.com
-||qtcardfthk.futufin.com
-||openapi.futunn.com
-||api.futunn.com
-||api5.futunn.com
-||trade.futunn.com
-||support.futunn.com
-||download.futunn.com
 !----------------Frauds & Scams-----------------
 !!---Content Farm(fake 500 error)---
 ||read01.com
@@ -2497,7 +2481,6 @@ iipdigital.usembassy.gov
 ||hkdc.us
 ||hket.com
 ||hkfaa.com
-|https://m.hkgalden.com
 ||hkgpao.com
 ||hklts.org.hk
 ||hkmap.live
@@ -3410,6 +3393,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||quakemachinex.com
 |http://qmp4.com
 ||qianmo.tw
 ||qbittorrent.org
@@ -4508,7 +4492,6 @@ iipdigital.usembassy.gov
 ||zvereff.com
 ||zyxel.com
 @@||firebase-settings.crashlytics.com
-@@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
 @@||ci.android.com
