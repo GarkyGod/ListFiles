@@ -44,11 +44,12 @@
 			"key":"key_csp_Douban",
 			"name":"🎲豆瓣",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
+//			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
+			"jar":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 //	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
