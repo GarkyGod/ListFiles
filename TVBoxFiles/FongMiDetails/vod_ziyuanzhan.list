@@ -12,7 +12,8 @@
 //	"wallpaper": "https://jianbian.chuqiuyu.workers.dev",  // Proxy|前綴jianbian=漸變,前綴tian=?,前綴yun=?,前綴shuping=豎屏,前綴gao=卡通18+,前綴liu=真人18+,
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://ghproxy.it/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 //	"spider": "https://gh.noki.eu.org/https://github.com/FongMi/CatVodSpider/blob/main/jar/custom_spider.jar?raw=true",
 
 
@@ -45,11 +46,12 @@
 			"name":"🎲豆瓣",
 			"type":3,
 //			"jar":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
-			"jar":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
+//			"jar":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
+			"jar":"https://ghproxy.it/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 //	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
