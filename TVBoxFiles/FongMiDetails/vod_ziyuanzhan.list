@@ -55,7 +55,7 @@
 		},
 //	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
-//////////////////////////////////////////////////  📡資源站  //////////////////////////////////////////////////
+//////////////////////////////////////////////////  📡Web  //////////////////////////////////////////////////
 		{
 			"key":"key_ZQ_CaiJi",  // https://zhangqun66.xyz/wyys.php  // http://zhangqun1818.serv00.net/wyys.php  // https://zhangqun66.xyz/zq/api.json  // http://zhangqun1818.serv00.net/zq/api.json
 			"name":"📡老張觀影|採集合輯",
@@ -239,7 +239,7 @@
 
 		{
 			"key":"key_360",  // https://360zy.com/  // https://360zy.net/  // https://360zy.vip/  // https://360zy.top/  // https://360zy.tv/  // https://360zy1.com/ …… https://360zy10.com/  // https://t.me/sllzyz
-			"name":"📡資源站|360",
+			"name":"📡Web|360",
 			"type":1,  // "type":0,
 			"api":"https://360zy.com/api.php/provide/vod/",  // "api":"https://360zy.com/api.php/provide/vod/at/xml",  // "api":"https://360zyzz.com/api.php/provide/vod/",  // "api":"https://360zyzz.com/api.php/provide/vod/at/xml",
 			"searchable":1,
@@ -253,7 +253,7 @@
 
 //		{
 //			"key":"key_394tv",  // https://www.394tv.com/
-//			"name":"📡資源站|394TV|🚫",
+//			"name":"📡Web|394TV|🚫",
 //			"type":1,  // "type":0,
 //			"api":"https://www.394tv.com/api.php/provide/vod/",  // "api":"https://www.394tv.com/api.php/provide/vod/at/xml",
 //			"searchable":1,
@@ -267,7 +267,7 @@
 
 //		{
 //			"key":"key_789",  // https://www.caiji.cyou/
-//			"name":"📡資源站|789|🚫",
+//			"name":"📡Web|789|🚫",
 //			"type":1,  // "type":0,
 //			"api":"https://www.caiji.cyou/api.php/provide/vod/",  // "api":"https://www.caiji.cyou/api.php/provide/vod/at/xml",
 //			"searchable":1,
@@ -281,7 +281,7 @@
 
 		{
 		"key":"key_baidu",  // https://bdzy.com/  // https://api.apibdzy.com/  // https://bdzy1.com/ …… https://bdzy8.com/
-		"name":"📡資源站|百度",
+		"name":"📡Web|百度",
 		"type":1,  // "type":0,
 		"api":"https://api.apibdzy.com/api.php/provide/vod/",  // "api":"https://api.apibdzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -295,7 +295,7 @@
 
 		{
 		"key":"key_baofeng",  // http://bfzy.tv/  // http://bfzy1.tv/ …… http://bfzy10.tv/
-		"name":"📡資源站|暴風",
+		"name":"📡Web|暴風",
 		"type":1,  // "type":0,
 		"api":"https://bfzyapi.com/api.php/provide/vod/",  // "api":"https://bfzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/",  // "api":"http://by.bfzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -309,7 +309,7 @@
 
 		{
 		"key":"key_dianyingtiantang",  // http://dyttzy.tv/  // http://dyttzy1.tv/ …… http://dyttzy5.tv/
-		"name":"📡資源站|電影天堂",
+		"name":"📡Web|電影天堂",
 		"type":1,  // "type":0,
 		"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/",  // "api":"http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -323,7 +323,7 @@
 
 		{
 		"key":"key_douban",  // https://dbzy.tv/  // https://doubanzy.net/  // https://doubanzy.cc/  // https://doubanziyuan.net/  // https://doubanziyuan.com/  // https://dbzy1.com/
-		"name":"📡資源站|豆瓣",
+		"name":"📡Web|豆瓣",
 		"type":1,  // "type":0,
 		"api":"https://caiji.dbzy5.com/api.php/provide/vod/",  // "api":"https://caiji.dbzy5.com/api.php/provide/vod/at/xml",  // "api":"https://caiji.doubanzy.cc/api.php/provide/vod/",  // "api":"https://caiji.dbzy.tv/api.php/provide/vod/",
 		"searchable":1,
@@ -337,7 +337,7 @@
 
 		{
 		"key":"key_feifan",  // http://www.ffzy.tv/  // http://ffzy1.tv/ …… http://ffzy5.tv/
-		"name":"📡資源站|非凡",
+		"name":"📡Web|非凡",
 		"type":1,  // "type":0,
 		"api":"http://api.ffzyapi.com/api.php/provide/vod/",  // "api":"https://api.ffzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://cj.ffzyapi.com/api.php/provide/vod/",  // "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -351,7 +351,7 @@
 
 		{
 		"key":"key_guangsu",  // https://guangsuzy.com/  // https://guangsuziyuan.com/  // https://guangsuzy.net/  // https://guangsuziyuan.net/
-		"name":"📡資源站|光速",
+		"name":"📡Web|光速",
 		"type":1,  // "type":0,
 		"api":"https://api.guangsuapi.com/api.php/provide/vod/",  // "api":"https://api.guangsuapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -365,7 +365,7 @@
 
 		{
 		"key":"key_haohua",  // http://www.haohuazy.com/  // https://www.haohuaziyuan.com/
-		"name":"📡資源站|豪華",
+		"name":"📡Web|豪華",
 		"type":1,  // "type":0,
 		"api":"https://hhzyapi.com/api.php/provide/vod/",  // "api":"https://hhzyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -379,7 +379,7 @@
 
 //		{
 //		"key":"key_huohua",  // https://cj.huohua.live/  // http://cj.huohua.vip/
-//		"name":"📡資源站|火花|💱",
+//		"name":"📡Web|火花|💱",
 //		"type":1,  // "type":0,
 //		"api":"https://cj.huohua.live/api.php/provide/vod/?uid=你的UID",  // "api":"https://cj.huohua.live/api.php/provide/vod/at/xml/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/?uid=你的UID",  // "api":"http://cj.huohua.vip/api.php/provide/vod/at/xml/?uid=你的UID",
 //		"searchable":1,
@@ -393,7 +393,7 @@
 
 		{
 		"key":"key_huya",  // https://huyazy.com/  // http://huyazy.net/
-		"name":"📡資源站|虎牙",
+		"name":"📡Web|虎牙",
 		"type":1,  // "type":0,
 		"api":"https://www.huyaapi.com/api.php/provide/vod/",  // "api":"https://www.huyaapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -407,7 +407,7 @@
 
 		{
 		"key":"key_hongniu",  // https://hongniuziyuan.net/  // https://hongniuzy.net/  // https://hongniuziyuan.com/  // https://hongniuzy.com/  // https://hongniuziyuan.tv/  // https://hongniuzy.tv/
-		"name":"📡資源站|紅牛",
+		"name":"📡Web|紅牛",
 		"type":1,  // "type":0,
 		"api":"https://www.hongniuzy2.com/api.php/provide/vod/",  // "api":"https://www.hongniuzy2.com/api.php/provide/vod/at/xml",    // "api":"https://www.hongniuzy3.com/api.php/provide/vod/",  // "api":"https://www.hongniuzy3.com/api.php/provide/vod/at/xml"
 		"searchable":1,
@@ -421,7 +421,7 @@
 
 		{
 		"key":"key_ikun",  // https://ikunzy.com/ | proxy  // https://ikunzy.net/ | proxy  // https://ikunzy.org/ | proxy  // https://ikunzy.vip/ | proxy  // https://ikzy1.com/ …… https://ikzy9.com/ | proxy  // https://t.me/ikunzyz
-		"name":"📡資源站|ikun|⚠️",
+		"name":"📡Web|ikun|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://ikunzyapi.com/api.php/provide/vod/",  // "api":"https://ikunzyapi.com/api.php/provide/vod/at/xml",  // "api":"http://ikunzy.com/api.php/provide/vod/",  // "api":"http://ikunzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -435,7 +435,7 @@
 
 		{
 		"key":"key_inmi",  // https://www.inmi.app/
-		"name":"📡資源站|inmi映迷|⚠️",
+		"name":"📡Web|inmi映迷|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://www.inmi.app/api.php/provide/vod/",  // "api":"https://www.inmi.app/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -449,7 +449,7 @@
 
 		{
 		"key":"key_iqiyi",  // https://www.iqiyizy.com/  // https://iqiyizy.cc/  // https://iqiyizy.vip/  // https://iqiyizy1.com/ …… https://iqiyizy9.com/
-		"name":"📡資源站|愛奇藝",
+		"name":"📡Web|愛奇藝",
 		"type":1,  // "type":0,
 		"api":"https://iqiyizyapi.com/api.php/provide/vod/",  // "api":"https://iqiyizyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -463,7 +463,7 @@
 
 		{
 		"key":"key_jianan",  // http://154.219.117.232:9981/  // https://t.me/jacloud_xyz
-		"name":"📡資源站|建安",
+		"name":"📡Web|建安",
 		"type":1,  // "type":0,
 		"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",  // "api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/xml",
 		"searchable":1,
@@ -477,7 +477,7 @@
 
 //		{
 //		"key":"key_jinchan",  // https://zy.jinchancaiji.com/
-//		"name":"📡資源站|金蟬|🚫",
+//		"name":"📡Web|金蟬|🚫",
 //		"type":1,
 //		"api":"https://zy.jinchancaiji.com/api.php/provide/vod/",
 //		"searchable":1,
@@ -491,7 +491,7 @@
 
 		{
 		"key":"key_jinying",  // https://jinyingzy.com/  // https://jinyingzy.net/  // https://jinyingziyuan.com/  // https://jyzy1.com/ …… https://jyzy3.com/
-		"name":"📡資源站|金鷹",
+		"name":"📡Web|金鷹",
 		"type":1,  // "type":0,
 		"api":"https://jyzyapi.com/provide/vod/",  // "api":"https://jyzyapi.com/provide/vod/at/xml",  // "api":"https://jinyingzy.com/provide/vod/",  // "api":"https://jinyingzy.com/provide/vod/at/xml",
 		"searchable":1,
@@ -505,7 +505,7 @@
 
 		{
 		"key":"key_jisu",  // https://jisuzy.com/  // https://jisuzy.tv/  // http://www.jisuziyuan.com/  // http://www.jszy666.com/  // http://www.jszy333.com/
-		"name":"📡資源站|極速",
+		"name":"📡Web|極速",
 		"type":1,  // "type":0,
 		"api":"https://jszyapi.com/api.php/provide/vod/",  // "api":"https://jszyapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -519,7 +519,7 @@
 
 		{
 		"key":"key_kuaiche",  // https://kuaichezy.com/
-		"name":"📡資源站|快車",
+		"name":"📡Web|快車",
 		"type":1,  // "type":0,
 		"api":"https://caiji.kuaichezy.org/api.php/provide/vod/",  // "api":"https://caiji.kuaichezy.org/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -533,7 +533,7 @@
 
 		{
 		"key":"key_liangzi",  // http://lzzy.tv/  // https://lzizy1.com/ …… https://lzizy8.com/
-		"name":"📡資源站|量子",
+		"name":"📡Web|量子",
 		"type":1,  // "type":0,
 		"api":"https://cj.lziapi.com/api.php/provide/vod/",  // "api":"https://cj.lziapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -547,7 +547,7 @@
 
 		{
 		"key":"key_maotai",  // https://maotaiziyuan.com/  // https://maotaizy.com/  // https://maotaizy.cc/  // https://mtzy.tv/  // https://mtzy.me/  // https://mtzy1.com/ …… https://mtzy6.com/  // https://t.me/mtzyme
-		"name":"📡資源站|茅臺|⚠️",
+		"name":"📡Web|茅臺|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://caiji.maotai999.vip/api.php/provide/vod/",  // "api":"https://caiji.maotai999.vip/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.cc/api.php/provide/vod/at/xml",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/",  // "api":"https://caiji.maotaizy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -561,7 +561,7 @@
 
 		{
 		"key":"key_maoyan",  // https://www.maoyanzy.com/  // https://www.maoyanzy.cc/  // https://www.maoyanzy.vip/  // https://www.maoyanzy.xyz/  // https://www.maoyanzy.top/
-		"name":"📡資源站|貓眼",
+		"name":"📡Web|貓眼",
 		"type":1,  // "type":0,
 		"api":"https://api.maoyanapi.top/api.php/provide/vod/",  // "api":"https://api.maoyanapi.top/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -575,7 +575,7 @@
 
 		{
 		"key":"key_modu",  // https://www.moduzy.com/ | proxy  // https://www.moduzy.net/ | proxy  // https://www.moduzy.cc/  // https://www.moduzy.vip/  // https://www.moduzy1.com/ ……   // https://www.moduzy15.com/
-		"name":"📡資源站|魔都",
+		"name":"📡Web|魔都",
 		"type":1,  // "type":0,
 		"api":"https://caiji.moduapi.cc/api.php/provide/vod/",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/at/xml",  // "api":"https://www.mdzyapi.com/api.php/provide/vod/",  // "api":"https://caiji.moduapi.cc/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -589,7 +589,7 @@
 
 		{
 		"key":"key_niuniu",  // https://niuniuzy.cc/  // https://niuniuzy.info/  // https://niuniuzy.me/  // https://niuniuzy.org/  // https://t.me/niuniuzy1
-		"name":"📡資源站|牛牛",
+		"name":"📡Web|牛牛",
 		"type":1,  // "type":0,
 		"api":"https://api.niuniuzy.me/api.php/provide/vod/",  // "api":"https://api.niuniuzy.me/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -603,7 +603,7 @@
 
 		{
 		"key":"key_ok",  // https://okzyw.cc/  // https://okzyw.net/  // https://t.me/okzy666
-		"name":"📡資源站|OK",
+		"name":"📡Web|OK",
 		"type":1,  // "type":0,
 		"api":"https://api.okzyw.net/api.php/provide/vod/",  // "api":"https://api.okzyw.net/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -617,7 +617,7 @@
 
 		{
 		"key":"key_piaoling",  // https://www.p21000.com/
-		"name":"📡資源站|飄零",
+		"name":"📡Web|飄零",
 		"type":1,  // "type":0,
 		"api":"https://p2100.net/api.php/provide/vod/",  // "api":"https://p2100.net/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -631,7 +631,7 @@
 
 //		{
 //		"key":"key_pbpan",  // https://www.pbpan.com/  // https://t.me/pbpancom
-//		"name":"📡資源站|瀑布盤|🚫",
+//		"name":"📡Web|瀑布盤|🚫",
 //		"type":0,  // "type":1,
 //		"api":"https://dh.ha.cn/api.php/provide/vod/at/xml",  // "api":"https://dh.ha.cn/api.php/provide/vod/",
 //		"searchable":1,
@@ -645,7 +645,7 @@
 
 //		{
 //		"key":"key_qilin",  // https://www.qilinzyz.com/
-//		"name":"📡資源站|麒麟|💱",
+//		"name":"📡Web|麒麟|💱",
 //		"type":1,  // "type":0,
 //		"api":"https://www.qilinzyz.com/api.php/provide/vod/?uid=你的UID",  // "api":"https://www.qilinzyz.com/api.php/provide/vod/at/xml/?uid=你的UID",
 //		"searchable":1,
@@ -660,9 +660,8 @@
 		{
 		"key":"key_ruyi",  // https://www.ryzyw.com/  // https://www.ryzy.tv/  // https://www.ryzy1.tv/ …… https://www.ryzy9.tv/  // https://t.me/ryzywcom
 		"name":"📡Web|如意",
-		"type":1,  // "type":0,
-		"api":"https://cj.rytvapi.com/api.php/provide/vod/",  // "api":"https://bycj.rytvapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/at/xml",
-		"playUrl":"https://ruyiplayer.com?url=",
+		"type":0,  // "type":1,
+		"api":"https://cj.rytvapi.com/api.php/provide/vod/at/xml",  // "api":"https://bycj.rytvapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影片","连续剧","综艺片","动漫片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","伦理片","电影解说","体育","足球","篮球","网球","斯诺克","预告片","短剧","动画电影"],
@@ -674,7 +673,7 @@
 
 		{
 		"key":"key_shandian",  // http://shandianzy.com/ // http://shandianzy.net/  // http://shandianzy.cc/
-		"name":"📡資源站|閃電",
+		"name":"📡Web|閃電",
 		"type":1,  // "type":0,
 		"api":"https://sdzyapi.com/api.php/provide/vod/",  // "api":"https://sdzyapi.com/api.php/provide/vod/at/xml"
 		"searchable":1,
@@ -688,7 +687,7 @@
 
 //		{
 //		"key":"key_shanhai",  // https://gc.wki8.com/
-//		"name":"📡資源站|山海|💱",
+//		"name":"📡Web|山海|💱",
 //		"type":1,  // "type":0,
 //		"api":"https://gc.wki8.com/api.php/provide/vod",  // "api":"https://gc.wki8.com/api.php/provide/vod/at/xml",
 //		"searchable":1,
@@ -702,7 +701,7 @@
 
 		{
 		"key":"key_subo",  // https://subocaiji.com/  // http://www.subozy.com/  // http://www.suboziyuan.com/  // http://suboziyuan.net/
-		"name":"📡資源站|速播",
+		"name":"📡Web|速播",
 		"type":1,  // "type":0,
 		"api":"https://subocj.com/api.php/provide/vod/",  // "api":"https://subocj.com/api.php/provide/vod/at/xml",  // "api":"https://subocaiji.com/api.php/provide/vod/",  // "api":"https://subocaiji.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -716,7 +715,7 @@
 
 		{
 		"key":"key_suoni",  // https://suonizy.com/  // https://suonizy.cc/  // https://suonizy.net/  // https://t.me/suonizy
-		"name":"📡資源站|索尼",
+		"name":"📡Web|索尼",
 		"type":1,  // "type":0,
 		"api":"https://suoniapi.com/api.php/provide/vod/",  // "api":"https://suoniapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -730,7 +729,7 @@
 
 		{
 		"key":"key_taopian",  // https://www.taopianzy.com/  // https://www.taopianzy01.com/ …… https://www.taopianzy2.com/  // https://t.me/taopian
-		"name":"📡資源站|淘片|⚠️",
+		"name":"📡Web|淘片|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://taopianapi.com/cjapi/mc/vod/json.html",  // "api":"https://taopianapi.com/cjapi/mc/vod/xml.html",
 		"searchable":1,
@@ -744,7 +743,7 @@
 
 		{
 		"key":"key_tianyayingshi",  // https://tyyszy.com/  // https://t.me/tyyspd
-		"name":"📡資源站|天涯影視",
+		"name":"📡Web|天涯影視",
 		"type":1,  // "type":0,
 		"api":"https://tyyszyapi.com/api.php/provide/vod/",  // "api":"https://tyyszyapi.com/api.php/provide/vod/at/xml",  // "api":"https://ty.tyyszy5.com/api.php/provide/vod/",
 		"searchable":1,
@@ -758,7 +757,7 @@
 
 		{
 		"key":"key_uku",  // https:ukuzy.com/  // https:ukuzy0.com/ …… https:ukuzy9.com/
-		"name":"📡資源站|U酷",
+		"name":"📡Web|U酷",
 		"type":1,  // "type":0,
 		"api":"https://api.ukuapi88.com/api.php/provide/vod/",  // "api":"https://api.ukuapi88.com/api.php/provide/vod/at/xml",  // "api":"https://api.ukuapi.com/api.php/provide/vod/",  // "api":"https://api.ukuapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -772,7 +771,7 @@
 
 //		{
 //		"key":"key_wangwang",  // https://www.wwzy.tv/
-//		"name":"📡資源站|旺旺",
+//		"name":"📡Web|旺旺",
 //		"type":1,  // "type":0,
 //		"api":"https://api.wwzy.tv/api.php/provide/vod/",  // "api":"https://api.wwzy.tv/api.php/provide/vod/at/xml",
 //		"searchable":1,
@@ -786,7 +785,7 @@
 
 //		{
 //		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.cc/  // https://wolongzy.tv/  // https://wolongzyw.tv/  // https://wolongzy.tv/
-//		"name":"📡資源站|臥龍",
+//		"name":"📡Web|臥龍",
 //		"type":1,  // "type":0,
 //		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",
 //		"playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
@@ -801,7 +800,7 @@
 
 		{
 		"key":"key_wujin",  // https://wujinzy.net/  // https://wujinzy.com/  // https://wujinzy.co/  // https://wujinzy.cc/  // https://help.wujinapi.me/
-		"name":"📡資源站|無盡",
+		"name":"📡Web|無盡",
 		"type":1,  // "type":0,
 		"api":"https://api.wujinapi.me/api.php/provide/vod/",  // "api":"https://api.wujinapi.me/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -815,7 +814,7 @@
 
 		{
 		"key":"key_wushuiyin",  // https://wsyzy.cc/ //  https://t.me/wsyzy_cc
-		"name":"📡資源站|無水印",
+		"name":"📡Web|無水印",
 		"type":1,  // "type":0,
 		"api":"https://api.wsyzy.net/api.php/provide/vod/",  // "api":"https://api.wsyzy.net/api.php/provide/vod/at/xml"
 		"searchable":1,
@@ -829,7 +828,7 @@
 
 		{
 		"key":"key_xinlang",  // https://xinlangzy.com/  // https://xinlangziyuan.com/  // https://xinlangziyuan.net/  // https://xinlangzy.net/
-		"name":"📡資源站|新浪",
+		"name":"📡Web|新浪",
 		"type":1,  // "type":0,
 		"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",  // "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
 		"searchable":1,
@@ -843,7 +842,7 @@
 
 		{
 		"key":"key_yaya",  // https://yayazy.com/  // https://yayazy.net/  // https://yayazy.ne/  // https://yayazy.org/  // https://yayazy.me/  // https://t.me/yayazy11
-		"name":"📡資源站|鴨鴨(丫丫)",
+		"name":"📡Web|鴨鴨(丫丫)",
 		"type":1,  // "type":0,
 		"api":"https://cj.yayazy.net/api.php/provide/vod/",  // "api":"https://cj.yayazy.net/api.php/provide/vod/at/xml",  // https://cj2.yayazy.net/api.php/provide/vod/,https://cj2.yayazy.net/api.php/provide/vod/at/xml
 		"searchable":1,
@@ -857,7 +856,7 @@
 
 		{
 		"key":"key_yinghua",  // https://yhzy.cc/  // https://help.apiyhzy.com/
-		"name":"📡資源站|櫻花",
+		"name":"📡Web|櫻花",
 		"type":1,  // "type":0,
 		"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",  // "api":"https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
 		"searchable":1,
@@ -871,7 +870,7 @@
 
 		{
 		"key":"key_youzhi",  // https://yzzy.tv/  // https://yzzy.me/  // https://hdzyk.com/  // http://1080zyk1.com/ …… http://1080zyk20.com/
-		"name":"📡資源站|優質",
+		"name":"📡Web|優質",
 		"type":1,  // "type":0,
 		"api":"https://api.yyzy-tv.vip/inc/apijson.php",  // "api":"https://api.yzzy-api.com/inc/apijson.php",  // "api":"https://api.yzzy-api.com/inc/api_all.php",
 		"searchable":1,
@@ -885,7 +884,7 @@
 
 		{
 		"key":"key_yunjiexi",  // https://www.yparse.com/
-		"name":"📡資源站|雲解釋",
+		"name":"📡Web|雲解釋",
 		"type":1,  // "type":0,
 		"api":"https://api.yparse.com/api/json",  // "api":"https://api.yparse.com/api/xml",
 		"searchable":1,
@@ -899,7 +898,7 @@
 
 		{
 		"key":"key_zuida",  // https://zuidazy.com/  // https://zuidazy.me/  // https://zuidazy.co/  // https://zuida.xyz/
-		"name":"📡資源站|最大",
+		"name":"📡Web|最大",
 		"type":1,  // "type":0,
 		"api":"https://api.zuidapi.com/api.php/provide/vod/",  // "api":"https://api.zuidapi.com/api.php/provide/vod/at/xml",
 		"searchable":1,
