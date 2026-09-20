@@ -659,7 +659,7 @@
 
 		{
 		"key":"key_ruyi",  // https://www.ryzyw.com/  // https://www.ryzy.tv/  // https://www.ryzy1.tv/ …… https://www.ryzy9.tv/  // https://t.me/ryzywcom
-		"name":"📡資源站|如意",
+		"name":"📡Web|如意",
 		"type":1,  // "type":0,
 		"api":"https://cj.rytvapi.com/api.php/provide/vod/",  // "api":"https://bycj.rytvapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/",  // "api":"https://cj.rycjapi.com/api.php/provide/vod/at/xml",
 		"playUrl":"https://ruyiplayer.com?url=",
