@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-21 00:10:04
+!Last Modified: 2026-09-22 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1671,6 +1671,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
@@ -3022,6 +3023,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||note.com
 ||nthlink.com
 ||neodb.social
 ||nfscofficial.com
@@ -6233,7 +6235,6 @@ iipdigital.usembassy.gov
 ||nostr.build
 ||nostr.land
 ||nostr.wine
-||note.com
 ||note.ms
 ||notion.com
 ||notion.site
