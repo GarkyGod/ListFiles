@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-23 00:10:06
+!Last Modified: 2026-09-24 00:10:09
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5180,12 +5180,10 @@ iipdigital.usembassy.gov
 ||breaking911.com
 ||briian.com
 ||broadbook.com
-||brockbbs.com
 ||brucewang.net
 ||btdigg.org
 ||btloader.com
 ||btspread.com
-||btsynckeys.com
 ||buddhistchannel.tv
 ||busayari.com
 ||businesstimes.com.sg
@@ -5259,6 +5257,7 @@ iipdigital.usembassy.gov
 ||chinalawandpolicy.com
 ||chinalawtranslate.com
 ||chinanewscenter.com
+||chinanewsx.com
 ||chinapost.com.tw
 ||chinarightsia.org
 ||chinasmile.net
@@ -5323,7 +5322,6 @@ iipdigital.usembassy.gov
 ||coolncute.com
 ||cos-moe.com
 ||courrier.jp
-||cq99.us
 ||crazys.cc
 ||crd-net.org
 ||creadersnet.com
@@ -5555,7 +5553,6 @@ iipdigital.usembassy.gov
 ||firearmsworld.net
 ||send.firefox.com
 ||firstfivefollowers.com
-||firstory.io
 ||flagsonline.it
 ||fleshbot.com
 ||flickriver.com
@@ -5578,7 +5575,6 @@ iipdigital.usembassy.gov
 ||freealim.com
 ||freebearblog.org
 ||freechina.net
-||freechina.news
 ||freedomhongkong.org
 ||freefq.com
 ||freefuckvids.com
@@ -5612,7 +5608,6 @@ iipdigital.usembassy.gov
 ||funp.com
 ||fuq.com
 ||furhhdl.org
-||futurechinaforum.org
 ||fux.com
 ||fuyin.net
 ||fuyindiantai.org
@@ -5643,7 +5638,6 @@ iipdigital.usembassy.gov
 ||gclooney.com
 ||gcpnews.com
 ||gdbt.net
-||gdzf.org
 ||gelbooru.com
 ||gemini.com
 ||geocities.co.jp
@@ -5870,6 +5864,7 @@ iipdigital.usembassy.gov
 ||innovarad.tw
 ||invade.tw
 ||iopenmall.tw
+||ipaddress.my
 ||iphonehacks.com
 ||api.ipify.org
 ||ipobar.com
@@ -5887,7 +5882,6 @@ iipdigital.usembassy.gov
 ||istef.info
 ||istiqlalhewer.com
 ||istockphoto.com
-||isunaffairs.com
 ||isuntv.com
 ||itweet.net
 ||iu45.com
@@ -6146,7 +6140,6 @@ iipdigital.usembassy.gov
 ||murmur.tw
 ||musicade.net
 ||muslimvideo.com
-||muzmi.org
 ||my-formosa.com
 ||my-proxy.com
 ||creative.myavlive.com
@@ -6217,6 +6210,7 @@ iipdigital.usembassy.gov
 ||nextmedia.com
 ||nfjtyd.com
 ||ngensis.com
+||www3.nhk.or.jp
 ||nhk-ondemand.jp
 ||ninecommentaries.com
 ||taiwanyes.ning.com
@@ -6232,6 +6226,7 @@ iipdigital.usembassy.gov
 ||norbulingka.org
 ||nordcdn.com
 ||nordstrommedia.com
+||nordwangluo.com
 ||nostr.build
 ||nostr.land
 ||nostr.wine
@@ -6404,7 +6399,6 @@ iipdigital.usembassy.gov
 ||proxifier.com
 ||proxlet.com
 ||proxy.org
-||proxy1.xyz
 ||proxyanonimo.es
 ||proxyroad.com
 ||proxytunnel.net
@@ -6421,6 +6415,7 @@ iipdigital.usembassy.gov
 ||punjab.gov.in
 ||punjab.gov.pk
 ||punyu.com
+||purevpn.com.tw
 ||purplelotus.org
 ||pussyspace.com
 ||putihome.org
@@ -6893,6 +6888,7 @@ iipdigital.usembassy.gov
 ||van001.com
 ||van698.com
 ||vanpeople.com
+||vava8.com
 ||vct.news
 ||velkaepocha.sk
 ||venchina.com
@@ -6948,7 +6944,6 @@ iipdigital.usembassy.gov
 ||wapedia.mobi
 ||washeng.net
 ||watchpeopledie.tv
-||wdf5.com
 ||wearehairy.com
 ||weavai.app
 ||webbang.net
@@ -7009,7 +7004,6 @@ iipdigital.usembassy.gov
 ||xchina.co
 ||xcritic.com
 ||xda-developers.com
-||xfiles.to
 ||xhcdn.com
 ||xiaobaiwu.com
 ||xiaochuncnjp.com
@@ -7287,6 +7281,7 @@ iipdigital.usembassy.gov
 ||braze.com
 ||briefdream.com
 ||brkmd.com
+||brockbbs.com
 ||browserleaks.com
 ||bt2mag.com
 ||btaia.com
@@ -7297,6 +7292,7 @@ iipdigital.usembassy.gov
 ||btsow.com
 ||btsow.fun
 ||btsow.online
+||btsynckeys.com
 ||buddhanet.com.tw
 ||bulianglin.com
 ||businessinsider.com.au
@@ -7412,6 +7408,7 @@ iipdigital.usembassy.gov
 ||cosco.com.tw
 ||cosplayjav.pl
 ||costco.com.tw
+||cq99.us
 ||crossthewall.net
 ||cryptographyengineering.com
 ||ctfriend.net
@@ -7585,6 +7582,7 @@ iipdigital.usembassy.gov
 ||free-ssh.com
 ||free4u.com.ar
 ||freechal.com
+||freechina.news
 ||freechinaforum.org
 ||freedl.org
 ||freedomchina.info
@@ -7604,6 +7602,7 @@ iipdigital.usembassy.gov
 ||funami.tech
 ||funf.tw
 ||furl.net
+||futurechinaforum.org
 ||fvs.io
 ||fzh999.com
 ||fzh999.net
@@ -7615,6 +7614,7 @@ iipdigital.usembassy.gov
 ||gardennetworks.org
 ||gati.org.tw
 ||gaycn.net
+||gdzf.org
 ||geekerhome.com
 ||geekheart.info
 ||getfreedur.com
@@ -7870,6 +7870,7 @@ iipdigital.usembassy.gov
 ||isohunt.com
 ||istars.co.nz
 ||istarshine.com
+||isunaffairs.com
 ||itaboo.info
 ||ithome.com.tw
 ||itorrents.com
@@ -8259,6 +8260,7 @@ iipdigital.usembassy.gov
 ||proex.io
 ||prosciana.com
 ||protonmail.com
+||proxy1.xyz
 ||proxylist.org.uk
 ||proxypy.net
 ||prozz.net
@@ -8696,6 +8698,7 @@ iipdigital.usembassy.gov
 ||wangruowang.org
 ||warehouse333.com
 ||watch8x.com
+||wdf5.com
 ||wdubo.com
 ||weather.com.hk
 ||web.id
@@ -8745,6 +8748,7 @@ iipdigital.usembassy.gov
 ||x1949x.com
 ||x24hr.com
 ||xdubo.com
+||xfiles.to
 ||xhamsterlive.com
 ||xianba.net
 ||xianchawang.net
