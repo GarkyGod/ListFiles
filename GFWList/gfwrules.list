@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-26 00:10:04
+!Last Modified: 2026-09-27 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -2272,6 +2272,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
 ||guangming.com.my
@@ -3395,6 +3396,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
 ||qianmo.tw
@@ -4125,6 +4127,7 @@ iipdigital.usembassy.gov
 ||uyghurtribunal.com
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vava8.com
 ||v.recipes
 ||vox.com
 ||vimeocdn.com
@@ -5669,7 +5672,6 @@ iipdigital.usembassy.gov
 ||gmiddle.com
 ||gmiddle.net
 ||gmll.org
-||c.go-mpulse.net
 ||goagentplus.com
 ||gobet.cc
 ||godsdirectcontact.org
@@ -6056,6 +6058,7 @@ iipdigital.usembassy.gov
 ||maniash.com
 ||mansion.com
 ||mansionpoker.com
+||mapy.com
 ||marguerite.su
 ||martinoei.com
 ||martsangkagyuofficial.org
@@ -6888,7 +6891,6 @@ iipdigital.usembassy.gov
 ||van001.com
 ||van698.com
 ||vanpeople.com
-||vava8.com
 ||vct.news
 ||velkaepocha.sk
 ||venchina.com
