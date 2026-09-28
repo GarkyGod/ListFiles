@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-09-28 00:10:05
+!Last Modified: 2026-09-29 00:10:10
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4769,6 +4769,7 @@ iipdigital.usembassy.gov
 ||cloudskillsboost.google
 ||colab.google
 @@||update.crashlytics.com
+||creators.google
 ||crisisresponse.google
 ||datacenters.google
 ||deepmind.google
@@ -4839,6 +4840,7 @@ iipdigital.usembassy.gov
 ||localhost.com
 ||mypicasa.com
 ||nic.youtube
+||notebook.google
 ||notebooklm.google
 ||opensource.google
 ||passwords.google
@@ -5165,6 +5167,7 @@ iipdigital.usembassy.gov
 ||blueangellive.com
 ||bntrace.com
 ||bodog88.com
+||bodu365.co
 ||bonbonme.com
 ||bonfoundation.org
 ||bongacams.com
@@ -6493,6 +6496,7 @@ iipdigital.usembassy.gov
 ||savevid.com
 ||sbme.me
 ||scasino.com
+||scdaily.com
 ||sclub.com.tw
 ||scmpchinese.com
 ||seapuff.com
@@ -6796,7 +6800,6 @@ iipdigital.usembassy.gov
 ||tsemtulku.com
 ||tsquare.tv
 ||tssdnews.com.tw
-||tsu.org.tw
 ||tubaholic.com
 ||tubecup.com
 ||tubegals.com
@@ -8566,6 +8569,7 @@ iipdigital.usembassy.gov
 ||truesocial.media
 ||truth101.co.tv
 ||truthontour.org
+||tsu.org.tw
 ||tsunagarumon.com
 ||tu8964.com
 ||tube.com
