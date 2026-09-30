@@ -794,7 +794,7 @@
 		},
 
 		{
-		"key":"key_taopian",  // https://www.taopianzy.com/  // https://www.taopianzy01.com/ …… https://www.taopianzy2.com/  // https://t.me/taopian
+		"key":"key_taopian",  // https://www.taopianzy.com/  // https://taopianzy01.com/ …… https://www.taopianzy2.com/  // https://t.me/taopian
 		"name":"📡Web|淘片|⚠️",
 		"type":1,  // "type":0,
 		"api":"https://taopianapi.com/cjapi/mc/vod/json.html",  // "api":"https://taopianapi.com/cjapi/mc/vod/xml.html",
