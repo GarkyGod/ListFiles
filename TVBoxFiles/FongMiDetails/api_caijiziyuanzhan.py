@@ -12,8 +12,8 @@ from base.spider import Spider
 
 class Spider(Spider):
     sources = {
-        'key_dianyingtiantang': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml'},
-        'key_wushuiyin': {'name': '無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
+        'key_dianyingtiantang': {'name': '📺電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
+        'key_wushuiyin': {'name': '📺無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
         's3': {'name': '🧸量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         's4': {'name': '📺1080资源', 'api': 'https://api.1080zyku.com/inc/api_mac10.php'},
         's6': {'name': '📺天涯', 'api': 'https://tyyszy.com/api.php/provide/vod'},
