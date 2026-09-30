@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # 专属全网聚合 Python版
 # 适配常见 Cat/TVBox Python Spider
-#本地py适配  😂  
+# 本地py适配
 
 import json
 import requests
@@ -12,8 +12,8 @@ from base.spider import Spider
 
 class Spider(Spider):
     sources = {
-        's1': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json'},
-        's2': {'name': '💧无水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
+        'key_dianyingtiantang': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
+        'key_wushuiyin': {'name': '無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
         's3': {'name': '🧸量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         's4': {'name': '📺1080资源', 'api': 'https://api.1080zyku.com/inc/api_mac10.php'},
         's5': {'name': '🔥155资源', 'api': 'https://155api.com/api.php/provide/vod'},
