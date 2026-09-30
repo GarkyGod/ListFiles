@@ -12,7 +12,7 @@ from base.spider import Spider
 
 class Spider(Spider):
     sources = {
-        'key_360': {'name': '📺360', 'api': 'https://360zy.com/api.php/provide/vod/'},
+        'key_360': {'name': '📺360', 'api': 'https://360zy.com/api.php/provide/vod'},
         'key_baidu': {'name': '📺百度', 'api': 'https://api.apibdzy.com/api.php/provide/vod'},
         'key_baofeng': {'name': '📺暴風', 'api': 'https://bfzyapi.com/api.php/provide/vod'},
         'key_dianyingtiantang': {'name': '📺電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
@@ -33,7 +33,7 @@ class Spider(Spider):
         'key_kuaiche': {'name': '📺快車', 'api': 'https://caiji.kuaichezy.org/api.php/provide/vod'},
         'key_liangzi': {'name': '📺量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         'key_maotai': {'name': '📺茅臺', 'api': 'https://caiji.maotaizy.cc/api.php/provide/vod'},
-        'key_maotai2': {'name': '📺茅臺(備)', 'api': 'https://caiji.maotai999.vip/api.php/provide/vod},
+        'key_maotai2': {'name': '📺茅臺(備)', 'api': 'https://caiji.maotai999.vip/api.php/provide/vod'},
         'key_maoyan': {'name': '📺貓眼', 'api': 'https://api.maoyanapi.top/api.php/provide/vod'},
         'key_modu': {'name': '📺魔都', 'api': 'https://www.mdzyapi.com/api.php/provide/vod'},
         'key_modu2': {'name': '📺魔都(備)', 'api': 'https://caiji.moduapi.cc/api.php/provide/vod'},
