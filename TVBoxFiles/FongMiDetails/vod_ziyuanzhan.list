@@ -309,7 +309,7 @@
 
 		{
 		"key":"key_caiji",  // 
-		"name":"📡Web|採集1",
+		"name":"📡Web|採集",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/72b7239d.py",
 		"searchable":1,
@@ -324,7 +324,7 @@
 		"key":"key_caiji2",  // 
 		"name":"📡Web|測試",
 		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/qist/tvbox/raw/master/py/%E5%8D%8E%E6%95%B0.py",
+		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
