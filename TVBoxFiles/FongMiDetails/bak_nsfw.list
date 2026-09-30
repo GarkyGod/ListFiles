@@ -65,19 +65,19 @@
 			}
 		},
 
-		{
-			"key":"key_91jingpin",  // https://91jpzyw.com/
-			"name":"🔞資源站|91精品(18+)",
-			"type":1,  // "type":0,
-			"api":"https://91jpzyw.com/api.php/provide/vod/",  // "api":"https://91jpzyw.com/api.php/provide/vod/at/xml",
-			"searchable":1,
-			"changeable":1,
-			"style":{"type":"rect","ratio":1.777},
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-			}
-		},
+//		{
+//			"key":"key_91jingpin",  // https://91jpzyw.com/
+//			"name":"🔞資源站|91精品(18+)",
+//			"type":1,  // "type":0,
+//			"api":"https://91jpzyw.com/api.php/provide/vod/",  // "api":"https://91jpzyw.com/api.php/provide/vod/at/xml",
+//			"searchable":1,
+//			"changeable":1,
+//			"style":{"type":"rect","ratio":1.777},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+//			}
+//		},
 
 		{
 			"key":"key_aosika",  // https://aosikazy.com/ | proxy  // https://aosikazy1.com/ …… https://aosikazy10.com/ | 2.3  // https://t.me/AsK_zy
@@ -93,19 +93,19 @@
 			}
 		},
 
-		{
-			"key":"key_baiwan",  // http://bwzyz.tv/  // https://bwzy.tv/  // https://api.bwzyz.com/  // https://t.me/bwzyz889
-			"name":"🔞資源站|百萬(18+)",
-			"type":1,  // "type":0,
-			"api":"https://api.bwzyz.com/api.php/provide/vod/",  // "api":"https://api.bwzyz.com/api.php/provide/vod/at/xml",
-			"searchable":1,
-			"changeable":1,
-			"style":{"type":"rect","ratio":1.777},
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-			}
-		},
+//		{
+//			"key":"key_baiwan",  // http://bwzyz.tv/  //  https://bwzy.tv/ // https://api.bwzyz.com/  // https://t.me/bwzyz889
+//			"name":"🔞資源站|百萬(18+)",
+//			"type":1,  // "type":0,
+//			"api":"https://api.bwzyz.com/api.php/provide/vod/",  // "api":"https://api.bwzyz.com/api.php/provide/vod/at/xml",
+//			"searchable":1,
+//			"changeable":1,
+//			"style":{"type":"rect","ratio":1.777},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+//			}
+//		},
 
 		{
 			"key":"key_ck",  // https://ckzy.me/  // https://ckzy1.com/
@@ -210,6 +210,20 @@
 			"name":"🔞資源站|黑料(18+)",
 			"type":1,  // "type":0,
 			"api":"https://www.heiliaozyapi.com/api.php/provide/vod/",  // "api":"https://heiliaozyapi.com/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.777},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
+			"key":"key_jingpin98",  // http://jp98.vip/  // https://t.me/jp98x
+			"name":"🔞資源站|精品98(18+)",
+			"type":1,  // "type":0,
+			"api":"https://jp98.vip/api.php/provide/vod/",  // "api":"https://jp98.vip/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"changeable":1,
 			"style":{"type":"rect","ratio":1.777},
