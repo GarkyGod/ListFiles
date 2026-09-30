@@ -12,7 +12,7 @@ from base.spider import Spider
 
 class Spider(Spider):
     sources = {
-        's1': {'name': '🎬电影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json'},
+        'dianyingtiantang': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
         's2': {'name': '💧无水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
         's3': {'name': '🧸量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         's4': {'name': '📺1080资源', 'api': 'https://api.1080zyku.com/inc/api_mac10.php'},
