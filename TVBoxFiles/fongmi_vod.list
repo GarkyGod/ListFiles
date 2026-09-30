@@ -3,42 +3,21 @@
 
 //------------------------------=自建源=------------------------------
 		{
-			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
-			"name":"📺️資源站|com"
-		},
-		{
-			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
-			"name":"📺️Backup|com"
-		},
-		{
-			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
-			"name":"🔞NSFW|com"
-		},
-//------------------------------=自建源=------------------------------
-		{
 			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
 			"name":"📺️資源站|cc"
 		},
 		{
-			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
-			"name":"📺️Backup|cc"
+			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
+			"name":"📺️資源站|com"
 		},
 		{
-			"url":"https://ghproxy.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
-			"name":"🔞NSFW|cc"
+			"url":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
+			"name":"📺️資源站|org"
 		},
 //------------------------------=自建代理=------------------------------
 		{
 			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_ziyuanzhan.list",
 			"name":"📺️資源站|G"
-		},
-		{
-			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_bak.list",
-			"name":"📺️Backup|G"
-		},
-		{
-			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/vod_nsfw.list",
-			"name":"🔞NSFW|G"
 		},
 //------------------------------=網絡源=------------------------------
 		{
@@ -65,6 +44,10 @@
 		{
 			"url":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
 			"name":"📖FongMiVod更新|com"
+		},
+		{
+			"url":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
+			"name":"📖FongMiVod更新|org"
 		},
 		{
 			"url":"https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/fongmi_vod.list",
