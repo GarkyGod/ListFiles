@@ -335,7 +335,7 @@
 			"key":"key_senlin",  // http://senlinzy.com/  // http://senlinzy1.com/ …… http://senlinzy10.com/
 			"name":"🔞資源站|森林(18+)",
 			"type":1,  // "type":0,
-			"api":"https://slapibf.com/api.php/provide/vod/",  // "api":"https://slapibf.com/api.php/provide/vod/at/xml",  // "api":"https://beiyong.slapibf.com/api.php/provide/vod/",  // "api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml",
+			"api":"https://beiyong.slapibf.com/api.php/provide/vod/",  // "api":"https://slapibf.com/api.php/provide/vod/",  // "api":"https://slapibf.com/api.php/provide/vod/at/xml",  // "api":"https://beiyong.slapibf.com/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"changeable":1,
 			"style":{"type":"rect","ratio":1.777},
