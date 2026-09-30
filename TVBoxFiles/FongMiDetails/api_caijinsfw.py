@@ -13,7 +13,7 @@ from base.spider import Spider
 class Spider(Spider):
     sources = {
         'key_155': {'name': '🔞155', 'api': 'https://155api.com/api.php/provide/vod'},
-        'key_aosika': {'name': '🔞奧斯卡', 'api': 'https://aosikazy2.com/api.php/provide/vod'},
+        'key_aosika': {'name': '🔞奧斯卡🪜', 'api': 'https://aosikazy1.com/api.php/provide/vod'},
         'key_ck': {'name': '🔞CK', 'api': 'https://ckzy.me/api.php/provide/vod'},
         'key_dadi': {'name': '🔞大地', 'api': 'https://dadiapi.com/feifei2/'},
         'key_danaizi': {'name': '🔞大奶子', 'api': 'https://apidanaizi.com/api.php/provide/vod'},
@@ -23,8 +23,23 @@ class Spider(Spider):
         'key_heiliao': {'name': '🔞黑料', 'api': 'https://www.heiliaozyapi.com/api.php/provide/vod'},
         'key_jingpin98': {'name': '🔞精品98', 'api': 'https://jp98.vip/api.php/provide/vod'},
         'key_jkun': {'name': '🔞JKUN', 'api': 'https://jkunzyapi.com/api.php/provide/vod'},
-        'key_lajiao': {'name': '🔞辣椒Proxy', 'api': 'https://apilj.com/api.php/provide/vod'},
-        'key_lajiao2': {'name': '🔞辣椒(備)Proxy', 'api': 'http://api.11bat.com/api.php/provide/vod'},
+        'key_lajiao': {'name': '🔞辣椒🪜', 'api': 'https://apilj.com/api.php/provide/vod'},
+        'key_laosebi': {'name': '🔞老色逼', 'api': 'https://apilsbzy.com/api.php/provide/vod'},
+        'key_lebo': {'name': '🔞樂播', 'api': 'https://lbapi9.com/api.php/provide/vod'},
+        'key_naixiangxiang': {'name': '🔞奶香香', 'api': 'https://naixxzy1.com/api.php/provide/vod'},
+        'key_madoushipin': {'name': '🔞麻豆視頻', 'api': 'https://9191md.me/api.php/provide/vod'},
+        'key_shayu': {'name': '🔞鯊魚', 'api': 'https://shayuapi.com/api.php/provide/vod'},
+        'key_senlin': {'name': '🔞森林', 'api': 'https://beiyong.slapibf.com/api.php/provide/vod'},
+        'key_souav': {'name': '🔞搜av', 'api': 'https://api.souavzy.vip/api.php/provide/vod'},
+        'key_souav2': {'name': '🔞搜av(備)', 'api': 'https://api.souavzyw.net/api.php/provide/vod'},
+        'key_xiaoji': {'name': '🔞小雞', 'api': 'https://api.xjzyapi.xyz/provide/vod'},
+        'key_xlm_baipiao': {'name': '🔞X聯盟-白嫖', 'api': 'https://www.kxgav.com/api/json.php'},
+        'key_xlm_huangav': {'name': '🔞X聯盟-黃AV', 'api': 'https://www.pgxdy.com/api/json.php'},
+        'key_xlm_meishaonu': {'name': '🔞X聯盟-美少女', 'api': 'https://www.msnii.com/api/json.php'},
+        'key_xlm_xiangnaier': {'name': '🔞X聯盟-香奶兒', 'api': 'https://www.gdlsp.com/api/json.php'},
+        'key_xlm_xiaoshimei': {'name': '🔞X聯盟-小濕妹', 'api': 'https://www.afasu.com/api/json.php'},
+        'key_xlm_yinshuiji': {'name': '🔞X聯盟-淫水機', 'api': 'https://www.xrbsp.com/api/json.php'},
+        'key_yutu': {'name': '🔞玉兔', 'api': 'https://apiyutu.com/api.php/provide/vod'},
     }
 
     headers = {
