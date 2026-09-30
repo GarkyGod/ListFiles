@@ -64,7 +64,7 @@ class Spider(Spider):
     }
 
     headers = {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 okhttp/3.15"
     }
 
     def getName(self):
