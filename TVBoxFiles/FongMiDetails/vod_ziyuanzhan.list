@@ -309,7 +309,7 @@
 
 		{
 		"key":"key_caiji",  // 
-		"name":"📡Web|採集",
+		"name":"📡Web|採集1",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/72b7239d.py",
 		"searchable":1,
