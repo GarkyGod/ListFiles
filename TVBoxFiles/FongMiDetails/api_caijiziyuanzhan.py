@@ -12,11 +12,10 @@ from base.spider import Spider
 
 class Spider(Spider):
     sources = {
-        'key_dianyingtiantang': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
+        'key_dianyingtiantang': {'name': '電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml'},
         'key_wushuiyin': {'name': '無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
         's3': {'name': '🧸量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         's4': {'name': '📺1080资源', 'api': 'https://api.1080zyku.com/inc/api_mac10.php'},
-        's5': {'name': '🔥155资源', 'api': 'https://155api.com/api.php/provide/vod'},
         's6': {'name': '📺天涯', 'api': 'https://tyyszy.com/api.php/provide/vod'},
         's7': {'name': '📺暴风', 'api': 'https://bfzyapi.com/api.php/provide/vod'},
         's8': {'name': '⚡闪电', 'api': 'https://xsd.sdzyapi.com/api.php/provide/vod'},
@@ -29,7 +28,7 @@ class Spider(Spider):
         's15': {'name': '📺豪华', 'api': 'https://hhzyapi.com/api.php/provide/vod'},
         's16': {'name': '📺CK资源', 'api': 'https://ckzy.me/api.php/provide/vod'},
         's17': {'name': '📺U酷', 'api': 'https://api.ukuapi.com/api.php/provide/vod'},
-        's18': {'name': '📺ikun', 'api': 'https://ikunzyapi.com/api.php/provide/vod'},
+        's18': {'name': '📺ikun', 'api': 'http://ikunzy.com/api.php/provide/vod'},
         's19': {'name': '📺无尽', 'api': 'https://api.wujinapi.cc/api.php/provide/vod'},
         's20': {'name': '🌕光速', 'api': 'https://api.guangsuapi.com/api.php/provide/vod'},
         's21': {'name': '📺卧龙', 'api': 'https://collect.wolongzyw.com/api.php/provide/vod'},
