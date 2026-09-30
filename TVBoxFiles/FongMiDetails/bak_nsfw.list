@@ -345,19 +345,19 @@
 			}
 		},
 
-		{
-			"key":"key_semao",  // https://www.semaozy.com/  // https://semaozy1.com/ …… https://semaozy9.com/
-			"name":"🔞資源站|色貓(18+)",
-			"type":1,  // "type":0,
-			"api":"https://caiji.semaozy.net/inc/apijson_vod.php",  // "api":"https://caiji.semaozy.net/inc/api.php",  // "api":"https://semaozy1.com/inc/apijson_vod.php",  // "api":"https://semaozy1.com/inc/api.php",
-			"searchable":1,
-			"changeable":1,
-			"style":{"type":"rect","ratio":1.777},
-			"header":{
-				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
-			}
-		},
+//		{
+//			"key":"key_semao",  // https://www.semaozy.com/  // https://semaozy1.com/ …… https://semaozy9.com/
+//			"name":"🔞資源站|色貓(18+)",
+//			"type":1,  // "type":0,
+//			"api":"https://caiji.semaozy.net/inc/apijson_vod.php",  // "api":"https://caiji.semaozy.net/inc/api.php",  // "api":"https://semaozy1.com/inc/apijson_vod.php",  // "api":"https://semaozy1.com/inc/api.php",
+//			"searchable":1,
+//			"changeable":1,
+//			"style":{"type":"rect","ratio":1.777},
+//			"header":{
+//				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+//			}
+//		},
 
 		{
 			"key":"key_siwa",  // https://siwazyw.tv/  // https://siwazyw.com/  // https://siwazyw.net/  // https://siwazyw.org/  // https://siwazyw.buzz/  // https://siwazyw.club/  // https://siwazyw.pw/  // https://siwazyw.xyz/  // https://t.me/siwazy
@@ -374,10 +374,10 @@
 		},
 
 		{
-			"key":"key_souav",  // https://souavzy.vip/ | close
-			"name":"🔞資源站|搜av(18+)|🚫",
+			"key":"key_souav",  // https://souavzy.vip/ |close  // https://souavzy.net/
+			"name":"🔞資源站|搜av(18+)",
 			"type":1,  // "type":0,
-			"api":"https://api.souavzy.vip/api.php/provide/vod/",  // "api":"https://api.souavzy.vip/api.php/provide/vod/at/xml",
+			"api":"https://api.souavzy.vip/api.php/provide/vod/",  // "api":"https://api.souavzy.vip/api.php/provide/vod/at/xml",  // "api":"https://api.souavzyw.net/api.php/provide/vod/",  // "api":"https://api.souavzyw.net/api.php/provide/vod/at/xml",
 			"searchable":1,
 			"changeable":1,
 			"style":{"type":"rect","ratio":1.777},
