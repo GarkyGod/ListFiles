@@ -406,6 +406,19 @@
 		},
 
 		{
+		"key":"key_hongguo",  // https://hongguoduanju.com
+		"name":"📡Web|紅果短劇",
+		"type":3,
+		"api":"https://jsnz.pages.dev/f/29b94aff.py",
+		"searchable":1,
+		"changeable":1,
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
 		"key":"key_hongniu",  // https://hongniuziyuan.net/  // https://hongniuzy.net/  // https://hongniuziyuan.com/  // https://hongniuzy.com/  // https://hongniuziyuan.tv/  // https://hongniuzy.tv/
 		"name":"📡Web|紅牛",
 		"type":1,  // "type":0,
