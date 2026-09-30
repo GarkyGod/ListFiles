@@ -485,19 +485,19 @@
 			}
 		},
 
-		{
-		"key":"key_inmi",  // https://www.inmi.app/
-		"name":"📡Web|inmi映迷|⚠️",
-		"type":1,  // "type":0,
-		"api":"https://www.inmi.app/api.php/provide/vod/",  // "api":"https://www.inmi.app/api.php/provide/vod/at/xml",
-		"searchable":1,
-		"changeable":1,
+//		{
+//		"key":"key_inmi",  // https://www.inmi.app/
+//		"name":"📡Web|inmi映迷|⚠️",
+//		"type":1,  // "type":0,
+//		"api":"https://www.inmi.app/api.php/provide/vod/",  // "api":"https://www.inmi.app/api.php/provide/vod/at/xml",
+//		"searchable":1,
+//		"changeable":1,
 //		"categories":["電影","電視劇","綜藝","動漫","短劇","直播"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
+//		"header":{
+//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+//			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+//			}
+//		},
 
 		{
 		"key":"key_iqiyi",  // https://www.iqiyizy.com/  // https://iqiyizy.cc/  // https://iqiyizy.vip/  // https://iqiyizy1.com/ …… https://iqiyizy9.com/
