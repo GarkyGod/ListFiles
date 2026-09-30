@@ -13,7 +13,7 @@ from base.spider import Spider
 class Spider(Spider):
     sources = {
         'key_155': {'name': '🔞155', 'api': 'https://155api.com/api.php/provide/vod'},
-        'key_aosika': {'name': '🔞奧斯卡', 'api': 'https://aosikazy2.com/api.php/provide/vod'},
+        'key_aosika': {'name': '🔞奧斯卡', 'api': 'https://aosikazy3.com/api.php/provide/vod'},
         'key_ck': {'name': '🔞CK', 'api': 'https://ckzy.me/api.php/provide/vod'},
         'key_dadi': {'name': '🔞大地', 'api': 'https://dadiapi.com/feifei/'},
     }
