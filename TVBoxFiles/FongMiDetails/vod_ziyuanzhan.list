@@ -45,7 +45,7 @@
 //////////////////////////////////////////////////  📡Web  //////////////////////////////////////////////////
 		{
 		"key":"key_caiji",  // 
-		"name":"📡Web|採集",
+		"name":"🎞️Web|採集",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/72b7239d.py",
 		"searchable":1,
@@ -71,7 +71,7 @@
 
 		{
 		"key":"key_emby",  // 
-		"name":"❓️Web|Emby",
+		"name":"🎞️Web|Emby",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/696546f2.js",
 		"searchable":1,
@@ -84,7 +84,7 @@
 
 		{
 		"key":"key_guazi",  // 
-		"name":"📡Web|瓜子影視",
+		"name":"🎞️Web|瓜子影視",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/9e53615c.py",
 		"searchable":1,
@@ -97,7 +97,7 @@
 
 		{
 		"key":"key_hongguo",  // https://hongguoduanju.com
-		"name":"📡Web|紅果短劇",
+		"name":"🎞️Web|紅果短劇",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/29b94aff.py",
 		"searchable":1,
@@ -110,7 +110,7 @@
 
 		{
 		"key":"key_pianku",  // https://4k01.pianku.online
-		"name":"❓️Web|片庫",
+		"name":"🎞️Web|片庫",
 		"type":3,
 		"api":"https://jsnz.pages.dev/f/f7b46c7f.js",
 		"searchable":1,
@@ -122,31 +122,31 @@
 		},
 
 		{
+		"key":"key_mdcmai",  // 
+		"name":"🔞2048",
+		"type":3,
+		"api":"https://jsnz.pages.dev/f/e7124867.py",
+		"searchable":0,
+		"changeable":1,
+//		"style":{"type":"rect","ratio":1.777},
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
+		},
+
+		{
 		"key":"key_caijinsfw",  // 
 		"name":"🔞NSFW",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
-		"searchable":1,
+		"searchable":0,
 		"changeable":1,
-		"style":{"type":"rect","ratio":1.777}
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
-//			}
-		},
-
-		{
-		"key":"key_mdcmai",  // 
-		"name":"❓️🔞H",
-		"type":3,
-		"api":"https://jsnz.pages.dev/f/e7124867.py",
-		"searchable":1,
-		"changeable":1,
-		"style":{"type":"rect","ratio":1.777}
-//		"header":{
-//			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-//			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
-//			}
+		"style":{"type":"rect","ratio":1.777},
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
 		},
 
 		{
