@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-01 00:10:05
+!Last Modified: 2026-10-02 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4207,6 +4207,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wallhaven.cc
 ||wtfpass.com
 ||write.as
 ||windy.com
@@ -6944,7 +6945,6 @@ iipdigital.usembassy.gov
 ||wahas.com
 ||waikeung.org
 ||wailaike.net
-||wallhaven.cc
 ||wallproxy.com
 ||wanglixiong.com
 ||wangruoshui.net
