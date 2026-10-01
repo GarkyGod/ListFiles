@@ -28,7 +28,7 @@ class Spider(Spider):
         'key_lebo': {'name': '🔞樂播', 'api': 'https://lbapi9.com/api.php/provide/vod'},
         'key_naixiangxiang': {'name': '🔞奶香香', 'api': 'https://naixxzy1.com/api.php/provide/vod'},
         'key_madoushipin': {'name': '🔞麻豆視頻', 'api': 'https://9191md.me/api.php/provide/vod'},
-        'key_shayu': {'name': '🔞鯊魚', 'api': 'http://shayuapi.com/api.php/provide/vod'},
+        'key_shayu': {'name': '🔞鯊魚', 'api': 'https://shayuapi.com/api.php/provide/vod'},
         'key_senlin': {'name': '🔞森林', 'api': 'https://beiyong.slapibf.com/api.php/provide/vod'},
         'key_souav': {'name': '🔞搜av', 'api': 'https://api.souavzy.vip/api.php/provide/vod'},
         'key_souav2': {'name': '🔞搜av(備)', 'api': 'https://api.souavzyw.net/api.php/provide/vod'},
