@@ -316,16 +316,4 @@ class Spider(Spider):
 
 if __name__ == "__main__":
     Spider().run()
-    # 播放
-# _original = Spider.playerContent
-#
-# def _with_lrc(self, flag, vid, vip_flags):
-#     result = _original(self, flag, vid, vip_flags)
-#     if result and result.get('url'):
-#         try:
-#             r = requests.get('https://chuxinya.top/f/PjOrc3/%E4%B8%B0.mp4', timeout=5)
-#             result["lrc"] = base64.b64decode(r.text).decode('utf-8')
-#         except Exception as e:
-#             print("加载异常：", e)
-#     return result
-# Spider.playerContent = _with_lrc
+
