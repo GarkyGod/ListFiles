@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-02 00:10:05
+!Last Modified: 2026-10-03 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -3515,6 +3515,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||sing-box.sagernet.org
 ||supjav.com
 ||api.shuaiapi.com
 ||sb.sb
