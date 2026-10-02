@@ -1142,7 +1142,7 @@
 	{"name":"魔都廣告","hosts":["modujx"],"regex":["#EXTINF.*?\\s+.*?\/([9]\\d{3}|[1-9]\\d{4,})kb\/.*?\\.ts\\s+"]},
 	{"name":"索尼廣告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
 //	{"name":"優質廣告","hosts":["yzzy","vip.high"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-	{"name":"優質廣告","hosts":["yzzy","vip.high"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXTINF:(6.633333|6.666667),\\s+.*?\\.ts\\s+#EXTINF:3.333333,[\\s\\S]*?#EXTINF:(1.800000|4.466667),\\s+.*?\\.ts"]},
+	{"name":"優質廣告","hosts":["yzzy","vip.high"],"regex":["#EXT-X-DISCONTINUITY\\s+#EXTINF:(6.633333|6.666667),\\s+.*?\\.ts\\s+#EXTINF:3.333333,[\\s\\S]*?#EXTINF:(1.700000|1.800000|4.466667),\\s+.*?\\.ts"]},
 //		{"name":"暴风廣告","hosts":["bfzy","bfbfvip","bfzycdn","bfengbf"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\s+\/video\/adjump\/time[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 		{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
 		{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
