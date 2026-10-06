@@ -430,6 +430,20 @@
 //		},
 
 		{
+			"key":"key_xingba",  //  https://sex8zy.com/ // https://xzybb1.com/  // https://sex8zy1.com/ …… https://sex8zy9.com/  // https://t.me/xbxbxbzy
+			"name":"🔞資源站|杏吧(18+)",
+			"type":1,  // "type":0,
+			"api":"https://sex8zy.com/api.php/provide/vod/",  // "api":"https://sex8zy.com/api.php/provide/vod/at/xml",  // "api":"https://xingbazy.com/api.php/provide/vod/",  // "api":"https://xingba222.com/api.php/provide/vod/",  // "api":"https://json.xingba222.com/api.php/provide/vod/",  // "api":"https://api.xgbbk8.com/api.php/provide/vod/",  // "api":"https://json.xgbbk8.com/api.php/provide/vod/",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.777},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
 			"key":"key_xlm_baipiao",  // https://www.xzylm.com/ | proxy  // https://www.bp9.world/cn/home/web/
 			"name":"🔞資源站|X聯盟-白嫖(18+)",
 			"type":0,  // "type":1,  // "type":1,
