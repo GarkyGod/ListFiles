@@ -7,7 +7,6 @@
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
 	"spider":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
-//	"spider":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
@@ -36,12 +35,10 @@
 			"name":"🎲豆瓣",
 			"type":3,
 			"jar":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
-//			"jar":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
 			"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
-//			"ext":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 //	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
@@ -64,7 +61,6 @@
 		"name":"🖥️資源站採集",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
-//		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
@@ -126,25 +122,10 @@
 		},
 
 		{
-		"key":"key_mdcmai",  // 
-		"name":"🔞2048",
-		"type":3,
-		"api":"https://jsnz.pages.dev/f/e7124867.py",
-		"searchable":0,
-		"changeable":1,
-//		"style":{"type":"rect","ratio":1.777},
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
-			}
-		},
-
-		{
 		"key":"key_caijinsfw",  // 
 		"name":"🔞NSFW",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
-//		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
 		"searchable":0,
 		"changeable":1,
 		"style":{"type":"rect","ratio":1.777},
@@ -157,8 +138,9 @@
 		{
 		"key":"key_Test",  //
 		"name":"❔️測試",
-		"type":1,  // "type":0,
-		"api":"https://www.mdzyapi.com/api.php/provide/vod",  // "api":"https://api.zuidapi.com/api.php/provide/vod/at/xml",
+		"type":3,  // "type":0,
+//		"api":"https://www.mdzyapi.com/api.php/provide/vod",  // "api":"https://api.zuidapi.com/api.php/provide/vod/at/xml",
+		"api":"https://jsnz.pages.dev/f/e7124867.py",
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","擦边短剧","科普学习"],
@@ -185,7 +167,6 @@
 			"searchable":1,
 			"changeable":0,
 			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
-//			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -195,7 +176,6 @@
 			"searchable":0,
 			"changeable":0,
 			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
-//			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
 		},
 //////////////////////////////////////////////////  🎲End  //////////////////////////////////////////////////
 		{
@@ -214,8 +194,7 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-//			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
-			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
+			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
 		}
 	],
 	
