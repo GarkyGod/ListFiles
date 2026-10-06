@@ -572,8 +572,8 @@
 		{
 		"key":"key_juliang",  // https://juliang.co/  // https://juliang.app/  // https://t.me/jlzyw
 		"name":"📡Web|巨量",
-		"type":1,
-		"api":"https://api.juliang.live/api/provide/vod/",
+		"type":1,  // "type":0,
+		"api":"https://api.juliang.live/api/provide/vod/",  // "api":"https://api.juliang.live/api/provide/vod/at/xml",
 		"searchable":1,
 		"changeable":1,
 		"header":{
