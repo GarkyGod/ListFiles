@@ -308,32 +308,6 @@
 		},
 
 		{
-		"key":"key_caiji",  // 
-		"name":"📡Web|採集",
-		"type":3,
-		"api":"https://jsnz.pages.dev/f/72b7239d.py",
-		"searchable":1,
-		"changeable":1,
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
-		"key":"key_caiji2",  // 
-		"name":"📡Web|測試",
-		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
-		"searchable":1,
-		"changeable":1,
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
 		"key":"key_dazhong",  // https://dzzy.com/  // http://dyttzy1.tv/ …… http://dyttzy5.tv/  // https://t.me/dzzy9  // https://t.me/tantanzy9
 		"name":"📡Web|大眾",
 		"type":1,  // "type":0,
@@ -404,19 +378,6 @@
 		},
 
 		{
-		"key":"key_guazi",  // https://hongguoduanju.com
-		"name":"📡Web|瓜子影視",
-		"type":3,
-		"api":"https://jsnz.pages.dev/f/9e53615c.py",
-		"searchable":1,
-		"changeable":1,
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
 		"key":"key_haohua",  // http://www.haohuazy.com/  // https://www.haohuaziyuan.com/
 		"name":"📡Web|豪華",
 		"type":1,  // "type":0,
@@ -452,19 +413,6 @@
 		"searchable":1,
 		"changeable":1,
 //		"categories":["电视剧","电影","欧美剧","香港剧","韩剧","日剧","马泰剧","伦理片","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","记录片","动漫","内地剧","动画片","中国动漫","日本动漫","欧美动漫","综艺","台湾剧","体育赛事","短剧","预告片"],
-		"header":{
-			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
-			}
-		},
-
-		{
-		"key":"key_hongguo",  // https://hongguoduanju.com
-		"name":"📡Web|紅果短劇",
-		"type":3,
-		"api":"https://jsnz.pages.dev/f/29b94aff.py",
-		"searchable":1,
-		"changeable":1,
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
