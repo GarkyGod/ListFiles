@@ -30,6 +30,7 @@ class Spider(Spider):
         'key_jianan': {'name': '📺建安', 'api': 'http://154.219.117.232:9981/jacloudapi.php/provide/vod'},
         'key_jinying': {'name': '📺金鷹', 'api': 'https://jinyingzy.com/api.php/provide/vod'},
         'key_jisu': {'name': '📺極速', 'api': 'https://jszyapi.com/api.php/provide/vod'},
+        'key_juliang': {'name': '📺巨量', 'api': 'https://api.juliang.live/api/provide/vod'},
         'key_kuaiche': {'name': '📺快車', 'api': 'https://caiji.kuaichezy.org/api.php/provide/vod'},
         'key_liangzi': {'name': '📺量子', 'api': 'https://cj.lziapi.com/api.php/provide/vod'},
         'key_maotai': {'name': '📺茅臺', 'api': 'https://caiji.maotaizy.cc/api.php/provide/vod'},
