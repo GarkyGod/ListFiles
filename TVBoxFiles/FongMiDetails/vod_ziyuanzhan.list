@@ -6,7 +6,7 @@
 	"wallpaper":"https://picsum.photos/3840/2160/?blur=8",  // 1920/1080/?blur=8,更多說明https://picsum.photos/
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
