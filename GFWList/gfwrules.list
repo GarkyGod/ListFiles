@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-06 00:10:04
+!Last Modified: 2026-10-07 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1181,6 +1181,22 @@ www.aolnews.com
 ||vine.co
 ||x.com
 !!---Taiwan---
+||khc.edu.tw
+||vscc.org.tw
+||poland.tw
+||tybio.com.tw
+||twfhcsec.com.tw
+||ttl.com.tw
+||tfd.org.tw
+||nstc.org.tw
+||mirdc.org.tw
+||landbank.com.tw
+||indsr.org.tw
+||icdf.org.tw
+||eximbank.com.tw
+||csc.com.tw
+||cpc.com.tw
+||aidc.com.tw
 ||taiwanembassy.org
 ||roc-taiwan.org
 ||twgov.tw
@@ -1192,6 +1208,7 @@ www.aolnews.com
 ||teco-mo.org
 ||kinmen.org.tw
 !!---USA---
+||ned.org
 ||spaceforce.mil
 ||airuniversity.af.edu
 ||supremecourt.gov
@@ -1504,6 +1521,8 @@ iipdigital.usembassy.gov
 ||azirevpn.com
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||boylove.cc
+||blue-plus.net
 ||briarproject.org
 ||bilinovel.com
 ||boomplay.com
@@ -1671,6 +1690,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
@@ -1914,6 +1934,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dh.net
 ||divdyn.com
 ||data18.com
 ||dt18.com
@@ -2412,6 +2433,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentaiclub.net
+||hanimeone.me
+||hanime1.com
 ||hentai.tv
 ||hkej.com
 ||hkong.hk
@@ -2545,6 +2569,7 @@ iipdigital.usembassy.gov
 ||hypothes.is
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||ipac.global
 ||infosec.exchange
 ||investing.com
 ||idcflare.com
@@ -2668,6 +2693,9 @@ iipdigital.usembassy.gov
 ||iyouport.com
 ||iyouport.org
 !--------------------JJ-------------------------
+||javchu.com
+||jkforum.net
+||javfree.me
 ||jhelab.org
 ||justmysockscn.com
 ||justmysocks.net
@@ -2859,6 +2887,8 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||matichon.co.th
+||moeli-desu.com
 ||muse.ai
 ||historylines.net
 ||kiwix.org
@@ -2877,6 +2907,8 @@ iipdigital.usembassy.gov
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
+||missav.live
+||missav.ai
 ||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
@@ -3026,6 +3058,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nationthailand.com
 ||note.com
 ||nthlink.com
 ||neodb.social
@@ -3398,6 +3431,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qingse.one
 ||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
@@ -3418,6 +3452,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||rocmgov.org
 ||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
@@ -4351,6 +4386,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||xx.net
 ||x86.fr
 ||xuan.com.my
 ||xdaforums.com
@@ -5722,8 +5758,6 @@ iipdigital.usembassy.gov
 ||haiwaiwai.com
 ||handcraftedsoftware.org
 ||handelsblatt.com
-||hanime1.com
-||hanimeone.me
 ||hao.news
 ||happy-vpn.com
 ||haproxy.org
@@ -5867,7 +5901,6 @@ iipdigital.usembassy.gov
 ||incapdns.net
 ||indianexpress.com
 ||indiatimes.com
-||indsr.org.tw
 ||inlang.com
 ||innermongolia.org
 ||innovarad.tw
@@ -5903,9 +5936,7 @@ iipdigital.usembassy.gov
 ||jav777.cc
 ||javbus.co
 ||javbus.sbs
-||javchu.com
 ||javdatabase.com
-||javfree.me
 ||javhd.com
 ||javhip.com
 ||javmoo.com
@@ -5926,7 +5957,6 @@ iipdigital.usembassy.gov
 ||jizzthis.com
 ||jjgirls.com
 ||jkb.cc
-||jkforum.net
 ||jmcomic.me
 ||joinbbs.net
 ||joinpeertube.org
@@ -5993,7 +6023,6 @@ iipdigital.usembassy.gov
 ||ladbrokes.com
 ||lalulalu.com
 ||lamrim.com
-||landbank.com.tw
 ||lantosfoundation.org
 ||laomiu.com
 ||laowang.vip
@@ -6120,9 +6149,7 @@ iipdigital.usembassy.gov
 ||minjian-danganguan.org
 ||mirrormedia.com.tw
 ||mirrormediagroup.com
-||missav.ai
 ||missav.app
-||missav.live
 ||missav123.com
 ||mist.vip
 ||mixpod.com
@@ -6188,7 +6215,6 @@ iipdigital.usembassy.gov
 ||naweeklytimes.com
 ||ndr.de
 ||ndtv.com
-||ned.org
 ||nengcard.com
 ||neo.com.tw
 ||go.nesnode.com
