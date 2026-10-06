@@ -60,7 +60,7 @@
 		"key":"key_caijiziyuanzhan",  // 
 		"name":"🖥️資源站採集",
 		"type":3,
-		"api":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
+		"api":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
