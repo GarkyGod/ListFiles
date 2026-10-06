@@ -7,7 +7,7 @@
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
 //	"spider":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
-	"spider":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+	"spider":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
@@ -36,12 +36,12 @@
 			"name":"🎲豆瓣",
 			"type":3,
 //			"jar":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
-			"jar":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
+			"jar":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
 //			"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
-			"ext":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 //	////////////////////////////////////// https://emoji6.com/emojiall/en/ //////////////////////////////////////
 //	////////////////////////////////////// 💱❓️❔️❕️❗️✔️❌️⚠️♻️⛔️🚫☢️☣️🔞🧲💻️🖥️🖨️⌨️🖱️💽💾🎥🎞️📽️🎬️📺️📷️📸📻️🎼🎵🎶🎤🎧️🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇🪈🪉🔍️🔎🎮️🔭📡 //////////////////////////////////////
@@ -64,7 +64,7 @@
 		"name":"🖥️資源站採集",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
-		"api":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
+		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
@@ -144,7 +144,7 @@
 		"name":"🔞NSFW",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
-		"api":"https://ghproxy.net/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
+		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijinsfw.py",
 		"searchable":0,
 		"changeable":1,
 		"style":{"type":"rect","ratio":1.777},
@@ -185,7 +185,7 @@
 			"searchable":1,
 			"changeable":0,
 //			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
-			"ext":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
+			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/alist.json"
 		},
 		{
 			"key":"key_csp_WebDAV",
@@ -195,7 +195,7 @@
 			"searchable":0,
 			"changeable":0,
 //			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
-			"ext":"https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
+			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/webdav.json"
 		},
 //////////////////////////////////////////////////  🎲End  //////////////////////////////////////////////////
 		{
@@ -214,7 +214,8 @@
 			"api":"csp_Market",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
+//			"ext":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
+			"ext":"https://ghfast.top/https://github.com/FongMi/CatVodSpider/raw/main/json/market.json"
 		}
 	],
 	
