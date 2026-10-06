@@ -6,7 +6,7 @@
 	"wallpaper":"https://picsum.photos/3840/2160/?blur=8",  // 1920/1080/?blur=8,更多說明https://picsum.photos/
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+	"spider":"https://gh-proxy.org/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
@@ -60,7 +60,7 @@
 		"key":"key_caijiziyuanzhan",  // 
 		"name":"🖥️資源站採集",
 		"type":3,
-		"api":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
+		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
