@@ -77,7 +77,7 @@ class Spider(Spider):
     def init(self, extend=""):
         pass
 
-    def fetch(self, url, timeout=10):
+    def fetch(self, url, timeout=8):
         try:
             r = requests.get(
                 url,
