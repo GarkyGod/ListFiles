@@ -66,7 +66,8 @@ class Spider(Spider):
 
     exclude_SearchSourcesKeys = ('key_jianan', 'key_uu')
     exclude_ClassNames = (
-        "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", "公告", "头条", "未分类", "子类12", "子类113"
+        "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", 
+        "公告", "头条", "未分类", "子类12", "子类113"
     )
 
     headers = {
@@ -268,7 +269,7 @@ class Spider(Spider):
     def searchContent(self, key, quick=False, pg=1):
         result = []
         max_page = 1
-        filtered_sources = {k: v for k, v in self.sources.items() if k not in exclude_SearchSourcesKeys}
+        filtered_sources = {k: v for k, v in self.sources.items() if k not in self.exclude_SearchSourcesKeys}
         
         with ThreadPoolExecutor(max_workers=20) as executor:
             futures = []
