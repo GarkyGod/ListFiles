@@ -6,6 +6,7 @@
 import json
 import requests
 import base64
+from tenacity import retry, stop_after_attempt, wait_fixed
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from base.spider import Spider
 
@@ -77,14 +78,11 @@ class Spider(Spider):
     def init(self, extend=""):
         pass
 
-    def fetch(self, url, timeout=4):
+    @retry(stop=stop_after_attempt(3), wait=wait_fixed(2))
+    def fetch(self, url, timeout=(3, 7)):
         try:
-            r = requests.get(
-                url,
-                headers=self.headers,
-                timeout=timeout,
-                verify=False
-            )
+            r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
+            r.raise_for_status()
             return r.text
         except Exception:
             return ""
