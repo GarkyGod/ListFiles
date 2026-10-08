@@ -57,6 +57,19 @@
 		},
 
 		{
+		"key":"key_caijiziyuanzhan_filter",  // 
+		"name":"🖥️資源站採集【簡化】",
+		"type":3,
+		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api_caijiziyuanzhan_filter.py",
+		"searchable":1,
+		"changeable":1,
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
+		},
+
+		{
 		"key":"key_caiji",  // 
 		"name":"🎞️Web|採集",
 		"type":3,
