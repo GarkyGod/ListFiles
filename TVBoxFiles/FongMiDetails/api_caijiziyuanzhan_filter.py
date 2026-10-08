@@ -269,9 +269,9 @@ class Spider(Spider):
     def searchContent(self, key, quick=False, pg=1):
         result = []
         max_page = 1
-#        filtered_sources = {k: v for k, v in self.sources.items() if k not in self.exclude_SearchSourcesKeys}
-        filtered_sources = self.sources
-        filtered_sources = {k: v for k, v in filtered_sources.items() if k not in self.exclude_SearchSourcesKeys}
+        filtered_sources = {k: v for k, v in self.sources.items() if k not in self.exclude_SearchSourcesKeys}
+#        filtered_sources = self.sources
+#        filtered_sources = {k: v for k, v in filtered_sources.items() if k not in self.exclude_SearchSourcesKeys}
         
         with ThreadPoolExecutor(max_workers=20) as executor:
             futures = []
