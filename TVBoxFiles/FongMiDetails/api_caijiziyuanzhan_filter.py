@@ -241,7 +241,7 @@ class Spider(Spider):
 
     def search_one(self, source_key, source, keyword, pg):
         if source_key in self.exclude_SearchSourcesKeys:
-            return{}
+            return ""
         url = f"{source['api']}?ac=detail&wd={keyword}&pg={pg}"
 
         html = self.fetch(url, 3)
