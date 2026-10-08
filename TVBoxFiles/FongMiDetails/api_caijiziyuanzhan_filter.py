@@ -17,8 +17,7 @@ class Spider(Spider):
         'key_baofeng': {'name': '📺暴風', 'api': 'https://bfzyapi.com/api.php/provide/vod'},
         'key_dazhong': {'name': '📺大眾', 'api': 'https://cdn.dzzyapi.com/api.php/provide/vod'},
         'key_dianyingtiantang': {'name': '📺電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
-        'key_douban': {'name': '📺豆瓣', 'api': 'https://caiji.dbzy5.tv/api.php/provide/vod'},
-        'key_douban2': {'name': '📺豆瓣(備)', 'api': 'https://dbzy.tv/api.php/provide/vod'},
+        'key_douban': {'name': '📺豆瓣', 'api': 'https://dbzy.tv/api.php/provide/vod'},
         'key_feifan': {'name': '📺非凡', 'api': 'http://api.ffzyapi.com/api.php/provide/vod'},
         'key_feifan2': {'name': '📺非凡(備)', 'api': 'https://cj.ffzyapi.com/api.php/provide/vod'},
         'key_guangsu': {'name': '📺光速', 'api': 'https://api.guangsuapi.com/api.php/provide/vod'},
@@ -106,7 +105,8 @@ class Spider(Spider):
     def homeContent(self, filter):
         classes = []
         filters = {}
-
+        exclude_names = ("福利", "伦理", "伦理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "未分类", "子类12", "子类113")
+        
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
             html = self.fetch(url, 2)
@@ -115,10 +115,7 @@ class Spider(Spider):
                 data = json.loads(html)
             except:
                 data = {}
-                
-            exclude_names = ("福利", "伦理", "理论", "里番")
-            data["class"] = [item for item in data["class"] if item["type_name"][:2] not in exclude_names]
-            
+
             vals = [{"n": "全部(最新)", "v": ""}]
 
             for c in data.get("class", []):
@@ -152,6 +149,7 @@ class Spider(Spider):
                 except:
                     pass
 
+        classes = [item for item in classes if item["type_name"] not in exclude_names]
         return {
             "class": classes,
             "filters": filters,
