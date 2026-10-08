@@ -116,8 +116,8 @@ class Spider(Spider):
             except:
                 data = {}
                 
-            exclude_names = ("福利", "伦理片", "里番")
-            data["class"] = [item for item in data["class"] if item["type_name"] not in exclude_names]
+            exclude_names = ("福利", "伦理", "理论", "里番")
+            data["class"] = [item for item in data["class"] if item["type_name"][:2] not in exclude_names]
             
             vals = [{"n": "全部(最新)", "v": ""}]
 
