@@ -41,8 +41,7 @@ class Spider(Spider):
         'key_niuniu': {'name': '📺牛牛', 'api': 'https://api.niuniuzy.me/api.php/provide/vod'},
         'key_ok': {'name': '📺OK', 'api': 'https://api.okzyw.net/api.php/provide/vod'},
         'key_piaoling': {'name': '📺飄零', 'api': 'https://p2100.net/api.php/provide/vod'},
-        'key_ruyi': {'name': '📺如意', 'api': 'https://cj.rycjapi.com/api.php/provide/vod'},
-        'key_ruyi2': {'name': '📺如意(備)', 'api': 'https://cj.rytvapi.com/api.php/provide/vod'},
+        'key_ruyi': {'name': '📺如意', 'api': 'https://cj.rytvapi.com/api.php/provide/vod'},
         'key_shandian': {'name': '📺閃電', 'api': 'https://sdzyapi.com/api.php/provide/vod'},
         'key_shandian2': {'name': '📺閃電(備)', 'api': 'https://xsd.sdzyapi.com/api.php/provide/vod'},
         'key_subo': {'name': '📺速播', 'api': 'https://subocaiji.com/api.php/provide/vod'},
@@ -53,7 +52,6 @@ class Spider(Spider):
         'key_tianyayingshi2': {'name': '📺天涯(備)', 'api': 'https://tyyszy.com/api.php/provide/vod'},
         'key_uku': {'name': '📺U酷', 'api': 'https://api.ukuapi88.com/api.php/provide/vod'},
         'key_uu': {'name': '📺UU', 'api': 'https://uuzy.me/api.php/provide/vod'},
-        'key_wangwang': {'name': '📺旺旺', 'api': 'https://api.wwzy.tv/api.php/provide/vod'},
         'key_wujin': {'name': '📺無盡', 'api': 'https://api.wujinapi.me/api.php/provide/vod'},
         'key_wujin2': {'name': '📺無盡(備)', 'api': 'https://api.wujinapi.cc/api.php/provide/vod'},
         'key_wushuiyin': {'name': '📺無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
@@ -105,7 +103,7 @@ class Spider(Spider):
     def homeContent(self, filter):
         classes = []
         filters = {}
-        exclude_names = ("福利", "伦理", "伦理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "未分类", "子类12", "子类113")
+        exclude_names = ("福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", "公告", "头条", "未分类", "子类12", "子类113")
         
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
