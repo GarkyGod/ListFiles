@@ -64,6 +64,11 @@ class Spider(Spider):
         'key_zuida': {'name': '📺最大', 'api': 'https://api.zuidapi.com/api.php/provide/vod'},
     }
 
+    exclude_SearchSourcesKeys = ('key_jianan', 'key_uu')
+    exclude_ClassNames = (
+        "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", "公告", "头条", "未分类", "子类12", "子类113"
+    )
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     }
@@ -103,7 +108,6 @@ class Spider(Spider):
     def homeContent(self, filter):
         classes = []
         filters = {}
-        exclude_names = ("福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", "公告", "头条", "未分类", "子类12", "子类113")
         
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
@@ -138,7 +142,7 @@ class Spider(Spider):
             for future in as_completed(futures):
                 try:
                     key, vals = future.result()
-                    vals = [item for item in vals if item["n"] not in exclude_names]
+                    vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
                     filters[key] = [{
                         "key": "cateId",
                         "name": "分类",
