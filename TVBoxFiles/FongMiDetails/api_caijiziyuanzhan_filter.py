@@ -140,7 +140,7 @@ class Spider(Spider):
             for future in as_completed(futures):
                 try:
                     key, vals = future.result()
-
+                    vals = [item for item in vals if item["type_name"] not in exclude_names]
                     filters[key] = [{
                         "key": "cateId",
                         "name": "分类",
@@ -149,7 +149,6 @@ class Spider(Spider):
                 except:
                     pass
 
-        classes = [item for item in classes if item["type_name"] not in exclude_names]
         return {
             "class": classes,
             "filters": filters,
