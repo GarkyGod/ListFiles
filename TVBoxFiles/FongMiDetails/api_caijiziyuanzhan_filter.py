@@ -119,6 +119,8 @@ class Spider(Spider):
             vals = [{"n": "全部(最新)", "v": ""}]
 
             for c in data.get("class", []):
+                if c.get("type_name", "")[:2] in ("福利", "伦理", "里番")：
+                    continue
                 vals.append({
                     "n": c.get("type_name", ""),
                     "v": c.get("type_id", "")
