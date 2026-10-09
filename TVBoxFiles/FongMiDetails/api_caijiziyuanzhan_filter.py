@@ -15,7 +15,7 @@ class Spider(Spider):
         'key_360': {'name': '📺360', 'api': 'https://360zyzz.com/api.php/provide/vod'},
         'key_baidu': {'name': '📺百度', 'api': 'https://api.apibdzy.com/api.php/provide/vod'},
         'key_baofeng': {'name': '📺暴風', 'api': 'https://bfzyapi.com/api.php/provide/vod'},
-        'key_baofeng2': {'name': '📺暴風(備)', 'api': 'http://by.bfzyapi.com/api.php/provide/vod'},
+        'key_baofeng2': {'name': '📺暴風(備)', 'api': 'https://by.bfzyapi.com/api.php/provide/vod'},
         'key_dazhong': {'name': '📺大眾', 'api': 'https://cdn.dzzyapi.com/api.php/provide/vod'},
         'key_dianyingtiantang': {'name': '📺電影天堂', 'api': 'http://caiji.dyttzyapi.com/api.php/provide/vod'},
         'key_douban': {'name': '📺豆瓣', 'api': 'https://dbzy.tv/api.php/provide/vod'},
