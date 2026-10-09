@@ -27,7 +27,7 @@ class Spider(Spider):
         'key_ikun': {'name': '📺ikun', 'api': 'https://ikunzyapi.com/api.php/provide/vod'},
         'key_ikun2': {'name': '📺ikun(備)', 'api': 'https://ikunzy.com/api.php/provide/vod'},
         'key_iqiyi': {'name': '📺愛奇藝', 'api': 'https://iqiyizyapi.com/api.php/provide/vod'},
-        'key_jianan': {'name': '📺建安', 'api': 'http://154.219.117.232:9981/jacloudapi.php/provide/vod'},
+#        'key_jianan': {'name': '📺建安', 'api': 'http://154.219.117.232:9981/jacloudapi.php/provide/vod'},
         'key_jinying': {'name': '📺金鷹', 'api': 'https://jinyingzy.com/api.php/provide/vod'},
         'key_jisu': {'name': '📺極速', 'api': 'https://jszyapi.com/api.php/provide/vod'},
         'key_juliang': {'name': '📺巨量', 'api': 'https://api.juliang.live/api/provide/vod'},
@@ -51,7 +51,7 @@ class Spider(Spider):
         'key_tianyayingshi': {'name': '📺天涯', 'api': 'https://tyyszyapi.com/api.php/provide/vod'},
         'key_tianyayingshi2': {'name': '📺天涯(備)', 'api': 'https://tyyszy.com/api.php/provide/vod'},
         'key_uku': {'name': '📺U酷', 'api': 'https://api.ukuapi88.com/api.php/provide/vod'},
-        'key_uu': {'name': '📺UU', 'api': 'https://uuzy.me/api.php/provide/vod'},
+#        'key_uu': {'name': '📺UU', 'api': 'https://uuzy.me/api.php/provide/vod'},
         'key_wujin': {'name': '📺無盡', 'api': 'https://api.wujinapi.me/api.php/provide/vod'},
         'key_wujin2': {'name': '📺無盡(備)', 'api': 'https://api.wujinapi.cc/api.php/provide/vod'},
         'key_wushuiyin': {'name': '📺無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
@@ -64,7 +64,7 @@ class Spider(Spider):
         'key_zuida': {'name': '📺最大', 'api': 'https://api.zuidapi.com/api.php/provide/vod'},
     }
 
-    exclude_SearchSourcesKeys = ('key_jianan', 'key_uu')
+#    exclude_SearchSourcesKeys = ('key_jianan', 'key_uu')
     exclude_ClassNames = (
         "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧", 
         "公告", "头条", "未分类", "子类12", "子类113"
