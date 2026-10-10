@@ -107,7 +107,7 @@ class Spider(Spider):
 
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
-            html = self.fetch(url, 2)
+            html = self.fetch(url)
 
             try:
                 data = json.loads(html)
