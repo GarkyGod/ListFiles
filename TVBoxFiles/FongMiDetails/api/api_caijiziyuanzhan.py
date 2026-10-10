@@ -75,7 +75,7 @@ class Spider(Spider):
     def init(self, extend=""):
         pass
 
-    def fetch(self, url, timeout=4):
+    def fetch(self, url, timeout=8):
         try:
             r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
             return r.text
@@ -107,7 +107,7 @@ class Spider(Spider):
 
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
-            html = self.fetch(url, 2)
+            html = self.fetch(url, 4)
 
             try:
                 data = json.loads(html)
@@ -237,7 +237,7 @@ class Spider(Spider):
     def search_one(self, source_key, source, keyword, pg):
         url = f"{source['api']}?ac=detail&wd={keyword}&pg={pg}"
 
-        html = self.fetch(url, 3)
+        html = self.fetch(url, 6)
 
         try:
             data = json.loads(html)
