@@ -6,7 +6,7 @@
 	"wallpaper":"https://深色壁纸.xxooo.cf/",
 
 //////////////////////////////////////////////////  Spider  //////////////////////////////////////////////////
-	"spider":"https://gh-proxy.com/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+	"spider":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Lives  //////////////////////////////////////////////////
 //	"lives":[{"name":"直播","type":0,"url":"https://gh-proxy.com/https://github.com/caca3559823437/2022/raw/main/2023.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
@@ -40,11 +40,11 @@
 			"key":"key_csp_Douban",
 			"name":"🎲豆瓣",
 			"type":3,
-			"jar":"https://gh-proxy.com/https://github.com/zhixc/CatVodTVSpider/raw/main/jar/custom_spider.jar",
+			"jar":"https://gh-proxy.org/https://github.com/zhixc/CatVodTVSpider/raw/main/jar/custom_spider.jar",
 			"api":"csp_Douban",
 			"searchable":0,
 			"changeable":0,
-			"ext":"https://gh-proxy.com/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
+			"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/json/ext_douban.json"
 		},
 
 //////////////////////////////////////////////////  📡資源站  //////////////////////////////////////////////////
