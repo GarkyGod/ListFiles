@@ -114,7 +114,8 @@
 		"name":"🎞️Web|紅果短劇",
 		"type":3,
 //		"api":"https://jsnz.pages.dev/f/29b94aff.py",
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_hongguoduanju.py",
+//		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_hongguoduanju.py",
+		"api":"https://gh-proxy.org/https://github.com/zhhshss/tv-python-sources/raw/main/hongguo.py",
 		"searchable":1,
 		"changeable":1,
 		"header":{
