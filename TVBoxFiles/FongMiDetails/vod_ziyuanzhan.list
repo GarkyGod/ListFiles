@@ -116,12 +116,9 @@
 		"key":"key_hongguo",  // https://hongguoduanju.com
 		"name":"🎞️Web|紅果短劇",
 		"type":3,
-//		"api":"https://jsnz.pages.dev/f/29b94aff.py",
+		"api":"https://jsnz.pages.dev/f/29b94aff.py",
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_hongguoduanju.py",
 //		"api":"https://gh-proxy.org/https://github.com/zhhshss/tv-python-sources/raw/main/hongguo.py",
-		"api":"csp_ZakaHongguoAmns",
-		"jar": "https://tv.ystv.top/files/k/cc702abffca1b13ff907e3b4b71cbd84d82976bfaa38af0e1b71cf3eeaf6aa23/ai-zhineng.png;md5;d5b425774ece326c61ab0fa602c9e407",
-		"ext": {"host": "https://hongguoduanju.com"},
 		"searchable":1,
 		"changeable":1,
 		"header":{
