@@ -118,8 +118,8 @@
 		"type":3,
 //		"api":"https://jsnz.pages.dev/f/29b94aff.py",
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_hongguoduanju.py",
-//		"api":"https://gh-proxy.org/https://github.com/zhhshss/tv-python-sources/raw/main/hongguo.py",
-		"api":"https://sub.lytvs.top/pydl/hongguo.py?tk=cj_266aecad",
+		"api":"https://gh-proxy.org/https://github.com/zhhshss/tv-python-sources/raw/main/hongguo.py",
+//		"api":"https://sub.lytvs.top/pydl/hongguo.py?tk=cj_266aecad",
 		"searchable":1,
 		"changeable":1,
 		"header":{
