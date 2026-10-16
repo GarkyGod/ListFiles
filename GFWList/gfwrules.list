@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-16 00:10:04
+!Last Modified: 2026-10-17 00:10:05
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -729,6 +729,8 @@ www.aolnews.com
 !!---Dynu---
 ||dynu.com
 !!---Facebook---
+||meta.ai
+||metaaivm.com
 ||accountkit.com
 ||cdninstagram.com
 ||f8.com
@@ -1270,6 +1272,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||7x24hrs.com
 ||123av.me
 ||123av.com
 ||18comic.vip
@@ -6126,7 +6129,6 @@ iipdigital.usembassy.gov
 ||merlinblog.xyz
 ||meshrep.com
 ||mesotw.com
-||meta.ai
 ||metacafe.com
 ||metacubex.one
 ||meyou.jp
