@@ -134,8 +134,7 @@ class Spider(Spider):
     def homeContent(self, filter):
         classes = []
         filters = {}
-"""
-universal_filter = [
+        universal_filter = [
             {"key": "cateId", "name": "分类", "value": [
                 {"n": "全部", "v": ""},
                 {"n": "动作片", "v": "动作"}, {"n": "喜剧片", "v": "喜剧"},
@@ -148,7 +147,6 @@ universal_filter = [
                 {"n": "动漫", "v": "动漫"}, {"n": "综艺", "v": "综艺"}
             ]}
         ]
-"""
         for i, s in enumerate(self.sites):
             type_id = str(i)
             clean_name = s.get("name", f"站点{i}").replace("TV-", "").replace("AV-", "")
