@@ -282,7 +282,7 @@
 		{"name":"Tencent DNS (IP版2)","url":"https://120.53.53.53/dns-query","ips":["119.29.29.29","119.28.28.28","2402:4e00::","2402:4e00:1::"]},
 		{"name":"----------分隔線----------","url":"#1#","ips":["",""]},
 		{"name":"CIRA Canadian Shield DNS","url":"https://private.canadianshield.cira.ca/dns-query","ips":["149.112.122.10","149.112.121.10"]},
-		{"name":"★☆Control.D DNS","url":"https://freedns.controld.com/p0","ips":["76.76.2.0","76.223.122.150","76.76.10.0"]},
+		{"name":"★☆Control.D DNS","url":"https://freedns.controld.com/p0","ips":["76.76.2.0","76.223.122.150","76.76.10.0","2606:1a40::","2606:1a40:1::"]},
 		{"name":"SWITCH DNS","url":"https://dns.switch.ch/dns-query","ips":["130.59.31.251","130.59.31.248"]},
 		{"name":"v.recipes Mq ALxCF","url":"https://v.recipes/mq/dns.alidns.com/dns-query/mq/cloudflare-dns.com/dns-query","ips":[]},
 		{"name":"v.recipes Mq CFxG","url":"https://v.recipes/mq/cloudflare-dns.com/dns-query/mq/dns.google/dns-query","ips":[]},
