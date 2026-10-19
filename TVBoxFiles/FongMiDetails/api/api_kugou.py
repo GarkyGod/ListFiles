@@ -8,7 +8,7 @@ except Exception:
 class Spider:
     def __init__(self):
         self.site = "https://www.kugou.com"
-        self.name = "QQ音乐"
+        self.name = "酷狗音樂"
         self.header = {
             "User-Agent": "Mozilla/5.0 (Linux; Android 13; SM-S9080) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
             "Referer": self.site,
@@ -25,9 +25,10 @@ class Spider:
         ]
         self.getdata_api = "https://wwwapi.kugou.com/yy/index.php"
         self.cats = [
-            {"type_id": "chart:8888", "type_name": "TOP500"},
             {"type_id": "chart:6666", "type_name": "飙升榜"},
+            {"type_id": "chart:8888", "type_name": "TOP500"},
             {"type_id": "chart:74534", "type_name": "新歌榜"},
+            {"type_id": "chart:31313", "type_name": "香港地區榜"},
             {"type_id": "chart:82831", "type_name": "网络热歌榜"},
             {"type_id": "kw:流行歌曲", "type_name": "流行"},
             {"type_id": "kw:摇滚", "type_name": "摇滚"},
