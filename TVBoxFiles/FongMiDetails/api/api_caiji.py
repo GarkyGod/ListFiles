@@ -42,7 +42,8 @@ class Spider(Spider):
                 pass
 
         # 加载站点配置（支持GitHub等远程URL）
-        default_path = "https://edgeone.gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_caiji.json"  # 默认GitHub地址
+#        default_path = "https://edgeone.gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_caiji.json"  # 默认GitHub地址
+        default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/FongMiDetails/api/api_caiji.json"
         mode = "1"
         json_path = default_path
 
