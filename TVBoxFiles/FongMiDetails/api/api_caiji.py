@@ -62,7 +62,6 @@ class Spider(Spider):
                 # 从远程URL获取配置
                 res = self.session.get(json_path, timeout=10, verify=False)
                 if res.status_code == 200:
-#                    data = json5.loads(res.text)
                     data = res.json()
                     all_sites = data.get("api_site", [])
                     self.sites = self._filter_sites(all_sites, mode)
