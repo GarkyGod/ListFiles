@@ -2,7 +2,7 @@
     "ss": 1,
     "api_site": [
         {
-            "name": "TV-电影天堂资源",
+            "name": "",
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com",
             "bz": "0",
