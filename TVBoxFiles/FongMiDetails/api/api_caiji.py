@@ -3,7 +3,6 @@
 # @Desc    : 全链路无感版 (搜索/分类/详情全缓存 + 异步并发 + 连接池预热)
 
 import json
-import json5
 import os
 import time
 import hashlib
@@ -63,8 +62,8 @@ class Spider(Spider):
                 # 从远程URL获取配置
                 res = self.session.get(json_path, timeout=10, verify=False)
                 if res.status_code == 200:
-                    data = json5.loads(res.text)
-#                    data = res.json()
+#                    data = json5.loads(res.text)
+                    data = res.json()
                     all_sites = data.get("api_site", [])
                     self.sites = self._filter_sites(all_sites, mode)
             else:
