@@ -2,16 +2,14 @@
     "ss": 1,
     "api_site": [
         {
-            "name": "",
-//            "name": "TV-电影天堂资源",
+            "name": "TV-电影天堂资源",
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com",
             "bz": "0",
             "paichu": "1,2,3,4"
         },
         {
-            "names": "TV-量子资源",
-//            "name": "TV-量子资源",
+            "name": "TV-量子资源",
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "detail": "",
             "bz": "1",
