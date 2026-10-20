@@ -829,7 +829,7 @@
 //		"key":"key_wolong",  // https://wolongzyw.com/  // https://wolongzy.cc/  // https://wolongzy.tv/  // https://wolongzyw.tv/  // https://wolongzy.tv/
 //		"name":"📡Web|臥龍",
 //		"type":1,  // "type":0,
-//		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://wolongzy.com/api.php/provide/vod/",
+//		"api":"https://collect.wolongzy.cc/api.php/provide/vod/",  // "api":"https://collect.wolongzy.cc/api.php/provide/vod/at/xml",  // "api":"https://collect.wolongzyw.com/api.php/provide/vod/",  // "api":"https://wolongzyw.com/api.php/provide/vod/",
 //		"playUrl":"https://jx.wolongm3u8.com:65/m3u8.php?url=",
 //		"searchable":1,
 //		"changeable":1,
