@@ -815,7 +815,7 @@
 //		"key":"key_wangwang",  // https://www.wwzy.tv/
 //		"name":"📡Web|旺旺",
 //		"type":1,  // "type":0,
-//		"api":"https://api.wwzy.tv/api.php/provide/vod/",  // "api":"https://api.wwzy.tv/api.php/provide/vod/at/xml",
+//		"api":"https://api.wwzy.tv/api.php/provide/vod/",  // "api":"https://api.wwzy.tv/api.php/provide/vod/at/xml",  // "api":"https://wwzy.tv/api.php/provide/vod/",
 //		"searchable":1,
 //		"changeable":1,
 //		"categories":["短剧","分类2","分类3","分类4","教程","子类1","子类2","子类3","子类4","子类5","子类6","子类7","子类8","子类9","子类10","子类11","采集教程","其他教程"],
