@@ -374,10 +374,10 @@
 		},
 
 //		{
-//			"key":"key_semao",  // https://www.semaozy.com/  // https://semaozy1.com/ …… https://semaozy9.com/
+//			"key":"key_semao",  // https://www.semaozy.com/ |跳轉souav  // https://caiji.semaozy.net/  // https://t.me/semaozy_com  // https://t.me/smzyz/
 //			"name":"🔞資源站|色貓(18+)",
 //			"type":1,  // "type":0,
-//			"api":"https://caiji.semaozy.net/inc/apijson_vod.php",  // "api":"https://caiji.semaozy.net/inc/api.php",  // "api":"https://semaozy1.com/inc/apijson_vod.php",  // "api":"https://semaozy1.com/inc/api.php",
+//			"api":"https://caiji.semaozy.net/inc/apijson_vod.php",  // "api":"https://caiji.semaozy.net/inc/api.php",  // "api":"https://semaozy1.com/inc/apijson_vod.php",  // "api":"https://api.maozyapi.com/inc/apijson_vod.php",
 //			"searchable":1,
 //			"changeable":1,
 //			"style":{"type":"rect","ratio":1.777},
