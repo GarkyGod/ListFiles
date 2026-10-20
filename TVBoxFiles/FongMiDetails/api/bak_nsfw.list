@@ -304,7 +304,7 @@
 		},
 
 		{
-			"key":"key_lebo",  // https://
+			"key":"key_lebo",  // https://www.lebozy.com/  // https://www.lebozy1.com/ …… https://www.lebozy10.com/  // https://lbapi9.com/  // https://t.me/lebozy
 			"name":"🔞資源站|樂播(18+)",
 			"type":1,  // "type":0,
 			"api":"https://lbapi9.com/api.php/provide/vod/",  // "https://lbapi9.com/api.php/provide/vod/at/xml",  // "api":"http://lbapiby.com/api.php/provide/vod/",  // "http://lbapiby.com/api.php/provide/vod/at/xml",
