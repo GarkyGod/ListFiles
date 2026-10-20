@@ -234,6 +234,20 @@
 		},
 
 		{
+			"key":"key_jingpin",  // https://www.jingpinx.com/ |Proxy  // https://t.me/jingpinx1
+			"name":"🔞資源站|精品(18+)",
+			"type":1,  // "type":0,
+			"api":"https://www.jingpinx.com/api.php/provide/vod/",  // "api":"https://www.jingpinx.com/api.php/provide/vod/at/xml",
+			"searchable":1,
+			"changeable":1,
+			"style":{"type":"rect","ratio":1.777},
+			"header":{
+				"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+				"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+			}
+		},
+
+		{
 			"key":"key_jingpin98",  // http://jp98.vip/  // https://t.me/jp98x
 			"name":"🔞資源站|精品98(18+)",
 			"type":1,  // "type":0,
