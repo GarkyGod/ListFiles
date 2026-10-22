@@ -15,7 +15,7 @@ class Spider(Spider):
         'key_155': {'name': '🔞155', 'api': 'https://155api.com/api.php/provide/vod'},
         'key_aosika': {'name': '🔞奧斯卡🪜', 'api': 'https://aosikazy1.com/api.php/provide/vod'},
         'key_ck': {'name': '🔞CK', 'api': 'https://ckzy.me/api.php/provide/vod'},
-        'key_dadi': {'name': '🔞大地', 'api': 'https://dadiapi.com/feifei2/'},
+        'key_dadi': {'name': '🔞大地', 'api': 'https://dadiapi.com/api.php/provide/vod'},
         'key_danaizi': {'name': '🔞大奶子', 'api': 'https://apidanaizi.com/api.php/provide/vod'},
         'key_didi': {'name': '🔞滴滴', 'api': 'https://api.ddapi.cc/api.php/provide/vod'},
         'key_doudou': {'name': '🔞豆豆', 'api': 'https://api.douapi.cc/api.php/provide/vod'},
