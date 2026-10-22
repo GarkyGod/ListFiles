@@ -34,7 +34,7 @@ class Spider(Spider):
         'key_souav2': {'name': '🔞搜av(備)', 'api': 'https://api.souavzyw.net/api.php/provide/vod'},
         'key_xiaoji': {'name': '🔞小雞', 'api': 'https://api.xjzyapi.xyz/provide/vod'},
         'key_xingba': {'name': '🔞杏吧', 'api': 'https://xingbazy.com/api.php/provide/vod/'},
-        'key_xlm_baipiao': {'name': '🔞X聯盟-白嫖', 'api': 'https://www.kxgav.com/api/json.php'},
+        'key_xlm_baipiao': {'name': '🔞X聯盟-白嫖', 'api': 'https://www.kxgav.com/api/api.php'},
         'key_xlm_huangav': {'name': '🔞X聯盟-黃AV', 'api': 'https://www.pgxdy.com/api/json.php'},
         'key_xlm_meishaonu': {'name': '🔞X聯盟-美少女', 'api': 'https://www.msnii.com/api/json.php'},
         'key_xlm_xiangnaier': {'name': '🔞X聯盟-香奶兒', 'api': 'https://www.gdlsp.com/api/json.php'},
