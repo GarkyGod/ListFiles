@@ -214,12 +214,12 @@ class Spider(Spider):
         # 獲取站點影視類別
         def load_class(key, site):
             params = {"ac": "list"}
-            html = self._fetch(site["api"], params)
+            data = self._fetch(site["api"], params)
 
-            try:
-                data = json.loads(html)
-            except:
-                data = {}
+#            try:
+#                data = json.loads(html)
+#            except:
+#                data = {}
 
             vals = [{"n": "全部(最新)", "v": ""}]
 
