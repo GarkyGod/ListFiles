@@ -213,8 +213,10 @@ class Spider(Spider):
         filters = {}
         # 獲取站點影視類別
         def load_class(key, source):
-            params = {"ac": "list"}
-            data = self._fetch(source["api"], params)
+#            params = {"ac": "list"}
+#            data = self._fetch(source["api"], params)
+            url = f"{source['api']}?ac=list"
+            data = self._fetch(url)
 
 #            try:
 #                data = json.loads(html)
