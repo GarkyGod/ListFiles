@@ -62,10 +62,10 @@ class Spider(Spider):
                 # 若包含分隔符 '|'，則拆分為配置路徑與模式
                 parts = extend.split("|")
                 json_path = parts[0] if parts[0] else default_path
-                mode = parts[1] if len(parts) > 1 else "1"
+                self.mode = parts[1] if len(parts) > 1 else "1"
             elif len(extend) == 1 and extend in ["0", "1", "2", "3"]:
                 # 若長度為 1 且是特定數字，則僅視為模式變更
-                mode = extend
+                self.mode = extend
             else:
                 # 其餘情況視為自定義配置路徑 (可能是本地路徑或自定義 URL)
                 json_path = extend
@@ -78,14 +78,14 @@ class Spider(Spider):
                 if res.status_code == 200:
                     data = res.json()
                     all_sites = data.get("api_sites", [])
-                    self.sources = self._filter_sites(all_sites, mode) # 根據模式篩選並保存站點
+                    self.sources = self._filter_sites(all_sites, self.mode) # 根據模式篩選並保存站點
             else:
                 # 兼容本地文件讀取路徑
                 if os.path.exists(json_path):
                     with open(json_path, "r", encoding="utf-8") as f:
                         data = json.load(f)
                         all_sites = data.get("api_sites", [])
-                        self.sources = self._filter_sites(all_sites, mode)
+                        self.sources = self._filter_sites(all_sites, self.mode)
         except Exception as e:
             print(f"加載配置失敗: {e}")
             pass
@@ -245,8 +245,8 @@ class Spider(Spider):
             for future in as_completed(futures):
                 try:
                     key, vals = future.result()
-#                    if mode =="1":
-                    vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+                    if self.mode =="1":
+                        vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
                     filters[key] = [{
                         "key": "cateId",
                         "name": "分类",
