@@ -77,7 +77,7 @@
 		"name":"🖥️資源站採集【測試】",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caiji.py",
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
+		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
 		"searchable":0,
 		"changeable":1,
 		"ext":"",
