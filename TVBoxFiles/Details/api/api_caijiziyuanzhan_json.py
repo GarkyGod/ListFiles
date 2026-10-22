@@ -90,9 +90,7 @@ class Spider(Spider):
                 new_sites[site_key] = {
                     "name": site_name if site_name else f"未改名資源站{i}",
                     "api": site_api,
-                    "searchable": "0" if str(s.get("searchable", 1)).strip() == "0" else "1",
-                    "exclude_id": s.get("exclude_id", ""),
-                    "exclude_name": s.get("exclude_name", "")
+                    "searchable": "0" if str(s.get("searchable", 1)).strip() == "0" else "1"
                 }
         if mode == "0": return new_sites # 模式0：返回全部站點
         
