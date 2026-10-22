@@ -53,7 +53,7 @@ class Spider(Spider):
 
         # 加載站點配置（支持GitHub等遠端URL）
         default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"  # 默認GitHub地址
-        mode = "0"             # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2非成人站點(倫理內容不剔除)，3-僅成人站點
+        mode = "1"             # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2非成人站點(倫理內容不剔除)，3-僅成人站點
         json_path = default_path
 
         # 解析擴展參數 extend
