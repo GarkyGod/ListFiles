@@ -1,0 +1,1089 @@
+{
+  "api_sites":[
+
+		{
+			"key":"key_360",
+			"name":"🎬360",	
+			"api":"https://360zyzz.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"1,2,3,4",
+			"exclude_name":"伦理片",
+			"notes":{
+				"homepage":["https://360zy.com/","https://360zy.net/","https://360zy.vip/","https://360zy.top/",
+					"https://360zy.tv/","https://360zy1.com/ …… https://360zy10.com/","https://t.me/sllzyz"],
+				"api_mores":["https://360zyzz.com/api.php/provide/vod/","https://360zyzz.com/api.php/provide/vod/at/xml",
+					"https://360zy.com/api.php/provide/vod/","https://360zy.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_baidu",
+			"name":"🎬百度",
+			"api":"https://api.apibdzy.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"1,2,3,4",
+			"exclude_name":"伦理,港台三级,韩国伦理,西方伦理,日本伦理,两性课堂,写真热舞",
+			"notes":{
+				"homepage":["https://bdzy.com/","https://api.apibdzy.com/","https://bdzy1.com/ …… https://bdzy8.com/",
+					"","","https://t.me/bdzycom"],
+				"api_mores":["https://api.apibdzy.com/api.php/provide/vod/","https://api.apibdzy.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_baofeng",
+			"name":"🎬暴風",
+			"api":"https://bfzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://bfzy.tv/","http://bfzy1.tv/ …… http://bfzy10.tv/","",
+					"","","https://t.me/+s3J9b3wKWvtjYWFl"],
+				"api_mores":["https://bfzyapi.com/api.php/provide/vod/","https://bfzyapi.com/api.php/provide/vod/at/xml",
+					"https://by.bfzyapi.com/api.php/provide/vod/","https://by.bfzyapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_dazhong",
+			"name":"🎬大眾",
+			"api":"https://cdn.dzzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://dzzy.com/","http://dyttzy1.tv/ …… http://dyttzy5.tv/","",
+					"","https://t.me/dzzy9","https://t.me/tantanzy9"],
+				"api_mores":["https://cdn.dzzyapi.com/api.php/provide/vod/","https://cdn.dzzyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_dianyingtiantang",
+			"name":"🎬電影天堂",
+			"api":"http://caiji.dyttzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://dyttzy.tv/","http://dyttzy1.tv/ …… http://dyttzy5.tv/","",
+					"","","https://t.me/dyttzytv"],
+				"api_mores":["http://caiji.dyttzyapi.com/api.php/provide/vod/","http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_douban",
+			"name":"🎬豆瓣",
+			"api":"https://caiji.dbzy5.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://dbzy.tv/","https://doubanzy.net/","https://doubanzy.cc/","https://doubanziyuan.net/",
+					"https://doubanziyuan.com/","https://dbzy1.com/ …… https://dbzy5.com/","https://t.me/dbzytv"],
+				"api_mores":["https://caiji.dbzy5.com/api.php/provide/vod/","https://caiji.dbzy5.com/api.php/provide/vod/at/xml",
+					"https://dbzy1.com/api.php/provide/vod/","https://dbzy.tv/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_feifan",
+			"name":"🎬非凡",
+			"api":"http://api.ffzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://www.ffzy.tv/","http://ffzy1.tv/ …… http://ffzy5.tv/","",
+					"","","https://t.me/ffzy_tv"],
+				"api_mores":["http://api.ffzyapi.com/api.php/provide/vod/","https://api.ffzyapi.com/api.php/provide/vod/at/xml",
+					"https://cj.ffzyapi.com/api.php/provide/vod/","https://cj.ffzyapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_guangsu",
+			"name":"🎬光速",
+			"api":"https://api.guangsuapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://guangsuzy.com/","https://guangsuziyuan.com/","https://guangsuzy.net/",
+					"https://guangsuziyuan.net/","","https://t.me/GuangSuZY"],
+				"api_mores":["https://api.guangsuapi.com/api.php/provide/vod/","https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_haohua",
+			"name":"🎬豪華",
+			"api":"https://hhzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://www.haohuazy.com/","https://www.haohuaziyuan.com/","",
+					"","","https://t.me/huohuziyuan"],
+				"api_mores":["https://hhzyapi.com/api.php/provide/vod/","https://hhzyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_huya",
+			"name":"🎬虎牙",
+			"api":"https://www.huyaapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://huyazy.com/ |Proxy","https://huyaziyuan.com/ |Proxy","https://huyazy.net/",
+					"https://huyaziyuan.net/","","https://t.me/jinyingzy"],
+				"api_mores":["https://www.huyaapi.com/api.php/provide/vod/","https://www.huyaapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_hongniu",
+			"name":"🎬紅牛",
+			"api":"https://www.hongniuzy2.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://hongniuziyuan.net/ |Proxy","https://hongniuziyuan.com/","https://hongniuziyuan.tv/",
+					"https://hongniuzy.net/","https://hongniuzy.com/ …… https://hongniuzy4.com/","https://hongniuzy.tv/","https://t.me/hongniuzycom"],
+				"api_mores":["https://www.hongniuzy2.com/api.php/provide/vod/","https://www.hongniuzy2.com/api.php/provide/vod/at/xml",
+					"https://www.hongniuzy3.com/api.php/provide/vod/","https://www.hongniuzy3.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_ikun",
+			"name":"🎬ikun|⚠",
+			"api":"https://ikunzy.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://ikunzy.com/ |Proxy","https://ikunzy.net/ |Proxy","https://ikunzy.org/ |Proxy","https://ikunzy.vip/ |Proxy",
+					"https://ikzy1.com/ …… https://ikzy9.com/ |Proxy","https://ikunzy.cc/","https://t.me/ikunzyz"],
+				"api_mores":["https://ikunzyapi.com/api.php/provide/vod/","https://ikunzyapi.com/api.php/provide/vod/at/xml",
+					"https://ikunzy.com/api.php/provide/vod/","https://ikunzy.cc/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_iqiyi",
+			"name":"🎬愛奇藝",
+			"api":"https://iqiyizyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://iqiyizy.com/","https://iqiyizy.cc/","https://iqiyizy.vip/",
+					"https://iqiyizy1.com/ …… https://iqiyizy9.com/","","https://t.me/iqiyizy_chat"],
+				"api_mores":["https://iqiyizyapi.com/api.php/provide/vod/","https://iqiyizyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_jianan",
+			"name":"🎬建安",
+			"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
+			"searchable":"0",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://154.219.117.232:9981/","","",
+					"","","https://t.me/jacloud_xyz"],
+				"api_mores":["http://154.219.117.232:9981/jacloudapi.php/provide/vod/","http://154.219.117.232:9981/jacloudapi.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_jinying",
+			"name":"🎬金鷹",
+			"api":"https://jyzyapi.com/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://jinyingzy.com/","https://jinyingzy.net/","https://jinyingziyuan.com/",
+					"https://jyzy1.com/ …… https://jyzy3.com/","","https://t.me/jinyingzy"],
+				"api_mores":["https://jyzyapi.com/provide/vod/","https://jyzyapi.com/provide/vod/at/xml",
+					"https://jyzyapi.com/api.php/provide/vod/","https://jinyingzy.com/provide/vod/","https://jinyingzy.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_jisu",
+			"name":"🎬極速",
+			"api":"https://jszyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://jisuzy.com/","https://jisuzy.tv/","http://www.jisuziyuan.com/",
+					"http://www.jszy666.com/","http://www.jszy333.com/","https://t.me/jisuziyuanzhan"],
+				"api_mores":["https://jszyapi.com/api.php/provide/vod/","https://jszyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_juliang",
+			"name":"🎬巨量",
+			"api":"https://api.juliang.live/api/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://juliang.co/","https://juliang.app/","",
+					"","","https://t.me/jlzyw"],
+				"api_mores":["https://api.juliang.live/api/provide/vod/","https://api.juliang.live/api/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_kuaiche",
+			"name":"🎬快車",
+			"api":"https://caiji.kuaichezy.org/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://kuaichezy.com/","https://kuaichezy1.com/ …… https://kuaichezy9.com/","",
+					"","","https://t.me/kuaicheziyuan"],
+				"api_mores":["https://caiji.kuaichezy.org/api.php/provide/vod/","https://caiji.kuaichezy.org/api.php/provide/vod/at/xml",
+					"https://caiji.kczyapi.com/api.php/provide/vod/","https://caiji.kczyapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_liangzi",
+			"name":"🎬量子",
+			"api":"https://cj.lziapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://lzzy.tv/","https://lzizy1.com/ …… https://lzizy8.com/","",
+					"","https://t.me/lzzytv","https://t.me/lzzy1tv"],
+				"api_mores":["https://cj.lziapi.com/api.php/provide/vod/","https://cj.lziapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_maotai",
+			"name":"🎬茅臺",
+			"api":"https://caiji.maotai999.vip/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://maotaiziyuan.com/","https://maotaizy.com/","https://maotaizy.cc/","https://mtzy.tv/",
+					"https://mtzy.me/","https://mtzy1.com/ …… https://mtzy6.com/","https://t.me/mtzyme"],
+				"api_mores":["https://caiji.maotai999.vip/api.php/provide/vod/","https://caiji.maotai999.vip/api.php/provide/vod/at/xml",
+					"https://caiji.maotaizy.cc/api.php/provide/vod/","https://maotaizy.com/api.php/provide/vod/","https://mtzy.me/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_maoyan",
+			"name":"🎬貓眼",
+			"api":"https://api.maoyanapi.top/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.maoyanzy.com/","https://www.maoyanzy.cc/","https://www.maoyanzy.vip/",
+					"https://www.maoyanzy.xyz/","https://www.maoyanzy.top/","https://t.me/maoyanzyz"],
+				"api_mores":["https://api.maoyanapi.top/api.php/provide/vod/","https://api.maoyanapi.top/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_modu",
+			"name":"🎬魔都",
+			"api":"https://caiji.moduapi.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.moduzy.com/ |Proxy","https://www.moduzy.net/ |Proxy","https://www.moduzy.cc/",
+					"https://www.moduzy.vip/","https://www.moduzy1.com/ ……   // https://www.moduzy15.com/","https://t.me/mdzyw"],
+				"api_mores":["https://caiji.moduapi.cc/api.php/provide/vod/","https://caiji.moduapi.cc/api.php/provide/vod/at/xml",
+					"https://www.mdzyapi.com/api.php/provide/vod/","https://www.mdzyapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_niuniu",
+			"name":"🎬牛牛",
+			"api":"https://api.niuniuzy.me/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://niuniuzy.cc/","https://niuniuzy.info/","https://niuniuzy.me/",
+					"https://niuniuzy.org/","","https://t.me/niuniuzyw"],
+				"api_mores":["https://api.niuniuzy.me/api.php/provide/vod/","https://api.niuniuzy.me/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_ok",
+			"name":"🎬OK",
+			"api":"https://api.okzyw.net/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://okzyw.cc/","https://okzyw.net/","",
+					"","","https://t.me/okzy666"],
+				"api_mores":["https://api.okzyw.net/api.php/provide/vod/","https://api.okzyw.net/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_piaoling",
+			"name":"🎬飄零",
+			"api":"https://p2100.net/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.p21000.com/","","",
+					"","",""],
+				"api_mores":["https://p2100.net/api.php/provide/vod/","https://p2100.net/api.php/provide/vod/at/xml",
+					"https://p21000.com/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_ruyi",
+			"name":"🎬如意",
+			"api":"":"https://cj.rytvapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.ryzyw.com/","https://www.ryzy.tv/","https://www.ryzy1.tv/ …… https://www.ryzy9.tv/",
+					"","","https://t.me/ryzywcom"],
+				"api_mores":["https://cj.rycjapi.com/api.php/provide/vod/","https://cj.rycjapi.com/api.php/provide/vod/at/xml",
+					"https://cj.rytvapi.com/api.php/provide/vod/","https://bycj.rytvapi.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_shandian",
+			"name":"🎬閃電",
+			"api":"https://xsd.sdzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://shandianzy.com/","http://shandianzy.net/","http://shandianzy.cc/",
+					"","","https://t.me/shandianzy"],
+				"api_mores":["https://xsd.sdzyapi.com/api.php/provide/vod/","https://xsd.sdzyapi.com/api.php/provide/vod/at/xml",
+					"https://sdzyapi.com/api.php/provide/vod/","https://sdzyapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_subo",
+			"name":"🎬速播",
+			"api":"https://subocj.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://subocaiji.com/","http://www.subozy.com/","http://www.suboziyuan.com/",
+					"http://suboziyuan.net/","","http://t.me/subozy"],
+				"api_mores":["https://subocj.com/api.php/provide/vod/","https://subocj.com/api.php/provide/vod/at/xml",
+					"https://subocaiji.com/api.php/provide/vod/","https://subocaiji.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_suoni",
+			"name":"🎬索尼",
+			"api":"https://suoniapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://suonizy.com/","https://suonizy.cc/","https://suonizy.net/",
+					"","","https://t.me/suonizy"],
+				"api_mores":["https://suoniapi.com/api.php/provide/vod/","https://suoniapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_taopian",
+			"name":"🎬淘片|⚠",
+			"api":"https://taopianapi.com/cjapi/mc/vod/json.html",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.taopianzy.com/","https://taopianzy01.com/ …… https://www.taopianzy2.com/","",
+					"","","https://t.me/taopian"],
+				"api_mores":["https://taopianapi.com/cjapi/mc/vod/json.html","https://taopianapi.com/cjapi/mc/vod/xml.html",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_tianyayingshi",
+			"name":"🎬天涯影視",
+			"api":"https://tyyszyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://tyyszy.com/","https://tyyszy1.com/ …… https://tyyszy5.com/","",
+					"","","https://t.me/tyyspd"],
+				"api_mores":["https://tyyszyapi.com/api.php/provide/vod/","https://tyyszyapi.com/api.php/provide/vod/at/xml",
+					"https://tyyszy.com/api.php/provide/vod/","https://ty.tyyszy5.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_uku",
+			"name":"🎬U酷",
+			"api":"https://api.ukuapi88.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://ukuzy.com/","https://ukuzy0.com/ …… https://ukuzy9.com/","",
+					"","https://t.me/tantanzy888","https://t.me/tantanzy9"],
+				"api_mores":["https://api.ukuapi88.com/api.php/provide/vod/","https://api.ukuapi88.com/api.php/provide/vod/at/xml",
+					"https://api.ukuapi.com/api.php/provide/vod/","https://api.ukuapi.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_uu",
+			"name":"🎬UU",
+			"api":"https://uuzy.me/api.php/provide/vod/",
+			"searchable":"0",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://uuzy.me/","","",
+					"","","https://t.me/uuzyme"],
+				"api_mores":["https://uuzy.me/api.php/provide/vod/","https://uuzy.me/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_wujin",
+			"name":"🎬無盡",
+			"api":"https://api.wujinapi.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://wujinzy.net/","https://wujinzy.com/","https://wujinzy.co/",
+					"https://wujinzy.cc/","https://t.me/wujin888","https://t.me/wujinzy"],
+				"api_mores":["https://api.wujinapi.me/api.php/provide/vod/","https://api.wujinapi.me/api.php/provide/vod/at/xml",
+					"https://api.wujinapi.cc/api.php/provide/vod/","https://api.wujinapi.com/api.php/provide/vod/",
+					"https://api.wujinapi.net/api.php/provide/vod/","https://api.wujinapi.co/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_wushuiyin",
+			"name":"🎬無水印",
+			"api":"https://api.wsyzy.net/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://wsyzy.cc/","","",
+					"","","https://t.me/wsyzy_cc"],
+				"api_mores":["https://api.wsyzy.net/api.php/provide/vod/","https://api.wsyzy.net/api.php/provide/vod/at/xml",
+					"https://wsyzy.cc/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_xigua",
+			"name":"🎬西瓜",
+			"api":"https://caiji.xgzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://xgzy.tv/","https://xgzy1.tv/ …… https://xgzy10.tv/","",
+					"","","https://t.me/xgzytv"],
+				"api_mores":["https://caiji.xgzyapi.com/api.php/provide/vod/","https://caiji.xgzyapi.com/api.php/provide/vod/at/xml",
+					"https://xgzy.tv/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_xinlang",
+			"name":"🎬新浪",
+			"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://xinlangzy.com/","https://xinlangziyuan.com/","https://xinlangziyuan.net/",
+					"https://xinlangzy.net/","","https://t.me/xinlangzy"],
+				"api_mores":["https://api.xinlangapi.com/xinlangapi.php/provide/vod/","https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_yaya",
+			"name":"🎬鴨鴨(丫丫)",
+			"api":"https://cj.yayazy.net/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://yayazy.com/","https://yayazy.net/","https://yayazy.ne/",
+					"https://yayazy.org/","https://yayazy.me/","https://t.me/yayazy11"],
+				"api_mores":["https://cj.yayazy.net/api.php/provide/vod/","https://cj.yayazy.net/api.php/provide/vod/at/xml",
+					"https://cj2.yayazy.net/api.php/provide/vod/","https://cj2.yayazy.net/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_yinghua",
+			"name":"🎬櫻花",
+			"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://yhzy.cc/","https://help.apiyhzy.com/","",
+					"","","https://t.me/yinghuazy"],
+				"api_mores":["https://m3u8.apiyhzy.com/api.php/provide/vod/","https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_youzhi",
+			"name":"🎬優質",
+			"api":"https://api.yyzy-tv.vip/inc/apijson.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://yzzy.tv/","https://yzzy.me/","https://hdzyk.com/",
+					"http://1080zyk1.com/ …… http://1080zyk20.com/","","https://t.me/+L4dNeNVi49I1ODVl"],
+				"api_mores":["https://api.yyzy-tv.vip/inc/apijson.php","https://api.yzzy-api.com/inc/apijson.php |Proxy",
+					"https://api.yzzy-api.com/inc/api_all.php |Proxy","https://api.1080zyku.com//inc/apijson.php |Proxy"]
+			}
+		},
+
+		{
+			"key":"key_yunjiexi",
+			"name":"🎬雲解釋",
+			"api":"https://api.yparse.com/api/json",
+			"searchable":"0",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.yparse.com/","","",
+					"","",""],
+				"api_mores":["https://api.yparse.com/api/json","https://api.yparse.com/api/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_zuida",
+			"name":"🎬最大",
+			"api":"https://api.zuidapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://zuidazy.com/","https://zuidazy.me/","https://zuidazy.co/",
+					"https://zuida.xyz/","","https://t.me/zuidazyw"],
+				"api_mores":["https://api.zuidapi.com/api.php/provide/vod/","https://api.zuidapi.com/api.php/provide/vod/at/xml",
+					"https://zuidazy.me/api.php/provide/vod/","https://zuidazy.co/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_155",
+			"name":"🔞155(18+)",
+			"api":"https://155api.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://155zy.com/","http://155zy1.com/ …… http://155zy10.com/","",
+					"","","https://t.me/cms155zy"],
+				"api_mores":["https://155api.com/api.php/provide/vod/","https://155api.com/api.php/provide/vod/at/xml",
+					"https://www.155api.com/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_aosika",
+			"name":"🔞奧斯卡(18+)",
+			"api":"https://aosikazy2.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://aosikazy.com/ |Proxy","https://aosikazy1.com/ …… https://aosikazy10.com/ |2.3","",
+					"","https://t.me/AsK_zy","https://t.me/aosikazyGF"],
+				"api_mores":["https://aosikazy.com/api.php/provide/vod/","https://aosikazy.com/api.php/provide/vod/at/xml",
+					"https://aosikazy1.com/api.php/provide/vod/","https://aosikazy2.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_ck",
+			"name":"🔞CK(18+)",
+			"api":"https://ckzy.me/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://ckzy.me/","https://ckzy1.com/","https://lunli8.tv/",
+					"","","https://t.me/ckzy2"],
+				"api_mores":["https://ckzy.me/api.php/provide/vod/","https://ckzy.me/api.php/provide/vod/at/xml",
+					"https://ckzy1.com/api.php/provide/vod/","https://ckzy1.com/api.php/provide/vod/at/xml"]
+			}
+		},
+
+		{
+			"key":"key_dadi",
+			"name":"🔞大地(18+)",
+			"api":"https://dadiapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://dadizy.com/ |Proxy","http://help.shengapi.com/","http://dadizy1.com/ …… http://dadizy19.com/",
+					"","",""],
+				"api_mores":["https://dadiapi.com/feifei/","https://dadiapi.com/api.php","https://dadiapi.com/api.php/provide/vod/",
+					"https://ddkbo.com/feifei/","https://dadizy.com/feifei/","https://dadizy1.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_danaizi",
+			"name":"🔞大奶子(18+)",
+			"api":"https://apidanaizi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://danaizizy.com/","https://danaizizy1.com/ …… https://danaizizy5.com/","",
+					"","","https://t.me/danaizizy"],
+				"api_mores":["https://apidanaizi.com/api.php/provide/vod/","https://apidanaizi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_didi",
+			"name":"🔞滴滴(18+)",
+			"api":"https://api.ddapi.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://didizy.com/","https://didiziyuan.com/","",
+					"","https://t.me/didizy2","https://t.me/didiziyuan"],
+				"api_mores":["https://api.ddapi.cc/api.php/provide/vod/","https://api.ddapi.cc/api.php/provide/vod/at/xml",
+					"https://didizy.com/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_doudou",
+			"name":"🔞豆豆(18+)",
+			"api":"https://api.douapi.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://doudouzy.com/","","",
+					"","","https://t.me/doudouzy"],
+				"api_mores":["https://api.douapi.cc/api.php/provide/vod/","https://api.douapi.cc/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_fanhao",
+			"name":"🔞番號(18+)",
+			"api":"http://fhapi9.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://fhzy1.com/ …… https://fhzy10.com/","","",
+					"","",""],
+				"api_mores":["http://fhapi9.com/api.php/provide/vod/","http://fhapi9.com/api.php/provide/vod/at/xml",
+					"http://fhapiby.com/api.php/provide/vod/","http://fhapiby.com/api.php/provide/vod/at/xml/"]
+			}
+		},
+
+		{
+			"key":"key_heiliao",
+			"name":"🔞黑料(18+)",
+			"api":"https://heiliaozyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://heiliaozy.com/ |Proxy","https://heiliaozy.cc/ |Proxy","https://heiliaozy.live/ |Proxy",
+					"https://heiliaozy.vip/ |Proxy","https://heiliaozy.top/ |Proxy","https://t.me/heiliaozy0001"],
+				"api_mores":["https://heiliaozyapi.com/api.php/provide/vod/","https://heiliaozyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_huangsecangku",
+			"name":"🔞黃色倉庫(18+)",
+			"api":"https://hsckzy888.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://hsckzy.com/","https://hsckzy888.com/","https://hsckzy.xyz/","https://hsckzy001.com/",
+					"https://hszyckapi.vip/","https://hsckzy.vip/","https://t.me/hsckzy"],
+				"api_mores":["https://hsckzy888.com/api.php/provide/vod/","https://hsckzy888.com/api.php/provide/vod/at/xml",
+					"https://hszyckapi.vip/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_jingpin",
+			"name":"🔞精品(18+)",
+			"api":"https://www.jingpinx.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.jingpinx.com/ |Proxy","","",
+					"","","https://t.me/jingpinx1"],
+				"api_mores":["https://www.jingpinx.com/api.php/provide/vod/","https://www.jingpinx.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_jingpin98",
+			"name":"🔞精品98(18+)",
+			"api":"https://jp98.vip/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://jp98.vip/","","",
+					"","","https://t.me/jp98x"],
+				"api_mores":["https://jp98.vip/api.php/provide/vod/","https://jp98.vip/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_jkun",
+			"name":"🔞JKUN(18+)",
+			"api":"https://jkunzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://jkzyuan.cc/","https://jkunzy.com/","https://jkunzy.cc/","https://jkunzy.vip/",
+					"https://jkunzy.live/","https://jkunzy.top/","https://t.me/jkunzyz"],
+				"api_mores":["https://jkunzyapi.com/api.php/provide/vod/","https://jkunzyapi.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_lajiao",
+			"name":"🔞",
+			"api":"http://api.11bat.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://lajiaozy.com/ |Proxy","https://apilj.com/ |Proxy","http://api.11bat.com/",
+					"","",""],
+				"api_mores":["https://apilj.com/api.php/provide/vod/","https://apilj.com/api.php/provide/vod/at/xml",
+					"https://api.11bat.com/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_laosebi",
+			"name":"🔞老色逼(18+)",
+			"api":"https://apilsbzy1.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://laosebizy.com/","https://apilsbzy1.com/","https://laosebizy1.com/ …… https://laosebizy9.com/",
+					"","",""],
+				"api_mores":["https://apilsbzy.com/api.php/provide/vod/","https://apilsbzy.com/api.php/provide/vod/at/xml",
+					"https://apilsbzy1.com/api.php/provide/vod/","https://apilsbzy2.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_lebo",
+			"name":"🔞樂播(18+)",
+			"api":"https://lbapi9.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.lebozy.com/","https://www.lebozy1.com/ …… https://www.lebozy10.com/","https://lbapi9.com/",
+					"","","https://t.me/lebozy"],
+				"api_mores":["https://lbapi9.com/api.php/provide/vod/","https://lbapi9.com/api.php/provide/vod/at/xml",
+					"http://lbapiby.com/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_naixiangxiang",
+			"name":"🔞奶香香(18+)",
+			"api":"https://naixxzy2.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://naixxzy.com/ |Proxy","https://naixxzy1.com/ …… https://naixxzy30.com/ |2.6.20","https://naixxzy.cc/",
+					"","","https://t.me/nxx_ZY"],
+				"api_mores":["https://naixxzy.com/api.php/provide/vod/","https://naixxzy.com/api.php/provide/vod/at/xml",
+					"https://naixxzy2.com/api.php/provide/vod/","https://naixxzy6.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_madoushipin",
+			"name":"🔞麻豆視頻(18+)",
+			"api":"https://9191md.me/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://www.7000.me/ |Proxy","https://x95.cc/","https://91md.me/","https://9191md.me",
+					"https://md91.cc/","https://bt4.cc/",""],
+				"api_mores":["https://9191md.me/api.php/provide/vod/","https://9191md.me/api.php/provide/vod/at/xml",
+					"https://91md.me/api.php/provide/vod/","https://bt4.cc/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_shayu",
+			"name":"🔞鯊魚(18+)",
+			"api":"https://shayuzy.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://shayuzy.com/","http://shayuzy1.com/ …… http://shayuzy10.com/","http://shayuapi.com/ |Proxy",
+					"","",""],
+				"api_mores":["https://shayuapi.com/api.php/provide/vod/","https://shayuapi.com/api.php/provide/vod/at/xml",
+					"https://shayuzy.com/api.php/provide/vod/","https://shayuzy1.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_senlin",
+			"name":"🔞森林(18+)",
+			"api":"https://beiyong.slapibf.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://senlinzy.com/","http://senlinzy1.com/ …… http://senlinzy10.com/","",
+					"","",""],
+				"api_mores":["https://slapibf.com/api.php/provide/vod/","https://slapibf.com/api.php/provide/vod/at/xml",
+					"https://beiyong.slapibf.com/api.php/provide/vod/","https://senlinzy.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_souav",
+			"name":"🔞搜av(18+)",
+			"api":"https://api.souavzy.vip/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://souavzy.vip/ |Close","https://souavzy.net/ |Proxy","",
+					"","",""],
+				"api_mores":["https://api.souavzy.vip/api.php/provide/vod/","https://api.souavzy.vip/api.php/provide/vod/at/xml",
+					"https://api.souavzyw.net/api.php/provide/vod/",""]
+			}
+		},
+
+		{
+			"key":"key_xiaoji",
+			"name":"🔞小雞(18+)",
+			"api":"https://api.xjzyapi.xyz/provide/vod",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://xiaojizy.live/","https://xjzy1.xyz/ …… https://xjzy9.xyz/","",
+					"","",""],
+				"api_mores":["https://api.xjzyapi.xyz/provide/vod","https://api.xiaojizy.live/provide/vod/",
+					"",""]
+			}
+		},
+
+		{
+			"key":"key_xingba",
+			"name":"🔞杏吧(18+)",
+			"api":"https://xingbazy.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://sex8zy.com/ |Proxy","https://sex8zy1.com/ …… https://sex8zy9.com/","",
+					"","","https://t.me/xbxbxbzy"],
+				"api_mores":["https://sex8zy.com/api.php/provide/vod/","https://sex8zy.com/api.php/provide/vod/at/xml",
+					"https://xingbazy.com/api.php/provide/vod/","https://xingba111.com/api.php/provide/vod/",
+					"https://sex8zy1.com/api.php/provide/vod/","https://sex8zy2.com/api.php/provide/vod/"
+					"https://xingba222.com/api.php/provide/vod/","https://json.xingba222.com/api.php/provide/vod/",
+					"https://api.xgbbk8.com/api.php/provide/vod/","https://json.xgbbk8.com/api.php/provide/vod/"]
+			}
+		},
+
+		{
+			"key":"key_xlm_baipiao",
+			"name":"🔞X聯盟-白嫖(18+)",
+			"api":"https://www.kxgav.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.kxgav.com/api/json.php","https://www.kxgav.com/api/xml.php",
+					"https://www.kxgav.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_xlm_huangav",
+			"name":"🔞X聯盟-黃AV(18+)",
+			"api":"https://www.pgxdy.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.pgxdy.com/api/json.php","https://www.pgxdy.com/api/xml.php",
+					"https://www.pgxdy.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_xlm_meishaonu",
+			"name":"🔞X聯盟-美少女(18+)",
+			"api":"https://www.msnii.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.msnii.com/api/json.php","https://www.msnii.com/api/xml.php",
+					"https://www.msnii.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_xlm_xiangnaier",
+			"name":"🔞X聯盟-香奶兒(18+)",
+			"api":"https://www.gdlsp.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.gdlsp.com/api/json.php","https://www.gdlsp.com/api/xml.php",
+					"https://www.gdlsp.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_xlm_xiaoshimei",
+			"name":"🔞X聯盟-小濕妹(18+)|⚠",
+			"api":"https://www.afasu.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.afasu.com/api/json.php","https://www.afasu.com/api/xml.php",
+					"https://www.afasu.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_xlm_yinshuiji",
+			"name":"🔞X聯盟-淫水機(18+)",
+			"api":"https://www.xrbsp.com/api/json.php",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://www.xzylm.com/ |Proxy","","",
+					"","",""],
+				"api_mores":["https://www.xrbsp.com/api/json.php","https://www.xrbsp.com/api/xml.php",
+					"https://www.xrbsp.com/api/api.php",""]
+			}
+		},
+
+		{
+			"key":"key_yutu",
+			"name":"🔞玉兔(18+)",
+			"api":"https://apiyutu.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["https://yutuzy.com/ |Proxy","https://yutuzy1.com/ …… https://yutuzy10.com/","",
+					"","https://t.me/yutuzywpd","https://t.me/yutuzyw"],
+				"api_mores":["https://apiyutu.com/api.php/provide/vod/","https://apiyutu.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		}
+
+  ]
+}
