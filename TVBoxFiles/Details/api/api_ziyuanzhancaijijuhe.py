@@ -21,7 +21,7 @@ class Spider(Spider):
         初始化爬蟲組件，配置連接池、緩存系統、加載站點配置
         :param extend: 擴展參數，可用於指定配置路徑、篩選模式或兩者的組合
         """
-        self.sites = {}         # 存儲解析後的站點信息
+        self.sources = {}         # 存儲解析後的站點信息
         self.exclude_ClassNames = (
             "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧","公告", "头条", "未分类", "子类12", "子类113"
         )
@@ -78,14 +78,14 @@ class Spider(Spider):
                 if res.status_code == 200:
                     data = res.json()
                     all_sites = data.get("api_sites", [])
-                    self.sites = self._filter_sites(all_sites, mode) # 根據模式篩選並保存站點
+                    self.sources = self._filter_sites(all_sites, mode) # 根據模式篩選並保存站點
             else:
                 # 兼容本地文件讀取路徑
                 if os.path.exists(json_path):
                     with open(json_path, "r", encoding="utf-8") as f:
                         data = json.load(f)
                         all_sites = data.get("api_sites", [])
-                        self.sites = self._filter_sites(all_sites, mode)
+                        self.sources = self._filter_sites(all_sites, mode)
         except Exception as e:
             print(f"加載配置失敗: {e}")
             pass
@@ -212,31 +212,35 @@ class Spider(Spider):
         classes = []
         filters = {}
         # 獲取站點影視類別
-        def load_class(key, site):
+        def load_class(key, source):
             params = {"ac": "list"}
-            data = self._fetch(site["api"], params)
+            data = self._fetch(source["api"], params)
+
 #            try:
 #                data = json.loads(html)
 #            except:
 #                data = {}
+
             vals = [{"n": "全部(最新)", "v": ""}]
+
             for c in data.get("class", []):
                 vals.append({
                     "n": c.get("type_name", ""),
                     "v": c.get("type_id", "")
                 })
+
             return key, vals
 
         with ThreadPoolExecutor(max_workers=16) as executor:
             futures = []
 
-            for key, site in self.sites.items():
+            for key, source in self.sources.items():
                 classes.append({
                     "type_id": key,
-                    "type_name": site.get("name", "")
+                    "type_name": source["name"]
                 })
 
-                futures.append(executor.submit(load_class, key, site))
+                futures.append(executor.submit(load_class, key, source))
 
             for future in as_completed(futures):
                 try:
@@ -250,6 +254,7 @@ class Spider(Spider):
                     }]
                 except:
                     pass
+
         return {"class": classes, "filters": filters}
 
     def homeVideoContent(self):
@@ -274,8 +279,8 @@ class Spider(Spider):
         if cached: return cached
 
         try:
-            if tid not in self.sites: return {"list": []}
-            site = self.sites[tid]
+            if tid not in self.sources: return {"list": []}
+            site = self.sources[tid]
             
             # 解析站點配置的排除分類清單
             paichu_str = str(site.get("paichu", ""))
@@ -333,7 +338,7 @@ class Spider(Spider):
             # 拆分出原本的站點索引與影片真實 ID
             idx, vid = vod_id_full.split("@@")
             idx = int(idx)
-            site = self.sites[idx]
+            site = self.sources[idx]
             
             # 調用站點 API 查詢詳情
             data = self._fetch(site["api"], {"ac": "detail", "ids": vid})
@@ -365,7 +370,7 @@ class Spider(Spider):
 
         # 2. 篩選出所有支援並發檢索的有效目標站點
         search_targets = []
-        for i, s in enumerate(self.sites):
+        for i, s in enumerate(self.sources):
             bz_val = str(s.get("bz", "1")).strip()
             if bz_val != "0" and s.get("api"): # bz 為 0 通常代表關閉或不參與搜索
                 search_targets.append((i, s))
