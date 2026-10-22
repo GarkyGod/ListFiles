@@ -53,7 +53,7 @@ class Spider(Spider):
         'key_uku': {'name': '📺U酷', 'api': 'https://api.ukuapi88.com/api.php/provide/vod'},
 #        'key_uu': {'name': '📺UU', 'api': 'https://uuzy.me/api.php/provide/vod'},
         'key_wujin': {'name': '📺無盡', 'api': 'https://api.wujinapi.cc/api.php/provide/vod'},
-        'key_wushuiyin': {'name': '📺無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
+        'key_wushuiyin': {'name': '📺無水印', 'api': 'https://wsyzy.cc/api.php/provide/vod'},
         'key_xigua': {'name': '📺西瓜', 'api': 'https://caiji.xgzyapi.com/api.php/provide/vod'},
         'key_xinlang': {'name': '📺新浪', 'api': 'https://api.xinlangapi.com/xinlangapi.php/provide/vod'},
         'key_yaya': {'name': '📺鴨鴨(丫丫)', 'api': 'https://cj.yayazy.net/api.php/provide/vod'},
