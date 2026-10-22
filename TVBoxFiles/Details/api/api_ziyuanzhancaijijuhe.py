@@ -215,20 +215,16 @@ class Spider(Spider):
         def load_class(key, site):
             params = {"ac": "list"}
             data = self._fetch(site["api"], params)
-
 #            try:
 #                data = json.loads(html)
 #            except:
 #                data = {}
-
             vals = [{"n": "全部(最新)", "v": ""}]
-
             for c in data.get("class", []):
                 vals.append({
                     "n": c.get("type_name", ""),
                     "v": c.get("type_id", "")
                 })
-
             return key, vals
 
         with ThreadPoolExecutor(max_workers=16) as executor:
