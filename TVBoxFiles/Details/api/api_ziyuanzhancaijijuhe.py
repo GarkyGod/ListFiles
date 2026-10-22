@@ -246,7 +246,7 @@ class Spider(Spider):
                 try:
                     key, vals = future.result()
 #                    if mode =="1":
-#                        vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+                    vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
                     filters[key] = [{
                         "key": "cateId",
                         "name": "分类",
