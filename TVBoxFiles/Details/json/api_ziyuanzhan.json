@@ -379,7 +379,7 @@
 		{
 			"key":"key_ruyi",
 			"name":"🎬如意",
-			"api":"":"https://cj.rytvapi.com/api.php/provide/vod/",
+			"api":"https://cj.rytvapi.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_id":"",
 			"exclude_name":"",
