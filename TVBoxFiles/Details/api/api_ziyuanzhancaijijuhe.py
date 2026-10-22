@@ -211,24 +211,49 @@ class Spider(Spider):
         """
         classes = []
         filters = {}
-        # 全局通用影視類別篩選器定義
-        universal_filter = [
-            {"key": "cateId", "name": "分類", "value": [
-                {"n": "全部", "v": ""},
-                {"n": "動作片", "v": "動作"}, {"n": "喜劇片", "v": "喜劇"},
-                {"n": "愛情片", "v": "愛情"}, {"n": "科幻片", "v": "科幻"},
-                {"n": "恐怖片", "v": "恐怖"}, {"n": "劇情片", "v": "劇情"},
-                {"n": "戰爭片", "v": "戰爭"}, {"n": "國產劇", "v": "國產"},
-                {"n": "港劇", "v": "香港"}, {"n": "韓劇", "v": "韓國"},
-                {"n": "歐美劇", "v": "歐美"}, {"n": "台劇", "v": "台灣"},
-                {"n": "日劇", "v": "日本"}, {"n": "紀錄片", "v": "記錄"},
-                {"n": "動漫", "v": "動漫"}, {"n": "綜藝", "v": "綜藝"}
-            ]}
-        ]
-        # 遍歷所有站點，將每個站點映射為一個一級分類導航
-        for k, v in self.sites.items():
-            classes.append({"type_id": k, "type_name": v.get("name", "")})
-            filters[k] = universal_filter # 每個虛擬分類綁定通用篩選清單
+        # 獲取站點影視類別
+        def load_class(key, site):
+            params = {"ac": "list"}
+            html = self._fetch(site["api"], params)
+
+            try:
+                data = json.loads(html)
+            except:
+                data = {}
+
+            vals = [{"n": "全部(最新)", "v": ""}]
+
+            for c in data.get("class", []):
+                vals.append({
+                    "n": c.get("type_name", ""),
+                    "v": c.get("type_id", "")
+                })
+
+            return key, vals
+
+        with ThreadPoolExecutor(max_workers=16) as executor:
+            futures = []
+
+            for key, site in self.sites.items():
+                classes.append({
+                    "type_id": key,
+                    "type_name": site.get("name", "")
+                })
+
+                futures.append(executor.submit(load_class, key, site))
+
+            for future in as_completed(futures):
+                try:
+                    key, vals = future.result()
+                    if mode =="1":
+                        vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+                    filters[key] = [{
+                        "key": "cateId",
+                        "name": "分类",
+                        "value": vals
+                    }]
+                except:
+                    pass
         return {"class": classes, "filters": filters}
 
     def homeVideoContent(self):
