@@ -245,7 +245,7 @@ class Spider(Spider):
             for future in as_completed(futures):
                 try:
                     key, vals = future.result()
-                    if self.mode =="1":
+                    if self.mode == "1":
                         vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
                     filters[key] = [{
                         "key": "cateId",
