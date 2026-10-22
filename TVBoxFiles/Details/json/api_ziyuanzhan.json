@@ -3,7 +3,7 @@
 
 		{
 			"key":"key_360",
-			"name":"🎬360",	
+			"name":"🎬360",
 			"api":"https://360zyzz.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_id":"1,2,3,4",
