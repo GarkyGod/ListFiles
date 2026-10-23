@@ -8,6 +8,7 @@ import base64
 import requests
 import os
 from requests.adapters import HTTPAdapter
+from urllib3.util import Retry    #
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from base.spider import Spider
 
@@ -29,10 +30,18 @@ class Spider(Spider):
     def init(self, extend=""):
 
         self.session = requests.Session() # 創建統一的 HTTP 會話
-
+        # 定義重試策略：總共重試 1 次，且包含連線與讀取超時
+        retries = Retry(
+            total=1,           # 總重試次數
+            connect=1,         # 連線超時重試次數
+            read=1,            # 讀取超時重試次數
+            raise_on_status=False
+        )
+        
         # [核心優化1] 極速連接池：預加載 TCP 連接，大幅降低握手延遲
         # pool_connections=100 保證了高並發搜索時每個站點都有獨立連接
-        adapter = HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=1)
+#        adapter = HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=1)
+        adapter = HTTPAdapter(pool_connections=100, pool_maxsize=100, max_retries=retries)
         self.session.mount('http://', adapter)   # 為 HTTP 協議掛載自定義連接池
         self.session.mount('https://', adapter)  # 為 HTTPS 協議掛載自定義連接池
 
