@@ -20,8 +20,8 @@ class Spider(Spider):
             "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧",
         "擦边剧","公告", "头条", "子类12", "子类113"
         )
-#    default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
-    default_path = "https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+    default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
+#    default_path = "https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
     headers = {
         "User-Agent": "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     }
