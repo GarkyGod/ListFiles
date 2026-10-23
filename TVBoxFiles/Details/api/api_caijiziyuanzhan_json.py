@@ -280,6 +280,8 @@ class Spider(Spider):
         return {"list": result}
 
     def search_one(self, source_key, source, keyword, pg):
+        if source["searchable"] == "0": return {}
+
         url = f"{source['api']}?ac=detail&wd={keyword}&pg={pg}"
 
         html = self.fetch(url, 3)
