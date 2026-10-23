@@ -22,11 +22,11 @@ class Spider(Spider):
         )
 #    default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
 #    default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-    default_path = "https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+#    default_path = "https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+    default_path = "https://cors.isteed.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
 #    default_path = "https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
-    }
+    
+    ua = "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     
     def getName(self):
         return "采集聚合"
@@ -53,7 +53,7 @@ class Spider(Spider):
 
         # 設置全域通用請求頭，模擬常規瀏覽器並保持長連接
         self.session.headers.update({
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+            "User-Agent": self.ua,
             "Connection": "keep-alive"
         })
 
@@ -372,7 +372,7 @@ class Spider(Spider):
             "parse": 0,
             "playUrl": "",
             "url": id,
-            "header": self.headers
+            "header": {"User-Agent": self.ua}
         }
 
     def localProxy(self, param):
