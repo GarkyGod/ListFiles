@@ -9,7 +9,7 @@
 	"spider":"https://gh-proxy.org/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
 
 //////////////////////////////////////////////////  Lives  //////////////////////////////////////////////////
-//	"lives":"https://gh-proxy.org/https://github.com/jiusanzhou/tvbox/raw/main/shared/lives.json",
+	"lives":"../fongmi_lives.list",
 
 //////////////////////////////////////////////////  Sites  //////////////////////////////////////////////////
 //	{
@@ -68,7 +68,7 @@
 		"name":"🖥️資源站採集【測試】",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caiji.py",
-		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
+		"api":"https://cors.isteed.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
 		"ext":"2",
 		"searchable":1,
 		"changeable":1,
@@ -160,8 +160,8 @@
 		"key":"key_caijinsfw",  // 
 		"name":"🈲NSFW",
 		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
-//		"api":"https://git.yylx.win/github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+//		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+		"api":"https://wget.la/github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
 		"ext":"3",
 		"searchable":0,
 		"changeable":1,
