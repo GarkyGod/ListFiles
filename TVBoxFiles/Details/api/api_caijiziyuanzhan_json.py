@@ -32,9 +32,9 @@ class Spider(Spider):
         self.session = requests.Session() # 創建統一的 HTTP 會話
         # 定義重試策略：總共重試 1 次，且包含連線與讀取超時
         retries = Retry(
-            total = 2,               # 總重試次數
-            connect = 2,             # 連線超時重試次數
-            read = 2,                # 讀取超時重試次數
+            total = 1,               # 總重試次數
+            connect = 1,             # 連線超時重試次數
+            read = 1,                # 讀取超時重試次數
             backoff_factor = 2 ,     # 重試前隨機暫停 2 秒左右【設定退避因子。公式為：backoff_factor * (2 ** (retry_count - 1))】
             status_forcelist = [500, 502, 503, 504],    #伺服器回傳這些錯誤碼時，也強制重試 1 次
             raise_on_status = False
