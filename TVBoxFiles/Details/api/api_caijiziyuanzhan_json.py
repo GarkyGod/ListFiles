@@ -190,7 +190,7 @@ class Spider(Spider):
 
             return key, vals
 
-        with ThreadPoolExecutor(max_workers=16) as executor:        # max_workers=16
+        with ThreadPoolExecutor(max_workers=20) as executor:        # max_workers=16
             futures = []
 
             for key, source in self.sources.items():
