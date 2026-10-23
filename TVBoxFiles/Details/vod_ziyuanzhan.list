@@ -158,8 +158,8 @@
 		"key":"key_caijinsfw",  // 
 		"name":"🈲NSFW",
 		"type":3,
-//		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
-		"api":"https://git.yylx.win/github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+//		"api":"https://git.yylx.win/github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
 		"ext":"1",
 		"searchable":0,
 		"changeable":1,
