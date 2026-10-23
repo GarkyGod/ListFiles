@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-23 00:10:04
+!Last Modified: 2026-10-24 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1693,6 +1693,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
@@ -2696,6 +2697,7 @@ iipdigital.usembassy.gov
 ||iyouport.com
 ||iyouport.org
 !--------------------JJ-------------------------
+||ga.jspm.io
 ||javchu.com
 ||jkforum.net
 ||javfree.me
