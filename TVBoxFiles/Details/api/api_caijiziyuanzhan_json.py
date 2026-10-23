@@ -25,12 +25,7 @@ class Spider(Spider):
         "擦边剧", "公告", "头条", "子类12", "子类113"
     }
 
-#    default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
-#    default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-#    default_path = "https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-    default_path = "https://cors.isteed.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-#    default_path = "https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
-
+    default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"    # 默認站點地址
     ua = "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     
     def getName(self):
