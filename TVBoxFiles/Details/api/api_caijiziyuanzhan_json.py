@@ -35,17 +35,18 @@ class Spider(Spider):
         # 顯式抽取超時配置與連接池複用，並最佳化重試策略
         self.session = requests.Session()
         
-        retries = Retry(
-            total=1,               # 總重試次數
-            connect=1,             # 連線超時重試次數
-            read=1,                # 讀取超時重試次數
-            backoff_factor=1,      # 適當縮短退避時間，提升 TVBox 的加載靈敏度 【設定退避因子。公式為：backoff_factor * (2 ** (retry_count - 1))】
-            status_forcelist=[500, 502, 503, 504],
-            raise_on_status=False
-        )
+#        retries = Retry(
+#            total=1,               # 總重試次數
+#            connect=1,             # 連線超時重試次數
+#            read=1,                # 讀取超時重試次數
+#            backoff_factor=1,      # 適當縮短退避時間，提升 TVBox 的加載靈敏度 【設定退避因子。公式為：backoff_factor * (2 ** (retry_count - 1))】
+#            status_forcelist=[500, 502, 503, 504],
+#            raise_on_status=False
+#        )
         
         # 提高 pool_connections 和 maxsize 匹配高併發，避免 ConnectionPool 被打滿
-        adapter = HTTPAdapter(pool_connections=120, pool_maxsize=120, max_retries=retries)
+#        adapter = HTTPAdapter(pool_connections=120, pool_maxsize=120, max_retries=retries)
+        adapter = HTTPAdapter(pool_connections=120, pool_maxsize=120, max_retries=1)
         self.session.mount('http://', adapter)
         self.session.mount('https://', adapter)
 
