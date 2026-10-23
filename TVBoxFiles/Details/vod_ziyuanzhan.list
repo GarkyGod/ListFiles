@@ -50,8 +50,9 @@
 		"key":"key_caijiziyuanzhan",  // 
 		"name":"🖥️資源站採集",
 		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan.py",
-		"searchable":0,
+		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+		"ext":"2",
+		"searchable":1,
 		"changeable":1,
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -77,11 +78,10 @@
 		"name":"🖥️資源站採集【測試】",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caiji.py",
-//		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
-		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
+		"api":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_ziyuanzhancaijijuhe.py",
+		"ext":"2",
 		"searchable":1,
 		"changeable":1,
-		"ext":"2",
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
 			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
