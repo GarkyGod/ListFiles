@@ -168,7 +168,7 @@
 
 		{
 			"key":"key_ikun",
-			"name":"🎬ikun|⚠",
+			"name":"🎬ikun",
 			"api":"https://ikunzy.cc/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_id":"",
