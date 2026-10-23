@@ -7,6 +7,8 @@ import json
 import base64
 import requests
 import os
+import random
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry    #
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -78,6 +80,7 @@ class Spider(Spider):
                 # 發起網路請求從遠端獲取 JSON 配置，設置 10 秒超時，跳過 SSL 驗證
                 for timeout in [2, 4, 6]:
                     try:
+                        time.sleep(random.uniform(0.5, 1.5))    #降低请求频率
                         res = self.session.get(json_path, timeout=timeout, verify=False)
                         data = json.loads(res.text)
                         break    # 成功解析就跳出迴圈
@@ -173,6 +176,7 @@ class Spider(Spider):
             data = {}
             for timeout in [2, 4, 6]:
                 try:
+                    time.sleep(random.uniform(0.5, 1.5))    #降低请求频率
                     html = self.fetch(url, timeout)
                     data = json.loads(html)
                     break    # 成功解析就跳出迴圈
