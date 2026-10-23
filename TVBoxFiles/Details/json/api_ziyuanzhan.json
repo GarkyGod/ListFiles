@@ -200,7 +200,7 @@
 			"key":"key_jianan",
 			"name":"🎬建安",
 			"api":"http://154.219.117.232:9981/jacloudapi.php/provide/vod/",
-			"searchable":"1",
+			"searchable":"0",
 			"exclude_id":"",
 			"exclude_name":"",
 			"notes":{
