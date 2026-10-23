@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# 專屬全網聚合 Python版
-# 適配常見 Cat/TVBox Python Spider
-# 本地py適配
+# 专属資源站聚合 Python版
+# 适配常见 Cat/TVBox Python Spider
+# 本地py适配
 
 import json
 import base64
@@ -19,27 +19,32 @@ class Spider(Spider):
     sources = {}
     mode = "1"          # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2-非成人站點(倫理內容不剔除)，3-僅成人站點
     
-    # 優化：將 tuple 改為 set 提高 in 運算子的查詢效能（O(1) 複雜度）
+    # 用 set 提高 in 運算子的查詢效能（O(1) 複雜度）
     exclude_ClassNames = {
         "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧",
         "擦边剧", "公告", "头条", "子类12", "子类113"
     }
 
+#    default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
+#    default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+#    default_path = "https://ghp.garkygod.dpdns.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
     default_path = "https://cors.isteed.cc/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+#    default_path = "https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/json/api_ziyuanzhan.json"
+
     ua = "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     
     def getName(self):
-        return "采集聚合"
+        return "採集聚合"
 
     def init(self, extend=""):
-        # 優化：顯式抽取超時配置與連接池複用，並最佳化重試策略
+        # 顯式抽取超時配置與連接池複用，並最佳化重試策略
         self.session = requests.Session()
         
         retries = Retry(
             total=1,               # 總重試次數
             connect=1,             # 連線超時重試次數
             read=1,                # 讀取超時重試次數
-            backoff_factor=1,      # 優化：適當縮短退避時間，提升 TVBox 的加載靈敏度
+            backoff_factor=1,      # 適當縮短退避時間，提升 TVBox 的加載靈敏度 【設定退避因子。公式為：backoff_factor * (2 ** (retry_count - 1))】
             status_forcelist=[500, 502, 503, 504],
             raise_on_status=False
         )
@@ -49,29 +54,34 @@ class Spider(Spider):
         self.session.mount('http://', adapter)
         self.session.mount('https://', adapter)
 
+        # 設置全域通用請求頭，模擬常規瀏覽器並保持長連接
         self.session.headers.update({
             "User-Agent": self.ua,
             "Connection": "keep-alive"
         })
 
         json_path = self.default_path
+        # 解析擴展參數 extend
         if extend:
             if "|" in extend:
+                # 若包含分隔符 '|'，則拆分為配置路徑與模式
                 parts = extend.split("|")
                 json_path = parts[0] if parts[0] else self.default_path
                 self.mode = parts[1] if len(parts) > 1 else "1"
             elif len(extend) == 1 and extend in ["0", "1", "2", "3"]:
+                # 若長度為 1 且是特定數字，則僅視為模式變更
                 self.mode = extend
             else:
+                # 其餘情況視為自定義配置路徑 (可能是本地路徑或自定義 URL)
                 json_path = extend
 
         try:
             if json_path.startswith(('http://', 'https://')):
-                # 優化：將高風險的全域性網路請求增加健壯的錯誤擷取與超時遞增機制
+                # 將高風險的全域性網路請求增加健壯的錯誤擷取與超時遞增機制
                 data = {}
                 for timeout in [3, 5, 7]:  # 微調超時區間
                     try:
-                        # 優化：只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
+                        # 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
                         if timeout > 3:
                             time.sleep(random.uniform(0.3, 0.8))
                         res = self.session.get(json_path, timeout=timeout, verify=False)
@@ -94,7 +104,7 @@ class Spider(Spider):
     def _filter_sites(self, sites, mode):
         new_sites = {}
         for i, s in enumerate(sites):
-            # 優化：減少多餘的 string 轉換與 strip 重複呼叫
+            # 減少多餘的 string 轉換與 strip 重複呼叫
             site_key = str(s.get("key", "")).strip()
             site_api = str(s.get("api", "")).strip()
             if site_key and site_api:
@@ -109,7 +119,7 @@ class Spider(Spider):
         if mode == "0": 
             return new_sites
         
-        # 優化：成人站點關鍵字改用 frozenset 全域快取，避免重複初始化
+        # 成人站點關鍵字改用 frozenset 全域快取，避免重複初始化
         adult_kws = frozenset({"🔞", "AV", "18+"})
         
         def is_adult(name):
@@ -120,7 +130,6 @@ class Spider(Spider):
                 return True
             return any(k in name_upper for k in adult_kws)
 
-        temp_sites = {}
         # 優化：合併條件判斷與更簡潔的字典生成式
         if mode in ("1", "2"):
             return {k: v for k, v in new_sites.items() if not is_adult(v.get("name", ""))}
@@ -131,7 +140,7 @@ class Spider(Spider):
 
     def fetch(self, url, timeout=4):
         try:
-            # 優化：統一處理全域 requests 會話調用，簡化例外回傳
+            # 統一處理全域 requests 會話調用，簡化例外回傳
             r = self.session.get(url, timeout=timeout, verify=False)
             if r.status_code == 200:
                 return r.text
@@ -140,7 +149,7 @@ class Spider(Spider):
         return ""
 
     def clean_item(self, item, source_key, source_name, is_detail=False):
-        # 優化：直接淺拷貝或避免在不必要時重新轉換為 dict
+        # 直接淺拷貝或避免在不必要時重新轉換為 dict
         item = dict(item)
 
         if not is_detail:
@@ -167,7 +176,7 @@ class Spider(Spider):
             data = {}
             for timeout in [3, 5]:
                 try:
-                    # 優化：合理降低背景阻斷時間
+                    # 降低背景阻斷時間
                     html = self.fetch(url, timeout)
                     if html:
                         data = json.loads(html)
@@ -197,7 +206,7 @@ class Spider(Spider):
                 try:
                     key, vals = future.result()
                     if self.mode == "1":
-                        # 優化：利用 set 集合進行過濾，效能提升明顯
+                        # 利用 set 集合進行過濾，效能提升明顯
                         vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
                     filters[key] = [{
                         "key": "cateId",
@@ -293,7 +302,7 @@ class Spider(Spider):
         result = []
         max_page = 1
 
-        # 優化：多執行緒上限維持在合理範圍 25-30，避免部分核心較差的 TVBox 設備發生崩潰
+        # 多執行緒上限維持在合理範圍 25-30，避免部分核心較差的 TVBox 設備發生崩潰
         with ThreadPoolExecutor(max_workers=25) as executor:
             futures = {
                 executor.submit(self.search_one, sk, s, key, pg): sk 
