@@ -102,10 +102,10 @@ class Spider(Spider):
             # 減少多餘的 string 轉換與 strip 重複呼叫
             site_key = str(s.get("key", "")).strip()
             site_api = str(s.get("api", "")).strip()
-            if site_api.startswith(('http://', 'https://')):
+            if site_api and site_api.startswith(('http://', 'https://')):
                 ping_api = 0
                 # 對site_api做三次連通性測試，只保留可用站點
-                for timeout in [3, 5]:
+                for timeout in [3, 5, 7]:
                     try:
                         if timeout > 3: time.sleep(random.uniform(0.3, 0.8))
                         res = self.session.get(site_api, timeout=timeout, verify=False)
@@ -114,7 +114,7 @@ class Spider(Spider):
                             break
                     except Exception:
                         continue
-                if site_key and site_api and ping_api:
+                if site_key and ping_api:
                     site_name = str(s.get("name", "")).strip()
                     searchable = str(s.get("searchable", "1")).strip()
                     new_sites[site_key] = {
