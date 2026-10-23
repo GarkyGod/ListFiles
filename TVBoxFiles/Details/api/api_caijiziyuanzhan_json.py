@@ -167,7 +167,11 @@ class Spider(Spider):
             try:
                 data = json.loads(html)
             except:
-                data = {}
+                html = self.fetch(url, 2)
+                try:
+                    data = json.loads(html)
+                except:
+                    data = {}
 
             vals = [{"n": "全部(最新)", "v": ""}]
 
