@@ -17,7 +17,7 @@ class Spider(Spider):
     sources = {}
     mode = "1"          # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2非成人站點(倫理內容不剔除)，3-僅成人站點
     exclude_ClassNames = (
-            "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧","公告", "头条", "未分类", "子类12", "子类113"
+            "福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧", "擦边剧","公告", "头条", "子类12", "子类113"
         )
     default_path = "https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json"    # 默認站點地址
     headers = {
