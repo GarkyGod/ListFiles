@@ -75,7 +75,12 @@ class Spider(Spider):
             # 判斷配置路徑是否為網路 URL
             if json_path.startswith(('http://', 'https://')):
                 # 發起網路請求從遠端獲取 JSON 配置，設置 10 秒超時，跳過 SSL 驗證
-                res = self.session.get(json_path, timeout=10, verify=False)
+                for timeout in [2, 4, 8]:
+                    try:
+                        res = self.session.get(json_path, timeout=timeout, verify=False)
+                        break    # 成功解析就跳出迴圈
+                    except:
+                        pass    # 失敗則進入下一輪重試
                 if res.status_code == 200:
                     data = res.json()
                     all_sites = data.get("api_sites", [])
@@ -165,20 +170,14 @@ class Spider(Spider):
 
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
-            html = self.fetch(url, 2)
-
-            try:
-                data = json.loads(html)
-            except:
-                html = self.fetch(url, 4)
+            data = {}
+            for timeout in [2, 4, 8]:
                 try:
+                    html = self.fetch(url, timeout)
                     data = json.loads(html)
+                    break    # 成功解析就跳出迴圈
                 except:
-                    html = self.fetch(url, 8)
-                    try:
-                        data = json.loads(html)
-                    except:
-                        data = {}
+                    pass    # 失敗則進入下一輪重試
 
             vals = [{"n": "全部(最新)", "v": ""}]
 
