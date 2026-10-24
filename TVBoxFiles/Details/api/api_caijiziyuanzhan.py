@@ -6,8 +6,6 @@
 import json
 import requests
 import base64
-import random
-import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from base.spider import Spider
 
@@ -55,7 +53,7 @@ class Spider(Spider):
         'key_uku': {'name': '📺U酷', 'api': 'https://api.ukuapi88.com/api.php/provide/vod'},
         'key_uu': {'name': '📺UU', 'api': 'https://uuzy.me/api.php/provide/vod'},
         'key_wujin': {'name': '📺無盡', 'api': 'https://api.wujinapi.cc/api.php/provide/vod'},
-        'key_wushuiyin': {'name': '📺無水印', 'api': 'https://api.wsyzy.net/api.php/provide/vod'},
+        'key_wushuiyin': {'name': '📺無水印', 'api': 'https://wsyzy.cc/api.php/provide/vod'},
         'key_xigua': {'name': '📺西瓜', 'api': 'https://caiji.xgzyapi.com/api.php/provide/vod'},
         'key_xinlang': {'name': '📺新浪', 'api': 'https://api.xinlangapi.com/xinlangapi.php/provide/vod'},
         'key_yaya': {'name': '📺鴨鴨(丫丫)', 'api': 'https://cj.yayazy.net/api.php/provide/vod'},
@@ -104,7 +102,7 @@ class Spider(Spider):
     def homeContent(self, filter):
         classes = []
         filters = {}
-
+        
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
             html = self.fetch(url, 2)
@@ -264,7 +262,7 @@ class Spider(Spider):
     def searchContent(self, key, quick=False, pg=1):
         result = []
         max_page = 1
-
+        
         with ThreadPoolExecutor(max_workers=20) as executor:
             futures = []
 
@@ -313,4 +311,3 @@ class Spider(Spider):
 
 if __name__ == "__main__":
     Spider().run()
-
