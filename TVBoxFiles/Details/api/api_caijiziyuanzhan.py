@@ -111,26 +111,81 @@ class Spider(Spider):
 
         return item
 
+#    def homeContent(self, filter):
+#        classes = []
+#        filters = {}
+#
+#        def load_class(key, source):
+#            url = f"{source['api']}?ac=list"
+#            html = self.fetch(url, 2)
+#
+#            try:
+#                data = json.loads(html)
+#            except:
+#                data = {}
+#
+#            vals = [{"n": "全部(最新)", "v": ""}]
+#
+#            for c in data.get("class", []):
+#                vals.append({
+#                    "n": c.get("type_name", ""),
+#                    "v": c.get("type_id", "")
+#                })
+#
+#            return key, vals
+#
+#        with ThreadPoolExecutor(max_workers=16) as executor:
+#            futures = []
+#
+#            for key, source in self.sources.items():
+#                classes.append({
+#                    "type_id": key,
+#                    "type_name": source["name"]
+#                })
+#
+#                futures.append(executor.submit(load_class, key, source))
+#
+#            for future in as_completed(futures):
+#                try:
+#                    key, vals = future.result()
+#
+#                    filters[key] = [{
+#                        "key": "cateId",
+#                        "name": "分类",
+#                        "value": vals
+#                    }]
+#                except:
+#                    pass
+#
+#        return {
+#            "class": classes,
+#            "filters": filters,
+#            "list": []
+#        }
+
     def homeContent(self, filter):
         classes = []
         filters = {}
-        
+
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
-            html = self.fetch(url, 2)
-
-            try:
-                data = json.loads(html)
-            except:
-                data = {}
+			data = {}
+			for timeout in [3, 5]:
+				try:
+					html = self.fetch(url, timeout)
+					if html:
+						data = json.loads(html)
+						break
+				except Exception:
+					continue
 
             vals = [{"n": "全部(最新)", "v": ""}]
 
             for c in data.get("class", []):
-                vals.append({
-                    "n": c.get("type_name", ""),
-                    "v": c.get("type_id", "")
-                })
+				t_name = c.get("type_name", "")
+				t_id = c.get("type_id", "")
+				if t_name:
+					vals.append({"n": t_name, "v": t_id})
 
             return key, vals
 
@@ -154,7 +209,7 @@ class Spider(Spider):
                         "name": "分类",
                         "value": vals
                     }]
-                except:
+                except Exception:
                     pass
 
         return {
@@ -274,7 +329,7 @@ class Spider(Spider):
     def searchContent(self, key, quick=False, pg=1):
         result = []
         max_page = 1
-        
+
         with ThreadPoolExecutor(max_workers=20) as executor:
             futures = []
 
