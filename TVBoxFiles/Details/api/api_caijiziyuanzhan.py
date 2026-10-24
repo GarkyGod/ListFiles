@@ -164,8 +164,8 @@ class Spider(Spider):
 #        }
 
     def homeContent(self, filter):
-		classes = []
-		filters = {}
+        classes = []
+        filters = {}
 
 		def load_class(key, source):
 			url = f"{source['api']}?ac=list"
