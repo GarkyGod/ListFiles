@@ -164,11 +164,11 @@ class Spider(Spider):
 #        }
 
     def homeContent(self, filter):
-        classes = []
-        filters = {}
+		classes = []
+		filters = {}
 
-        def load_class(key, source):
-            url = f"{source['api']}?ac=list"
+		def load_class(key, source):
+			url = f"{source['api']}?ac=list"
 			data = {}
 			for timeout in [3, 5]:
 				try:
@@ -179,44 +179,44 @@ class Spider(Spider):
 				except Exception:
 					continue
 
-            vals = [{"n": "全部(最新)", "v": ""}]
+			vals = [{"n": "全部(最新)", "v": ""}]
 
-            for c in data.get("class", []):
+			for c in data.get("class", []):
 				t_name = c.get("type_name", "")
 				t_id = c.get("type_id", "")
 				if t_name:
 					vals.append({"n": t_name, "v": t_id})
 
-            return key, vals
+			return key, vals
 
-        with ThreadPoolExecutor(max_workers=16) as executor:
-            futures = []
+		with ThreadPoolExecutor(max_workers=16) as executor:
+			futures = []
 
-            for key, source in self.sources.items():
-                classes.append({
-                    "type_id": key,
-                    "type_name": source["name"]
-                })
+			for key, source in self.sources.items():
+				classes.append({
+					"type_id": key,
+					"type_name": source["name"]
+				})
 
-                futures.append(executor.submit(load_class, key, source))
+				futures.append(executor.submit(load_class, key, source))
 
-            for future in as_completed(futures):
-                try:
-                    key, vals = future.result()
+			for future in as_completed(futures):
+				try:
+					key, vals = future.result()
 
-                    filters[key] = [{
-                        "key": "cateId",
-                        "name": "分类",
-                        "value": vals
-                    }]
-                except Exception:
-                    pass
+					filters[key] = [{
+						"key": "cateId",
+						"name": "分类",
+						"value": vals
+					}]
+				except Exception:
+					pass
 
-        return {
-            "class": classes,
-            "filters": filters,
-            "list": []
-        }
+		return {
+			"class": classes,
+			"filters": filters,
+			"list": []
+		}
 
     def categoryContent(self, tid, pg, filter, extend):
         if tid not in self.sources:
