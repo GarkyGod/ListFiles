@@ -29,6 +29,21 @@
 				"api_mores":["https://api.apibdzy.com/api.php/provide/vod/","https://api.apibdzy.com/api.php/provide/vod/at/xml",
 					"",""]
 			}
+		},
+
+		{
+			"key":"key_baofeng",
+			"name":"🎬暴風",
+			"api":"https://bfzyapi.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_id":"",
+			"exclude_name":"",
+			"notes":{
+				"homepage":["http://bfzy.tv/","http://bfzy1.tv/ …… http://bfzy10.tv/","",
+					"","","https://t.me/+s3J9b3wKWvtjYWFl"],
+				"api_mores":["https://bfzyapi.com/api.php/provide/vod/","https://bfzyapi.com/api.php/provide/vod/at/xml",
+					"https://by.bfzyapi.com/api.php/provide/vod/","https://by.bfzyapi.com/api.php/provide/vod/at/xml"]
+			}
 		}
 
   ]
