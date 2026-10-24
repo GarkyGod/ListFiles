@@ -91,7 +91,7 @@ class Spider(Spider):
 					return r.text
 			except Exception:
 				continue
-		return ""
+			return ""
 
     def clean_item(self, item, source_key, source_name, is_detail=False):
         item = dict(item)
