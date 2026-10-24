@@ -353,4 +353,6 @@ class Spider(Spider):
 
 if __name__ == "__main__":
 #    Spider().run()
+	spider = Spider()
+	spider.init()
     spider.destroy()
