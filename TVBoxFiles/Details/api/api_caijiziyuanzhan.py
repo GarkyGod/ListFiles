@@ -111,117 +111,59 @@ class Spider(Spider):
 
         return item
 
-#    def homeContent(self, filter):
-#        classes = []
-#        filters = {}
-#
-#        def load_class(key, source):
-#            url = f"{source['api']}?ac=list"
-#            html = self.fetch(url, 2)
-#
-#            try:
-#                data = json.loads(html)
-#            except:
-#                data = {}
-#
-#            vals = [{"n": "全部(最新)", "v": ""}]
-#
-#            for c in data.get("class", []):
-#                vals.append({
-#                    "n": c.get("type_name", ""),
-#                    "v": c.get("type_id", "")
-#                })
-#
-#            return key, vals
-#
-#        with ThreadPoolExecutor(max_workers=16) as executor:
-#            futures = []
-#
-#            for key, source in self.sources.items():
-#                classes.append({
-#                    "type_id": key,
-#                    "type_name": source["name"]
-#                })
-#
-#                futures.append(executor.submit(load_class, key, source))
-#
-#            for future in as_completed(futures):
-#                try:
-#                    key, vals = future.result()
-#
-#                    filters[key] = [{
-#                        "key": "cateId",
-#                        "name": "分类",
-#                        "value": vals
-#                    }]
-#                except:
-#                    pass
-#
-#        return {
-#            "class": classes,
-#            "filters": filters,
-#            "list": []
-#        }
-
-    def homeContent(self, filter):
-        classes = []
-        filters = {}
+	def homeContent(self, filter):
+		classes = []
+		filters = {}
 
 		def load_class(key, source):
 			url = f"{source['api']}?ac=list"
-			data = {}
-			for timeout in [3, 5]:
-				try:
-					html = self.fetch(url, timeout)
-					if html:
-						data = json.loads(html)
-						break
-				except Exception:
-					continue
+			html = self.fetch(url, 2)
+
+			try:
+				data = json.loads(html)
+			except:
+				data = {}
 
 			vals = [{"n": "全部(最新)", "v": ""}]
 
 			for c in data.get("class", []):
-				t_name = c.get("type_name", "")
-				t_id = c.get("type_id", "")
-				if t_name:
-					vals.append({"n": t_name, "v": t_id})
+				vals.append({
+					"n": c.get("type_name", ""),
+					"v": c.get("type_id", "")
+				})
 
 			return key, vals
 
 		with ThreadPoolExecutor(max_workers=16) as executor:
-			futures_to_key = {}
+			futures = []
 
 			for key, source in self.sources.items():
 				classes.append({
 					"type_id": key,
 					"type_name": source["name"]
 				})
-				future = executor.submit(load_class, key, source)
-				future_to_key[future] = key
 
-			for future in as_completed(future_to_Key):
-				key = future_to_key[future]
+			futures.append(executor.submit(load_class, key, source))
+
+			for future in as_completed(futures):
 				try:
-					_, vals = future.result()
+					key, vals = future.result()
 
 					filters[key] = [{
-						"key": "cateId",
-						"name": "分類",
+					"key": "cateId",
+						"name": "分类",
 						"value": vals
 					}]
-				except Exception:
-					filters[key] = [{
-						"key": "cateId",
-						"name": "分類",
-						"value": [{"n": "全部(最新)", "v": ""}]
-					}]
+				except:
+					pass
 
 		return {
 			"class": classes,
 			"filters": filters,
 			"list": []
 		}
+
+ 
 
     def categoryContent(self, tid, pg, filter, extend):
         if tid not in self.sources:
