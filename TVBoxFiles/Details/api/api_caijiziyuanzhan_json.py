@@ -352,7 +352,7 @@ class Spider(Spider):
 			self.session.close()
 
 if __name__ == "__main__":
-#    Spider().run()
-	spider = Spider()
-	spider.init()
-    spider.destroy()
+    Spider().run()
+#	spider = Spider()
+#	spider.init()
+#   spider.destroy()
