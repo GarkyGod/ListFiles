@@ -190,27 +190,32 @@ class Spider(Spider):
 			return key, vals
 
 		with ThreadPoolExecutor(max_workers=16) as executor:
-			futures = []
+			futures_to_key = {}
 
 			for key, source in self.sources.items():
 				classes.append({
 					"type_id": key,
 					"type_name": source["name"]
 				})
+				future = executor.submit(load_class, key, source)
+				future_to_key[future] = key
 
-				futures.append(executor.submit(load_class, key, source))
-
-			for future in as_completed(futures):
+			for future in as_completed(future_to_Key):
+				key = future_to_key[future]
 				try:
-					key, vals = future.result()
+					_, vals = future.result()
 
 					filters[key] = [{
 						"key": "cateId",
-						"name": "分类",
+						"name": "分類",
 						"value": vals
 					}]
 				except Exception:
-					pass
+					filters[key] = [{
+						"key": "cateId",
+						"name": "分類",
+						"value": [{"n": "全部(最新)", "v": ""}]
+					}]
 
 		return {
 			"class": classes,
