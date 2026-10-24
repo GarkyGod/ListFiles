@@ -123,15 +123,12 @@ class Spider(Spider):
 
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
-			data = {}
-			for timeout in [3, 5]:
-				try:
-					html = self.fetch(url, timeout)
-					if html:
-						data = json.loads(html)
-						break
-				except Exception:
-					continue
+            html = self.fetch(url, 2)
+
+            try:
+                data = json.loads(html)
+            except:
+                data = {}
 
             vals = [{"n": "全部(最新)", "v": ""}]
 
