@@ -68,7 +68,7 @@ class Spider(Spider):
     }
 
     def getName(self):
-        return "采集聚合"
+        return "採集聚合"
 
     def init(self, extend=""):
         pass
