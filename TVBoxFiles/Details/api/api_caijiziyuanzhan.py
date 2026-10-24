@@ -6,6 +6,8 @@
 import json
 import requests
 import base64
+import random
+import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from base.spider import Spider
 
@@ -74,11 +76,15 @@ class Spider(Spider):
         pass
 
     def fetch(self, url, timeout=4):
-        try:
-            r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
-            return r.text
-        except Exception:
-            return ""
+		for t in [0, 1, 2]
+			try:
+				if t > 0: time.sleep(random.uniform(0.3, 0.8))
+				r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
+				if r.status_code == 200:
+					return r.text
+			except Exception:
+				continue
+		return ""
 
     def clean_item(self, item, source_key, source_name, is_detail=False):
         item = dict(item)
