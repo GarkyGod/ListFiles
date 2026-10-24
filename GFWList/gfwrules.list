@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-24 00:10:04
+!Last Modified: 2026-10-25 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1272,6 +1272,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.org
 ||7x24hrs.com
 ||123av.me
 ||123av.com
@@ -2062,6 +2063,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
 ||economist.com
@@ -2748,6 +2750,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kimootoko.net
 ||kards.com
 ||kfor.com
 ||kathmandupost.com
@@ -2892,6 +2895,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
 ||muse.ai
@@ -3063,6 +3067,9 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||njavtv.com
+||njav.tv
+||njav.com
 ||nationthailand.com
 ||note.com
 ||nthlink.com
@@ -3247,6 +3254,7 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
 ||penguin.com.au
@@ -4493,6 +4501,7 @@ iipdigital.usembassy.gov
 ||yysub.net
 ||yzzk.com
 !--------------------ZZ-------------------------
+||zozovideo.com
 ||zenmux.ai
 ||zhangzhehan.net
 ||zaochenbao.com
@@ -6257,8 +6266,6 @@ iipdigital.usembassy.gov
 ||taiwanyes.ning.com
 ||usmgtcg.ning.com
 ||ninjacloak.com
-||njav.tv
-||njavtv.com
 ||njuice.com
 ||nnyy.in
 ||no-ip.org
