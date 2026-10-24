@@ -111,57 +111,57 @@ class Spider(Spider):
 
         return item
 
-	def homeContent(self, filter):
-		classes = []
-		filters = {}
+    def homeContent(self, filter):
+        classes = []
+        filters = {}
 
-		def load_class(key, source):
-			url = f"{source['api']}?ac=list"
-			html = self.fetch(url, 2)
+        def load_class(key, source):
+            url = f"{source['api']}?ac=list"
+            html = self.fetch(url, 2)
 
-			try:
-				data = json.loads(html)
-			except:
-				data = {}
+            try:
+                data = json.loads(html)
+            except:
+                data = {}
 
-			vals = [{"n": "全部(最新)", "v": ""}]
+            vals = [{"n": "全部(最新)", "v": ""}]
 
-			for c in data.get("class", []):
-				vals.append({
-					"n": c.get("type_name", ""),
-					"v": c.get("type_id", "")
-				})
+            for c in data.get("class", []):
+                vals.append({
+                    "n": c.get("type_name", ""),
+                    "v": c.get("type_id", "")
+                })
 
-			return key, vals
+            return key, vals
 
-		with ThreadPoolExecutor(max_workers=16) as executor:
-			futures = []
+        with ThreadPoolExecutor(max_workers=16) as executor:
+            futures = []
 
-			for key, source in self.sources.items():
-				classes.append({
-					"type_id": key,
-					"type_name": source["name"]
-				})
+            for key, source in self.sources.items():
+                classes.append({
+                    "type_id": key,
+                    "type_name": source["name"]
+                })
 
-			futures.append(executor.submit(load_class, key, source))
+            futures.append(executor.submit(load_class, key, source))
 
-			for future in as_completed(futures):
-				try:
-					key, vals = future.result()
+            for future in as_completed(futures):
+                try:
+                    key, vals = future.result()
 
-					filters[key] = [{
-					"key": "cateId",
-						"name": "分类",
-						"value": vals
-					}]
-				except:
-					pass
+                    filters[key] = [{
+                    "key": "cateId",
+                        "name": "分类",
+                        "value": vals
+                    }]
+                except:
+                    pass
 
-		return {
-			"class": classes,
-			"filters": filters,
-			"list": []
-		}
+        return {
+            "class": classes,
+            "filters": filters,
+            "list": []
+        }
 
  
 
