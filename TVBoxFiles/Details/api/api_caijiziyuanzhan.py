@@ -105,12 +105,6 @@ class Spider(Spider):
         classes = []
         filters = {}
 
-
-
-    def homeContent(self, filter):
-        classes = []
-        filters = {}
-
         def load_class(key, source):
             url = f"{source['api']}?ac=list"
             html = self.fetch(url, 2)
