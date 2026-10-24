@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# 专属全网聚合 Python版
-# 适配常见 Cat/TVBox Python Spider
-# 本地py适配
+# 資源站聚合 Python版
+# 適配常見 Cat/TVBox Python Spider
+# 本地py適配
 
 import json
 import requests
@@ -75,22 +75,22 @@ class Spider(Spider):
     def init(self, extend=""):
         pass
 
-#    def fetch(self, url, timeout=(4)):
-#        try:
-#            r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
-#            return r.text
-#        except Exception:
-#            return ""
-
     def fetch(self, url, timeout=(4)):
-        for t in [0, 1, 2]:
-            try:
-                if t > 0: time.sleep(random.uniform(0.3, 0.8))
-                r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
-                if r.status_code == 200: return r.text
-            except Exception:
-                continue
-        return ""
+        try:
+            r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
+            return r.text
+        except Exception:
+            return ""
+
+#    def fetch(self, url, timeout=(4)):
+#        for t in [0, 1, 2]:
+#            try:
+#                if t > 0: time.sleep(random.uniform(0.3, 0.8))
+#                r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
+#                if r.status_code == 200: return r.text
+#            except Exception:
+#                continue
+#        return ""
 
     def clean_item(self, item, source_key, source_name, is_detail=False):
         item = dict(item)
