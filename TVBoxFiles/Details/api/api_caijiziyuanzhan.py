@@ -62,7 +62,7 @@ class Spider(Spider):
         'key_yinghua': {'name': '📺樱花', 'api': 'https://m3u8.apiyhzy.com/api.php/provide/vod'},
         'key_youzhi': {'name': '📺優質', 'api': 'https://api.yyzy-tv.vip/inc/apijson.php'},
         'key_yunjiexi': {'name': '📺雲解釋', 'api': 'https://api.yparse.com/api/json'},
-        'key_zuida': {'name': '📺最大', 'api': 'https://api.zuidapi.com/api.php/provide/vod'},
+        'key_zuida': {'name': '📺最大', 'api': 'https://api.zuidapi.com/api.php/provide/vod'}
     }
 
     headers = {
