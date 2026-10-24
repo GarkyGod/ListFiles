@@ -11,14 +11,6 @@
 			"name":"📖Vod站點|-org"
 		},
 		{
-			"url":"https://ghproxy.net//https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/vod_ziyuanzhan.list",
-			"name":"📖Vod站點|net"
-		},
-		{
-			"url":"https://github.boki.moe/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/vod_ziyuanzhan.list",
-			"name":"📖Vod站點|boki"
-		},
-		{
 			"url":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/vod_ziyuanzhan.list",
 			"name":"📖Vod站點|ghfast"
 		},
@@ -29,10 +21,6 @@
 		{
 			"url":"https://cdn.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/vod_ziyuanzhan.list",
 			"name":"📖Vod站點|jsdelivr"
-		},
-		{
-			"url":"https://wget.la/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/vod_ziyuanzhan.list",
-			"name":"📖Vod站點|wget.la"
 		},
 		{
 			"url":"https://git.yylx.win/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/vod_ziyuanzhan.list",
