@@ -143,7 +143,7 @@ class Spider(Spider):
                     "type_name": source["name"]
                 })
 
-            futures.append(executor.submit(load_class, key, source))
+                futures.append(executor.submit(load_class, key, source))
 
             for future in as_completed(futures):
                 try:
