@@ -82,16 +82,6 @@ class Spider(Spider):
         except Exception:
             return ""
 
-#    def fetch(self, url, timeout=(4)):
-#        for t in [0, 1, 2]:
-#            try:
-#                if t > 0: time.sleep(random.uniform(0.3, 0.8))
-#                r = requests.get(url, headers=self.headers, timeout=timeout, verify=False)
-#                if r.status_code == 200: return r.text
-#            except Exception:
-#                continue
-#        return ""
-
     def clean_item(self, item, source_key, source_name, is_detail=False):
         item = dict(item)
 
