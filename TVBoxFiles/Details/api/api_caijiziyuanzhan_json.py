@@ -34,8 +34,8 @@ class Spider(Spider):
 			status=0,		   # 狀態碼錯誤（如502/503）不重試
 			raise_on_status=False
 		)
-#		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
-		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=1)
+		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
+#		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=1)
 		self.session.mount('http://', adapter)
 		self.session.mount('https://', adapter)
 		self.session.headers.update({
