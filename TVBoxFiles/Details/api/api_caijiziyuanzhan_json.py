@@ -65,7 +65,7 @@ class Spider(Spider):
 			if json_path.startswith(('http://', 'https://')):
 				# 若以http://或https://開頭則為URL地址
 				data = {}
-				for timeout in [2, 2.5, 3]:  # 微調超時區間
+				for timeout in [2, 2.5]:  # 微調超時區間
 					try:
 						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
 						if timeout > 2:
@@ -96,7 +96,7 @@ class Spider(Spider):
 			if site_api and site_api.startswith(('http://', 'https://')):
 				ping_api = 0
 				# 對site_api做三次連通性測試，只保留可用站點
-				for timeout in [0.5, 1, 1.5]:
+				for timeout in [0.5, 1]:
 					try:
 						if timeout > 0.5: time.sleep(random.uniform(0.3, 0.8))
 						res = self.session.get(site_api, timeout=timeout, verify=False, headers={"Connection": "close"})
