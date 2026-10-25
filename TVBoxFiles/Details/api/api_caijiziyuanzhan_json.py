@@ -157,8 +157,9 @@ class Spider(Spider):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
 		result = {
-			"class": classes,
-			"filters": {},
+#			"class": classes,
+            "class":[{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}]
+#			"filters": {},
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
@@ -173,7 +174,7 @@ class Spider(Spider):
 				"type_id": k,
 				"type_name": v["name"]
 			})
-        return classes
+		return classes
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
