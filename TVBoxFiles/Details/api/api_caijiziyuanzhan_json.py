@@ -157,8 +157,8 @@ class Spider(Spider):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
 		result = {
-#			"class": classes,
-			"class": [{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}],
+			"class": classes,
+#			"class": [{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}],
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
 #			"filters": {},
 			"list": []  # 首頁推薦影片，可留空
