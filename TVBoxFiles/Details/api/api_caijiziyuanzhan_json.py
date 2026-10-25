@@ -173,6 +173,7 @@ class Spider(Spider):
 				"type_id": k,
 				"type_name": v["name"]
 			})
+        return classes
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
