@@ -41,7 +41,7 @@ class Spider(Spider):
 			"User-Agent": self.ua,
 			"Connection": "keep-alive"
 		})
-		self.class_cache = {}
+		self.class_cache = None
 		self.filter_cache = {}
 
 	def getName(self):
@@ -93,34 +93,14 @@ class Spider(Spider):
 		for i, s in enumerate(sites):
 			site_key = str(s.get("key", "")).strip()
 			site_api = str(s.get("api", "")).strip()
-			if site_api and site_api.startswith(('http://', 'https://')):
-				ping_api = 0
-				# 對site_api做三次連通性測試，只保留可用站點
-				for timeout in [0.5, 1]:
-					try:
-						if timeout > 0.5: time.sleep(random.uniform(0.3, 0.8))
-						res = self.session.get(site_api, timeout=timeout, verify=False, headers={"Connection": "close"})
-						if res.status_code == 200:
-							try:
-								html_json = res.json()
-							except:
-								html_json = json.loads(res.text.strip().lstrip('﻿'))
-							ping_api = 1
-							break
-					except Exception:
-						continue
-				if site_key and ping_api:
-					site_name = str(s.get("name", "")).strip()
-					site_name = site_name if site_name else f"未改名資源站{i}"
-					searchable = str(s.get("searchable", "1")).strip()
-					new_sites[site_key] = {
-						"name": site_name,
-						"api": site_api,
-						"searchable": "0" if searchable == "0" else "1"
-					}
-					filter = html_json.get("class",[])
-					self.class_cache[site_key] = {"type_id": site_key, "type_name": site_name}
-					self.filter_cache[site_key] = filter
+			if site_api and site_api.startswith(('http://', 'https://')) and site_key:
+				site_name = str(s.get("name", "")).strip()
+				searchable = str(s.get("searchable", "1")).strip()
+				new_sites[site_key] = {
+					"name": site_name if site_name else f"未改名資源站{i}",
+					"api": site_api,
+					"searchable": "0" if searchable == "0" else "1"
+				}
 		if mode == "0": 
 			return new_sites
 		# 判斷sites名稱是否含成人站點標識
@@ -167,10 +147,6 @@ class Spider(Spider):
 
 	def _classes(self):
 		classes = []
-		if self.class_cache:
-			for k,v in self.sources.items():
-				classes.append(self.class_cache[k])
-			return classes
 		for k,v in self.sources.items():
 			classes.append({
 				"type_id": k,
