@@ -163,7 +163,7 @@ class Spider(Spider):
 						vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
 					filters[key] = [{
 						"key": "cateId",
-						"name": "分类",
+						"name": "分類",
 						"value": vals
 					}]
 				except Exception:
