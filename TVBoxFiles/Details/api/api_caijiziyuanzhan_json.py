@@ -168,10 +168,11 @@ class Spider(Spider):
 					}]
 				except Exception:
 					pass
+		self.filter_cache = filters
 		result = {
 			"class": classes,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
-			"filters": filters,
+			"filters": self.filter_cache,
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
