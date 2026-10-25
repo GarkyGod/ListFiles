@@ -43,7 +43,7 @@ class Spider(Spider):
 			"Connection": "keep-alive"
 		})
 		self.class_cache = None
-		self.filter_cache = {}
+		self.category_cache = {}
 
 	def getName(self):
 		return "採集聚合"
@@ -137,10 +137,9 @@ class Spider(Spider):
 	def homeContent(self, filter):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
-		params = {"ac": "list"}
 		filters = {}
 		def load_class(key, source):
-			data = self._fetch(source["api"], params)
+			data = self._fetch(source["api"], {"ac": "list"})
 			if data:
 				vals = [{"n": "全部(最新)", "v": ""}]
 				for c in data.get("class", []):
@@ -169,11 +168,11 @@ class Spider(Spider):
 					}]
 				except Exception:
 					pass
-		self.filter_cache = filters
+		self.category_cache = filters
 		result = {
 			"class": classes,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
-			"filters": self.filter_cache,
+			"filters": self.category_cache,
 #			"filters": {
 #				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
 #				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
