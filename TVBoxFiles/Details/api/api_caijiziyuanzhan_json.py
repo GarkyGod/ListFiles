@@ -11,56 +11,10 @@ import time
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
-# 基礎類別相容性導入 (防止本地測試崩潰)
-try:
-	from base.spider import Spider as BaseSpider
-except Exception:
-	class BaseSpider:
-		pass
-
-# 雙套件相容的 AES-CBC 加解密工具
-class _AESCBC:
-	@staticmethod
-	def encrypt(data, key, iv):
-		if isinstance(data, str): data = data.encode('utf-8')
-		if isinstance(key, str): key = key.encode('utf-8')
-		if isinstance(iv, str): iv = iv.encode('utf-8')
-		try:
-			from Crypto.Cipher import AES
-			return AES.new(key, AES.MODE_CBC, iv).encrypt(_AESCBC.pad(data))
-		except Exception:
-			from cryptography.hazmat.backends import default_backend
-			from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
-			enc = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend()).encryptor()
-			return enc.update(_AESCBC.pad(data)) + enc.finalize()
-
-	@staticmethod
-	def decrypt(data, key, iv):
-		if isinstance(key, str): key = key.encode('utf-8')
-		if isinstance(iv, str): iv = iv.encode('utf-8')
-		try:
-			from Crypto.Cipher import AES
-			plain = AES.new(key, AES.MODE_CBC, iv).decrypt(data)
-		except Exception:
-			from cryptography.hazmat.backends import default_backend
-			from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
-			dec = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend()).decryptor()
-			plain = dec.update(data) + dec.finalize()
-		return _AESCBC.unpad(plain)
-
-	@staticmethod
-	def pad(data):
-		n = 16 - len(data) % 16
-		return data + bytes([n]) * n
-
-	@staticmethod
-	def unpad(data):
-		n = data[-1] if data else 0
-		return data[:-n] if 1 <= n <= 16 else data
+from base.spider import Spider
 
 # 爬蟲主體類別
-class Spider(BaseSpider):
+class Spider(Spider):
 	def __init__(self):
 		super().__init__()
 		self.sources = {}
@@ -87,7 +41,7 @@ class Spider(BaseSpider):
 			"User-Agent": self.ua,
 			"Connection": "keep-alive"
 		})
-		self.class_cache = None
+		self.class_cache = {}
 		self.filter_cache = {}
 
 	def getName(self):
@@ -147,18 +101,26 @@ class Spider(BaseSpider):
 						if timeout > 0.5: time.sleep(random.uniform(0.3, 0.8))
 						res = self.session.get(site_api, timeout=timeout, verify=False, headers={"Connection": "close"})
 						if res.status_code == 200:
+							try:
+								html_json = res.json()
+							except:
+								html_json = json.loads(res.text.strip().lstrip('﻿'))
 							ping_api = 1
 							break
 					except Exception:
 						continue
 				if site_key and ping_api:
 					site_name = str(s.get("name", "")).strip()
+					site_name = site_name if site_name else f"未改名資源站{i}"
 					searchable = str(s.get("searchable", "1")).strip()
 					new_sites[site_key] = {
-						"name": site_name if site_name else f"未改名資源站{i}",
+						"name": site_name,
 						"api": site_api,
 						"searchable": "0" if searchable == "0" else "1"
 					}
+					filter = html_json.get("class",[])
+					self.class_cache[site_key] = {"type_id": site_key, "type_name": site_name}
+					self.filter_cache[site_key] = filter
 		if mode == "0": 
 			return new_sites
 		# 判斷sites名稱是否含成人站點標識
@@ -193,15 +155,24 @@ class Spider(BaseSpider):
 
 	def homeContent(self, filter):
 		"""獲取首頁分類清單與篩選條件"""
-		
+		classes = self._classes()
 		result = {
-			"class": [
-				{"type_id": "1", "type_name": "電影"},
-				{"type_id": "2", "type_name": "連續劇"}
-			],
+			"class": classes,
+			"filters": {},
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
+
+	def _classes(self):
+		if self.class_cache:
+			for k,v in self.sources.items():
+				classes.append(self.class_cache[k])
+			return classes
+		for k,v in self.sources.items():
+			classes.append({
+				"type_id": k,
+				"type_name": v["name"]
+			})
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
@@ -296,12 +267,3 @@ class Spider(BaseSpider):
 		"""自訂釋放機制：當 TVBox 卸載爬蟲或程式結束時，手動關閉 Session"""
 		if self.session:
 			self.session.close()
-
-if __name__ == "__main__":
-	# 本地測試程式碼
-	spider = Spider()
-	spider.init()
-	# 測試首頁內容
-	print(spider.homeContent(False))
-	# 測試完畢手動釋放
-	spider.destroy()
