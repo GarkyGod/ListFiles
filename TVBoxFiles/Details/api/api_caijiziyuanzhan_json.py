@@ -158,13 +158,15 @@ class Spider(Spider):
 		classes = self._classes()
 		result = {
 #			"class": classes,
-			"class":[{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}],
+			"class": [{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}],
+#			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
 #			"filters": {},
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
 
 	def _classes(self):
+		classes = []
 		if self.class_cache:
 			for k,v in self.sources.items():
 				classes.append(self.class_cache[k])
