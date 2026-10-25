@@ -158,7 +158,7 @@ class Spider(Spider):
 		classes = self._classes()
 		result = {
 #			"class": classes,
-            "class":[{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}]
+			"class":[{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}]
 #			"filters": {},
 			"list": []  # 首頁推薦影片，可留空
 		}
