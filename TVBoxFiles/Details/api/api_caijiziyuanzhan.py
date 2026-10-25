@@ -164,7 +164,8 @@ class Spider(Spider):
         if isinstance(extend, dict):
             cate_id = extend.get("cateId", "")
 
-        url = f"{source['api']}?ac=detail&pg={pg}"
+#        url = f"{source['api']}?ac=detail&pg={pg}"
+        url = f"{source['api']}?ac=list&pg={pg}"
 
         if cate_id:
             url += f"&t={cate_id}"
