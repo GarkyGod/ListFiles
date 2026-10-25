@@ -65,10 +65,10 @@ class Spider(Spider):
 			if json_path.startswith(('http://', 'https://')):
 				# 若以http://或https://開頭則為URL地址
 				data = {}
-				for timeout in [3, 5, 7]:  # 微調超時區間
+				for timeout in [2, 2.5, 3]:  # 微調超時區間
 					try:
 						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
-						if timeout > 3:
+						if timeout > 2:
 							time.sleep(random.uniform(0.3, 0.8))
 						res = self.session.get(json_path, timeout=timeout, verify=False, headers={"Connection": "close"})
 						if res.status_code == 200:
