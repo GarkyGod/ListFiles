@@ -6,8 +6,8 @@
 			"name":"🎬/🔞",
 			"api":"",
 			"searchable":"1",
-			"exclude_id":"",
-			"exclude_name":"",
+			"exclude_cateId":"",
+			"exclude_cateName":"",
 			"notes":{
 				"homepage":["","","",
 					"","",""],
@@ -23,8 +23,8 @@
 //			"name":"[🎬/🔞]website_name",		//資源站名稱 自定義以【🎬/🔞】開頭區分是否18+
 //			"api":"website_address",		//資源站採集地址
 //			"searchable":"0",		//搜索控制 0為禁用1為可用(默認值1) 空或None等其他任何值均為1 【val = "0" if str(sites.get("searchable",1)).strip() == "0" else "1"】
-//			"exclude_id":"",		//要排除的class分類ID 程式處理以id為主 exclude_id及exclude_name合併處理
-//			"exclude_name":"",		//要排除的class分類名稱 程式處理會轉換為對應id
+//			"exclude_cateId":"",		//要排除的class分類ID 程式處理以id為主 exclude_cateId及exclude_cateName合併處理
+//			"exclude_cateName":"",		//要排除的class分類名稱 程式處理會轉換為對應id
 //			"notes":{		//備註內容 程序不讀入
 //				"homepage":["website1","website2",……,"website…"],		//主頁地址及相關
 //				"api_mores":["website1","website2",……,"website…"]		//更多資源站採集地點
