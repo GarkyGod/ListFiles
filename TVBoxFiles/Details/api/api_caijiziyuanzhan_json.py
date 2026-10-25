@@ -136,11 +136,41 @@ class Spider(Spider):
 	def homeContent(self, filter):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
+		params = {"ac": "list"}
+		filters = {}
+		def load_class(key, source):
+			data = self._fetch(source["api"], params)
+			if data:
+				vals = [{"n": "全部(最新)", "v": ""}]
+				for c in data.get("class", []):
+					t_name = c.get("type_name", "")
+					t_id = c.get("type_id", "")
+					if t_name:
+						vals.append({"n": t_name, "v": t_id})
+			vals = [{"n": "暫內容(可刷新試試)", "v": "error"}]
+			return key, vals
+		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
+		with ThreadPoolExecutor(max_workers=20) as executor:
+			futures = []
+			for key, source in self.sources.items():
+				futures.append(executor.submit(load_class, key, source))
+			for future in as_completed(futures):
+				try:
+					key, vals = future.result()
+					if self.mode == "1":
+						# 非成人內容模式下 剔除含self.exclude_ClassNames標籤內容
+						vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+					filters[key] = [{
+						"key": "cateId",
+						"name": "分类",
+						"value": vals
+					}]
+				except Exception:
+					pass
 		result = {
 			"class": classes,
-#			"class": [{"type_id": "1", "type_name": "影視"}, {"type_id": "2", "type_name": "電視"}],
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
-#			"filters": {},
+			"filters": filters,
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
