@@ -146,13 +146,16 @@ class Spider(Spider):
 		return result
 
 	def _classes(self):
+		if self.class_cache:
+			return self.class_cache
 		classes = []
 		for k,v in self.sources.items():
 			classes.append({
 				"type_id": k,
 				"type_name": v["name"]
 			})
-		return classes
+		self.class_cache = classes
+		return self.class_cache
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
