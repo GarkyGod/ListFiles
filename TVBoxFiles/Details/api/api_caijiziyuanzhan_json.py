@@ -147,7 +147,8 @@ class Spider(Spider):
 					t_id = c.get("type_id", "")
 					if t_name:
 						vals.append({"n": t_name, "v": t_id})
-			vals = [{"n": "暫內容(可刷新試試)", "v": "error"}]
+            else:
+                vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
 			return key, vals
 		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
 		with ThreadPoolExecutor(max_workers=20) as executor:
