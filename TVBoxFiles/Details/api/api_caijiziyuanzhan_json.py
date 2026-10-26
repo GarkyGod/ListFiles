@@ -139,7 +139,7 @@ class Spider(Spider):
 		classes = self._classes()
 		filters = self._category()
 		result = {
-			"class": self.class_cache,
+			"class": classes,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
 			"filters": self.category_cache,
 #			"filters": {
