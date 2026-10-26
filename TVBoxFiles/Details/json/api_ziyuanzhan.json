@@ -753,6 +753,21 @@
 		},
 
 		{
+			"key":"key_fanqie",
+			"name":"🔞番茄(18+)",
+			"api":"https://fqzy.me//api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateId":"",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["https://fqzy.me/","https://fqzy2.me/ …… https://fqzy5.me/","",
+					"","",""],
+				"api_mores":["https://fqzy.me//api.php/provide/vod/","https://fqzy.me//api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_heiliao",
 			"name":"🔞黑料(18+)",
 			"api":"https://heiliaozyapi.com/api.php/provide/vod/",
