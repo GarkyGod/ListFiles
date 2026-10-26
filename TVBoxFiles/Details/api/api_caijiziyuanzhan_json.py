@@ -170,6 +170,10 @@ class Spider(BaseSpider):
 
 	def _category(self, api_key=None):
 		if self.category_cache:
+			if api_key and api_key in self.sources:
+				source = self.sources[api_key]
+				if len(self.category_cache[api_key][0]["value"]) <2:
+					self.category_cache[api_key][0]["value"] = [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]
 			return self.category_cache
 		filters = {}
 		def load_class(key, source):
