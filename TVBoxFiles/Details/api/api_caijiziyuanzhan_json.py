@@ -172,19 +172,19 @@ class Spider(BaseSpider):
 			return self.category_cache
 		filters = {}
 		def load_class(key, source):
-            if source["api"].startswith(('http://', 'https://')):
-                data = self._fetch(source["api"], {"ac": "list"})
-                if data:
-                    vals = [{"n": "全部(最新)", "v": ""}]
-                    for c in data.get("class", []):
-                        t_name = c.get("type_name", "")
-                        t_id = c.get("type_id", "")
-                        if t_name:
-                            vals.append({"n": t_name, "v": t_id})
-                else:
-                    vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
-            else:
-                vals = [{"n": "api地址非http協議", "v": "error"}]
+			if source["api"].startswith(('http://', 'https://')):
+				data = self._fetch(source["api"], {"ac": "list"})
+				if data:
+					vals = [{"n": "全部(最新)", "v": ""}]
+					for c in data.get("class", []):
+						t_name = c.get("type_name", "")
+						t_id = c.get("type_id", "")
+						if t_name:
+							vals.append({"n": t_name, "v": t_id})
+				else:
+					vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
+			else:
+				vals = [{"n": "api地址非http協議", "v": "error"}]
 			return key, vals
 		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
 		with ThreadPoolExecutor(max_workers=20) as executor:
