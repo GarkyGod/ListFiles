@@ -4,7 +4,7 @@
 		{
 			"key":"key_360",
 			"name":"🎬360",
-			"api":"https://360zyzz.com/api.php/provide/vod/",
+			"api":"ttps://360zyzz.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_cateId":"1,2,3,4",
 			"exclude_cateName":"伦理片",
