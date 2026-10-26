@@ -150,6 +150,7 @@ class Spider(Spider):
         return {
             "class": classes,
             "filters": filters,
+            "isFilter": True,
             "list": []
         }
  
