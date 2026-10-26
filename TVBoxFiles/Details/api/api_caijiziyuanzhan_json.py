@@ -163,6 +163,8 @@ class Spider(Spider):
 		return self.class_cache
 
 	def _category(self):
+        if self.category_cache:
+            return self.category_cache
 		filters = {}
 		def load_class(key, source):
 			data = self._fetch(source["api"], {"ac": "list"})
@@ -195,7 +197,7 @@ class Spider(Spider):
 				except Exception:
 					pass
 		self.category_cache = filters
-		return self.class_cache
+		return self.category_cache
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
