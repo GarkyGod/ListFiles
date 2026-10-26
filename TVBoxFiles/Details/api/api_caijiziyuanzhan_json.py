@@ -194,6 +194,7 @@ class Spider(Spider):
 					}]
 				except Exception:
 					pass
+		self.category_cache = filters
 		return self.class_cache
 
 	def categoryContent(self, tid, pg, filter, extend):
