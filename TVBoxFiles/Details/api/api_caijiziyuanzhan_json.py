@@ -137,44 +137,13 @@ class Spider(Spider):
 	def homeContent(self, filter):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
-		filters = {}
-		def load_class(key, source):
-			data = self._fetch(source["api"], {"ac": "list"})
-			if data:
-				vals = [{"n": "全部(最新)", "v": ""}]
-				for c in data.get("class", []):
-					t_name = c.get("type_name", "")
-					t_id = c.get("type_id", "")
-					if t_name:
-						vals.append({"n": t_name, "v": t_id})
-			else:
-				vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
-			return key, vals
-		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
-		with ThreadPoolExecutor(max_workers=20) as executor:
-			futures = []
-			for key, source in self.sources.items():
-				futures.append(executor.submit(load_class, key, source))
-			for future in as_completed(futures):
-				try:
-					key, vals = future.result()
-					if self.mode == "1":
-						# 非成人內容模式下 剔除含self.exclude_ClassNames標籤內容
-						vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
-					filters[key] = [{
-						"key": "cateId",
-						"name": "分類",
-						"value": vals
-					}]
-				except Exception:
-					pass
-		self.category_cache = filters
+		filters = self._category()
 		result = {
 			"class": self.class_cache,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
 			"filters": self.category_cache,
 #			"filters": {
-#				"key_360":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
+#				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
 #				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
 #			},
 			"list": []  # 首頁推薦影片，可留空
@@ -191,6 +160,45 @@ class Spider(Spider):
 				"type_name": v["name"]
 			})
 		self.class_cache = classes
+		return self.class_cache
+
+	def _category(self, tid):
+		if tid and len(self.category_cache[tid][0]["value"]) < 2:
+			self.category_cache[tid][0]["value"] = [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]
+			return self.class_cache
+		elif not self.class_cache:
+			filters = {}
+			def load_class(key, source):
+				data = self._fetch(source["api"], {"ac": "list"})
+				if data:
+					vals = [{"n": "全部(最新)", "v": ""}]
+					for c in data.get("class", []):
+						t_name = c.get("type_name", "")
+						t_id = c.get("type_id", "")
+						if t_name:
+							vals.append({"n": t_name, "v": t_id})
+				else:
+					vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
+				return key, vals
+			# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
+			with ThreadPoolExecutor(max_workers=20) as executor:
+				futures = []
+				for key, source in self.sources.items():
+					futures.append(executor.submit(load_class, key, source))
+				for future in as_completed(futures):
+					try:
+						key, vals = future.result()
+						if self.mode == "1":
+							# 非成人內容模式下 剔除含self.exclude_ClassNames標籤內容
+							vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+						filters[key] = [{
+							"key": "cateId",
+							"name": "分類",
+							"value": vals
+						}]
+					except Exception:
+						pass
+			self.category_cache = filters
 		return self.class_cache
 
 	def categoryContent(self, tid, pg, filter, extend):
