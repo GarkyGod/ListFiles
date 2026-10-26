@@ -137,6 +137,32 @@ class Spider(Spider):
 	def homeContent(self, filter):
 		"""獲取首頁分類清單與篩選條件"""
 		classes = self._classes()
+		filters = self._category()
+		result = {
+			"class": self.class_cache,
+#			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
+			"filters": self.category_cache,
+#			"filters": {
+#				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
+#				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
+#			},
+			"list": []  # 首頁推薦影片，可留空
+		}
+		return result
+
+	def _classes(self):
+		if self.class_cache:
+			return self.class_cache
+		classes = []
+		for k,v in self.sources.items():
+			classes.append({
+				"type_id": k,
+				"type_name": v["name"]
+			})
+		self.class_cache = classes
+		return self.class_cache
+
+	def _category(self, tid):
 		filters = {}
 		def load_class(key, source):
 			data = self._fetch(source["api"], {"ac": "list"})
@@ -168,29 +194,6 @@ class Spider(Spider):
 					}]
 				except Exception:
 					pass
-		self.category_cache = filters
-		result = {
-			"class": classes,
-#			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
-			"filters": self.category_cache,
-#			"filters": {
-#				"key_360":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
-#				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
-#			},
-			"list": []  # 首頁推薦影片，可留空
-		}
-		return result
-
-	def _classes(self):
-		if self.class_cache:
-			return self.class_cache
-		classes = []
-		for k,v in self.sources.items():
-			classes.append({
-				"type_id": k,
-				"type_name": v["name"]
-			})
-		self.class_cache = classes
 		return self.class_cache
 
 	def categoryContent(self, tid, pg, filter, extend):
