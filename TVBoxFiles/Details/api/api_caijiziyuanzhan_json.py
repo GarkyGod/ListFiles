@@ -172,7 +172,7 @@ class Spider(Spider):
 		result = {
 			"class": classes,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
-			"filters": self.category_cache,
+			"filters": filters,
 #			"filters": {
 #				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
 #				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
