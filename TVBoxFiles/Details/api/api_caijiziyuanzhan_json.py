@@ -11,10 +11,15 @@ import time
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from base.spider import Spider
+# TVBox Spider 基类兼容
+try:
+	from base.spider import Spider as BaseSpider
+except Exception:
+	class BaseSpider(object):
+		pass
 
 # 爬蟲主體類別
-class Spider(Spider):
+class Spider(BaseSpider):
 	def __init__(self):
 		super().__init__()
 		self.sources = {}
