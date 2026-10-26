@@ -187,7 +187,7 @@ class Spider(BaseSpider):
 					if t_name:
 						vals.append({"n": t_name, "v": t_id})
 			else:
-				vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
+				vals = [{"n": "暫沒內容(可刷新試試)", "v": ""}]
 			return key, vals
 		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
 		with ThreadPoolExecutor(max_workers=20) as executor:
@@ -212,27 +212,35 @@ class Spider(BaseSpider):
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
+		if tid not in self.sources: return {"list": []}
 		if len(self.category_cache[tid][0]["value"]) <2: self._category(tid)
-		result = {"list": []}
-		url = f"{self.api_url}?ac=detail&cid={tid}&pg={pg}"
-		
-		html = self.fetch(url)
-		if not html: return result
-		
-		try:
-			# 💡 提示：如果網站有加密，在此處使用 _AESCBC.decrypt 解密 html
-			data = json.loads(html)
-			for item in data.get("list", []):
-				result["list"].append({
-					"vod_id": item.get("id"),
-					"vod_name": item.get("name"),
-					"vod_pic": item.get("pic"),
-					"vod_remarks": item.get("remarks")
-				})
-		except Exception:
-			pass
-			
-		return result
+		source = self.sources[tid]
+		cate_id = extend.get("cateId", "") if isinstance(extend, dict) else ""
+		params = {"ac": "detail", "t": cate_id, "pg": pg} if cate_id else {"ac": "detail", "pg": pg}
+		data = self._fetch(source["api"], params)
+		result = [self._clean_item(item, tid, source["name"], False) for item in data.get("list", [])]
+		return {
+			"list": result,
+			"page": data.get("page", pg),
+			"pagecount": data.get("pagecount", 1),
+			"limit": data.get("limit", 20),
+			"total": data.get("total", len(result))
+		}
+	def _clean_item(self, item, source_key, source_name, is_detail=False):
+		item = dict(item)
+		if not is_detail:
+			item["vod_id"] = f"{source_key}@@{item.get('vod_id', '')}"
+
+		remarks = item.get("vod_remarks", "")
+		item["vod_remarks"] = f"{source_name} | {remarks}" if remarks else source_name
+
+		if item.get("vod_play_from"):
+			froms = item["vod_play_from"].split("$$$")
+			item["vod_play_from"] = "$$$".join(f"{source_name}-{x}" for x in froms)
+
+		item.pop("vod_down_from", None)
+		item.pop("vod_down_url", None)
+		return item
 
 	def detailContent(self, ids):
 		"""獲取影片詳情與播放列表"""
