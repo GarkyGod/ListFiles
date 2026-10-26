@@ -211,7 +211,9 @@ class Spider(BaseSpider):
 
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
-		if len(self.category_cache[tid][0]["value"]) <2: self._category(tid)
+		if len(self.category_cache[tid][0]["value"]) <2: 
+			self._category(tid)
+			self.homeContent()
 		result = {"list": []}
 		url = f"{self.api_url}?ac=detail&cid={tid}&pg={pg}"
 		
