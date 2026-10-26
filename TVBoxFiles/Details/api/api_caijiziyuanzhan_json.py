@@ -152,7 +152,7 @@ class Spider(BaseSpider):
 #				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
 #				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
 #			},
-			"isFilter": True
+			"isFilter": True,
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
