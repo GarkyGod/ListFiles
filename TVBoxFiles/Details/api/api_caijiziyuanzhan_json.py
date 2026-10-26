@@ -40,6 +40,7 @@ class Spider(Spider):
 		self.session.mount('https://', adapter)
 		self.session.headers.update({
 			"User-Agent": self.ua,
+			"Accept": "application/json,text/javascript,*/*;q=0.01",
 			"Connection": "keep-alive"
 		})
 		self.class_cache = None
