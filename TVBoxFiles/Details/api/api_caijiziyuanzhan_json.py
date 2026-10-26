@@ -170,7 +170,7 @@ class Spider(Spider):
 					pass
 		self.category_cache = filters
 		result = {
-			"class": classes,
+			"class": self.class_cache,
 #			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
 			"filters": self.category_cache,
 #			"filters": {
