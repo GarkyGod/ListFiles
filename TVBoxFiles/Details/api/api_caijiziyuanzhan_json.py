@@ -30,6 +30,7 @@ class Spider(BaseSpider):
 			"擦边剧", "公告", "头条", "子类12", "子类113"
 		})	   # 需剔除的類別名稱
 		self.default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"	# 默認站點地址
+		self.ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 		self.session = requests.Session()
 		retries = Retry(
 			total=False,		# 全局重試次數 (False關閉,對應數值為重試次數)
@@ -43,7 +44,7 @@ class Spider(BaseSpider):
 		self.session.mount('http://', adapter)
 		self.session.mount('https://', adapter)
 		self.session.headers.update({
-			"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+			"User-Agent": self.ua,
 			"Accept": "application/json,text/javascript,*/*;q=0.01",
 			"Connection": "keep-alive"
 		})
