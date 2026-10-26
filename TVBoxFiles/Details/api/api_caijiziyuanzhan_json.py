@@ -1,5 +1,16 @@
-import threading
+# -*- coding: utf-8 -*-
+# 資源站聚合 Python版
+# 適配常見 Cat/TVBox Python Spider
+# 本地py適配
+
+import json
+import requests
+import os
+import random
 import time
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
+from concurrent.futures import ThreadPoolExecutor, as_completed
 # TVBox Spider 基类兼容
 try:
 	from base.spider import Spider as BaseSpider
@@ -9,126 +20,286 @@ except Exception:
 
 # 爬蟲主體類別
 class Spider(BaseSpider):
-	# ==============================================================================
-	# 1. 全域快取與執行緒安全鎖
-	# ==============================================================================
-	# 提供一組最基本的初始分類，確保 APP 剛打開時首頁絕對不會是一片空白
-	current_classes = [
-		{"type_id": "movie", "type_name": "電影（載入中...）"},
-		{"type_id": "drama", "type_name": "連續劇（載入中...）"}
-	]
-	current_filters = {}
+	def __init__(self):
+		super().__init__()
+		self.sources = {}
+		self.mode = "1"	 # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2-非成人站點(倫理內容不剔除)，3-僅成人站點
+		self.adult_kws = frozenset({"🔞", "AV", "18+"})
+		self.exclude_ClassNames = frozenset({
+			"福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧",
+			"擦边剧", "公告", "头条", "子类12", "子类113"
+		})	   # 需剔除的類別名稱
+		self.default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"	# 默認站點地址
+		self.ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+		self.session = requests.Session()
+		retries = Retry(
+			total=False,		# 全局重試次數 (False關閉,對應數值為重試次數)
+			connect=False,	  # 連線失敗重試次數 (False關閉,對應數值為重試次數)
+			read=False,		 # 讀取逾時重試次數 (False關閉,對應數值為重試次數)
+			status=0,		   # 狀態碼錯誤（如502/503）不重試
+			raise_on_status=False
+		)
+		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
+#		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=1)
+		self.session.mount('http://', adapter)
+		self.session.mount('https://', adapter)
+		self.session.headers.update({
+			"User-Agent": self.ua,
+			"Accept": "application/json,text/javascript,*/*;q=0.01",
+			"Connection": "keep-alive"
+		})
+		self.class_cache = None
+		self.category_cache = {}
 
-	# 快取更新時間戳，避免短時間內重疊觸發遠端請求
-	last_update_time = 0
-	CACHE_EXPIRE_SECONDS = 300  # 5分鐘內不重複請求遠端
+	def getName(self):
+		return "採集聚合"
 
-	# 執行緒鎖，確保讀寫安全
-	data_lock = threading.Lock()
-
-
-	# ==============================================================================
-	# 2. 資料抓取核心邏輯
-	# ==============================================================================
-	def fetch_latest_data_from_remote():
-		"""
-		在這裡編寫你原本去解析網站、抓取最新分類與篩選的邏輯。
-		"""
+	def init(self, extend=""):
+		json_path = self.default_path
+		if extend:
+			if "|" in extend:
+				# 若包含分隔符 '|'，則拆分為配置路徑與模式
+				parts = extend.split("|")
+				json_path = parts[0] if parts[0] else self.default_path
+				self.mode = parts[1] if len(parts) > 1 else "1"
+			elif len(extend) == 1 and extend in ["0", "1", "2", "3"]:
+				# 若長度為 1 且是特定數字，則僅視為模式變更
+				self.mode = extend
+			else:
+				# 其餘情況視為自定義配置路徑 (可能是本地路徑或自定義 URL)
+				json_path = extend
 		try:
-			# 模擬遠端抓取到的最新分類與篩選
-			new_classes = [
-				{"type_id": "movie", "type_name": "電影專區"},
-				{"type_id": "drama", "type_name": "連續劇"},
-				{"type_id": "anime", "type_name": "熱血動漫"} 
-			]
-			new_filters = {
-				"movie": [{"key": "year", "name": "年份", "value": [{"n": "2026", "v": "2026"}]}]
-			}
-			return new_classes, new_filters
-		except Exception as e:
-			print(f"[Fongmi Python] 遠端抓取失敗: {e}")
-			return None, None
+			if json_path.startswith(('http://', 'https://')):
+				# 若以http://或https://開頭則為URL地址
+				data = {}
+				for timeout in [2, 2.5]:  # 微調超時區間
+					try:
+						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
+						if timeout > 2:
+							time.sleep(random.uniform(0.3, 0.8))
+						res = self.session.get(json_path, timeout=timeout, verify=False, headers={"Connection": "close"})
+						if res.status_code == 200:
+							data = res.json()  # 優化：直接使用 requests 的內建 json() 解析方法
+							break
+					except Exception:
+						continue
+				all_sites = data.get("api_sites", [])
+				self.sources = self._filter_sites(all_sites, self.mode)
+			else:
+				# 否則為本地路徑
+				if os.path.exists(json_path):
+					with open(json_path, "r", encoding="utf-8") as f:
+						data = json.load(f)
+						all_sites = data.get("api_sites", [])
+						self.sources = self._filter_sites(all_sites, self.mode)
+		except Exception:
+			pass
 
+	def _filter_sites(self, sites, mode):
+		new_sites = {}
+		for i, s in enumerate(sites):
+			site_key = str(s.get("key", "")).strip()
+			site_api = str(s.get("api", "")).strip()
+			if site_api and site_api.startswith(('http://', 'https://')) and site_key:
+				site_name = str(s.get("name", "")).strip()
+				searchable = str(s.get("searchable", "1")).strip()
+				new_sites[site_key] = {
+					"name": site_name if site_name else f"未改名資源站{i}",
+					"api": site_api,
+					"searchable": "0" if searchable == "0" else "1"
+				}
+		if mode == "0": 
+			return new_sites
+		# 判斷sites名稱是否含成人站點標識
+		def is_adult(name):
+			if not name:
+				return False
+			name_upper = name.upper()
+			if name_upper.startswith("🔞"): 
+				return True
+			return any(k in name_upper for k in self.adult_kws)
+		if mode in ("1", "2"):
+			return {k: v for k, v in new_sites.items() if not is_adult(v.get("name", ""))}
+		elif mode == "3":
+			return {k: v for k, v in new_sites.items() if is_adult(v.get("name", ""))}
+		return new_sites
 
-	def try_refresh_cache(force=False):
-		"""
-		安全地嘗試刷新快取變數。
-		force: 是否無視5分鐘限制強制刷新
-		"""
-		global current_classes, current_filters, last_update_time
-		
-		current_now = time.time()
-		# 檢查是否超過5分鐘，或是否強制刷新
-		if not force and (current_now - last_update_time < CACHE_EXPIRE_SECONDS):
-			return # 時間還沒到，直接跳過
+	def _fetch(self, api_url, params=None):
+		try:
+			api_url = api_url.rstrip("/")
+			sep = "&" if "?" in api_url else "?"
+			qs = "&".join([f'{k}={v}' for k, v in params.items()]) if params else ""
+			full_url = f"{api_url}/{sep}{qs}" if qs else api_url
+			# 超時控制：搜索(2s)，詳情(4s)
+			timeout = 2.0 if params and "wd" in params else 4.0
+			res = self.session.get(full_url, timeout=timeout, verify=False)
+			if res.status_code == 200:
+				try: return res.json()
+				except: return json.loads(res.text.strip().lstrip('﻿'))
+		except Exception:
+			pass
+		return {}
 
-		new_classes, new_filters = fetch_latest_data_from_remote()
-		if new_classes and new_filters:
-			with data_lock:
-				current_classes = new_classes
-				current_filters = new_filters
-				last_update_time = current_now
-				print("[Fongmi Python] Class 與 Filters 變數已成功重新整理！")
-
-
-	def async_refresh_task():
-		""" 用於異步非同步開執行緒跑的任務，完全不卡住 UI 渲染 """
-		try_refresh_cache(force=False)
-
-
-	# ==============================================================================
-	# 3. 背景定時器（雙保險）
-	# ==============================================================================
-	def background_timer_loop():
-		""" 背景死循環：每5分鐘主動醒來刷新一次變數 """
-		while True:
-			time.sleep(300)
-			try_refresh_cache(force=True)
-
-	# 啟動背景守護執行緒
-	threading.Thread(target=background_timer_loop, daemon=True).start()
-
-
-	# ==============================================================================
-	# 4. Fongmi TVBox 標準擴充介面
-	# ==============================================================================
-
-	def homeContent(filter):
-		"""
-		Fongmi 首頁入口：
-		當使用者重啟 APP、更換站點、手動下拉刷新時，Fongmi 會來呼叫這個函式。
-		"""
-		result = {}
-		
-		# 1. 嘗試同步刷新一次（如果剛好過期，且在剛開 APP 時）
-		try_refresh_cache(force=False)
-		
-		# 2. 安全讀取快取值直接回傳給 Fongmi，速度極快
-		with data_lock:
-			result['class'] = current_classes
-			if filter:
-				result['filters'] = current_filters
-				
-		# 首頁推薦影片列表（依照你原本的邏輯填寫）
-		result['list'] = [] 
+	def homeContent(self, filter):
+		"""獲取首頁分類清單與篩選條件"""
+		classes = self._classes()
+		filters = self._category()
+		result = {
+			"class": self.class_cache,
+#			"class": [{"type_id": "1", "type_name": "電影"}, {"type_id": "2", "type_name": "連續劇"}],
+			"filters": self.category_cache,
+#			"filters": {
+#				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
+#				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
+#			},
+			"list": []  # 首頁推薦影片，可留空
+		}
 		return result
 
+	def _classes(self):
+		if self.class_cache:
+			return self.class_cache
+		classes = []
+		for k,v in self.sources.items():
+			classes.append({
+				"type_id": k,
+				"type_name": v["name"]
+			})
+		self.class_cache = classes
+		return self.class_cache
 
-	def categoryContent(tid, pg, filter, extend):
-		"""
-		Fongmi 分類頁入口：
-		使用者點擊各個分類分頁、滑動切換標籤、使用篩選條件時觸發。
-		"""
-		# 【關鍵點】只要使用者有在操作分類頁，就順便丟一個非同步執行緒去後台檢查/刷新變數
-		# 這樣完全不會卡到使用者目前載入分類影片的速度，同時又能維持資料最新
-		threading.Thread(target=async_refresh_task, daemon=True).start()
+	def _category(self, api_key=None):
+		if self.category_cache:
+			if api_key and api_key in self.sources:
+				source = self.sources[api_key]
+				if len(self.category_cache[api_key][0]["value"]) <2:
+					self.category_cache[api_key][0]["value"] = [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]
+			return self.category_cache
+		filters = {}
+		def load_class(key, source):
+			data = self._fetch(source["api"], {"ac": "list"})
+			if data:
+				vals = [{"n": "全部(最新)", "v": ""}]
+				for c in data.get("class", []):
+					t_name = c.get("type_name", "")
+					t_id = c.get("type_id", "")
+					if t_name:
+						vals.append({"n": t_name, "v": t_id})
+			else:
+				vals = [{"n": "暫沒內容(可刷新試試)", "v": "error"}]
+			return key, vals
+		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
+		with ThreadPoolExecutor(max_workers=20) as executor:
+			futures = []
+			for key, source in self.sources.items():
+				futures.append(executor.submit(load_class, key, source))
+			for future in as_completed(futures):
+				try:
+					key, vals = future.result()
+					if self.mode == "1":
+						# 非成人內容模式下 剔除含self.exclude_ClassNames標籤內容
+						vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+					filters[key] = [{
+						"key": "cateId",
+						"name": "分類",
+						"value": vals
+					}]
+				except Exception:
+					pass
+		self.category_cache = filters
+		return self.category_cache
+
+	def categoryContent(self, tid, pg, filter, extend):
+		"""獲取分類頁面的影片列表"""
+		if len(self.category_cache[tid][0]["value"]) <2: self._category(tid)
+		result = {"list": []}
+		url = f"{self.api_url}?ac=detail&cid={tid}&pg={pg}"
 		
-		# ---- 這裡放你原本 categoryContent 要回傳的影片清單邏輯 ----
-		result = {}
-		result['page'] = int(pg)
-		result['pagecount'] = 10
-		result['limit'] = 20
-		result['total'] = 200
-		result['list'] = [] # 塞入該分類下的影片物件
+		html = self.fetch(url)
+		if not html: return result
 		
+		try:
+			# 💡 提示：如果網站有加密，在此處使用 _AESCBC.decrypt 解密 html
+			data = json.loads(html)
+			for item in data.get("list", []):
+				result["list"].append({
+					"vod_id": item.get("id"),
+					"vod_name": item.get("name"),
+					"vod_pic": item.get("pic"),
+					"vod_remarks": item.get("remarks")
+				})
+		except Exception:
+			pass
+			
 		return result
+
+	def detailContent(self, ids):
+		"""獲取影片詳情與播放列表"""
+		if isinstance(ids, list): ids = ids[0]
+		result = {"list": []}
+		url = f"{self.api_url}?ac=detail&id={ids}"
+		
+		html = self.fetch(url)
+		if not html: return result
+		
+		try:
+			data = json.loads(html)
+			item = data.get("data", {})
+			result["list"].append({
+				"vod_id": item.get("id"),
+				"vod_name": item.get("name"),
+				"vod_pic": item.get("pic"),
+				"vod_type": item.get("type"),
+				"vod_year": item.get("year"),
+				"vod_area": item.get("area"),
+				"vod_actor": item.get("actor"),
+				"vod_director": item.get("director"),
+				"vod_content": item.get("content"),
+				# 播放源名稱與播放網址，多集用 # 分隔，多源用 $$$ 分隔
+				"vod_play_from": "優質播放源",
+				"vod_play_url": "第1集$https://video.mp4#第2集$https://video2.mp4"
+			})
+		except Exception:
+			pass
+			
+		return result
+
+	def searchContent(self, key, quick=False, pg=1):
+		"""關鍵字搜尋功能"""
+		result = {"list": []}
+		url = f"{self.api_url}?wd={key}&pg={pg}"
+		
+		html = self.fetch(url)
+		if not html: return result
+		
+		try:
+			data = json.loads(html)
+			for item in data.get("list", []):
+				result["list"].append({
+					"vod_id": item.get("id"),
+					"vod_name": item.get("name"),
+					"vod_pic": item.get("pic"),
+					"vod_remarks": item.get("remarks")
+				})
+		except Exception:
+			pass
+			
+		return result
+
+	def playerContent(self, flag, id, vipFlags):
+		"""解析播放網址並返回給 TVBox 播放器"""
+		return {
+			"parse": 0,		  # 0 代表直接播放，1 代表需要調用解析
+			"playUrl": "",
+			"url": id,		   # 直接返回影片的真實播放網址
+			"header": self.session.headers
+		}
+
+	def localProxy(self, param):
+		"""本地代理接口 (通常用於 M3U8 P2P 解析或文字轉換，非必用)"""
+		return [200, "text/plain", "ok"]
+
+	def destroy(self):
+		"""自訂釋放機制：當 TVBox 卸載爬蟲或程式結束時，手動關閉 Session"""
+		if self.session:
+			self.session.close()
