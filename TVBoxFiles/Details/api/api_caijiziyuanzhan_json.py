@@ -8,7 +8,6 @@ import requests
 import os
 import random
 import time
-import threading
 from requests.adapters import HTTPAdapter
 from urllib3.util import Retry
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -153,7 +152,7 @@ class Spider(BaseSpider):
 #				"1":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]}],
 #				"2":[{"key": "cateId", "name": "分類", "value": [{"n": "全部", "v": ""},{"n": "最新", "v": "new"}]}]
 #			},
-			"isFilter": True,
+			"isFilter": True
 			"list": []  # 首頁推薦影片，可留空
 		}
 		return result
@@ -214,7 +213,6 @@ class Spider(BaseSpider):
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
 		if len(self.category_cache[tid][0]["value"]) <2: self._category(tid)
-		threading.Thread(self._category, daemon=True).start()
 		result = {"list": []}
 		url = f"{self.api_url}?ac=detail&cid={tid}&pg={pg}"
 		
