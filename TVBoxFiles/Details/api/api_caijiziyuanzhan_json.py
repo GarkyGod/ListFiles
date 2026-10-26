@@ -168,7 +168,7 @@ class Spider(BaseSpider):
 		self.class_cache = classes
 		return self.class_cache
 
-	def _category(self):
+	def _category(self, api_key=None):
 		if self.category_cache:
 			return self.category_cache
 		filters = {}
