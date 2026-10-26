@@ -129,7 +129,7 @@ class Spider(BaseSpider):
 			api_url = api_url.rstrip("/")
 			sep = "&" if "?" in api_url else "?"
 			qs = "&".join([f'{k}={v}' for k, v in params.items()]) if params else ""
-			full_url = f"{api_url}/{sep}{qs}" if qs else api_url
+			full_url = f"{api_url}{sep}{qs}" if qs else api_url
 			# 超時控制：搜索(2s)，詳情(4s)
 			timeout = 2.0 if params and "wd" in params else 4.0
 			res = self.session.get(full_url, timeout=timeout, verify=False)
