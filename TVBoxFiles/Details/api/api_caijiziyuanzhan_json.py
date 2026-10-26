@@ -163,6 +163,8 @@ class Spider(Spider):
 		return self.class_cache
 
 	def _category(self):
+		if self.category_cache:
+			return self.category_cache
 		filters = {}
 		def load_class(key, source):
 			data = self._fetch(source["api"], {"ac": "list"})
