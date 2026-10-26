@@ -172,7 +172,7 @@ class Spider(BaseSpider):
 			return self.category_cache
 		filters = {}
 		def load_class(key, source):
-			if source["api"].startswith(('http://', 'https://')):
+			if source.get("api", "").startswith(('http://', 'https://')):
 				data = self._fetch(source["api"], {"ac": "list"})
 				if data:
 					vals = [{"n": "全部(最新)", "v": ""}]
