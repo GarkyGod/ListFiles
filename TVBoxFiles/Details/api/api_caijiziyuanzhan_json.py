@@ -280,7 +280,7 @@ class Spider(BaseSpider):
 				except Exception:
 					pass
 
-		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
+		return {"list": result, "page": pg, "pagecount": max_page, "limit": 40, "total": len(result)}
 
 	def _search_one_site(self, source_key, source, keyword, pg):
 #		if source["searchable"] == 0: return {}
