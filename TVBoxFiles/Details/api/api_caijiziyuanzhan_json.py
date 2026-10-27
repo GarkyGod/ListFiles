@@ -116,8 +116,8 @@ class Spider(BaseSpider):
 			if not name:
 				return False
 			name_upper = name.upper()
-			if name_upper.startswith("🔞"): 
-				return True
+#			if name_upper.startswith("🔞"): 
+#				return True
 			return any(k in name_upper for k in self.adult_kws)
 		if mode in ("1", "2"):
 			return {k: v for k, v in new_sites.items() if not is_adult(v.get("name", ""))}
