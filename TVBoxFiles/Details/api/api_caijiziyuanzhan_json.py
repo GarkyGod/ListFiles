@@ -244,34 +244,23 @@ class Spider(BaseSpider):
 
 	def detailContent(self, ids):
 		"""獲取影片詳情與播放列表"""
+		if not ids: return {"list": []}
 		if isinstance(ids, list): ids = ids[0]
-		result = {"list": []}
-		url = f"{self.api_url}?ac=detail&id={ids}"
+		if "@@" not in ids: return {"list": []}
 		
-		html = self.fetch(url)
-		if not html: return result
+		source_key, vod_id = ids.split("@@", 1)
+		if source_key not in self.sources: return {"list": []}
 		
-		try:
-			data = json.loads(html)
-			item = data.get("data", {})
-			result["list"].append({
-				"vod_id": item.get("id"),
-				"vod_name": item.get("name"),
-				"vod_pic": item.get("pic"),
-				"vod_type": item.get("type"),
-				"vod_year": item.get("year"),
-				"vod_area": item.get("area"),
-				"vod_actor": item.get("actor"),
-				"vod_director": item.get("director"),
-				"vod_content": item.get("content"),
-				# 播放源名稱與播放網址，多集用 # 分隔，多源用 $$$ 分隔
-				"vod_play_from": "優質播放源",
-				"vod_play_url": "第1集$https://video.mp4#第2集$https://video2.mp4"
-			})
-		except Exception:
-			pass
-			
-		return result
+		source = self.sources[source_key]
+		params = {"ac": "detail", "ids": vod_id}
+		
+		data = self._fetch(source["api"], params)
+		result = []
+		for item in data.get("list", []):
+			cleaned_item = self._clean_item(item, source_key, source["name"], True)
+			cleaned_item["vod_id"] = ids
+			result.append(cleaned_item)
+		return {"list": result}
 
 	def searchContent(self, key, quick=False, pg=1):
 		"""關鍵字搜尋功能"""
