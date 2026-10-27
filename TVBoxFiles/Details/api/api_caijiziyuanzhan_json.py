@@ -283,7 +283,7 @@ class Spider(BaseSpider):
 		return {"list": result, "page": pg, "pagecount": max_page, "limit": 40, "total": len(result)}
 
 	def _search_one_site(self, source_key, source, keyword, pg):
-		if source["searchable"] == 0: return {}
+		if source["searchable"] == "0": return {}
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
 		data = self._fetch(source["api"], params)
 		if not isinstance(data, dict): return {}
