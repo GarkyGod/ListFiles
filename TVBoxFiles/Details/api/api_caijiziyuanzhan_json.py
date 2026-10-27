@@ -33,13 +33,16 @@ class Spider(BaseSpider):
 		self.default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"	# 默認站點地址
 		self.ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 		self.session = requests.Session()
-		retries = Retry(
-			total=False,		# 全局重試次數 (False關閉,對應數值為重試次數)
-			connect=False,	  # 連線失敗重試次數 (False關閉,對應數值為重試次數)
-			read=False,		 # 讀取逾時重試次數 (False關閉,對應數值為重試次數)
-			status=0,		   # 狀態碼錯誤（如502/503）不重試
-			raise_on_status=False
-		)
+#		retries = Retry(
+#			total=False,   # 全局重試次數 (False關閉,對應數值為重試次數)
+#			connect=False,   # 連線失敗重試次數 (False關閉,對應數值為重試次數)
+#			read=False,   # 讀取逾時重試次數 (False關閉,對應數值為重試次數)
+#			status=0,   # 狀態碼錯誤（如502/503）不重試
+#			backoff_factor=0.5,   #退避指數系數(公式：backoff_factor * (2 ** (重試次數 - 1))即若設0.5 a.0.5*2^0=0 b.0.5*2^1=1 c.0.5*2^2=2 d.0.5*2^3=4)
+#			status_forcelist=[500, 502, 503, 504],   #強制重試的狀態碼清單
+#			raise_on_status=False   #是否拋出狀態碼異常 預設為True
+#		)
+		retries = Retry(total=1, connect=1, read=1, status=0, backoff_factor=0.3, raise_on_status=False)
 		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
 #		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=1)
 		self.session.mount('http://', adapter)
