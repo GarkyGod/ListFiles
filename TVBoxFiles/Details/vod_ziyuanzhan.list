@@ -93,7 +93,7 @@
 		"name":"🖥️資源站採集【測試+】",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
-		"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json|3",
+		"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json|3",
 //		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
 //		"ext":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json|1",
 		"searchable":1,
