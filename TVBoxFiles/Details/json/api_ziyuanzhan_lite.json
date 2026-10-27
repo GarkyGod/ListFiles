@@ -47,21 +47,6 @@
 		},
 
 		{
-			"key":"key_155",
-			"name":"🔞155(18+)",
-			"api":"https://155api.com/api.php/provide/vod/",
-			"searchable":"1",
-			"exclude_cateId":"",
-			"exclude_cateName":"",
-			"notes":{
-				"homepage":["http://155zy.com/","http://155zy1.com/ …… http://155zy10.com/","",
-					"","","https://t.me/cms155zy"],
-				"api_mores":["https://155api.com/api.php/provide/vod/","https://155api.com/api.php/provide/vod/at/xml",
-					"https://www.155api.com/api.php/provide/vod/",""]
-			}
-		},
-
-		{
 			"key":"key_aosika",
 			"name":"🔞奧斯卡(18+)",
 			"api":"https://aosikazy2.com/api.php/provide/vod/",
