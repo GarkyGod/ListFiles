@@ -66,7 +66,7 @@
 		"name":"🖥️資源站採集【簡】",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_filter.py",
-		"searchable":0,
+		"searchable":1,
 		"changeable":1,
 		"header":{
 			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
