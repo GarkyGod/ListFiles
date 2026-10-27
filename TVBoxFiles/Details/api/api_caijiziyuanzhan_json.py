@@ -268,14 +268,14 @@ class Spider(BaseSpider):
 		result = []
 		max_page = 1
 
-		with ThreadPoolExecutor(max_workers=24) as executor:
+		with ThreadPoolExecutor(max_workers=25) as executor:
 			futures = [executor.submit(self._search_one_site, sk, src, key, pg) for sk, src in self.sources.items()]
 			for f in as_completed(futures):
 				try:
 					data = f.result()
 					if data and data.get("list"):
 						result.extend(data["list"])
-						if data["pagecount"] > max_page:
+						if data.get("pagecount", 1) > max_page:
 							max_page = data["pagecount"]
 				except Exception:
 					pass
@@ -283,10 +283,10 @@ class Spider(BaseSpider):
 		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
 
 	def _search_one_site(self, source_key, source, keyword, pg):
-		if source["searchable"] == 0: return {"list": [], "pagecount": 1}
+		if source["searchable"] == 0: return {}
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
 		data = self._fetch(source["api"], params)
-		if not isinstance(data, dict): return {"list": [], "pagecount": 1}
+		if not isinstance(data, dict): return {}
 		result = [self._clean_item(item, source_key, source["name"], False) for item in data.get("list", [])]
 		try:
 			raw_pagecount = data.get("pagecount", 1)
