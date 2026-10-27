@@ -266,7 +266,7 @@ class Spider(BaseSpider):
 	def searchContent(self, key, quick=False, pg=1):
 		"""關鍵字搜尋功能"""
 		result = []
-        max_page = 1
+		max_page = 1
 		limit = 40
 
 		with ThreadPoolExecutor(max_workers=24) as executor:
