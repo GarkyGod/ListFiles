@@ -267,7 +267,6 @@ class Spider(BaseSpider):
 		"""關鍵字搜尋功能"""
 		result = []
 		max_page = 1
-		limit = 40
 
 		with ThreadPoolExecutor(max_workers=24) as executor:
 			futures = [executor.submit(self._search_one_site, sk, src, key, pg) for sk, src in self.sources.items()]
@@ -281,9 +280,7 @@ class Spider(BaseSpider):
 				except Exception:
 					pass
 
-		total = len(result)
-		max_page = math.ceil(total/limit) if total > 0 else 1
-		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": total}
+		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
 
 	def _search_one_site(self, source_key, source, keyword, pg):
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
