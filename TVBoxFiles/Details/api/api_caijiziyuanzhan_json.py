@@ -282,7 +282,7 @@ class Spider(BaseSpider):
 
 		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
 
-	def def _search_one_site(self, source_key, source, keyword, pg):
+	def _search_one_site(self, source_key, source, keyword, pg):
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
 		data = self._fetch(source["api"], params)
 		result = [self._clean_item(item, source_key, source["name"], False) for item in data.get("list", [])]
