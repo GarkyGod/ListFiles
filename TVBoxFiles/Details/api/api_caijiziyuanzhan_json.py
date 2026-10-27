@@ -290,7 +290,7 @@ class Spider(BaseSpider):
 			"parse": 0,		  # 0 代表直接播放，1 代表需要調用解析
 			"playUrl": "",
 			"url": id,		   # 直接返回影片的真實播放網址
-			"header": self.session.headers
+			"header": {"User-Agent": self.ua}
 		}
 
 	def localProxy(self, param):
