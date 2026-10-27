@@ -26,7 +26,7 @@ class Spider(BaseSpider):
 		self.sources = {}
 		self.mode = "1"	 # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2-非成人站點(倫理內容不剔除)，3-僅成人站點
 		self.adult_kws = frozenset({"🔞", "AV", "18+"})
-		self.exclude_ClassNames = frozenset({
+		self.exclude_cateNames = frozenset({
 			"福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧",
 			"擦边剧", "公告", "头条", "子类12", "子类113"
 		})	   # 需剔除的類別名稱
@@ -44,7 +44,6 @@ class Spider(BaseSpider):
 #		)
 		retries = Retry(total=1, connect=1, read=1, status=0, backoff_factor=0.3, raise_on_status=False)
 		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
-#		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=1)
 		self.session.mount('http://', adapter)
 		self.session.mount('https://', adapter)
 		self.session.headers.update({
@@ -201,8 +200,8 @@ class Spider(BaseSpider):
 				try:
 					key, vals = future.result()
 					if self.mode == "1":
-						# 非成人內容模式下 剔除含self.exclude_ClassNames標籤內容
-						vals = [item for item in vals if item["n"] not in self.exclude_ClassNames]
+						# 非成人內容模式下 剔除含self.exclude_cateNames標籤內容
+						vals = [item for item in vals if item["n"] not in self.exclude_cateNames]
 					filters[key] = [{
 						"key": "cateId",
 						"name": "分類",
