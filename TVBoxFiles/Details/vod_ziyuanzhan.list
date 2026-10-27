@@ -95,7 +95,7 @@
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
 //		"ext":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan.json|3",
 		"api":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_caijiziyuanzhan_json.py",
-		"ext":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json|3",
+		"ext":"https://ghfast.top/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json|0",
 		"searchable":1,
 		"changeable":1,
 		"header":{
