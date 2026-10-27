@@ -264,25 +264,29 @@ class Spider(BaseSpider):
 
 	def searchContent(self, key, quick=False, pg=1):
 		"""關鍵字搜尋功能"""
-		result = {"list": []}
-		url = f"{self.api_url}?wd={key}&pg={pg}"
-		
-		html = self.fetch(url)
-		if not html: return result
-		
-		try:
-			data = json.loads(html)
-			for item in data.get("list", []):
-				result["list"].append({
-					"vod_id": item.get("id"),
-					"vod_name": item.get("name"),
-					"vod_pic": item.get("pic"),
-					"vod_remarks": item.get("remarks")
-				})
-		except Exception:
-			pass
-			
-		return result
+		result = []
+		max_page = 1
+		limit = 40
+
+		with ThreadPoolExecutor(max_workers=24) as executor:
+			futures = [executor.submit(self._search_one_site, sk, src, key, pg) for sk, src in self.sources.items()]
+			for f in as_completed(futures):
+				try:
+					data = f.result()
+					if data and data.get("list"):
+						result.extend(data["list"])
+						if data["pagecount"] > max_page:
+							max_page = data["pagecount"]
+				except Exception:
+					pass
+
+		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
+
+	def def _search_one_site(self, source_key, source, keyword, pg):
+		params = {"ac": "detail", "wd":keyword, "pg":pg}
+		data = self._fetch(source["api"], params)
+		result = [self._clean_item(item, source_key, source["name"], False) for item in data.get("list", [])]
+		return {"list": result, "pagecount": int(data.get("pagecount", 1))}
 
 	def playerContent(self, flag, id, vipFlags):
 		"""解析播放網址並返回給 TVBox 播放器"""
