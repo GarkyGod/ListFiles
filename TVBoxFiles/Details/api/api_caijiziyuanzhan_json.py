@@ -162,10 +162,10 @@ class Spider(BaseSpider):
 		if self.class_cache:
 			return self.class_cache
 		classes = []
-		for k,v in self.sources.items():
+		for sk, src in self.sources.items():
 			classes.append({
-				"type_id": k,
-				"type_name": v["name"]
+				"type_id": sk,
+				"type_name": src["name"]
 			})
 		self.class_cache = classes
 		return self.class_cache
@@ -193,8 +193,8 @@ class Spider(BaseSpider):
 		# 這裡 max_workers 優化維持在 20，兼顧資源站高併發與輕量設備穩定性
 		with ThreadPoolExecutor(max_workers=20) as executor:
 			futures = []
-			for key, source in self.sources.items():
-				futures.append(executor.submit(load_class, key, source))
+			for sk, src in self.sources.items():
+				futures.append(executor.submit(load_class, sk, src))
 			for future in as_completed(futures):
 				try:
 					key, vals = future.result()
