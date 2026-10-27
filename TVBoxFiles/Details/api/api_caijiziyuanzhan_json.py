@@ -285,8 +285,14 @@ class Spider(BaseSpider):
 	def _search_one_site(self, source_key, source, keyword, pg):
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
 		data = self._fetch(source["api"], params)
+		if not isinstance(data, dict): return {"list": [], "pagecount": 1}
 		result = [self._clean_item(item, source_key, source["name"], False) for item in data.get("list", [])]
-		return {"list": result, "pagecount": int(data.get("pagecount", 1))}
+		try:
+			raw_pagecount = data.get("pagecount", 1)
+			pagecount = int(float(raw_pagecount)) if isinstance(raw_pagecount, (str, float, int)) else 1
+		except:
+			pagecount = 1
+		return {"list": result, "pagecount": pagecount}
 
 	def playerContent(self, flag, id, vipFlags):
 		"""解析播放網址並返回給 TVBox 播放器"""
