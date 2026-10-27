@@ -6,6 +6,7 @@
 import json
 import requests
 import os
+import math
 import random
 import time
 from requests.adapters import HTTPAdapter
@@ -265,7 +266,7 @@ class Spider(BaseSpider):
 	def searchContent(self, key, quick=False, pg=1):
 		"""關鍵字搜尋功能"""
 		result = []
-		max_page = 1
+        max_page = 1
 		limit = 40
 
 		with ThreadPoolExecutor(max_workers=24) as executor:
@@ -280,7 +281,9 @@ class Spider(BaseSpider):
 				except Exception:
 					pass
 
-		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": len(result)}
+		total = len(result)
+		max_page = math.ceil(total/limit) if total > 0 else 1
+		return {"list": result, "page": pg, "pagecount": max_page, "limit": limit, "total": total}
 
 	def _search_one_site(self, source_key, source, keyword, pg):
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
