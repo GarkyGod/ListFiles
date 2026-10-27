@@ -286,7 +286,7 @@ class Spider(BaseSpider):
 #		if source["searchable"] == 0: return {}
 		params = {"ac": "detail", "wd":keyword, "pg":pg}
 		data = self._fetch(source["api"], params)
-		if not isinstance(data, dict): return {}
+#		if not isinstance(data, dict): return {}
 		result = [self._clean_item(item, source_key, source["name"], False) for item in data.get("list", [])]
 		try:
 			raw_pagecount = data.get("pagecount", 1)
