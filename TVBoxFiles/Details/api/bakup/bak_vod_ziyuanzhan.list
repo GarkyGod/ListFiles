@@ -310,9 +310,8 @@
 
 	"doh":[
 		{"name":"-★-系統-★-","url":"","ips":[]},
-		{"name":"Cloudflare-proxy","url":"https://dns-cf.garkygod.dpdns.org","ips":[]},
-		{"name":"Google-proxy","url":"https://dns-google.garkygod.dpdns.org","ips":[]},
-		{"name":"Test","url":"https://pt-cny.cn.xnoa.top/dns-query","ips":[]},
+		{"name":"⁉Test","url":"https://pt-cny.cn.xnoa.top/dns-query","ips":[]},
+		{"name":"----------分隔線----------","url":"#~#","ips":["",""]},
 		{"name":"★☆360 Safe DNS","url":"https://doh.360.cn/dns-query","ips":["101.226.4.6","123.125.81.6","140.207.198.6","218.30.118.6"]},
 		{"name":"★☆ALi DNS","url":"https://dns.alidns.com/dns-query","ips":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"]},
 		{"name":"ALi DNS (IP版1)","url":"https://223.5.5.5/dns-query","ips":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"]},
@@ -325,7 +324,7 @@
 //		{"name":"¤TWNIC DNS Quad 101","url":"https://dns.twnic.tw/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤TWNIC DNS Quad 101 (IP版)","url":"https://101.101.101.101/dns-query","ips":["101.101.101.101","101.102.103.104","2001:de4::101","2001:de4::102"]},
 //		{"name":"¤HiNet 中华电信 DNS","url":"https://dns.hinet.net/dns-query","ips":["168.95.1.1","168.95.192.1","2001:b000:168::1","2001:b000:168::2"]},
-		{"name":"----------分隔線----------","url":"#1#","ips":["",""]},
+		{"name":"----------分隔線----------","url":"#~~#","ips":["",""]},
 //		{"name":"¤0ms DNS","url":"https://0ms.dev/dns-query","ips":["172.67.153.195","104.21.88.221"]},
 //		{"name":"¤AdGuard Default DNS","url":"https://dns.adguard-dns.com/dns-query","ips":["94.140.14.14","94.140.15.15","2a10:50c0::ad1:ff","2a10:50c0::ad2:ff"]},
 //		{"name":"¤AdGuard Unfiltered DNS","url":"https://unfiltered.adguard-dns.com/dns-query","ips":["94.140.14.140","94.140.14.141","2a10:50c0::1:ff","2a10:50c0::2:ff"]},
@@ -372,7 +371,7 @@
 		{"name":"v.recipes Google Accelerator DNS","url":"https://v.recipes/dns/dns.google/dns-query","ips":[]},
 //		{"name":"¤Wikimedia DNS","url":"https://wikimedia-dns.org/dns-query","ips":["185.71.138.138"]},
 //		{"name":"¤Yandex DNS|bak","url":["https://common.dot.dns.yandex.net/dns-query","https://77.88.8.8/dns-query","https://secondary.dns.yandex.ru/dns-query"],"ips":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]},
-		{"name":"----------End----------","url":"#2#","ips":["",""]}
+		{"name":"----------End----------","url":"#-#","ips":["",""]}
 	],
 
 
