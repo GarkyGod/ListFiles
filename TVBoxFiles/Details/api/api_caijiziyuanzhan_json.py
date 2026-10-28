@@ -42,6 +42,7 @@ class Spider(BaseSpider):
 #			status_forcelist=[500, 502, 503, 504],   #強制重試的狀態碼清單
 #			raise_on_status=False   #是否拋出狀態碼異常 預設為True
 #		)
+		# session自動重試1次 狀態碼錯誤不重試 間隔系數0.3秒
 		retries = Retry(total=1, connect=1, read=1, status=0, backoff_factor=0.3, raise_on_status=False)
 		adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30, max_retries=retries)
 		self.session.mount('http://', adapter)
@@ -75,17 +76,20 @@ class Spider(BaseSpider):
 			if json_path.startswith(('http://', 'https://')):
 				# 若以http://或https://開頭則為URL地址
 				data = {}
-				for timeout in [2, 2.5]:  # 微調超時區間
-					try:
-						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
-						if timeout > 2:
-							time.sleep(random.uniform(0.3, 0.8))
-						res = self.session.get(json_path, timeout=timeout, verify=False, headers={"Connection": "close"})
-						if res.status_code == 200:
-							data = res.json()  # 優化：直接使用 requests 的內建 json() 解析方法
-							break
-					except Exception:
-						continue
+#				for timeout in [2, 2.5]:  # 微調超時區間
+#					try:
+#						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
+#						if timeout > 2:
+#							time.sleep(random.uniform(0.3, 0.8))
+#						res = self.session.get(json_path, timeout=timeout, verify=False, headers={"Connection": "close"})
+#						if res.status_code == 200:
+#							data = res.json()  # 優化：直接使用 requests 的內建 json() 解析方法
+#							break
+#					except Exception:
+#						continue
+				res = self.session.get(json_path, timeout=2, verify=False, headers={"Connection": "close"})
+				if res.status_code == 200:
+					data = res.json()
 				all_sites = data.get("api_sites", [])
 				self.sources = self._filter_sites(all_sites, self.mode)
 			else:
