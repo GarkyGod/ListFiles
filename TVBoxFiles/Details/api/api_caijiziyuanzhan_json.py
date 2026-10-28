@@ -25,12 +25,12 @@ class Spider(BaseSpider):
 		super().__init__()
 		self.sources = {}
 		self.mode = "1"	 # 篩選模式：0-全部站點，1-非成人內容(非成人站點的倫理內容也剔除)，2-非成人站點(倫理內容不剔除)，3-僅成人站點
-		self.adult_kws = frozenset({"🔞", "AV", "18+"})
+		self.adult_kws = frozenset({"🔞", "AV", "18+"})   # 成人站點名稱標識 用於mode配置區分成人與非成人站點
 		self.exclude_cateNames = frozenset({
 			"福利", "伦理", "伦理片", "倫理片", "理论片", "里番动漫", "港台三级", "韩国伦理", "西方伦理", "日本伦理", "两性课堂", "写真热舞", "擦边短剧",
 			"擦边剧", "公告", "头条", "子类12", "子类113"
-		})	   # 需剔除的類別名稱
-		self.default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"	# 默認站點地址
+		})   # 需剔除的類別名稱
+		self.default_path = "https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/json/api_ziyuanzhan_lite.json"   # 默認站點地址
 		self.ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
 		self.session = requests.Session()
 #		retries = Retry(
@@ -84,7 +84,7 @@ class Spider(BaseSpider):
 #							time.sleep(random.uniform(0.3, 0.8))
 #						res = self.session.get(json_path, timeout=timeout, verify=False, headers={"Connection": "close"})
 #						if res.status_code == 200:
-#							data = res.json()  # 優化：直接使用 requests 的內建 json() 解析方法
+#							data = res.json()   # 優化：直接使用 requests 的內建 json() 解析方法
 #							break
 #					except Exception:
 #						continue
@@ -299,9 +299,9 @@ class Spider(BaseSpider):
 	def playerContent(self, flag, id, vipFlags):
 		"""解析播放網址並返回給 TVBox 播放器"""
 		return {
-			"parse": 0,		  # 0 代表直接播放，1 代表需要調用解析
+			"parse": 0,   # 0 代表直接播放，1 代表需要調用解析
 			"playUrl": "",
-			"url": id,		   # 直接返回影片的真實播放網址
+			"url": id,   # 直接返回影片的真實播放網址
 			"header": {"User-Agent": self.ua}
 		}
 
