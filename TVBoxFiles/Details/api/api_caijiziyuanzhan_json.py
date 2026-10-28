@@ -76,6 +76,7 @@ class Spider(BaseSpider):
 			if json_path.startswith(('http://', 'https://')):
 				# 若以http://或https://開頭則為URL地址
 				data = {}
+				# 獲取數據手動重試
 #				for timeout in [2, 2.5]:  # 微調超時區間
 #					try:
 #						# 只在非第一輪嘗試時才 sleep 避讓，第一輪時直接發起請求，提高速度
@@ -87,9 +88,11 @@ class Spider(BaseSpider):
 #							break
 #					except Exception:
 #						continue
+				# session配置了自動重試 獲取數據就不手動重試了
 				res = self.session.get(json_path, timeout=2, verify=False, headers={"Connection": "close"})
 				if res.status_code == 200:
 					data = res.json()
+
 				all_sites = data.get("api_sites", [])
 				self.sources = self._filter_sites(all_sites, self.mode)
 			else:
@@ -175,13 +178,7 @@ class Spider(BaseSpider):
 		self.class_cache = classes
 		return self.class_cache
 
-	def _category(self, api_key=None):
-		if self.category_cache:
-			if api_key and api_key in self.sources:
-				source = self.sources[api_key]
-				if len(self.category_cache[api_key][0]["value"]) <2:
-					self.category_cache[api_key][0]["value"] = [{"n": "全部", "v": ""},{"n": "熱度", "v": "recommend"}]
-			return self.category_cache
+	def _category(self):
 		filters = {}
 		def load_class(key, source):
 			data = self._fetch(source["api"], {"ac": "list"})
@@ -219,7 +216,6 @@ class Spider(BaseSpider):
 	def categoryContent(self, tid, pg, filter, extend):
 		"""獲取分類頁面的影片列表"""
 		if tid not in self.sources: return {"list": []}
-		if len(self.category_cache[tid][0]["value"]) <2: self._category(tid)
 		source = self.sources[tid]
 		cate_id = extend.get("cateId", "") if isinstance(extend, dict) else ""
 		params = {"ac": "detail", "t": cate_id, "pg": pg} if cate_id else {"ac": "detail", "pg": pg}
