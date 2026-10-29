@@ -229,7 +229,7 @@
 		{
 			"key":"key_jisu",
 			"name":"🎬極速",
-			"api":"https://jszyapi.com/api.php/provide/vod/",
+			"api":"https://jisuzy.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_cateId":"",
 			"exclude_cateName":"",
@@ -237,7 +237,7 @@
 				"homepage":["https://jisuzy.com/","https://jisuzy.tv/","http://www.jisuziyuan.com/",
 					"http://www.jszy666.com/","http://www.jszy333.com/","https://t.me/jisuziyuanzhan"],
 				"api_mores":["https://jszyapi.com/api.php/provide/vod/","https://jszyapi.com/api.php/provide/vod/at/xml",
-					"",""]
+					"https://jisuzy.com/api.php/provide/vod/","https://jisuziyuan.com/api.php/provide/vod/"]
 			}
 		},
 
@@ -576,7 +576,7 @@
 			"key":"key_yinghua",
 			"name":"🎬櫻花",
 			"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
-			"searchable":"1",
+			"searchable":"0",
 			"exclude_cateId":"",
 			"exclude_cateName":"",
 			"notes":{
