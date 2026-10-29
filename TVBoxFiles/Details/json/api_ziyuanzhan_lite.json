@@ -6,8 +6,7 @@
 			"name":"🎬360",
 			"api":"https://360zyzz.com/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"1,2,3,4",
-			"exclude_cateName":"伦理片",
+			"exclude_cateName":"",
 			"notes":{
 				"homepage":["https://360zy.com/","https://360zy.net/","https://360zy.vip/","https://360zy.top/",
 					"https://360zy.tv/","https://360zy1.com/ …… https://360zy10.com/","https://t.me/sllzyz"],
@@ -21,8 +20,7 @@
 			"name":"🎬百度",
 			"api":"https://api.apibdzy.com/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"1,2,3,4",
-			"exclude_cateName":"伦理,港台三级,韩国伦理,西方伦理,日本伦理,两性课堂,写真热舞",
+			"exclude_cateName":"",
 			"notes":{
 				"homepage":["https://bdzy.com/","https://api.apibdzy.com/","https://bdzy1.com/ …… https://bdzy8.com/",
 					"","","https://t.me/bdzycom"],
@@ -36,7 +34,6 @@
 			"name":"🎬暴風",
 			"api":"https://bfzyapi.com/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["http://bfzy.tv/","http://bfzy1.tv/ …… http://bfzy10.tv/","",
@@ -51,7 +48,6 @@
 			"name":"🔞155(18+)",
 			"api":"https://155api.com/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["http://155zy.com/","http://155zy1.com/ …… http://155zy10.com/","",
@@ -66,7 +62,6 @@
 			"name":"🔞奧斯卡(18+)",
 			"api":"https://aosikazy2.com/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["https://aosikazy.com/ |Proxy","https://aosikazy1.com/ …… https://aosikazy10.com/ |2.3","",
@@ -81,7 +76,6 @@
 			"name":"🔞CK(18+)",
 			"api":"https://ckzy.me/api.php/provide/vod/",
 			"searchable":"1",
-			"exclude_cateId":"",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["https://ckzy.me/","https://ckzy1.com/","https://lunli8.tv/",
