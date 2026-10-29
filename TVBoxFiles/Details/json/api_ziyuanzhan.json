@@ -257,7 +257,7 @@
 			"key":"key_liangzi",
 			"name":"🎬量子",
 			"api":"https://cj.lziapi.com/api.php/provide/vod/",
-			"searchable":"1",
+			"searchable":"0",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["http://lzzy.tv/","https://lzizy1.com/ …… https://lzizy8.com/","",
