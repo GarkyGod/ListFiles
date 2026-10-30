@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-10-30 00:10:04
+!Last Modified: 2026-10-31 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -108,6 +108,7 @@ tumblrviewer
 ||angela-merkel.de
 ||angola.org
 ||anthropic.com
+||anthropic.auth0.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
@@ -129,6 +130,9 @@ tumblrviewer
 ||ciciai.com
 ||cici.com
 ||claude.ai
+||claude.app
+||claudeusercontent.com
+||claudemcpcontent.com
 ||clearsurance.com
 ||cnbeta.com.tw
 ||counter.social
@@ -1670,6 +1674,7 @@ iipdigital.usembassy.gov
 ||brookings.edu
 ||brutaltgp.com
 ||bsky.app
+||bsky.chat
 ||bsky.network
 ||bsky.social
 ||bt95.com
