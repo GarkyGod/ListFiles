@@ -209,11 +209,10 @@
 		"key":"key_Test2",  //
 		"name":"❔️測試2",
 		"type":3,  // "type":0,
-		"jar":"https://gh-proxy.org/https://github.com/qist/tvbox/raw/master/jar/spider.jar",
-		"api":"csp_XBPQ",
+		"api":"https://gh-proxy.org/https://github.com/zyp0426/fongmi-py/raw/main/真果鉴.py",
 		"searchable":1,
 		"changeable":1,
-		"ext":"https://gh-proxy.org/https://github.com/wliqi495-create/jaychou123/raw/main/视频集合.json"
+		"ext":""
 		},
 
 //////////////////////////////////////////////////  🎲本地&網盤  //////////////////////////////////////////////////
