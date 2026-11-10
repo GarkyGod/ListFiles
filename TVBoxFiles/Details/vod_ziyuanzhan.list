@@ -205,73 +205,26 @@
 			}
 		},
 
-  {
-    "key":"key_57",
-    "name": "📺57短剧",
-    "api": "https://57duanju.org",
-    "type": 2,
-    "searchable": true,
-    "removeReferer": false,
-    "header": {
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
-      "Referer": "https://57duanju.org/",
-      "Accept-Language": "zh-CN,zh;q=0.9"
-    },
-    "categories": [
-      {
-        "name": "成人AI短剧",
-        "url": "/aichengduanju/{{page}}/",
-        "url2": "/aichengduanju/"
-      },
-      {
-        "name": "热门短剧",
-        "url": "/hot-dramas/{{page}}/",
-        "url2": "/hot-dramas/"
-      },
-      {
-        "name": "连载中",
-        "url": "/ongoing/{{page}}/",
-        "url2": "/ongoing/"
-      },
-      {
-        "name": "人气",
-        "url": "/popular/{{page}}/",
-        "url2": "/popular/"
-      },
-      {
-        "name": "排行",
-        "url": "/top/{{page}}/",
-        "url2": "/top/"
-      }
-    ],
-    "list": {
-      "list": "a[href*='/events/']",
-      "name": "img@alt||@title||text",
-      "tips": "",
-      "coverUrl": "img@src||img@data-src",
-      "detailUrl": "href"
-    },
-    "search": {
-      "url": "/search/?q={{key}}",
-      "list": "a[href*='/events/']",
-      "name": "img@alt||@title||text",
-      "coverUrl": "img@src||img@data-src",
-      "detailUrl": "href"
-    },
-    "detail": {
-      "meta": "title@text||h1@text"
-    },
-    "play": {
-      "list": "video",
-      "name": "播放",
-      "url": "data-hls-src||data-fallback-src||src||data-hls"
-    },
-    "toc": {
-      "list": "video",
-      "name": "播放",
-      "url": "data-hls-src||data-fallback-src||src||data-hls"
-    }
-  },
+		{
+		"key":"key_Test2",  //
+		"name":"❔️測試2",
+		"type":3,  // "type":0,
+//		"api":"https://www.mdzyapi.com/api.php/provide/vod",  // "api":"https://api.zuidapi.com/api.php/provide/vod/at/xml",
+//		"api":"https://jsnz.pages.dev/f/e7124867.py",
+//		"api":"https://gh-proxy.org/https://github.com/zhhshss/tv-python-sources/raw/main/hongguo.py",
+//		"api":"https://gh-proxy.org/https://github.com/zyp0426/fongmi-py/raw/main/真果鉴.py",
+//		"api":"https://gh-proxy.org/https://github.com/geuclide97/zjys9-py/raw/main/红果.py",
+//		"api":"https://gh-proxy.org/https://github.com/qist/tvbox/raw/master/py/红果短剧.py",
+//		"api":"https://gh-proxy.org/https://github.com/qist/tvbox/raw/master/xiaosa/py/红果短剧.py",
+		"api":"https://gh-proxy.org/https://github.com/wliqi495-create/jaychou123/raw/main/视频集合.json",
+		"searchable":1,
+		"changeable":1,
+//		"categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","纪录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说","爽文短剧","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","写真热舞","4K电影","有声动漫","女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","邵氏电影","Netflix电影","Netflix自制剧","擦边短剧","科普学习"],
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
+		},
 
 //////////////////////////////////////////////////  🎲本地&網盤  //////////////////////////////////////////////////
 		{
