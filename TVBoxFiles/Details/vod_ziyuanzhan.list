@@ -205,6 +205,73 @@
 			}
 		},
 
+  {
+    "name": "📺57短剧",
+    "api": "https://57duanju.org",
+    "type": 2,
+    "searchable": true,
+    "removeReferer": false,
+    "header": {
+      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",
+      "Referer": "https://57duanju.org/",
+      "Accept-Language": "zh-CN,zh;q=0.9"
+    },
+    "categories": [
+      {
+        "name": "成人AI短剧",
+        "url": "/aichengduanju/{{page}}/",
+        "url2": "/aichengduanju/"
+      },
+      {
+        "name": "热门短剧",
+        "url": "/hot-dramas/{{page}}/",
+        "url2": "/hot-dramas/"
+      },
+      {
+        "name": "连载中",
+        "url": "/ongoing/{{page}}/",
+        "url2": "/ongoing/"
+      },
+      {
+        "name": "人气",
+        "url": "/popular/{{page}}/",
+        "url2": "/popular/"
+      },
+      {
+        "name": "排行",
+        "url": "/top/{{page}}/",
+        "url2": "/top/"
+      }
+    ],
+    "list": {
+      "list": "a[href*='/events/']",
+      "name": "img@alt||@title||text",
+      "tips": "",
+      "coverUrl": "img@src||img@data-src",
+      "detailUrl": "href"
+    },
+    "search": {
+      "url": "/search/?q={{key}}",
+      "list": "a[href*='/events/']",
+      "name": "img@alt||@title||text",
+      "coverUrl": "img@src||img@data-src",
+      "detailUrl": "href"
+    },
+    "detail": {
+      "meta": "title@text||h1@text"
+    },
+    "play": {
+      "list": "video",
+      "name": "播放",
+      "url": "data-hls-src||data-fallback-src||src||data-hls"
+    },
+    "toc": {
+      "list": "video",
+      "name": "播放",
+      "url": "data-hls-src||data-fallback-src||src||data-hls"
+    }
+  },
+
 //////////////////////////////////////////////////  🎲本地&網盤  //////////////////////////////////////////////////
 		{
 			"key":"key_csp_Local",
