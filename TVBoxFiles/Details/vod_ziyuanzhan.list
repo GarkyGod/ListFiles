@@ -205,15 +205,6 @@
 			}
 		},
 
-		{
-		"key":"key_Test2",  //
-		"name":"❔️測試2",
-		"type":3,  // "type":0,
-		"api":"https://gh-proxy.org/https://github.com/zyp0426/fongmi-py/raw/main/真果鉴.py",
-		"searchable":1,
-		"changeable":1,
-		"ext":""
-		},
 
 //////////////////////////////////////////////////  🎲本地&網盤  //////////////////////////////////////////////////
 		{
