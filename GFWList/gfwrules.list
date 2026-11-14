@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-11-14 00:10:04
+!Last Modified: 2026-11-15 00:10:03
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -5135,6 +5135,7 @@ iipdigital.usembassy.gov
 ||appledaily.com.hk
 ||appshopper.com
 ||appspot-preview.com
+||appteka.store
 ||army.mil
 ||art4tibet1998.org
 ||articles.sk
