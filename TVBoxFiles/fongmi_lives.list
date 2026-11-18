@@ -541,6 +541,8 @@
 //				"name":"TXT",
 //				"url":"https://github.com/live.txt",
 //				"epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
+//				"epg":"https://epg.cdn.loc.cc/?ch={name}&date={date}",
+//				"logo":"https://logo.wyfc.qzz.io/{name}.png"},
 //				"epg":"https://api.erw.cc/?ch={channel}&date={date}",
 //				"logo":"https://pic.erw.cc/epglogo/cctv/CCTV1.png",
 //				"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",  // 提供國內節目表
