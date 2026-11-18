@@ -147,7 +147,8 @@
 		"key":"key_hongguo2",  // https://hongguoduanju.com
 		"name":"🎞️紅果短劇『備』",
 		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_红果短剧.py",
+//		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_红果短剧.py",
+		"api":"https://fastly.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/api/api_红果短剧.py",
 		"searchable":1,
 		"changeable":0,
 		"header":{
