@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-11-20 00:10:04
+!Last Modified: 2026-11-21 00:10:03
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -1703,6 +1703,9 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cnyes.com
+||cmoney.tw
+||cmmedia.com.tw
 ||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
@@ -1948,6 +1951,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||duck.ai
 ||dh.net
 ||divdyn.com
 ||data18.com
@@ -2072,6 +2076,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||e-info.org.tw
 ||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
@@ -2309,6 +2314,8 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||greenbean.media
+||gamma.app
 ||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
@@ -2333,7 +2340,6 @@ iipdigital.usembassy.gov
 ||gabocorp.com
 ||gagaoolala.com
 ||galenwu.com
-||game735.com
 |http://wiki.gamerp.jp
 ||gamer.com.tw
 ||gamez.com.tw
@@ -2448,6 +2454,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkfeature.com
+||hkcourtnews.com
+||hkcitycreation.com
 ||hentaiclub.net
 ||hanimeone.me
 ||hanime1.com
@@ -2814,6 +2823,8 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||limedia.tw
+||lifesitenews.com
 ||linux.sb
 ||level-plus.net
 ||libgen.is
@@ -2904,6 +2915,9 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||my-formosa.com.tw
+||moneynet.com.tw
+||master-insight.com
 ||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
@@ -3076,6 +3090,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nextapple.com
 ||njavtv.com
 ||njav.tv
 ||njav.com
@@ -3263,6 +3278,8 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||pulsehknews.com
+||passiontimes.hk
 ||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
@@ -3572,6 +3589,9 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||singpao.com.hk
+||shanghainationalparty.com
+||soulogic.com
 ||sing-box.sagernet.org
 ||supjav.com
 ||api.shuaiapi.com
@@ -3815,6 +3835,12 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||thewitnesshk.com
+||thestar.com
+||thestandard.com.hk
+||theonlinecitizen.com
+||thecollectivehk.com
+||taiwantoday.tw
 ||api.themoviedb.org
 ||torrentleech.org
 ||taiav.com
@@ -4267,6 +4293,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||womany.net
 ||wallhaven.cc
 ||wtfpass.com
 ||write.as
@@ -5377,7 +5404,6 @@ iipdigital.usembassy.gov
 ||cltv.com.tw
 ||clubhouse.com
 ||cmoinc.org
-||cmoney.tw
 ||cn-proxy.com
 ||cn6.eu
 ||cnbc.com
@@ -5386,7 +5412,6 @@ iipdigital.usembassy.gov
 ||cnineu.com
 ||cnproxy.com
 ||cnt.com.tw
-||cnyes.com
 ||coinegg.com
 ||coinw.com
 ||comic-mega.me
@@ -5500,7 +5525,6 @@ iipdigital.usembassy.gov
 ||dzmm.ai
 ||dzze.com
 ||e-hentaidb.com
-||e-info.org.tw
 ||e-zone.com.hk
 ||earlytibet.com
 ||earthcam.com
@@ -6263,7 +6287,6 @@ iipdigital.usembassy.gov
 ||newtaiwan.com.tw
 ||newyorktimes.com
 ||next11.co.jp
-||nextapple.com
 ||nextapple.tw
 ||nextcli.com
 ||nextmag.com.tw
@@ -6375,7 +6398,6 @@ iipdigital.usembassy.gov
 ||paradisepoker.com
 ||partycasino.com
 ||partypoker.com
-||passiontimes.hk
 ||pastebin.com
 ||pbwiki.com
 ||pcdvd.com.tw
@@ -6466,7 +6488,6 @@ iipdigital.usembassy.gov
 ||puffin.com
 ||puffstore.com
 ||pullfolio.com
-||pulsehknews.com
 ||punjab.gov.in
 ||punjab.gov.pk
 ||punyu.com
@@ -6604,7 +6625,6 @@ iipdigital.usembassy.gov
 ||silkbook.com
 ||singfortibet.com
 ||singlelogin.me
-||singpao.com.hk
 ||singtao.ca
 ||sinocism.com
 ||sinomontreal.ca
@@ -6720,7 +6740,6 @@ iipdigital.usembassy.gov
 ||taiwannation.com.tw
 ||taiwanplus.com
 ||taiwanstay.net.tw
-||taiwantoday.tw
 ||taiwantp.net
 ||taiwanus.net
 ||talk853.com
@@ -6764,11 +6783,8 @@ iipdigital.usembassy.gov
 ||thehousenews.com
 ||thelallantop.com
 ||thepiratebay.ee
-||thestandard.com.hk
-||thestar.com
 ||thetibetcenter.org
 ||thetibetmuseum.org
-||thewitnesshk.com
 ||theync.com
 ||thinkhk.com
 ||thlib.org
