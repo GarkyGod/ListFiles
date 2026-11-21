@@ -1,5 +1,5 @@
 !
-!Last Modified: 2026-11-21 00:10:03
+!Last Modified: 2026-11-22 00:10:04
 !
 !------------------------- illustrate -------------------------
 !-- Adblock Plus (ABP) 過濾規則語法 --
@@ -4485,6 +4485,7 @@ iipdigital.usembassy.gov
 ||xxxx.com.au
 |http://xxxymovies.com
 !--------------------YY-------------------------
+||mc.yandex.ru
 ||youversionapi.com
 ||yfsp.tv
 ||youmind.com
@@ -7103,7 +7104,6 @@ iipdigital.usembassy.gov
 ||yahoo.net
 ||yahooinc.com
 ||yahoosandbox.com
-||mc.yandex.ru
 ||yanghengjun.com
 ||yangjianli.com
 ||yayabay.com
