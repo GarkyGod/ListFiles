@@ -158,10 +158,36 @@
 		},
 
 		{
+		"key":"key_kishuto",
+		"name":"🎞️影探聚合",
+		"type":3,
+		"api":"https://gh-proxy.org/https://github.com/tao200672/pyonline/raw/main/Py-Online/Kishuto.py",
+		"searchable":0,
+		"changeable":1,
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
+		},
+
+		{
 		"key":"key_kugou",
 		"name":"🎶Music|酷狗音樂",
 		"type":3,
 		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_kugou.py",
+		"searchable":0,
+		"changeable":1,
+		"header":{
+			"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+			"User-Agent":"Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
+			}
+		},
+
+		{
+		"key":"key_xifan",
+		"name":"🎞️稀飯動漫",
+		"type":3,
+		"api":"https://gh-proxy.org/https://github.com/tao200672/pyonline/raw/main/Py-Online/xifan.py",
 		"searchable":0,
 		"changeable":1,
 		"header":{
