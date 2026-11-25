@@ -32,7 +32,7 @@
 		{
 			"key":"key_baofeng",
 			"name":"🎬暴風",
-			"api":"https://bfzy1.tv/api.php/provide/vod/",
+			"api":"https://bfzy5.tv/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_cateName":"",
 			"notes":{
