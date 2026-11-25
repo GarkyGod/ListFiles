@@ -143,6 +143,20 @@
 		},
 
 		{
+			"key":"key_hgtv",
+			"name":"🎬HG影視",
+			"api":"https://hong.hgyx.vip/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["https://hong.hgyx.vip/","","",
+					"","",""],
+				"api_mores":["https://hong.hgyx.vip/api.php/provide/vod/","https://hong.hgyx.vip/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_huya",
 			"name":"🎬虎牙",
 			"api":"https://www.huyaapi.com/api.php/provide/vod/",
