@@ -87,7 +87,7 @@
 
 		{
 			"key":"key_douban",
-			"name":"🎬豆瓣",
+			"name":"🎬豆瓣|❌",
 			"api":"https://caiji.dbzy5.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_cateName":"",
