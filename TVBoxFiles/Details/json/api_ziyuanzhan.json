@@ -138,7 +138,7 @@
 				"homepage":["http://www.haohuazy.com/","https://www.haohuaziyuan.com/","",
 					"","","https://t.me/huohuziyuan"],
 				"api_mores":["https://hhzyapi.com/api.php/provide/vod/","https://hhzyapi.com/api.php/provide/vod/at/xml",
-					"",""]
+					"https://www.haohuazy.com/api.php/provide/vod/",""]
 			}
 		},
 
