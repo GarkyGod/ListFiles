@@ -255,6 +255,20 @@
 		},
 
 		{
+			"key":"key_jumao",
+			"name":"🎬橘貓",
+			"api":"https://www.zitv.cc/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["","","",
+					"","",""],
+				"api_mores":["https://www.zitv.cc/api.php/provide/vod/","https://www.zitv.cc/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_kuaiche",
 			"name":"🎬快車",
 			"api":"https://caiji.kuaichezy.org/api.php/provide/vod/",
