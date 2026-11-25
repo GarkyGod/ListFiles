@@ -16,6 +16,20 @@
 		},
 
 		{
+			"key":"key_aidan",
+			"name":"🎬艾旦",
+			"api":"https://lovedan.net/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["https://lovedan.net/","https://ddmf.net/","",
+					"","",""],
+				"api_mores":["https://lovedan.net/api.php/provide/vod/","https://ddmf.net/api.php/provide/vod/",
+					"https://www.ddmf.net/api.php/provide/vod/",""]
+			}
+		},
+
+		{
 			"key":"key_baidu",
 			"name":"🎬百度",
 			"api":"https://api.apibdzy.com/api.php/provide/vod/",
