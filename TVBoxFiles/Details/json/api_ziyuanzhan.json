@@ -110,7 +110,7 @@
 					"","","https://t.me/ffzy_tv"],
 				"api_mores":["http://api.ffzyapi.com/api.php/provide/vod/","https://cj.ffzyapi.com/api.php/provide/vod/",
 					"https://www.ffzy.tv/api.php/provide/vod/","https://ffzy3.tv/api.php/provide/vod/",
-					"https://ffzy4.tv/api.php/provide/vod/","https://api.ffzyapi.com/api.php/provide/vod/at/xml"]
+					"https://ffzy5.tv/api.php/provide/vod/","https://api.ffzyapi.com/api.php/provide/vod/at/xml"]
 			}
 		},
 
@@ -271,14 +271,15 @@
 		{
 			"key":"key_liangzi",
 			"name":"🎬量子",
-			"api":"https://cj.lziapi.com/api.php/provide/vod/",
+			"api":"https://lzzyapi.com/api.php/provide/vod/",
 			"searchable":"0",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["http://lzzy.tv/","https://lzizy1.com/ …… https://lzizy8.com/","",
 					"","https://t.me/lzzytv","https://t.me/lzzy1tv"],
-				"api_mores":["https://cj.lziapi.com/api.php/provide/vod/","https://cj.lziapi.com/api.php/provide/vod/at/xml",
-					"",""]
+				"api_mores":["https://lzzyapi.com/api.php/provide/vod/","https://lzzyapi.com/api.php/provide/vod/at/xml",
+					"https://cj.lziapi.com/api.php/provide/vod/","http://www.lzzy.tv/api.php/provide/vod/",
+					"https://lzizy.net/api.php/provide/vod/","https://lzizy2.com/api.php/provide/vod/"]
 			}
 		},
 
