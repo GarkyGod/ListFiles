@@ -508,6 +508,20 @@
 		},
 
 		{
+			"key":"key_wencai",
+			"name":"🎬文才",
+			"api":"https://api.zeqaht.com/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["https://zeqaht.com/","","",
+					"","",""],
+				"api_mores":["https://api.zeqaht.com/api.php/provide/vod/","https://api.zeqaht.com/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_wujin",
 			"name":"🎬無盡",
 			"api":"https://api.wujinapi.cc/api.php/provide/vod/",
