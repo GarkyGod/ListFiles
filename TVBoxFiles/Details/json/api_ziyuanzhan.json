@@ -108,8 +108,9 @@
 			"notes":{
 				"homepage":["http://www.ffzy.tv/","http://ffzy1.tv/ …… http://ffzy5.tv/","",
 					"","","https://t.me/ffzy_tv"],
-				"api_mores":["http://api.ffzyapi.com/api.php/provide/vod/","https://api.ffzyapi.com/api.php/provide/vod/at/xml",
-					"https://cj.ffzyapi.com/api.php/provide/vod/","https://cj.ffzyapi.com/api.php/provide/vod/at/xml"]
+				"api_mores":["http://api.ffzyapi.com/api.php/provide/vod/","https://cj.ffzyapi.com/api.php/provide/vod/",
+					"https://www.ffzy.tv/api.php/provide/vod/","https://ffzy3.tv/api.php/provide/vod/",
+					"https://ffzy4.tv/api.php/provide/vod/","https://api.ffzyapi.com/api.php/provide/vod/at/xml"]
 			}
 		},
 
