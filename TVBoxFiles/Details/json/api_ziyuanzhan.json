@@ -22,10 +22,10 @@
 			"searchable":"1",
 			"exclude_cateName":"",
 			"notes":{
-				"homepage":["https://lovedan.net/","https://ddmf.net/","",
-					"","",""],
-				"api_mores":["https://lovedan.net/api.php/provide/vod/","https://ddmf.net/api.php/provide/vod/",
-					"https://www.ddmf.net/api.php/provide/vod/",""]
+				"homepage":["https://lovedan.net/","https://www.lovedan.net/","https://ddmf.net/",
+					"https://www.ddmf.net/","",""],
+				"api_mores":["https://lovedan.net/api.php/provide/vod/","https://www.lovedan.net/api.php/provide/vod/",
+					"https://ddmf.net/api.php/provide/vod/","https://www.ddmf.net/api.php/provide/vod/"]
 			}
 		},
 
