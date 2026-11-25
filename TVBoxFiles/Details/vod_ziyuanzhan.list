@@ -175,8 +175,8 @@
 		"key":"key_kugou",
 		"name":"🎶Music|酷狗音樂",
 		"type":3,
-		"api":"https://gh-proxy.org/https://github.com/geuclide97/zjys9-py/raw/main/点歌台.py",
-//		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_kugou.py",
+//		"api":"https://gh-proxy.org/https://github.com/geuclide97/zjys9-py/raw/main/点歌台.py",
+		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_kugou.py",
 		"searchable":0,
 		"changeable":1,
 		"header":{
