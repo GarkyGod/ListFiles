@@ -571,10 +571,11 @@
 			"searchable":"1",
 			"exclude_cateName":"",
 			"notes":{
-				"homepage":["https://yayazy.com/","https://yayazy.net/","https://yayazy.ne/",
-					"https://yayazy.org/","https://yayazy.me/","https://t.me/yayazy11"],
+				"homepage":["https://yayazy.com/","https://yayazy.net/","https://yayazy.ne/","https://yayazy.org/",
+					"https://yayazy.me/","https://yayazy1.com/ …… https://yayazy10.com/","https://t.me/yayazy11"],
 				"api_mores":["https://cj.yayazy.net/api.php/provide/vod/","https://cj.yayazy.net/api.php/provide/vod/at/xml",
-					"https://cj2.yayazy.net/api.php/provide/vod/","https://cj2.yayazy.net/api.php/provide/vod/at/xml"]
+					"https://cj2.yayazy.net/api.php/provide/vod/","https://yayazy1.com/api.php/provide/vod/",
+					"https://yayazy10.com/api.php/provide/vod/",""]
 			}
 		},
 
