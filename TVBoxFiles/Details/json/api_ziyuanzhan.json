@@ -553,14 +553,14 @@
 		{
 			"key":"key_yinghua",
 			"name":"🎬櫻花",
-			"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/",
+			"api":"https://api.apiyhzy.com/api.php/provide/vod/",
 			"searchable":"0",
 			"exclude_cateName":"",
 			"notes":{
 				"homepage":["https://yhzy.cc/","https://help.apiyhzy.com/","",
 					"","","https://t.me/yinghuazy"],
-				"api_mores":["https://m3u8.apiyhzy.com/api.php/provide/vod/","https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
-					"",""]
+				"api_mores":["https://api.apiyhzy.com/api.php/provide/vod/","https://api.apiyhzy.com/api.php/provide/vod/at/xml",
+					"https://m3u8.apiyhzy.com/api.php/provide/vod/",""]
 			}
 		},
 
