@@ -972,6 +972,20 @@
 		},
 
 		{
+			"key":"key_taohua",
+			"name":"🔞桃花(18+)🪜",
+			"api":"https://thzy1.me/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["https://thzy1.me/","","",
+					"","","https://t.me/thzy12"],
+				"api_mores":["https://thzy1.me/api.php/provide/vod/","https://thzy1.me/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_xiaoji",
 			"name":"🔞小雞(18+)",
 			"api":"https://api.xjzyapi.xyz/provide/vod",
