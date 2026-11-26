@@ -102,7 +102,7 @@
 		{
 			"key":"key_feifan",
 			"name":"🎬非凡",
-			"api":"http://api.ffzyapi.com/api.php/provide/vod/",
+			"api":"https://api.ffzyapi.com/api.php/provide/vod/",
 			"searchable":"1",
 			"exclude_cateName":"",
 			"notes":{
