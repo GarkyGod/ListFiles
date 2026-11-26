@@ -902,6 +902,20 @@
 		},
 
 		{
+			"key":"key_madouchuanmei",
+			"name":"🔞麻豆傳媒(18+)",
+			"api":"http://www.madouse.la/api.php/provide/vod/",
+			"searchable":"1",
+			"exclude_cateName":"",
+			"notes":{
+				"homepage":["http://www.madouse.la/","","","",
+					"",""],
+				"api_mores":["http://www.madouse.la/api.php/provide/vod/","http://www.madouse.la/api.php/provide/vod/at/xml",
+					"",""]
+			}
+		},
+
+		{
 			"key":"key_madoushipin",
 			"name":"🔞麻豆視頻(18+)",
 			"api":"https://9191md.me/api.php/provide/vod/",
