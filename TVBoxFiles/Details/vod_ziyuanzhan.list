@@ -149,8 +149,8 @@
 		"name":"🎞️紅果短劇『備』",
 		"type":3,
 //		"api":"https://gh-proxy.org/https://github.com/GarkyGod/ListFiles/raw/main/TVBoxFiles/Details/api/api_红果短剧.py",
-		"api":"https://gh-proxy.org/https://github.com/ZHOUYU86/tvbox-sources/blob/main/zhenxin/webhome/Python/短剧/[短]红果短剧(弹幕+显季版).py",
-//		"api":"https://fastly.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/api/api_红果短剧.py",
+//		"api":"https://gh-proxy.org/https://github.com/ZHOUYU86/tvbox-sources/blob/main/zhenxin/webhome/Python/短剧/[短]红果短剧(弹幕+显季版).py",
+		"api":"https://fastly.jsdelivr.net/gh/GarkyGod/ListFiles@main/TVBoxFiles/Details/api/api_红果短剧.py",
 		"searchable":1,
 		"changeable":0,
 		"header":{
